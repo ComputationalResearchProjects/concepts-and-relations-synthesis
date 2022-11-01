@@ -1,0 +1,1255 @@
+Computers in Human Behavior 29 (2013) 1465-1474
+
+ 
+
+Contents lists available at SciVerse ScienceDirect Sareea
+
+i] HUMAN BEHAVIOR
+
+    
+
+Computers in Human Behavior
+
+ 
+
+ELSEVIER
+
+journal homepage: www.elsevier.com/locate/comphumbeh
+
+ 
+
+Mediated disclosure on Twitter: The roles of gender and identity in
+boundary impermeability, valence, disclosure, and stage
+
+® CrossMark
+
+S. Courtney Walton, Ronald E. Rice*
+
+Department of Communication, 4005 SS & MS, University of California, Santa Barbara, CA 93106-4020, United States
+
+ 
+
+ARTICLE INFO ABSTRACT
+
+ 
+
+ 
+
+Article history:
+Available online 5 March 2013
+
+Social media such as microblogs (Twitter™) allow more people to disclose more personal and private
+information more frequently to more others than ever before. But what is the nature of, and what factors
+influence, those disclosures? Applying concepts from research and theory on self-disclosure research and
+microblogging, this study analyses 3751 tweets, with nearly half including disclosures, over a three-day
+period. At the user level, user-controlled boundary impermeability varied by user gender, feed identity
+(parenting, social media professional), and their interaction. At the tweet level, tweet valence, presence
+of disclosure, and front- or back-stage disclosure were variously influenced by user gender, Twitter feed
+identity, interactions between them, and boundary impermeability. Social construction of gender roles
+and social identities, as well as individual tendencies, and possibly communication contexts, are reflected
+
+ 
+
+Keywords:
+
+Self-disclosure
+
+Mediated disclosure
+
+Communication privacy management
+Twitter
+
+Front/back-stage
+
+Followers/followed
+
+in the valence, presence, and stage of disclosures in microblog content.
+
+ 
+
+© 2013 Elsevier Ltd. All rights reserved.
+
+ 
+
+1. Introduction
+
+Social media, such as Facebook and Twitter™, blur the lines between the public and private self, dynamically changing the landscape of communication and what we know about others and, in
+turn, what others are able to know about us. Yet we do not know
+much about this mediated disclosure. The Internet age offers multiple forms of presenting multiple selves, creating new opportunities for social scientists to study identity and influence, impression
+management, social support, and other communicative behaviors.
+Thus the goal of this study is to apply prior research on self-disclosure and microblogging to analyze the nature of and influences on
+disclosures on the popular microblog Twitter.com by its adult
+users.
+
+In order to provide a conceptual and research background to
+this study, the following sections highlight salient aspects of selfdisclosure (nature, privacy and boundary management, online
+and social media, gender, and social identity), leading to a set of
+hypotheses about how these are related to Twitter disclosures.
+The review section is longer than typical, because we want to provide a good integration of related research and concepts in this
+new area of mediated disclosure for both our own and others’ research. The subsequent sections describe the methods and results,
+and discuss the limitations and implications.
+
+* Corresponding author. Tel.: +1 805 893 8696.
+E-mail addresses: scourtneywalton@gmail.com (S. Courtney Walton), rrice@comm.ucsb.edu (R.E. Rice).
+
+0747-5632/$ - see front matter © 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.chb.2013.01.033
+
+2. Self-disclosure
+2.1. The nature of self-disclosure
+
+Self-disclosure, or the act of making new or secret information
+about yourself known to others, has been a focus of social science
+study since the 1960s. When Jourard (1971) introduced the concept of self-disclosure, he loosely defined it as “the act of making
+yourself manifest, showing yourself so others can perceive you”
+(p. 19). In 1973, Cozby conceptualized self-disclosure as personal
+information verbally communicated to another person, including
+descriptive information (e.g., one’s political party) and evaluative
+information (e.g., how one feels about the election) that would
+not otherwise be easily known or discovered. By this standard,
+all communication includes some level of self-disclosure, be it between strangers or intimate friends. However, multiple definitions,
+approaches, and operationalizations of self-disclosure exist (Altman & Taylor, 1973; Archer, 1980; Derlega & Berg, 1987; Wheeless
+& Grotz, 1976). Self-disclosure is typically a gradual, reciprocal exchange process in which one person’s disclosure often prompts an
+equal or even greater disclosure from the other person. Benefits include social control, validation, increased liking and intimacy, and
+relational maintenance. However, it also makes hidden things
+known, adding uncertainty to the relationship as “it involves the
+risk of confiding in others, the responsibility of deeper awareness,
+and the danger that one’s confidences may be breached” (Corcoran
+& Spencer, 2000, p. 1; see also Baxter, 1988, on self-disclosure and
+interpersonal relationship dialectics).1466 S. Walton, R.E. Rice/Computers in Human Behavior 29 (2013) 1465-1474
+
+In The Presentation of Self in Everyday Life (1959), Erving Goffman used the dramaturgical terms frontstage and backstage to reflect the manner in which people adjust their personae and thus
+their disclosures to the situation at hand. We reveal our public
+selves frontstage before an audience and reserve our private selves
+for backstage with confidantes. In the workplace, the majority of
+communication is frontstage, and the information we choose to
+disclose is what is socially comfortable and likely to produce the
+desired outcome of agency, credibility, and influence within that
+context. Backstage behavior - or more personally-orientated, private disclosure — is usually reserved for intimate interactions outside of the office, such as the home or a social event, where goals of
+impression management and relational development may be quite
+different than in the workplace.
+
+2.2. Self-disclosure, privacy and boundary management
+
+Communication privacy management (CPM) theory was developed to explain the process by which individuals choose to share
+or disclose private information about themselves with others (Petronio, 2002). CPM has been applied to a variety of interpersonal
+contexts (family communication, small group communication)
+and issues (the process of disclosing private information about
+medical mistakes, HIV/AIDS status, childhood abuse). More recently, CPM has been used by scholars interested in computermediated communication; for example, as a framework for understanding the disclosure of financial information at eCommerce
+sites (Metzger, 2007).
+
+Disclosure is both private and collective, with potential positive
+and negative consequences for self and others. Once disclosed,
+information becomes collectively owned and thus subject to multiple sources of coordination and control. Typically people adjust the
+amount and content of self-disclosure according to whether they
+are in a frontstage (public self) or backstage (private self) context
+— that is, they attempt to manage the permeability of their privacy
+boundaries. The term “boundary” is used in CPM as a metaphor
+for the management of the balance between public and private
+information.
+
+2.3. Self-disclosure online
+
+A general question raised in researching online disclosures is
+the extent to which they differ from face-to-face disclosures. Rice
+and Love, (1987) reviewed theory and research at the time that
+proposed that due to the lack of richness or social cues of the medium, computer-mediated communication (CMC) disclosures were
+somewhat limited when compared to face-to-face communication
+(e.g., see Kiesler, Siegel, & McGuire, 1984). Their analysis of transcripts from a computerized bulletin board for medical professionals revealed, however, that users primarily shared non-personal
+information, but a considerable amount of socio-emotional content, such as statements showing solidarity, appeared in the postings. More recently, the majority of a sample of MySpace
+comments also had substantial (about two-thirds) positive emotion (and women gave and received more of them), while a third
+had negative emotion (Thelwall, Wilkinson, & Uppal, 2010). Similar
+evidence of CMC fostering socio-emotional as well as innovative
+communication was also found in other studies (Rice, 1987). For
+example, CMC increased self-disclosure by patients reporting intimate details of their sexual history, the number of sexual partners
+and STD symptoms (Robinson & West, 1992). Joinson (2001) observed how strangers involved in task-based discussions via CMC
+made more personal disclosures than dyads in the face-to-face
+condition. Further, over-time, blog authors have “increasingly presented themselves by their first name and decreasingly by other
+means” (e.g., nicknames or pseudonyms) (Herring, Scheidt, Kouper,
+
+& Wright, 2006, p. 12). This represents the apparent comfort people have developed with sharing personal information on the
+web where anyone can see it, and the diverse ways of doing this.
+Papacharissi (2013) reviews how the “self’ has become more fluid
+or processual, especially through online social media, which constitute “sites of self presentation and identity negotiation” (p. 207).
+
+2.4. Self-disclosure and social media
+
+Social media such as Internet forums, social networking sites
+and blogs provide pervasive and continuous opportunities for disclosure, through message content, personal profiles, and shared
+networks. The percentage of adult Internet users with personal
+profiles on social networking sites has increased from 8% in 2005
+to 65% in 2011 (Pew Internet and American Life, 2011). Nearly
+90% describe their desire for friendship (connecting with friends,
+making plans with friends, making new friends) as their primary
+motivation. Many have multiple profiles, to help them maintain
+different boundaries between their personal and professional lives.
+
+Microblogging, or posting short status updates via social media
+sites such as Twitter.com (which allows only 140 characters or
+fewer per post), is quickly becoming a popular venue for online,
+and near-continuous, sharing and often disclosure. As of May
+2011, 13% (males slightly more than females) of online adults used
+Twitter (Pew Internet & American Life Project, 2011). Twitter has
+become popular with an older, more educated audience, with
+62% of its members over the age of 35 years (Quantcast Corp,
+2009).
+
+Sharing is one of the fundamental tenets of social media, so in
+the culture of the Twitterverse, it is expected that messages will
+be shared and rebroadcast. Boyd (2009) emphasized that while
+many Twitter postings (tweets) may be banal, the purpose is
+broadly social. Twitter users share varying degrees of private information about their current status. In turn, their followers or other
+network members may respond to the messages either through the
+public feed or with a private, direct message. On Twitter, users become the center of a unique social network, one in which reciprocity is invited but not required, and followers of a particular tweeter
+may range from none to millions.
+
+Microblogging’s asynchronous, one-to-many broadcasting has
+developed many of the same characteristics of successful online
+forums and message boards, resulting in an environment which
+values self-disclosure over privacy. Twitter.com provides each
+member with their own homepage, and the code to add tweets
+to a website or blog outside of the Twitter domain. Popular applications have been developed for Facebook and LinkedIn as well,
+and with the ability to post and receive updates from a mobile
+phone, Twitter provides continuous awareness of one’s network
+(O’Reilly & Milstein, 2012; see also (Rice & Hagen, 2010) for a review of this concept, such as perpetual contact, connected presence, continual co-presence, continuous partial attention, etc.).
+Also, users can update their status on-the-go through mobile
+phones, and perhaps this may make them more inclined to share
+information more often.
+
+Microblogging is a relatively new phenomenon and there are
+few hard and fast rules for using the platform. Even in its short
+existence Twitter has gone from a toy for social media geeks to
+an important tool for mainstream media, politicians, corporations,
+and NGOs, and a central means of keeping in touch with friends
+and family (O’Reilly & Milstein, 2012). This is illustrated by the
+changes in the Twitter home page prompt from “What’s happening” to “What are you doing?” to “Find out what’s happening, right
+now, with the people and organizations you care about”. Thus,
+gaps may occur between what is technically a public space and
+how individuals define their personal blogs and social media networking sites as private (Child, Pearson, & Petronio, 2009). PetronioS. Walton, R.E. Rice/Computers in Human Behavior 29 (2013) 1465-1474 1467
+
+(2002, Chapter 5) argues that asynchronous communication may
+disrupt the coordination of privacy management, leading to miscommunication at the time, or later conflict. However, microbloggers with some experience post tweets with a fairly clear
+understanding of the public, collective nature of their messages.
+Most Twitter users well understand the asynchronous aspect of
+tweet communication (although the Twitterverse can diffuse hot
+topics nearly instantaneously around the world; Kwak, Lee, Park,
+& Moon, 2010), and may reduce turbulence through threads, retweets, links and other contextualizing factors, though many experience difficulties when first using Twitter or new feeds.
+
+CPM uses the term “private disclosure” instead of “self-disclosure” to draw a distinction from Jourard’s concept, and focuses
+on the private information disclosed. Thus the content of the
+tweets sent by microbloggers on Twitter can be considered potential private disclosures. Users have the option to protect or remove
+their messages from the public feed by changing the settings to
+private, but most users keep their accounts on the default public
+setting, while many explicitly include their Twitter hashtag on
+public “follow” lists. Papacharissi (2013, p. 209) suggests that the
+varying ways to control, or expose, various aspects of the self
+through social media allow more user control over the gap between the frontstage and backstage, fostering different types of
+discussions and impressions. Online disclosures may be employed
+as tools in crossing boundaries to achieve frontstage impression
+management (Dominick, 1999; Ellison, Heino, & Gibbs, 2006; Krdamer & Winter, 2008; Nardi, Schiano, Gumbrecht, & Swartz, 2004).
+Social media encourage a higher amount of self-disclosure, and
+thus more permeable boundaries, than what may be required or
+socially acceptable in a face-to-face interaction.
+
+Through Twitter, users manage the boundaries of the people
+and disclosures they want to be exposed to, by following or unfollowing particular other microbloggers. Users with more impermeable boundaries may manage their privacy by being less likely to
+post tweets that are negative, disclosive, or backstage in nature.
+Twitter users may construct less permeable boundaries around
+their messages by selecting the privacy option, limiting who may
+follow or view their messages, following more people than are following them, and removing their messages from the public feed.
+They may in turn expose themselves to others’ disclosures by
+choosing to follow more tweeters. Users who keep the default,
+public setting have in effect constructed permeable boundaries
+around their social media self-disclosures. Selecting which feeds
+to contribute to is also a form of controlling and owning boundary
+management and related disclosures. Twitter users who broadcast
+messages in one or more public feeds are making their followers,
+and the larger public, co-owners of their disclosure, as readers
+are able to “favorite” or save the messages of those in their
+network.
+
+Adults using Twitter as a networking tool for professional
+development, microblogging with their true name and linking to
+a clearly identifiable blog or website, run the risk of disclosing personal, backstage information to a wide range of unknown others
+who may access, interpret, share, and respond to that content, in
+ways that may undermine their efforts to cast themselves in a professional manner. The reader may, on the other hand, be aware of
+only a small portion of the user’s online publicized self, depending
+on choice of medium and access to the user’s different social media
+networks (Papacharissi, 2013).
+
+Likewise, adults using Twitter to facilitate backstage interactions with online peers, such as parent bloggers, or those who
+microblog incognito, also run the risk of revealing information
+which may threaten their cloak of anonymity or stimulate judgment from others sharing the same social identity. In studying intimacy on online dating sites, a disclosure topic of a backstage
+nature, Baker (2005) presented the concept of hyperhonesty (or
+
+the large amount of accurate self-disclosure in CMC - a subset of
+Walther’s, 1996 concept of hyperpersonal communication), as her
+research revealed that many romantic partners felt it easier to
+share deeply held personal beliefs online. A study of the online dating site Match.com found that people used more self-disclosure
+and were more honest in their self-disclosure when the other’s
+identity was known, and that greater amounts, positivity, and
+intentionality of self-disclosure lead to greater dating success
+(Gibb, Ellison, & Heino, 2006).
+
+2.5. Self-disclosure, gender, and social media
+
+Derlega et al. (1981) believed that one’s gender plays a role in
+the content of disclosure, due somewhat to gender stereotypes.
+They argued that women favor backstage disclosures and the sharing of personal evaluative information about themselves, while
+men tend to make more frontstage disclosures which facilitate positive impression management. According to Petronio (2002, p. 24),
+“men and women appear to have distinct sets of rules for judging
+how revealing and concealing should be regulated. . .. This is not to
+say that they are precluded from coordinating those rule sets:
+however, men and women may initially come to an interaction
+with different visions of how privacy and disclosure work.” Early
+studies of self-disclosure and gender (Cline, 1986; Cozby, 1973;
+Rosenfeld, Civikly, & Herron, 1979) reported conflicting findings,
+as some studies found men disclosed more than women, others observed women disclosing more than men, and still others concluded that men and women disclosed equally. In looking at
+online romantic relationships, Baker (2005) found that CMC enabled men to feel more comfortable making intimate disclosures
+to their romantic partners than in face-to-face communication,
+while women’s disclosures to romantic partners remained relatively the same. Dindia and Allen (1992, p. 117) concluded that
+there are minor gender differences in amount of self-disclosure,
+primarily moderated by the gender of the target and by the nature
+of the relationship or interaction. For example, when women had a
+relationship with the target, be it romantic or platonic, they disclosed more than men. Although Nosko, Wood, and Molema
+(2010) found that age and relationship statuses play a role in determining who will disclose, and how much will be disclosed, on
+Facebook, gender was not a significant influence.
+
+Thelwall et al. (2010) also noted that some blog research found
+no gender differences, or even opposing results, but their own
+analysis of MySpace emotional content (2010) concluded that, in
+general (with variations by context and some cultures), women report stronger emotions, and state them more explicitly, exhibiting
+more prosocial behavior (Hoffman, 2008), but also more vulnerability-related negative emotions (Brody & Hall, 2008). Particularly
+relevant is research showing that women are more likely to share
+their emotions in public spaces (Rime, Mesquita, Philippot, & Boca,
+1991). A study of two sets of blogs indicated that the primary subject authored by men is something other than themselves, while
+women use themselves and their own lives as their subject (e.g.,
+are more self-disclosing; (Herring et al., 2006). (Stern’s 2002) ethnographic content analysis of young women’s (ages 14-17 years
+old) websites revealed very intimate, backstage disclosures about
+their lives, including narratives of loneliness, depression, and disappointment, as well as future dreams and hopes. Several feminist
+scholars see the Internet as uniquely tailored to feminine social
+interests and communication styles (Plant, 1998; Spender, 1995;
+Turkle, 1995).
+
+2.6. Disclosure differences by online social identity
+
+Many microbloggers write or blog around particular themes.
+We consider two social identities (Twitter feeds) that are likely1468 S. Walton, R.E. Rice/Computers in Human Behavior 29 (2013) 1465-1474
+
+to differ in influences on disclosure: social media professionals and
+parents. This variation is particularly important because this study
+does not analyze a random sample of tweets or Twitter users, but
+tests a set of hypotheses based on prior research applied to this
+new context. One recommended approach for reducing the limitations of a small number of cases is selecting cases to “represent the
+full range of values characterizing X, Y, or some particular X/Y relationship” (Seawright & Gerring, 2008, p. 300). King, Keohane, and
+Verba (1994, p. 92) recommend avoiding selecting cases on the
+dependent variable and truncation of the dependent variable,
+while including variation of the “key causal explanatory variable.”
+Further, selecting a few such cases is appropriate to provide a more
+detailed view or a framework for large-sample, more generalizable
+research (Fearon & Laitin, 2008).
+
+In general, those who microblog about technology tend to be early
+adopters and proficient users of communication technology such as
+Twitter. In addition tekhnologia, or the systematic study of technology as defined by the early Greeks, is commonly thought of as impersonal due to its primary focus of applying technology knowledge for
+practical purposes. A subset of technology specialists, social media
+professionals are well aware that information shared online is widely
+and publicly available. They would also be more likely to understand
+that while a tweet may be sent to a specific user or to their network
+of followers in general, the tweet can be viewed by anyone with access to the Internet now or in the future. Thus it seems reasonable
+that the social media microblogger who writes about their profession would both be comfortable in using Twitter yet may not disclose as much as other users about some aspects of their career,
+family, relationships, or self. For example, sharing the trials and tribulations of job hunting might be considered backstage disclosure to
+be protected from exposure to strangers.
+
+Parent bloggers are a rapidly growing segment drawing particular interest both from other parents interested in learning and
+sharing their experiences, and from marketers interested in promoting their products through online word of mouth. In 2009, parents made up 43% of Twitter users (Quantcast, 2009). Men and
+women microblog about their roles as parents and share details
+of their family life that in most cases would be considered private,
+backstage information not typically shared with strangers. Unlike
+professionals, who must worry about their career goals and their
+professional self-presentation, family bloggers are freer from constraints of how they must appear. Fathers, in the context of their
+home life where they are focused on child rearing, may have more
+freedom to share backstage disclosures illustrating the personal,
+emotional nature of familial relationships than they might in the
+context of a work, especially technological, environment.
+
+3. Hypotheses
+
+Based on prior research on unmediated and mediated disclosure (especially gender, social identity, boundary permeability,
+and extent and stage of disclosure), we propose:
+
+H1 (User boundary impermeability). H1a. Males will have greater
+boundary impermeability than females. H1b. Social media professionals will have greater boundary impermeability than parents.
+H1c. Male social media professionals will have the highest boundary impermeability.
+
+H2 (Tweet valence). H2a. Tweets by females will have more positive valence than those by males. H2b. Tweets by social media professionals will have more positive valence than parents’. H2c.
+Backstage tweets will have more negative valence than frontstage
+ones. H2d. Boundary impermeability will be negatively associated
+with valence.
+
+H3 (Tweet disclosure). H3a. Females will disclose more than males.
+H3b. Parent microbloggers will disclose more than social media
+professionals. H3c. Boundary impermeability will be negatively
+associated with extent of disclosures.
+
+H4 (Stage of tweet disclosure). H4a. Female microbloggers will
+make more backstage disclosures than males. H4b. Parent microbloggers will make more backstage disclosures than social media
+professionals. H4c. Female parent microbloggers will make more
+backstage disclosures than male social media professionals. H4d.
+Boundary impermeability will be negatively associated with more
+backstage disclosure.
+
+4. Methods
+4.1. Sample
+
+We sought approximately equal numbers of Twitter users who
+were male or female, and who had identified themselves as either
+social media professional or Mom/Dad microblogger. The subjects
+for the study were identified via WeFollow, the top-ranked usergenerated directory of Twitter users, industries and topics. Individual and corporate Twitter users register at www.wefollow.com, or
+send tweets to @wefollow, with up to three categories for which
+they would like to register — that is, associating themselves with
+a public identity, and making their tweets explicitly public. WeFollow represents occupations from nearly every field imaginable,
+with over one million registered users. It lists registrants’ frequency of postings, the number of others who follow their tweets,
+and the number of others whom the microblogger is following.
+Seeking comparable samples across the four categories of gender
+by identity, we used WeFollow to identify the 75 most frequent
+posters from the “Dad” feed (997 registrants), 75 most frequent
+from the “Mom” feed (5791), and the 75 most frequent males
+and 75 most frequent females from the “Social media” (technology
+professionals) (23019) feed. We explicitly chose the most frequent
+bloggers within the two main categories as they are the most likely
+to be comfortable with using Twitter, to understand the implications of social media disclosure, to have the most followers and
+thus have their disclosures maximally exposed, and to allow analyses that distinguish between user and tweet influences. Note that
+registrants explicitly chose to identify themselves by their feeds;
+they may also identify with other feeds, but user names were unique across these two feeds.
+
+Running an online computer script on the Twitter Application
+Programming Interface, we captured 6705 tweets from the specified microbloggers over the first three days in March, 2010. This
+period was selected because Twitter traffic increases dramatically
+during the later part of the month when South by Southwest
+(SXSW), an international interactive media conference, takes place.
+Assuming that 5000 tweets would be a substantial sample for
+hand-coding, a two-thirds random subsample was drawn from this
+original set, providing 4470 tweets to be analyzed. Several hundred
+tweets were removed due to unknown errors in the script, duplicates, or incomplete or uninterpretable content, leaving 3751
+tweets. Also, because the 300 listed most frequent microbloggers
+do not send equal numbers of tweets overall, much less by day,
+these remaining tweets represent 187 unique microbloggers, not
+evenly distributed across the four (gender by identity) categories.
+
+4.2. Measures
+
+Gender: Male or female microblogger is based on the name and
+common sense cues in the user’s profile page and/or linkedS. Walton, R.E. Rice/Computers in Human Behavior 29 (2013) 1465-1474 1469
+
+website, as discerned by the user name, photo or common sense
+information in the bio, user’s profile page and/or linked website.
+Feed identity is either Parent (Mom/Dad) or Social media professional. Boundary impermeability is based on the number Followed (this tweeter followed by number of others), and the
+number Following (the number of other tweeters this tweeter is
+following), both obtained from the WeFollow site. Boundary
+impermeability is the ratio of Followed divided by the sum of Followed and Following. Thus, the higher the percent from 0 to 1, the
+more boundary impermeability. This measure represents the relative proportional potential of others being exposed to one’s disclosures. For example, someone who follows many others but has few
+followers has a very impermeable boundary, providing proportionally little disclosure to others. Obviously this is not an ideal measure of boundary permeability, which, being personal and
+contextual, would best be assessed by the sender or even as a relational measure between two people. However, this is not possible
+in this analysis of Twitter data, though it does take advantage of
+these system measures provided by WeFollow.
+
+Valence is the general attitudinal tone of the message: negative
+(—1) (dissenting, critical), neutral (0), or positive (1) (affirming,
+happy, agreeing). Because valence is not fundamentally a tri- or
+dichotomous concept, we used the continuous valence measure
+of the mean across coders for each tweet. Presence of Disclosure
+includes non-disclosure (0), which does not provide any specific
+information about the tweeter, while disclosure (1) is a disclosure
+about the self, expressing personal information of a descriptive or
+evaluative nature. Stage involves either frontstage disclosure (0),
+which is a message of impression management, or a message
+meant to influence how others perceive them, and more public
+in nature, or backstage disclosure (1), which is a message of selfclarification or self-expression, private information of a more intimate nature, including representations of emotional processes,
+needs, fantasies or self-awareness.
+
+4.3. Coding
+
+We sought to have two sets of two coders code all the sampled
+tweets, to enable tests for inter-coder reliability and coding of
+remaining disagreements by consensus. Over two academic
+terms, we engaged 8 coders, with 97.1% of the tweets coded by
+A coders (the remaining tweets were coded by 1, 2, 3, 5 or 8 coders). This resulted in 14,988 separate codes for the 3751 tweets
+by the 187 microbloggers. Coders were initially trained biweekly
+in using and revising the codebook, coding using a separate pilot
+set of downloaded tweets, and using the specially designed
+spreadsheet template. Each coder was randomly assigned a proportional number of tweets from each of the 2 x 2 categories
+but was not aware of the research questions or hypotheses providing the framework, to avoid bias (Orne, 1975). Subsets of the
+downloaded tweets in the spreadsheet format were provided to
+sets of independent coders each week, who then met biweekly
+to discuss the codes, with ongoing assessment of the coding confusion matrix to clarify coding operationalizations. (If a tweet was
+“nonoriginal” — that is, those 18% that contained a retweet, link,
+forwarded query, location update, quotations, or lyrics - and if
+it included the user’s commentary or other text, that portion
+was coded.)
+
+Table 1 provides example tweets for each coded category.
+Agreement percent, and 95% confidence interval for the estimated
+reliability, using the Perreault and Leigh (1989) formula for binary
+data (as traditional reliability measures are inappropriate for 0/1
+codes), for the four hand-coded variables, based on the 97.6% of
+tweets coded by 4 or more coders, were: Valence (83.8%, 81.083.5), Disclosure (88.9%, 87.1-89.3) and Stage (90.9%, 89.1-91.7).
+
+Disagreements were decided by coder majority; in the case of a
+50% split, the code was marked as missing.
+
+4.4, Analyses
+
+By the nature of both microblogger behavior and the sampling
+period, the number of tweets collected varied across individual
+microbloggers. Thus at the tweet level of analysis, more frequent
+microbloggers have more tweets in the sample, so for those
+microbloggers, gender, feed identity, and impermeability ratio
+have greater influence on the overall relationships and may be
+auto-correlated. We report descriptive results from both the
+tweet-level and the user-level. However, we use ANOVAs at the
+user level data for explaining user characteristics (boundary impermeability), and at the tweet level for explaining tweet characteristics (valence, disclosure, stage). Each ANOVA includes the
+hypothesized main, and in some cases interaction or covariate, effects indicated in the respective hypotheses. Because of the possible shared variance within users across their tweets, we also ran
+multi-level models (using SPSS Mixed Models, ver. 20, with user
+as the 2nd-level grouping and boundary impermeability as usermean centered).
+
+5. Results
+5.1. Descriptive
+
+Table 2 provides descriptive statistics for the variables, overall
+and for both genders and for both feed identities. User-level data
+show that the microbloggers are slightly more women (54.9%) than
+men, belong largely to the social media professional feed (70.1%),
+and have slightly over 50% boundary impermeability (a surprisingly even balance). Based on tweet-level data, 35% of the tweets
+have positive, 57.9% neutral, and 7% negative valence; somewhat
+less than half (46%) were disclosures; and only 6% were backstage
+disclosures.
+
+5.2. Hypothesis tests - ANOVAs
+
+As Table 3 shows, over three-quarters (11 of 14) of the hypotheses were supported by ANOVA analyses.
+
+5.2.1. User level of analysis
+
+H1. User boundary impermeability. Both main effects of gender (H1a, men’s tweets) and identity (especially H1b, social media
+tweets), and the interaction (H1c, men’s social media tweets), were
+significant. Because of the significant differences in boundary
+impermeability, and the relevant hypotheses, the remaining
+tweet-level analyses include boundary impermeability as a covariate. At the user level, greater boundary impermeability is significantly positively associated with positive valence (r= .16, p < .05),
+but not with disclosure (r= .05), or stage (r = —.05).
+
+5.2.2. Tweet level of analysis
+
+At the tweet level, greater boundary impermeability is not correlated with valence (r= —.02), but is significantly negatively correlated with disclosure (r=—.14, p<.01) and stage (r=—.06,
+p<.01). H2. Tweet valence. Because of the smaller sample size of
+tweets including backstage disclosures, we ran two analyses: one
+without stage, and one with. For the first subanalysis, tweets by females had significantly more positive valence than by males (H2a),
+but there was no difference by identity (rejecting H2b). Boundary
+impermeability was unrelated to valence (rejecting H2c). For the
+second, results were the same for H2a and H2b, but found signifi-1470 S. Walton, R.E. Rice/Computers in Human Behavior 29 (2013) 1465-1474
+
+Table 1
+Examples of coded tweets.
+
+ 
+
+Valence
+Negative valence:
+e Displeased with myself today. That is all
+
+e My account has been compromised for 3rd time! Changed PW, but in the event that. . well, you know, just disregard:/
+
+Neutral valence:
+
+e I’m curious about Xmarks & if anyone has found benefit from getting reviews on the site?
+e Athos, Porthos, Aramis or d’Artagnan? Poet, Pirate, Lover or Dreamer? Which would you be or be enamoured of?
+
+Positive valence:
+
+e Had someone ask how | fixed her broken app so fast and I replied it was magic;-)
+e I am so looking forward to eggs dropping from school roofs, HS science projects, and biology!:) #pbskids #gno
+
+Disclosure
+Non-disclosure:
+
+e Anyone know which service does auto downsize of basic html site w images 4 mobile users? or ez agent detection/routing script?
+
+e Oregon (or Portland, at least) had specific laws allowing breastfeeding in public
+
+Disclosure:
+e Seriously, I think I have to take some Motrin for my arm
+
+e “mean and green” I love the descriptor! http://bit.ly/dAo2w5 Happy to see Dell pushing the green envelope!:)
+
+Stage
+Frontstage:
+
+e Hey @stickergiant? Do y'all have any more of these? It’s my fav & I had to carefully xfer it to new laptop http://twitpic.com/168aqe
+e yum! having some cappuccino chip yummy goodness (@ Kilwin’s Ice Cream) <URL>
+
+Backstage:
+
+e Oh Pandora, how you read my mind, how you know just exactly what songs to play. You’re whipping up a soundtrack for my aching heart
+
+e Mom arrives today. Need her so badly. Will most likely sob upon seeing her face
+
+ 
+
+cant effects for both impermeability and stage (supporting H2c and
+H2d).
+
+H3. Tweet disclosure: Tweets included more disclosure by females (H3a), and by social media professionals (rejecting H3b),
+and with less boundary impermeability (H3c). H4. Stage of tweet
+disclosure: Tweets by females (H4a), but not by parents (rejecting
+H4b), had more backstage disclosures. Female parent microbloggers made more backstage disclosures than did male social media
+professionals (H4c), though the actual difference was due to fewer
+backstage disclosures by male social media microbloggers than the
+other three categories. Boundary impermeability was not associated with stage (rejecting H4d).
+
+5.3. Hypotheses tests - multi-level models
+
+Results of the multi-level models, Table 4, show that the random intercept was significant in each tweet-level model (e.g., valence with an Intraclass Coefficient of 10.1% or 10.7%, disclosure
+with 8.0%, and stage with 6.7%). This means that the intercepts of
+the dependent variables varied across users. Though this amount
+of variance is small, it did reduce the significance of some of the
+explanatory variables, so that about half (5 of 11) of the tweet-level
+hypotheses were supported through this more rigorous approach.
+The F-ratios in the mixed model results were notably different only
+in the case of the greater influence of feed identity and boundary
+impermeability on extent of disclosure in the ANOVAs, and of the
+significant influence of identity on valence in the mixed model.
+That is, the influence of feed identity and boundary impermeability
+on disclosure in tweets is primarily a user-level trait, while the
+influences on valence and stage are not.
+
+6. Discussion
+6.1. Implications
+
+6.1.1. Boundary impermeability
+
+While perhaps not the best measure of microblogger user-controlled boundary impermeability, the followed-to-total ratio indicates that users overall have a fairly even balance between
+
+inward and outward exposure to Twitter disclosures, regardless
+of their overall level of tweeting. As predicted, males, social media
+professionals, and especially the combination, have more impermeable boundaries. Impermeability is associated with less disclosure, but not stage (though the number of backstage cases was
+very low). The less one is relatively open to other tweeters’ content,
+the less disclosing one is. Indeed, one possible explanation for the
+lack of influence of the user level in the multi-level models — in the
+form of rather low shared variance among tweets by an individual
+user and the persistence of many of the significant influence in the
+ANOVA analyses - may be that variance across tweet contexts is
+greater than any consistency of individual style (except for extent
+of disclosure). Indeed, Nguyen, Bin, and Campbell (2012) also rejected any clear relationship between channel and disclosure,
+arguing for the potential moderating influences of factors such as
+communicator relationship, communication mode, and interaction
+context. Analysis of 2009 Pew survey data showed that online trust
+increased, while perception of privacy risks reduced, the disclosing
+of personal identifiable information (Mesch, 2012). Suler (2004)
+identified six major influences on online disclosure (“dissociative
+anonymity, invisibility, asynchronicity, solipsistic introjection, dissociative imagination, and minimization of authority”, p. 321), as
+well as personality factors, so it is misleading to claim a simple
+relationship between being online/offline and disclosure. In general, though, boundary impermeability is a substantively and
+empirically important factor to consider even in mediated
+disclosure.
+
+6.1.2. Gender differences
+
+Most of the differences in boundary impermeability, valence,
+disclosure and stage followed expectations based on prior research and CPM. That is, females had more positive valence,
+and disclosed more overall and more backstage material. To some
+extent, then, tweets by females seem to reflect a societal gender
+role as more nurturing and emotional, whether in the workplace
+or the living room. Men’s role in society may not be as readily
+accepting of public, especially backstage, disclosures and perhaps
+this contributes to male differences in patterns of disclosure. Possibly men feel a greater need to manage their professionalTable 2
+Descriptive statistics for gender, feed identity, and overall, at user-level and tweet-level.
+
+Variable
+
+Gender
+
+Male 0
+
+Female 1
+
+Feed identity
+
+Social media 0
+Parent 1
+
+Boundary — followed
+Median
+
+Range
+
+Boundary — following
+Median
+
+Range
+
+Boundary impermeability
+
+Valence
+
+(mean of —1, 0, 1)
+Disclosure
+Non-disclosure 0
+Disclosure 1
+
+Stage
+
+Frontstage 0
+Backstage 1
+
+User-level
+Sex
+
+M
+
+28 (.45)
+71.7%
+28.3
+
+62 (.32)
+
+19 (.22)
+Al (.27)
+57.6
+42.4
+
+04 (.13)
+94.5
+
+5.5
+
+A4 (.28)
+
+27 (.28)
+56 (.24)
+441
+55.9
+
+.09 (.17)
+90.9
+
+9.1
+
+Feed identity
+SocMed
+
+50 (.50)
+50.4%
+49.8
+
+68 (.25)
+
+27 (.25)
+50 (.26)
+48.9
+51.1
+06 (.14)
+93.4
+6.6
+
+Par
+
+54 (.50)
+46.4%
+53.8
+
+19 (.16)
+
+15 (.26)
+AG (.27)
+53.8
+46.2
+09 (.18)
+89.8
+10.2
+
+All
+Overall
+
+51 (.50)
+
+49.2%
+
+50.8
+
+30 (.46)
+
+70.1
+
+29.9
+
+93906.7 (313359.0)
+7035.0
+0-2006845
+6816.8 (7066.6)
+4512.9
+55-44222
+
+53 (.32)
+
+23 (.26)
+A8 (.26)
+50.4
+49.6
+06 (.15)
+92.3
+7.7
+
+187
+
+187
+
+187
+
+187
+
+187
+
+186
+
+168
+
+107
+
+Tweet-level
+
+Sex
+
+63 (.31)
+
+17 (.4)
+AO (.49)
+60.3
+39.7
+03 (.18)
+96.5
+3.5
+
+35 (.25)
+
+29 (.49)
+50 (.50)
+49.9
+50.1
+08 (.27)
+92.1
+7.9
+
+Feed identity
+SocMed
+
+A9 (.50)
+50.9%
+49.1
+
+61 (.26)
+
+24 (.46)
+AT (.50)
+52.8
+47.4
+06 (.23)
+94.3
+5.7
+
+Note: Cell values are mean, (s.d.), or category percentages. Values for each gender and each feed identity are based on their respective subsample Ns, not on the overall N.
+
+Par
+
+68 (.47)
+31.7%
+68.3
+
+.16 (.14)
+
+22 (.48)
+43 (.50)
+57.5
+42.5
+08 (.27)
+92.3
+7.7
+
+All
+Overall
+
+55 (.50)
+
+45.1%
+
+54.9
+
+30 (.46)
+
+69.9
+
+30.1
+
+128009.7 (387330.7)
+9046.0
+0-2006845
+12994.4 (11748.7)
+8275.0
+
+55-44222
+
+AT (.31)
+
+24 (.47)
+AG (.50)
+54.2
+45.8
+06 (.24)
+93.7
+6.3
+
+3746
+
+3746
+
+3746
+
+3746
+
+3746
+
+3747
+
+3229
+
+1987
+
+PLEL-SOPL (ELOZ) 6Z tolADYag UDWINH Ut siajndwioD / ary "FY ‘UOIDM *S
+
+LLVL1472 S. Walton, R.E. Rice/Computers in Human Behavior 29 (2013) 1465-1474
+
+ 
+
+ 
+
+Table 3
+Analysis of Variance Results of Effects of Gender and Feed Identity on Boundary Impermeability (User Level), and Valence, Disclosure, and Stage (Tweet Level).
+User level Tweet level
+Imperm-eability Valence Valence w/stage Disclosure Stage
+F n? F n? F n? F n? F n?
+A. ANOVA F-ratios
+Intercept 715.4" 80 17.8°°° .02 1.4 .001 665.0" 17 24.7°°° 01
+Gender 10.6°°° .06 61.8°"° .02 14.5°°° .007 18.9°"° .006 6.3" /003
+Identity 221.7" 55 1.9 .001 74 .000 22.6" .007 3.0 .002
+Inter-action 16.9" .09 - - - - - - 44° .002
+Imperm-eability - - 1.4 .000 1.9°° .004 10.6°°° .003 .07 .000
+Stage - - - - 89.1" .04 - - - Overall F 89.4°* 09 23.6" .02 28.7" /06 19.9°°* .02 54° .01
+df 3,183 - 4,3728 - 4,1981 - 3,3225 - 4,1982 User level Tweet level
+Imperm-eability Valence Valence front stage Valence back stage Disclosure Stage
+M F M F M F M F M F M F
+B. Estimated Marginal Means (and Standard Errors) for ANOVAs
+Social Media .79 (.03) .56(.03) .16 (.02) 31 (.01) .30 (.03) 40 (.02) —.16 (.05) —.06 (.05) 45 (.02) 53 (.01) .02 (.01) .08 (.01)
+Family .18 (.04) .21 (.04) .15 (.03) .27 (.02) .27 (.03) .37 (.03) —.19 (.05) —.09 (.05) .33 (.02) 41 (.02) .08 (.02) .08 (.01)
+“ p<.05.
+™ p<.01.
+“ p<.001.
+
+impression by limiting their disclosure, even in a public medium
+such as Twitter.
+
+6.1.3. Feed identity
+
+However, of the three hypotheses rejected in the ANOVA analyses (H2b, H4b, and H4d) two were related to a lack of differences
+between the two feed identities on valence and stage. Even though
+boundary impermeability was higher for social media microbloggers, their tweets were no less positive than those by parents. Further, social media microbloggers disclosed more overall than did
+parent microbloggers, and did not provide fewer backstage disclosures (though this is partially due to the small number of backstage
+disclosures). This may be due to the highly constrained nature of
+tweets, forcing users to provide focused, novel and even disclosive
+content, or to the social nature of the technology topics being discussed by social media professionals.
+
+6.2. Limitations
+
+Given our theoretical concerns and constraints on resources, we
+specifically chose just two feed identities, to represent as maximal
+as possible theoretical variance in likelihood of kinds of disclosure
+and interaction with the gender of the user, within a short period
+of time. Along with the time-specific and frequent-user nature of
+the microbloggers selected, of course this sample and the results
+are not generalizable to other feed identities or microbloggers
+(and perhaps even less so as the nature of Twitter continues to
+evolve). The usual qualifications about causality might apply, except that gender, feed identity, and boundary impermeability are
+all either fixed and/or prior user attributes, while valence, content,
+disclosure and stage are based on tweets produced conceptually
+subsequent to those attributes.
+
+As the tweets analyzed here come from the public feeds established by their authors — that is, those intending and even advertising a public orientation — they cannot of course reflect influences of
+or on less public Twitter privacy settings. Therefore the measure of
+boundary impermeability used here cannot reflect more fundamental distinctions created by various privacy choices. For example, users who allow only close friends to follow them - that is,
+have the lowest boundary permeability —- may well engage in more
+backstage disclosure, possibly with more negative valence.
+
+Further, this study does not assess how readers evaluate or respond to the disclosures. We do know, however, that publicly disclosed Facebook content (e.g., status updates and wall posts)
+seem to generate lower perceptions of message and relational intimacy than do private (private messages) disclosures, and publicly
+shared intimate disclosures are perceived as less appropriate than
+privately disclosed tweets (Bazarova, 2012). While, as noted earlier, Twitter has become immensely popular (and in a very short
+time), its meanings and forms have evolved since its introduction
+- from interactive conversation to one-way information and mass
+publishing - and are still in flux (Van Dijck, 2013). Twitter is
+becoming more and more integrated within and easily linked to
+and from other media, and conveys more mainstream content
+(such as news feeds, celebrity updates, mass publishing). Therefore
+its public/private combinations, uses, and kinds of disclosure may
+well change too.
+
+6.3. Future research
+
+Larger samples and more detailed coding would allow for
+description and analysis of types of non-disclosure (e.g., location
+updates, queries, providing information), frontstage disclosure
+(e.g., impression management, agency) and backstage disclosure
+(e.g., emotion and emotional processes, needs, fantasies/dreams/
+hope, self-awareness). Longer-term data collection would allow
+for order/sequence effects, such as positive/negative responses
+(backlash vs. support) to types of prior disclosures. Such over-time
+data might identify patterns of evolution of online user disclosure.
+Additional feed identities might provide more insight into levels
+and types of disclosure. For example, health care providers might
+be a type of professional category that supports/requires more disclosure in general and more backstage disclosure in particular. A
+deeper analysis of the application of communication privacy management to mediated, microblog disclosure would involve contacting a random sample of the microbloggers, again stratified by
+gender and appropriate feed, and surveying them about their perceptions of the boundary suppositions and privacy rule management processes associated with their coded tweets. Finally, there
+are of course many other influences on men’s and women’s emotional tendencies, and thus their offline and online disclosure, such
+as culture and gender-role expectations, linguistic affiliative orS. Walton, R.E. Rice/Computers in Human Behavior 29 (2013) 1465-1474 1473
+Table 4
+Mixed models results of effects of gender and feed identity on valence, disclosure, and stage (tweet level).
+Valence Valence w/stage Disclosure Stage
+Null Fixed Null Fixed Null Fixed Null Fixed
+A. Tests of fixed effects, covariance parameters, model Fit
+Fixed
+Intercept F=237.7 F=186.8"" F=244.6" F=10.6 F=960.0°" F=821.3°" F=644" F=58.3"
+23°" 24°" 31° —.13" AG" 49°" 064°" .084"""
+Gender - F=15.0 "- - F=4.7° - F=14.6"" - F=42°
+Identity - F=3.7 p=.06 - F=5.5° - F=1.2 - F=2.7
+Interaction - - - - - - - F=.23
+Imperm-eability - F=.02 - F=1.5 - F=1,.2 - F=,31
+Stage - - - F=81.8""" - - - Covariance
+Residual 196°" 196°" 26°" 25°" 23°" 23°" 056°" .056"""
+Intercept .022°* .019°** 031°" .027°°* .02°** .017°* .004°** .003°*
+Model fit
+df 3,3770 6,3727 3,1983 7,1979 3,3746 6,3747 3,1984 7,1980
+BIC? 4712.0 4705.5 3106.4 3021.3 4588.5 4574.3 23.1 20.6
+Diff/df - 10.1/3° - 85.1/4°"° - 9.2/3" - 2.5/4
+ICC 10.1% - 10.7% - 8.0% - 6.7% Valence Valence front stage Valence back stage Disclosure Stage
+M F M F M F M F M F
+B. Estimated marginal means (and standard errors)
+Social media .18 (.02) .30 (.02) .32 (.03) 40 (.03) —.12 (.06) —.03 (.05) 42 (.02) 53 (.02) .02 (.01) .08 (.01)
+Family .13 (.03) .24 (.03) .22 (.04) 30 (.04) —.21 (.06) —.13 (.06) .38 (.03) 49 (.03) .08 (.02) .09 (.02)
+* p<.05.
+™ p<.01.
+“™ p<.001.
+
+* Estimates of fixed effects shown only for Intercept.
+
+> BIC: Schwarz’s Bayesian Criterion (Schwarz, 1978), which penalizes for more complex models, unlike the —2 restricted log linear measure of model fit.
+
+assertive tendencies, and evolutionary-based language development (Tang & Wang, 2012).
+
+7. Conclusion
+
+The results provide good support for hypotheses about relationships between gender and Twitter feed identity on some mediated
+disclosure and boundary management issues derived from interpersonal disclosure theory and microblog research. Differences in
+mediated disclosure may be to some extent influenced by how
+gender and online identity are socially constructed, and a balance
+between individual traits and communicative contexts. However,
+even the very constrained and mediated communication via Twitter reflects interpersonal propositions about disclosure and communication privacy management. Social media provide a rich
+environment for applying and extending traditional communication theories and research.
+
+References
+
+Altman, I., & Taylor, D. (1973). Social penetration: The development of interpersonal
+relationships. New York: Holt, Rinehart & Winston.
+
+Archer, R. L. (1980). Self-disclosure. In D. Wegner & D. Vallacher (Eds.), The self in
+social psychology (pp. 183-204). London: Oxford University Press.
+
+Baker, A. J. (2005). Double click: Romance and commitment among online couples.
+Cresskill: Hampton Press, Inc..
+
+Baxter, L. A. (1988). A dialectical perspective on communication strategies in
+relationship development. In S. W. Duck, D. F. Hay, S. E. Hobfoll, W. Iches, & B.
+Montgomery (Eds.), Handbook of personal relationships (pp. 257-273). New
+York: Wiley.
+
+Bazarova, N. N. (2012). Public intimacy: Disclosure interpretation and social
+judgments on facebook. Journal of Communication, 62(5), 815-832.
+
+Boyd, D. (2009). Twitter: “pointless babble” or peripheral awareness + social
+grooming. Apophenia. <http://www.zephoria.org/thoughts/archives/2009/08/
+16/twitter_pointle.html>.
+
+Brody, L., & Hall, J. (2008). Gender and emotion in context. In M. Lewis, J. HavilandJones, & L. Feldman Barrett (Eds.), Handbook of emotions (3rd ed., pp. 395-408).
+New York: Guilford Press.
+
+Child, J. T., Pearson, J. C., & Petronio, S. S. (2009). Blogging, communication, and
+privacy management: Development of the blogging privacy measure. Journal of
+the American Society for Information Science and Technology, 60(10), 2079-2094.
+
+Cline, R. J. (1986). The effects of biological sex and psychological gender on reported
+and behavioral intimacy and control of self-disclosure. Communication
+Quarterly, 34, 41-54.
+
+Corcoran, P., & Spencer, V. (2000). Disclosures. Aldershot, England: Ashgate
+Publishing.
+
+Cozby, P. C. (1973). Self-disclosure: A literature review. Psychological Bulletin, 79,
+73-91.
+
+Derlega, V. J., & Berg, J. H. (1987). Self-disclosure: Theory, research, and therapy. New
+York: Plenum Press.
+
+Derlega, V. J., Durham, B., Gockel, B., & Sholis, D. (1981). Sex differences in selfdisclosure: Effects of topic content, friendship, and partner’s sex. Sex Roles, 7(4),
+433-447.
+
+Dindia, K., & Allen, M. (1992). Sex differences in self-disclosure: A meta-analysis.
+Psychological Bulletin, 112(1), 106-124.
+
+Dominick, J. (1999). Who do you think you are? Personal home pages and selfpresentation on the World Wide Web. Journalism and Mass Communication
+Quarterly, 76, 646-658.
+
+Ellison, N., Heino, R., & Gibbs, J. (2006). Managing impressions online: Selfpresentation processes in the online dating environment. Journal of ComputerMediated Communication, 11, 415-441.
+
+Fearon, J. D., & Laitin, D. D. (2008). Integrating Qualitative and Quantitative
+Methods. In J. t. M. Box-Steffensmeier, H. E. Brady, & D. Collier (Eds.), The Oxford
+handbook of political methodology (pp. 756-776). Oxford: Oxford University
+Press.
+
+Gibb, J. L., Ellison, N. B., & Heino, R. D. (2006). Self-presentation in online personals:
+The role of anticipated future interaction, self-disclosure, and perceived success
+in Internet dating. Communication Research, 33(2), 152-177.
+
+Goffman, E. (1959). The presentation of self in everyday life. New York: Doubleday.
+
+Herring, S. C., Scheidt, L. A., Kouper, I., & Wright, E. (2006). A longitudinal content
+analysis of weblogs: 2003-2004. In M. Tremayne (Ed.), Blogging, citizenship and
+the future of media (pp. 3-20). London: Routledge.
+
+Hoffman, M. (2008). Empathy and prosocial behaviour. In M. Lewis, J. HavilandJones, & L. Feldman Barrett (Eds.), Handbook of emotions (3rd ed., pp. 440-455).
+New York: Guilford Press.
+
+Joinson, A. N. (2001). Self-disclosure in computer-mediated communication: The
+role of self-awareness and visual anonymity. European Journal of Social
+Psychology, 31, 177-192.
+
+Jourard, S. M. (1971). The transparent self. New York: Van Nostrand Reinhold.
+Kiesler, S., Siegel, J., & McGuire, T. W. (1984). Social psychological aspects of
+computer-mediated communication. American Psychologist, 39, 1123-1134.
+King, G., Keohane, R. O., & Verba, S. (1994). Designing social inquiry: Scientific
+inference in qualitative research. Princeton, NJ: Princeton University Press.1474 S. Walton, R.E. Rice/Computers in Human Behavior 29 (2013) 1465-1474
+
+Kramer, N., & Winter, S. (2008). Impression Management 2.0: The relationship of
+self-esteem, extraversion, self-efficacy, and self-presentation within social
+networking sites. Journal of Media Psychology, 20(3), 106-116.
+
+Kwak, H., Lee, C., Park, H., & Moon, S. (2010). What is Twitter, a social network or a
+news media? In WWW’10 Proceedings of the 19th international conference on
+World wide web (pp. 591-600). New York: ACM.
+
+Mesch, G. S. (2012). Is online trust and trust in social institutions associated with
+online disclosure of identifiable information online? Computers in Human
+Behavior, 28(4), 1471-1477.
+
+Metzger, M. J. (2007). Communication privacy management in ecommerce. Journal
+of Computer-Mediated Communication, 12(2), 335-361.
+
+Nardi, B. A., Schiano, D. J., Gumbrecht, M., & Swartz, L. (2004). Why we blog.
+Communications of the ACM, 47(12), 41-46.
+
+Nguyen, M., Bin, Y. S., & Campbell, A. (2012). Comparing online and offline selfdisclosure: A systematic review. Cyberpsychology, Behavior, and _ Social
+Networking, 15(2), 103-111.
+
+Nosko, A., Wood, E., & Molema, S. (2010). All about me: Disclosure in online social
+networking profiles: The case of Facebook. Computers in Human Behavior, 26,
+406-418.
+
+O'Reilly, T., & Milstein, S. (2012). The Twitter book. Sebastopol, CA: O’Reilly Media,
+Inc..
+
+Orne, M. T. (1975). On the social psychology experiment: With particular reference
+to demand characteristics and their implications. In G. H. Lewis (Ed.), Fist-fights
+in the kitchen (pp. 183-195). Pacific Palisades, CA: Goodyear.
+
+Papacharissi, Z. (2013). A networked self: Identity performance and sociability on
+social network sites. In F. L. F. Lee, L. Leung, J. L. Qiu, & D. S. C. Chu (Eds.),
+Frontiers in new media research (pp. 207-221). New York: Routledge.
+
+Perreault, W. D., Jr., & Leigh, L. E. (1989). Reliability of nominal data based on
+qualitative judgments. Journal of Marketing Research, 26, 135-148.
+
+Petronio, S. (2002). Boundaries of privacy: Dialectics of disclosure. Albany, NY: State
+University of New York Press.
+
+Pew Internet & American Life Project (2011). Twitter update 2011. Washington, CD:
+Pew Foundation. <http://www.pewinternet.org/Reports/2011/Twitter-Update2011/Main-Report.aspx>.
+
+Quantcast (September, 2009). Twitter.com Website Audience Profile. <http://
+www.quantcast.com/twitter.com> Retrieved 09.13.09.
+
+Rice, R. E. (1987). Computer-mediated communication and organizational
+innovation. Journal of Communication, 37(4), 65-94.
+
+Plant, S. (1998). Zeros and ones: Digital women and the new technoculture. London:
+Fourth Estate.
+
+Rice, R. E., & Love, G. (1987). Electronic emotion: Socioemotional content in a
+computer-mediated network. Communication Research, 14, 85-108.
+
+Rice, R. E., & Hagen, I. (2010). Young adults’ perpetual contact, social connection,
+and social control through the internet and mobile phones. In C. Salmon (Ed.),
+Communication yearbook, 34 (pp. 2-39). London: Routledge.
+
+Rime, B., Mesquita, B., Philippot, P., & Boca, S. (1991). Beyond the emotional event:
+Six studies on the social sharing of emotion. Cognition and Emotion, 5(5-6),
+435-465.
+
+Robinson, R., & West, R. (1992). A comparison of computer and questionnaire
+methods of history-taking in a genitourinary clinic. Psychology and Health, 6,
+77-84.
+
+Rosenfeld, L. B., Civikly, J. M., & Herron, J. R. (1979). Anatomical and psychological
+sex differences. In G. J. Chelune (Ed.), Self-disclosure (pp. 80-109). San Francisco:
+Jossey-Bass Publishers.
+
+Schwarz, G. (1978). Estimating the dimension of a model. Annals of Statistics, 6,
+461-464.
+
+Seawright, J., & Gerring, J. (2008). Case selection techniques in case study research:
+A menu of qualitative and quantitative options. Political Research Quarterly, 61,
+294-308.
+
+Spender, D. (1995). Nattering on the net. Women, power and cyberspace. North
+Melbourne: Spinifex Press.
+
+Stern, S. R. (2002). Virtually speaking: Girls’ self-disclosure on the WWW. Women’s
+Studies in Communication, 25, 223-253.
+
+Suler, J. (2004). The online disinhibition effect. CyberPsychology & Behavior, 7(3),
+321-326.
+
+Tang, J.-H., & Wang, C.-C. (2012). Self-disclosure among bloggers: Re-examination of
+social penetration theory. Cyberpsychology, Behavior, and Social Networking,
+15(5), 245-250.
+
+Thelwall, M., Wilkinson, D., & Uppal, S. (2010). Data mining emotion in social
+network communication: Gender differences in MySpace. Journal of the
+American Society for Information Science and Technology, 61(1), 190-199.
+
+Turkle, S. (1995). Life on the screen: Identity in the age of Internet. New York: Simon
+and Schuster.
+
+Van Dijck, J. (2013). The Internet in flux: Twitter and the interpretative flexibility of
+microblogging. In F. L. F. Lee, L. Leung, J. L. Qiu, & D. S. C. Chu (Eds.), Frontiers in
+new media research (pp. 222-240). New York: Routledge.
+
+Walther, J. B. (1996). Computer-mediated communication: Impersonal,
+interpersonal and hyperpersonal interaction. Communication Research, 23, 3-34.
+
+Wheeless, L. R., & Grotz, J. (1976). Conceptualization and measurement of reported
+self-disclosure. Human Communication Research, 2, 338-346.

@@ -1,0 +1,1092 @@
+aN The current issue and full text archive of this journal 1s available at
+
+22 www.emeraldinsight.com/2050-3806.htm
+
+ 
+
+Social media as a political Social media
+
+as a political
+
+backchannel backchannel
+Twitter use during televised election
+
+ 
+
+debates in Norway 313
+. Bente Kalsnes . . Received 15 September 2013
+Department of Media and Communication, University of Oslo, Oslo, Norway Revised 4 March 2014
+
+Arne H Krumsvik Accepted 2 April 2014
+
+Department of Journalism and Media Studies,
+Oslo and Akershus University College of Applied Sciences, Oslo, Norway, and
+
+Tanja Storsul
+Department of Media and Communication, University of Oslo, Oslo, Norway
+
+Abstract
+
+Purpose — The purpose of this paper is to explore how Twitter is used as a political backchannel and
+potential agenda setter during two televised political debates during the Norwegian election in 2011.
+The paper engages with current debates about the role of social media in audience participation and
+traditional media’s changing role as gatekeepers and agenda setter.
+Design/methodology/approach — A combination of quantitative and qualitative methods.
+By introducing and using the IMSC multiple step analysis model on the Twitter datasets, the authors
+are able to analyse the flow of thousands of tweets and compare them with topics discussed in the
+televised debates.
+
+Findings — The paper finds that the same topics are discussed on Twitter as on TV, but “the debate
+about the debate” or Meta talk tweets reveal critical scrutiny of the agenda. The paper identifies a clear
+pattern of political fandom and media criticism in the “debate about the debate”, indicating that Meta
+talk in social media can function as a critical public sphere, also in real time, which has not been
+identified in existing studies of Twitter and political TV shows.
+
+Originality/value — The analysis is unique in the sense that the paper analyses a smaller, national
+Twitter population in deeper detail than what is common in larger Twitter studies related to political
+televised debates. The IMSC model can be used in future Twitter studies to uncover layers in the data
+material and structure the findings.
+
+Keywords Twitter, Television, Agenda setting, Backchannel, Election debate,
+
+Political communication
+
+Paper type Research paper
+
+Introduction
+
+Twitter has within few years become a prominent “backchannel” for televised political
+
+debates by making audience reactions visible online. By adding a specific hashtag to
+
+their tweets, Twitter users can take part in larger, public conversations about an event,
+
+reaching outside their own network of followers and followees to join the “virtual Emerald
+loungeroom” (Harrington et al., 2012). The # character is used in conjunction with a
+
+word or a phrase in order to connect the tweet to a particular theme. It allows for
+
+coordinated distributed discussion on the Twitter platform. Hence, audiences can ASTD Journal ot
+easily turn television watching into communal, social events. As social reactions Vol. 66 No. 3 2014
+Pp. 
+© Emerald Group Publishing Limited
+: ee 2050-3806
+The authors would like to thank anonymous reviewers for valuable comments. DOI 10.1108/AJIM-09-2013-0093AJIM
+66,3
+
+314
+
+ 
+
+to TV shows become visible through Twitter, it allows for examination of the Twitter
+users’ response to electoral debates in near real-time (Mascaro and Goggins, 2012).
+Several studies (Twitter, 2012; Bruns and Burgess, 2011; Larsson and Moe, 2011;
+Diakopoulos and Shamma, 2010; Elmer, 2013) have shown how Twitter has been used
+as a platform for continued response sharing during large televised events, such as the
+London Olympics, the Eurovision Song Contest or political elections.
+
+This paper addresses how Twitter was used as a political backchannel and
+potential agenda setter during two televised political debates ahead of the Norwegian
+local election on 12 September 2011. We investigate to what degree the new arena
+enabled by social media, particularly Twitter, facilitates a different agenda from that of
+television, and how the Twitter users talk about the agenda and the debate. The paper
+engages with current debates about the role of social media in audience participation
+and traditional media’s changing role as gatekeepers and agenda setters (Hermida,
+2010). By applying a multiple step analysis of the Twitter dataset, we are able to
+analyse the flow of thousands of tweets and compare them with topics discussed in the
+televised debates. The analysis is unique in the sense that we analyse a smaller,
+national Twitter population in deeper detail than what is common in larger
+quantitative Twitter studies (e.g. Conover et al., 2011; Bruns and Burgess, 2011; Jensen
+and Anstead, 2013; Tumasjan et al., 2011).
+
+The Norwegian case is interesting as the Norwegian population can be
+characterized as early technology adaptors. Social media has taken a strong
+foothold in Norway, where broadband access and use of media technology is among
+the highest in the world. In 2011, 15 per cent of the internet population (which basically
+is the whole population, as the internet penetration in 2012 was 95 per cent, according
+to Statistics Norway) used Twitter (Enjolras and Segaard, 2011), while 56 per cent of
+the Norwegian internet population used Facebook daily in 2012 (TNS Gallup, 2011).
+We can therefore expect the Norwegian setting to be relatively advanced in 2011 and
+the findings might be illustrative of wider phenomena.
+
+Twitter and mediatized events
+
+Since its launch in 2006, Twitter’s potential to challenge the role of edited media as
+gatekeepers and agenda setters has increasingly caught the interest of researchers.
+Twitter has gained international attention as a breaking news medium (Kwak et al,
+2010), as a utility during crisis (Mendoza et al, 2010), as well as a backchannel for
+televised events, such as Eurovision Song Contest or X-Factor (Highfield et al., 2013;
+Lochrie and Coulton, 2012), political TV debates (Bruns and Burgess, 2011) and talk
+shows (Larsson and Moe, 2011), to mention a few. Kwak et al. (2010) asked “What is
+Twitter, a Social Network or a News Media?” They argued, based on a quantitative
+study of the entire Twitter sphere in 2009, that Twitter is less a social network
+(low reciprocity) and more a news medium as 85 per cent of tweeted topics have basis
+in news links.
+
+A typical finding in several of the studies related to Twitter and political debates is
+that political Twitter use peaks during televised debates. When Bruns and Burgess
+(2011) studied Twitter activity on the hashtag #ausvotes during the 2010 Australian
+Federal Election, the three biggest Twitter peaks happened on days with significant
+live televised events.
+
+Similarly, Moe and Larsson (2012) found a clear relationship between mediatized
+political events such as election debates and peaks in political Twitter use during
+the Swedish general election in 2010. This tendency was yet again confirmed in theNorwegian study of Twitter use during the election campaign in 2011 by Moe and
+Larsson (2012). Televised political debates drove up Twitter activity, in addition to
+increasing the use of political Twitter hashtags outside the hard core of political
+Twitter users. The increase in Twitter activity during TV debates can also be related to
+humour. Several studies (Bruns and Burgess, 2011; Harrington et al, 2012; Highfield
+et al, 2013; Holton, 2011; Larsson and Moe, 2011) have identified humour as a typical
+part of Twitter exchanges related to political debates.
+
+Furthermore, Mascaro and Goggins (2012) argued that Twitter operates as a
+“geographically independent virtual town square” during political TV debates in the
+USA, and that “a significant number of the syntactical features specific to Twitter such
+as retweeting, @replies and hashtags are utilized to relay information, engage in
+discourse and create new threads of discourses related to issues that are brought up
+during the debate. ‘In that sense, social media tools can be vehicles for technologically
+mediated civic engagement” (Mascaro and Goggins, 2012).
+
+According to Hallin and Mancini’s models (2004), we could expect to find different
+media usage patters in different geographic regions — often related to different media
+systems. However, the findings in the studies discussed above related to Twitter and
+political TV debates are surprisingly similar, independent of differences in political
+culture, media cultures and technology environment. We could also expect to find other
+agendas in social media compared to mainstream media, such as studies of blogs and
+mainstream media have shown (Wallsten, 2007). In this context, we understand agenda
+setting as “the ability of the news media to influence the salience of topics on the public
+agenda” (Iyengar and Kinder, 1987). In their highly influential study, Max McCombs
+and Donald Shaw concluded in 1968 that the mass media exerted a significant
+influence on what voters considered to be the major issues of the presidential
+campaign. Readers learn not only about a given issue, but also how much importance
+to attach to that issue from the amount of information in a news story and its position
+(McCombs and Shaw, 1972).
+
+The longitudinal aspect of Twitter studies can set premises for some of the findings.
+As we have seen in the #ausvotes study (Bruns and Burgess, 2011), independent
+agendas from mainstream media are clearly found on the #ausvote hashtag during the
+tracked time period of more than one month. However, when the focus of study is only
+on selected TV debates during a very restricted time period, the Australian study
+shows that it is less likely to find an independent agenda (from mainstream media) on
+Twitter.
+
+Based on these previous studies, we expect the Norwegian debate on Twitter to
+closely follow the topics discussed in the televised political debate. Even if the general
+debate on Twitter follows a different pattern than mainstream media, we expect
+Twitter debates during live events to be closely related to what is broadcasted.
+Therefore, our study predicts the following hypothesis:
+
+H1. During televised political debates, the debates on Twitter follow the same
+agenda as the televised debate.
+
+In this paper we also want to look closer at how the debate on Twitter unfolds,
+in other words how the Twitter users are debating. Thus, the content of the tweets is
+the focus of this study, not the Twitter users’ political background or preferences.
+In this regard, however, previous research gives fewer indications of what findings
+we may expect.
+
+Social media
+as a political
+backchannel
+
+315AJIM
+66,3
+
+316
+
+ 
+
+Elmer (2013) has demonstrated how “micro-blogging sites like Twitter have become
+key sites of ‘rapid response’ to live political events”. Twitter can be used strategically
+by political parties, partisans and other viewers of the debate, as was observed in the
+Canadian 2008 election (Elmer, 2013). Therefore, we can also expect the Twitter users
+to challenge the agenda set by politicians and media in election debates. However,
+we might also see Twitter used as a “technology of fandom” (Highfield et al, 2013),
+where “established fan communities who would use social media to discuss the live
+coverage” and praise, ridicule or criticize the broadcast.
+
+In order to explore not only what Twitter users are talking about during the debate,
+but also how and with what sentiment, we ask this research question:
+
+RQI1. How are the Twitter users talking about the agenda and the televised debates?
+
+The Norwegian context
+
+The Norwegian election in 2011 took place in the aftermath of the tragic event on 22
+July, when 77 people got killed by Anders Behring Breivik at the Utoya and in Oslo —a
+majority of them children participating on the Labour Party’s youth camp at Uteya.
+Totally, 11 of the killed victims at Utoya were candidates during the 2011 local election.
+The tragedy happened in the early stage of the election campaign, and all the political
+parties agreed to postpone the election campaign as the country went through a
+collective mourning. The political parties agreed not to comment upon political topics
+or criticize each other until 13 August. These rather gloomy circumstances are
+particularly reflected in the first debate, when terror and security was one of the main
+topics.
+
+Televised debates between party leaders have become an important ritual in
+election campaigns in democratic countries. In Norway, such debates have taken place
+since 1961 (Allern, 2011). Previous research (Todal Jenssen and Aalberg, 2004;
+Krogstad, 2004) has shown that TV debates have considerable importance for agenda
+setting during Norwegian election campaigns. Furthermore, TV debates are produced
+and staged by broadcasters, and political parties are adapting to the journalists’
+premises and judgments rather than opposite, according to Thorbjernsen (2009).
+
+Even though the 2011 election was local, the election campaign was partly national,
+and the televised debates between party leaders were staged as national debates.
+All the seven parties represented in parliament were present in the televised debates.
+In the last debate, Rodt, a minor far-left party was also included.
+
+Research design and methodology
+
+In the 2011 election campaign, there were three televised debates between party
+leaders. The first took place on 23 August 2011 and was broadcasted on both NRK1
+and TV2, the largest TV stations in Norway. The two last ones were broadcasted on
+9 September 2011 (NRK1) and 10 September 2011 (TV2). The two debates broadcasted
+on NRK1 reached the largest audience and this study focuses on Twitter as a political
+backchannel during these two debates.
+
+For this purpose a thematic code book was developed and used for manual coding
+of all tweets. There were two main categories of tweets; tweets about political issues
+and meta tweets. Tweets on political issues were coded based on what political issue
+they addressed (health, education, economics, etc.). Meta tweets were typically tweets
+about individual politicians and the televised debate as such. Meta tweets were thencoded for sentiment. Furthermore, we propose the IMSC model (issue, meta, sentiment,
+close reading) as a guideline for mapping Twitter debates, partly inspired by Wohn
+and Na (2011).
+
+To explain the coding in more details; the data were analysed in a four-step
+approach, drilling down from thousands of tweets to close readings. First, we conducted
+a comparative study of the issues discussed on television and on Twitter based
+on quantitative content analysis. Totally, 15 potential issues were identified based on
+analysis of party programmes and web sites. Grounded in the actual televised debates,
+the initial coding was recoded into the major political issues in the televised debate
+(terror, health and elderly, size of municipalities, education, economy, and transport).
+In addition to these issues, the initial coding showed that several tweets did not
+correspond to any political issue, but were other reflections about the debate or the
+participants. This was named “Meta talk” in our study and defined as “the debate
+about the debate”, which occurred frequently in our Twitter data.
+
+The unique number of participants and share or retweets was also identified.
+In addition, the time of the tweets were coded into five minutes time segments. This
+allowed us to perform a comparison between the flow of the televised debate and the
+corresponding debates on Twitter.
+
+Second, as the study not only concerns what issues the users are talking about,
+but also how the debate unfolds, “Meta talk” or “the debate about the debate” became
+particularly interesting. We noted that Meta talk was reoccurring frequently in the data
+material (about 50 per cent of all tweets, both in August and September, see Table II).
+An inductive approach generated three subcategories of Meta talk based on what was
+most frequently addressed by the Twitter users; politicians’ answers, media setting
+and looks, grammar and body language. We defined “politicians answers” as tweets
+about Twitter users’ comments on politicians’ arguments during the debate such as
+tweets praising a politician for being really good in the debate. In the “media setting”
+category we coded tweets related to the agenda (or the main topics), the TV format,
+journalists’ questions, etc. In the “looks, grammar and body language” category we
+coded tweets that commented on the politicians’ appearance or body language,
+in addition to choice of words and grammatical errors. Humour is reoccurring in the
+Twitter data material in both the debates, but we decided not to code it as an
+independent category as it is often intertwined with other categories and irony often
+challenging to classify.
+
+Third, a sentiment analysis of tweets under the sub categories “politicians”
+answers’ and “media setting” was carried out. As we wanted to explore whether
+Twitter users were supportive or disagreeing with the politicians or how the media
+setting was conducted, we further analysed the tweets in three categories: supportive,
+critical or neutral. The supportive category indicated tweets that were positive
+or praising of politicians’ answers or the media setting, such as: “In my mind,
+@erna_solberg did a solid job tonight #heyre”. Similarly, the critical category included
+tweets that criticized or disapproved the politicians’ answers or media setting, such
+as: “One question the reporter left out: What will you not prioritize in the next
+election period? #valg2011”. The neutral category included tweets that were mostly
+nonaligned or uninvolved observations, such as “Heck, I don’t need to watch it,
+I have voted early”.
+
+Finally, the fourth step was a close reading of selected tweets, illustrating
+phenomena identified during the previous steps. The relative manageable volume of
+2,391 tweets in this study made it possible to code the total material.
+
+Social media
+as a political
+backchannel
+
+317AJIM
+66,3
+
+318
+
+ 
+
+Table I.
+
+Tweets and Twitter
+users related to the
+televised debates
+
+The two television debates were recorded and coded for time and topics (H1). Data
+from the Twitter stream was generated shortly after the events via Meltwater Buzz,
+a commercial online media monitoring service provided by Meltwater. Data were
+gathered as a meta search of several social media search engines. The advantage of this
+meta search was that we could include several search criteria in one search including
+both hashtags (#), @mentions and usernames. The number of tweets included in the
+study is the total number of tweets generated by our search during the time-span of
+the televised debates. The general reliability of Meltwater Buzz’ meta search was tested
+by comparing Meltwater Buzz against the search engine Hashtracking.com. This was
+done by designing pilot searches for specific hashtags using the two searching tools in
+order to compare the results. This revealed that in situations where one tweet was
+retweeted many times, the Meltwater Buzz search would not provide all retweets.
+Consequently, we may have underestimated the number of retweets in our study slightly.
+
+The search phrase included all Twitter names and real names of party chairs
+(e.g. “Jens Stoltenberg” OR “@jensstoltenberg”), hashtags for the televised shows
+(e.g. “#partilederdebatten”) and common hashtags for election debates (e.g. “f#valg2011”
+OR “#valg11”). Partly due to the unclear hashtag convention, as was also identified by
+Elmer (2013, p. 23) in a Canadian study, one hashtag could not represent all relevant
+tweets during the televised debates.
+
+The search results were exported to Excel spreadsheet and manually coded for time
+and topics (H1), how users talked about the topics related to the politicians answers
+and the media setting (RQ/). The sets of codes were exported to the SPSS statistical
+package for quantitative analysis. Based on the results of this analysis, selected
+Twitter postings were revisited for qualitative analysis.
+
+Findings and analysis
+
+During the first debate, which was held three weeks before the election, few of the
+Twitter participants published large quantities of tweets. The average number of
+tweets was 1.8 per Twitter user, while just seven had more then six postings.
+
+The second debate was only three days away from Election Day and was much
+more in campaign mood than the first and special debate in August. This was also
+visible on Twitter. Both the number of tweets and Twitter users had increased.
+The total number of tweets related to the second debate was three times as high as in
+the first debate. In the second debate, eight to ten postings were not unusual, and some
+Twitter users had more than 20 postings.
+
+Except for the number of tweets per participant, the two debates confirm the same
+pattern; broad participation in the Twitter debate and no domination by a few
+contributors. Most tweets are original contributions, while one third are retweets
+(Table I). Retweets can be compared to “liking” on Facebook, but a retweet is not
+necessarily an endorsement, nevertheless, the user indicates an interest in the tweet by
+sharing it further.
+
+Debate 23 August 2011 9 September 2011
+
+ 
+
+Tweets total 612 1,779
+Unique Twitter users 343 638
+Tweets on average 18 2.8
+
+Retweets (%) 31 32The two analysed debates are also similar because they are part of the same election
+campaign with the same party leaders discussing some of the same issues on main
+national PSB channels. Social media was not promoted at neither of the televised
+events, hence Twitter was not an official backchannel during the debates. Nevertheless,
+the debates are different as they mark the start and the end of the campaign, the format
+of the televised events were slightly different due to the prior national trauma, the
+length of the debates were different, the issues discussed slightly different, and the
+expectation of viewers were probably different — for the same reasons.
+
+Similarities across the two debates
+
+Differences in the Twitter debates might be explained by the differences in the
+above-mentioned contextual variables. The similarities are, however, more striking
+and we observe five key tendencies that are similar in both debates:
+
+(1) The activity on our selected hashtags and Twitter user accounts increases
+over time during both the debates (Figure 1). This indicates that the level of
+engagement on Twitter increase during the televised debate.
+
+(2) The share of retweets is similar (Table I). In both debates, about one-third
+of the tweets are retweets.
+
+(3) The topics discussed within predefined hashtags and user accounts follow
+closely the topics discussed in the TV debate (Figures 2 and 3). The flows of
+the debates are very similar with only a small delay in the Twitter debates
+compared to the televised debate. There is no alternative political agenda
+on Twitter during the televised debate.
+
+(4) “Meta talk” — the debate about the debate — flows through both the Twitter
+debates (Figures 2 and 3). About 50 per cent of the activities on Twitter related
+to the televised debate are Meta talk in both events (Table II). Meta talk is
+also one of the topics that create most engagement among the political Twitter
+users.
+
+(5) The share of Meta talk commenting politicians’ answers and media setting
+is similar in the two debates (Table III). About half of the Meta talk concerns
+the politicians’ answers whereas about 20-25 per cent of the Meta talk
+concerns the media setting.
+
+f September — August
+Al
+
+5 15 25 35 45 55 65 75 85 95 105 115 125
+Time (5-minute segments)
+
+120
+
+ 
+
+  
+
+ 
+
+100
+
+80
+
+ 
+
+60
+
+ 
+
+Tweets
+
+40
+
+ 
+
+20
+
+ 
+
+ 
+
+Social media
+as a political
+backchannel
+
+319
+
+ 
+
+Figure 1.
+Twitter debate, August
+and SeptemberAJIM
+66,3
+
+320
+
+ 
+
+Figure 2.
+
+Most active debates
+on Twitter and themes
+on TV, August
+
+Figure 3.
+
+Most active debates on
+Twitter and themes
+
+on TV, September
+
+=e Terror = Health and Elderly === Education
+
+=== Economy --- Meta talk
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+n
+o
+o
+=
+ke
+5 10 15 20 25 30 35 40 45 50 55 60 65 70 75
+Time (5-minute segments)
+--- Meta talk === Health and Elderly === Education == Transport
+70 7
+n
+o
+o
+=
+bk
+
+ 
+
+ 
+
+ 
+
+5 15 25 35 45 55 65 75 85 95 105 115 125
+Time (5-minute segments)
+
+Meta talk in the debate
+In order to facilitate a more in-depth discussion of the role of Meta talk in the Twitter
+debate, we will first look at how Meta talk relates to topics and participants in the
+debates. In the next section we scrutinize sentiments and attitudes (Figure 4).
+
+Meta talk, “the debate about the debate” continues to rise gradually during the TV
+debate in September. Here is one example of Meta talk in a tweet (all the quoted tweets
+are translated from Norwegian to English by the authors):
+
+I'm curious when the debate about the debate ends and when the debate starts. #NRK
+#Election11. But all parties should be allowed to be statesmen.August September
+
+Themes n % n %
+
+Meta talk 311 50.2 887 49.9
+Education 134 21.6 332 18.7
+Economy and tax 64 10.3 27 15
+Elderly and health 04 8.7 227 12.8
+Transportation — — 115 6.5
+Immigration 17 2.7 31 17
+Other 10 1.6 66 3.7
+n/a 29 4.7 94 5.3
+Sum 619 100.0 1,779 100.0
+
+Note: The categories are developed in close conjunction to the categories for important topics used
+by Norwegian political parties on their web sites
+
+Social media
+as a political
+backchannel
+
+321
+
+ 
+
+Table II.
+Major themes in
+Twitter debates
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+August September
+n % n %
+Politicians’ answers 85 52.8 466 51.9
+Media setting 28 17.4 155 17.3
+Looks, grammar and body language 30 18.6 230 25.7
+URLs 17 19
+Not relevant 18 11.2 29 3.2
+Total 161 100 896 100
+50
+45 = Politicians answers
+40 — Media setting
+35 Looks and body language
+2 30
+8 25
+F 20 ”
+15 fem 7 ° |
+10 7 —
+5 LAK Vr
+0
+
+ 
+
+5 15 25 35 45 55 65 75 85 95 105 115 125
+Time (5-minute segments)
+
+Another Meta talk tweet picks up on a point mentioned by Kristin Halvorsen, party
+leader of the Socialist Left party regarding politicians and the use of social media:
+
+Kristin has a good point. Party leaders should answer on social media to people who have
+misunderstood their party. #electionl1 #election2011.
+
+Meta talk is reaching a peak at the end of the debate when many Twitter users are
+evaluating which politician “won” the debate. Prime Minister Jens Stoltenberg (Labour
+Party) and Knut Arild Hareide (party leader of the Christian Democratic Party) are
+
+Table Il.
+Meta talk
+
+Figure 4.
+Meta talk on
+Twitter, SeptemberAJIM
+66,3
+
+322
+
+ 
+
+Figure 5.
+
+Sentiment politicians’
+answers, Twitter,
+September
+
+judged most positively on Twitter in both the debates. But the most common type of
+Meta talk is humorous comments about the looks (i.e. appearances, clothes) or body
+language of the politicians, such as this comment:
+
+Tie winners: 1. Oddvar Stenstrem, 2. Jens Stoltenberg, 3. Knut Arild Hareide #election2011
+#partyleaderdebate.
+
+As previously mentioned studies have shown, humour is often found when Twitter is
+used as a political backchannel. Ironic and sarcastic comments about arguments,
+hairstyles and body language are commonly shared, such as this tweet:
+
+In my view, tanning cream is used more and more in the election campaign. #election2011.
+
+When education is the main topic during the TV debate in September, Meta talk
+slows down and drops to the lowest point during the Twitter discussion. At the same
+time, education tweets peak, indicating less distraction and more focus one the main
+topic.
+
+Reactions to politicians’ answers and the media setting
+
+Even though the comments on Twitter closely follow the agenda in the TV debates,
+Twitter users raise strong opinions, both supportive and critical, particularly towards
+politicians’ answers and the media setting. In order to examine the sentiment or
+attitude in the Meta talk tweets, we identified three main categories based on the data
+material; politicians’ answers, media setting, and looks, grammar and body language.
+Some interesting findings are worth mentioning; a majority of the Meta talk tweets are
+discussions about the politicians’s answers, such as:
+
+#partyleaderdebate @WTrinesg delivered as usual — looking forward to #election2011 on
+Monday.
+
+The same amount of Meta talk tweets are related to the media setting and looks,
+grammar and body language, except in September. In that debate, tweets about
+appearance and language increased because of particular outfits among the politicians
+and much-debated grammar use (Figure 5).
+
+When analysing the sentiment, we find that a majority of the comments about
+politicians’ answers are supportive (related to the politician(s) they are mentioning),
+both in August and in September. Particularly in August, the positive attitude is
+strong as 57 per cent of the tweets on politicians’ answers are positive (Table IV).
+The supportive sentiment continues in September, however, less dominant. The positive
+
+30
+
+ 
+
+ 
+     
+   
+
+== Supportive
+
+ 
+
+25
+Critical
+
+20 Neutral
+
+ 
+
+ 
+
+Tweets
+a
+
+ 
+
+ 
+
+5 15 25 35 45 55 65 75 85 95 105 115 125
+Time (5-minute segments)sentiment can be an expression of the above-mentioned tendency of “fandom”, which
+we will return to in the discussion (Figure 6).
+
+A big difference in the media sentiment appears between August and September.
+While Meta talk related to the media setting is fairly balanced in August, 59 per cent of
+the tweets are critical of the media setting in September (Table V). Many of the tweets
+challenge the agenda of the debate, the moderators’ question, who gets to talk when
+and for how long and how well the moderators are performing, such as:
+
+Elderly, schools, roads — replay, replay, replay. Is that all #election2011 is about?.
+I think the NRK-debate tonight should be run by the local NRK stations — with local
+candidates, not the party leaders #valg2011.
+
+Discussion
+
+H1. During televised political debates, the debate on Twitter follows the same
+agenda as the televised debate.
+
+Our analysis supports HZ. The Twitter debate both in August and September followed
+closely the topics discussed on television. There is no alternative political agenda in the
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+August September
+n % n %
+Supportive 49 57.0 200 43.1
+Critical 12 14.0 114 24.6
+Neutral 25 29.1 150 32.3
+Total 86 100 464 100
+12
+— Supportive
+10 — Critical
+8 — Neutral
+2
+8
+Fe
+5 15 25 35 45 55 65 75 85 95 105 115 125
+Time (5-minute segments)
+August September
+n % n %
+Supportive 5 18.5 10 6.4
+Critical 5 18.5 92 99.0
+Neutral 17 63 04 34.6
+Total 27 100 156 100
+
+Social media
+as a political
+backchannel
+
+323
+
+ 
+
+Table IV.
+Sentiment politicians’
+answers
+
+Figure 6.
+Sentiment media
+setting, Twitter,
+September
+
+Table V.
+Sentiment media settingAJIM
+66,3
+
+324
+
+ 
+
+Twitter debate. The Twitter debates around specific hashtags and politicians’ user
+accounts function as a political backchannel to the televised events, enabling users
+to continuously comment the broadcast as if unfolds live. This is underlined by the
+finding that even the flow of the debates are very similar with only a small delay
+in the Twitter debate compared to the televised debate. By participating in debates
+related to predefined hashtags, audience can turn television watching into communal,
+social events.
+
+According to aforementioned studies (Bruns and Burgess, 2011; Elmer (2013);
+Wallsten, 2007), we could expect the Norwegian Twitter debates on election-related
+hashtags to feature alternative agendas compared to mainstream media if the study
+covered a longer time period. The very limited time frame of this study can explain
+why the Twitter debates mimic the TV agenda so closely. Our analysis also confirms
+that “compelling political TV events” (Shamma ef al, 2010) impact the debates on
+Twitter. The data material demonstrate that the debate about education in particular
+stimulated or provoked the most tweets, and simultaneously, reduced the number of
+Meta talk, or what Shamma et al. (2010) describe as “chatness”.
+
+The first debate in August was unique because of the tragic circumstances in
+Norway at the time, which can explain the low number of tweets, as well as the high
+degree of supportive tweets related to the politicians’ answers. The tone in the
+televised debate was cautious and calm, which is also reflected in the tweets. In the
+second debate in September, however, the Twitter debate appears to be more in
+campaign mood, and we find more engagement and critical tweets, particular
+regarding the media setting, but also more tweets related to politicians’ looks,
+grammar and body language. Increased Twitter activity at the end of election
+campaigns is a strong tendency in several studies about elections campaigns and
+Twitter (Bruns and Burgess, 2011; Jiirgens and Jungherr, 2011; Larsson and Moe, 2011).
+
+Even though broadcasting companies are defining the topics (and thus setting
+the agenda) during televised political debates, Twitter users are criticizing, praising,
+fact checking and making fun of the political events taking place on the screen.
+We identified some clear tendencies when we investigated the data further, by asking
+this research question:
+
+RQI1. How are the Twitter users talking about the agenda and politicians in the
+televised debates?
+
+Meta talk — the debate about the debate — has an important function in driving
+attention and interest around the debate. One can argue that off-topic discussions
+about a party leader’s hair style or body language are of zero relevance, still, it gives
+value to Twitter users following the TV debate, as this tweet indicate:
+
+I love the combination of Twitter and #election2011.
+
+Pohtical fandom and media criticism on Twitter
+
+Tweets related to the politicians’ answers, the media setting and looks, grammar and
+body language dominated the meta talk, and particularly tweets about politicians’
+answers appear to be expressions of “fandom” (Highfield et al, 2013) — more
+specifically “political fandom”. Even though this study did not examine the Twitter
+users’ political background or which politician received most or least support and
+criticism, recent studies (Elmer, 2013; Chadwick, 2011) have demonstrated how political
+campaigns mobilize and encourage supporters to participate on Twitter during politicalTV events. In our material, Twitter users judge the performance of party leaders at the
+end of the show. Wohn and Na (2011) also found that after a political TV event, people
+engage in more opinionated discussions on Twitter. Somewhat surprisingly, a majority
+praise or support the politicians’ answers in both the debates. “Political fandom” on
+Twitter during live political TV events will depend on how successfully the political
+parties are in mobilizing their supporters to participate in the Twitter debate.
+
+A stronger criticism is found in the Twitter users’ sentiment or attitudes towards the
+media setting. The co-production between the public broadcaster and the commercial
+broadcaster TV2 was received very positively by the Twitter users in the first debate.
+But particularly in the last debate, just few days before the election, many Twitter
+users addressed critical concerns about the choice of topics and the journalists’
+questions. Broadcasters might still be gatekeepers during rituals such as political
+TV debates, however, Twitter audiences are expanding the conversation, giving live
+feedback on mediatized events.
+
+Conclusion
+
+In this paper, we have presented a number of insights concerning how Twitter is
+used during televised debates in an election campaign. Through a multiple step
+analysis using the IMSC model (issue, meta, sentiment, close reading), we were
+able to identify not only how the Twitter debate aligns very closely with the flow of
+the TV debate, but also how the Twitter debates supplement and contrast the
+debate on television. The multiple step analysis started by comparing discussed
+issues in the TV debates vs Twitter. Second, tweets discussing the “the debate
+about the debate”, Meta talk, were identified. Third, the sentiments of Meta talk
+tweets were analysed (mainly related to politicians’ answers and media setting),
+and lastly, a close reading of selected tweets were performed. Our method is well
+suited to perform in-depth analysis of Twitter debates, and we look forward to its
+further enhancement.
+
+Our analyses of how Twitter users are talking about two televised political events
+demonstrate that Twitter not only provides a backchannel for reflections on the topics
+discussed, but also a channel for proclaiming political support and critical comments
+about the debates. Political fandom and media criticism were the two clear patterns we
+found when we investigated the data more closely. Thus, Twitter can represent an
+additional, if not necessarily alternative public space.
+
+The “correction” to mainstream agenda setting often found in social media studies
+takes a different form in our study. Through our analysis of Meta talk or “the debate
+about the debate”, we have seen that Twitter users scrutinize the agenda set by
+mainstream media and the politicians, and the discussion about the debate is equally
+present as discussions about the political topics of the debate. This is a finding we have
+not seen documented in the literature before, but which became manifest in our
+multiple step approach. We look forward to future research that can explore in greater
+details some our findings here, such as political fandom and media criticism identified
+in the tweets. One approach could be to examine the sentiment of political debates
+on Twitter in a longitudinal aspect. Future research could also examine the aspect of
+political fandom on Twitter — who are the supporters and critics — “ordinary” citizens
+or party strategists? By moving beyond big data approaches often found in many
+Twitter studies, and rather dive into the details of political communication on Twitter
+during televised debates, new insights into Twitter as a political backchannel
+can emerge.
+
+Social media
+as a political
+backchannel
+
+325AJIM
+66,3
+
+326
+
+ 
+
+References
+
+Allern, S. (2011), Fyernsynsvalgkampen. Program, deltakere og maktkamp 1961-2009,
+Pax, Oslo.
+
+Bruns, A. and Burgess, J. (2011), “4#Ausvotes: how Twitter covered the 2010 Australian federal
+election”, Communication, Politics and Culture, Vol. 44 No. 2, pp. 37-56.
+
+Chadwick, A. (2011), “Britain’s first live televised party leaders’ debate: from the news cycle to
+the political information cycle”, Parliamentary Affairs, Vol. 64 No. 1, pp. 24-44.
+
+Conover, M.D., Ratkiewicz, J., Francisco, M., Gonalves, B., Flammini, A. and Menczer, F. (2011),
+“Political polarization on Twitter”, paper presented at Proceeding of the 5th International
+Conference on Weblogs and Social Media, Barcelona, available at: http://truthy.indiana.edu/
+site_media/pdfs/conover_icwsm2011_polarization.pdf (accessed 5 June 2013).
+
+Diakopoulos, N. and Shamma, D. (2010), “Characterizing debate performance via aggregated
+twitter sentiment”, Proceedings of the SIGCHI Conference on Human Factors in Computing
+Systems, Atlanta, GE, ACM, pp. 1195-1198.
+
+Elmer, G. (2013), “Live research: twittering an election debate”, New Media & Society, Vol. 15
+No. 1, pp. 18-30.
+
+Enjolras, B. and Segaard, S.B. (2011), “Ungdommens politiske bruk av sosiale medier”, Rapport
+Institutt for samfunnsforskning, Oslo, available at: www.samfunnsforskning.no/
+Publikasjoner/Rapporter/2011/2011-006 (accessed 21 May 2013).
+
+Hallin, D.C. and Mancini, P. (2004), Comparing Media Systems: Three Models of Media and
+Politics, Cambridge University Press, Cambridge, MA.
+
+Harrington, D., Highfield, TJ. and Bruns, A. (2012), “More than a backchannel: Twitter and
+television”, in Noguera, J.M. (Ed.), Audience Interactivity and Participation, COST Action
+ISO906 Transforming Audiences, Transforming Societies, Brussels, pp. 13-17.
+
+Hermida, A. (2010), “From TV to Twitter: how ambient news became ambient journalism”,
+MIC Journal, Vol. 2 No. 13, p. 2, available at: http://ssrn.com/abstract=1732603 (accessed 2
+May 2013).
+
+Highfield, T., Harrington, S. and Bruns, A. (2013), “Twitter as a technology for audiencing and
+fandom: the #Eurovision phenomenon”, Information, Communication & Society, Vol. 16
+No. 3, pp. 315-339.
+
+Holton, L. (2011), “Journalists, social media and the use of humour on Twitter”, The Electronic
+Journal of Communication, Vol. 21 Nos 1/2, pp. 1-2, available at: www.cios.org/EJCPUBLIC/
+021/1/021121.html (accessed 10 April 2013).
+
+Iyengar, S. and Kinder, D. (1987), News That Matters: Television and American Opinion,
+University of Chicago Press, Chicago, IL.
+
+Jensen, M.J. and Anstead, N. (2013), “Psephological investigations: tweets, votes and unknown
+unknowns in the republican nomination process”, Policy & Internet, Vol. 5 No. 2,
+pp. 161-182.
+
+Jurgens, P. and Jungherr, A. (2011), “Wahlkampf vom Sofa aus: Twitter im Bundestagswahlkampf”,
+in Schweizer, EJ. (Ed.), Das Internet im Wahlkampf, VS Verlag fiir Sozialwissenschaften,
+Wiesbaden, pp. 201-225.
+
+Krogstad, A. (2004), “Fjernsynsvalgkamp. Noen retoriske ovelser i fordeling av skyld og ere’, in
+Aardal, B. (Ed.), J valgkampens hete. Strategisk kommunikasjon og politisk ustkkerhet,
+Universitetsforlaget, Oslo.
+
+Kwak, H., Lee, C., Park, H. and Moon, S. (2010), “What is Twitter, a social network or a news
+media?”, WWW 10 Proceeding of the 19th international Conference on World Wide Web,
+ACM, New York, NY, pp. 591-600.
+
+Larsson, A.O. and Moe, H. (2011), “Studying political microblogging. Twitter users in the 2010
+Swedish election campaign”, New Media & Society, Vol. 14 No. 5, pp. 729-747.Lochrie, M. and Coulton, P. (2012), “Tweeting with the telly on!: mobile phones as second
+screen for TV”, IEEE Consumer Communications and Networking Conference (CCNQ),
+IEEE, pp. 729-731.
+
+McCombs, M. and Shaw, D.L. (1972), “The agenda-setting function of mass media”, Public Opin
+Q, Vol. 36 No. 2, pp. 176-187.
+
+Mascaro, C. and Goggins, S.P. (2012), “Twitter as virtual town square: citizen engagement during
+a nationally televised republican primary debate”, APSA 2012 Annual Meeting Paper,
+30 August-2 September, New Orleans, available at: http://ssrn.com/abstract=2108682 (accessed
+10 April 2013).
+
+Mendoza, M., Poblete, B. and Castillo, C. (2010), “Twitter under crisis: can we trust what we RT?”,
+Social Media Analytics, KKD10 Workshop, 25 July, Washington, DC.
+
+Moe, H. and Larsson, A. (2012), “Twitterbruk under valgkampen 2011”, Norsk medietidsskrift,
+argang, Vol. 19 No. 2, pp. 151-162.
+
+Shamma, D., Kennedy, L. and Churchill, E. (2010), “Tweetgeist: can the Twitter timeline reveal
+the structure of broadcast events?”, CSCW Horizons, available at: http://researchmicrosoft.com/
+en-us/um/redmond/groups/connect/cscw_10/docs/p589.pdf (accessed 27 June 2013).
+
+Thorbjernsen, K. (2009), “Journalistens valg. — Produksjon — interaksjon — iscenesettelse. Motet
+mellom journalistikk og politikk 1 en valgkamp med fokus pa NRK Fyjernsynets
+valgformater”, PhD thesis, Vol. 388, Det humanistiske fakultet, Universitetet 1 Oslo, Oslo.
+
+TNS Gallup (2011), “TNS Gallup InterBuss Q4 2011”, available at: www.tns-gallup.no/?did=
+9100637 (accessed 15 December 2013).
+
+Todal Jenssen, A. and Aalberg, T. (2004), “Pa valgkampens slagmark. En eksperimentell studie
+av medieeffekter”, in Aardal, B. (Ed.), J valgkampens hete. Strategisk kommunikasjon og
+politisk ustkkerhet, Universitetsforlaget, Oslo.
+
+Tumagjan, A., Sprenger, T.O., Sander, P. and Welpe, I. (2011), “Election forecasts with Twitter:
+how 140 characters reflect the political landscape”, Social Science Computer Review,
+Vol. 29, pp. 402-418, doi:10.1177/0894439310386557.
+
+Twitter (2012), “Year in review 2012”, available at: http://blog.twitter.com/2012/12/this-year-ontwitter.html (accessed 15 April 2013).
+
+Wallsten, K. (2007), “Agenda setting and the blogosphere: an analysis of the relationship between
+mainstream media and political blogs”, Review of Policy Research, Vol. 24, pp. 567-587.
+
+Wohn, D.Y. and Na, E.-K. (2011), “Tweeting about TV: sharing television viewing experiences
+via social media message streams”, First Monday, No. Sl, February (ISSN 13960466),
+available at: http://firstmonday.org/ojs/index.php/fm/article/view/3368/2779 (accessed
+5 May 2013), doi:10.5210/fm.v1613.3368.
+
+Further reading
+
+Aardal, B., Krogstad, A. and Narud, H. (2004), J valgkampens hete. Strategisk kommunikasjon og
+politisk ustkkerhet, Universitetsforlaget, Oslo.
+
+Jenkins, H. (2010), “Fandom, participatory culture and web 2.0. —a syllabus”, available at: http://
+henryjenkins.org/2010/01/fandom_participatory_culture_a.html (accessed 13 May 2013).
+
+Lee, R., Smith, A., Schlozman, K., Brady, H. and Verba, S. (2012), “Social media and political
+engagement”, Pew internet report, available at: http://pewinternet.org/Reports/2012/
+Political-engagement/Summary-of-Findings.aspx (accessed 20 May 2013).
+
+Rohm, A., Sultan, F. and Bahrdi, F. (Eds) (2009), “The multitasking paradox. Media consume
+among young consumers”, available at: http://bit.ly/1630AMW (accessed 3 March 2013).
+
+Stieglitz, S. and Dang-Xuan, L. (Eds) (2012), “Social media and political communication: a social media
+analytics framework”, Social Network Analysis and Mining, Springer, Vienna, pp. 1277-1291.
+
+Social media
+as a political
+backchannel
+
+327AJIM
+66,3
+
+328
+
+ 
+
+About the authors
+
+Dr Bente Kalsnes is a PhD Candidate at the Department of Media and Communication,
+University of Oslo. She holds an MA in Communication, Culture and Technology from the
+Georgetown University.
+
+Dr Arne H. Krumsvik, PhD, is an Associate Professor at the Department of Journalism and
+Media Studies, Oslo and Akershus University College of Applied Sciences. He has published
+several articles on media management, media policy and online journalism. He is member of
+the Editorial Board of Digital Journalism and Book Review Editor of the Journal of Media
+Innovations. Dr Arne H. Krumsvik is the corresponding author and can be contacted at:
+arne.krumsvik@hioa.no
+
+Tanja Storsul, PhD, is a Professor and Head of the Department of Media and Communications
+at the University of Oslo. Her research interests include technology and media innovations,
+media policy and media convergence. Her latest book is Media Innovations. A Multidisciplinary
+Study of Change, co-edited with Arne H. Krumsvik (Nordicom 2013).
+
+ 
+
+To purchase reprints of this article please e-mail: reprints@emeraldinsight.com
+Or visit our web site for further details: www.emeraldinsight.com/reprints

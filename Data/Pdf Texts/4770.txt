@@ -1,0 +1,1501 @@
+The current issue and full text archive of this journal is available on Emerald Insight at:
+www.emeraldinsight.com/0959-6119.htm
+
+ 
+
+CHM
+30,9
+
+2888
+
+ 
+
+Received 16 February 2017
+Revised 11 August 2017
+31 January 2018
+
+14 March 2018
+
+Accepted 7 April 2018
+
+International Journal of
+Contemporary Hospitality
+Management
+
+Vol. 30 No. 9, 2018
+
+pp. 2888-2907
+
+© Emerald Publishing Limited
+0959-6119
+
+DOI 10.1108/IJCHM-02-2017-0085
+
+Understanding the relationship
+among resources, social media use
+and hotel performance
+
+The case of Twitter use by hotels
+
+Woo-Hyuk Kim
+Department of Hospitality Management, Kansas State University,
+Manhattan, Kansas, USA, and
+
+Bongsug (Kevin) Chae
+Department of Management, Kansas State Uniwersity, Manhattan, Kansas, USA
+
+Abstract
+
+Purpose — The purpose of this study is to understand the use of social networking sites (SNSs) by hotels.
+Specifically, drawn upon a resource and capability-based perspective, this study addresses two research
+questions: (1) the relationship between a hotel’s resources and its use of Twitter and (2) the relationship
+between the use of Twitter by hotels and their RevPAR.
+
+Design/methodology/approach — The research data include the hotel chain scales, Twitter user profiles
+and Twitter activities of the hotel parent companies in the USA and the hotels’ RevPAR. To more clearly
+understand the effect of the use of SNSs, the study uses two dimensions: electronic word-of-mouth and
+customer engagement. The two dimensions of the hotels’ Twitter use are calculated based on the data
+extracted from their Twitter user profiles and historical tweets. For a practical purpose, a social media index
+(SMI), which combines electronic word-of-mouth and the customer engagement score, was used to determine
+the overall level of Twitter use by hotels.
+
+Findings — For RQ, the results indicate there is a positive association between a hotel’s resources and
+Twitter use. For RQ2, this study shows there is also a positive association between Twitter use by hotels and
+their RevPAR.
+
+Practical implications — Twitter use appears to be associated with hotels’ resources. In turn, Twitter use
+is positively associated with hotel RevPAR. Thus, hotels should look at Twitter as a potential strategic tool
+for business operation and attempt to increase their ability to leverage Twitter (and other SNSs) for
+organizational goals (e.g. sales, promotion, customer service).
+
+Originality/value — To the authors’ knowledge, this is the first study empirically investigating the use of
+SNSs by hotels with the data drawn from actual firm-generated content (e.g. tweets, retweets) and hotels’ user
+profile information from Twitter.
+
+Keywords Hotel performance, Resource-based view, Twitter, Social media use
+
+Paper type Research paper
+
+Introduction
+
+Social media refers to a broad range of internet applications, including online review sites
+(ag. TripAdvisor), social networking sites (SNSs) (e.g. Twitter) and content sharing platforms
+(ag. YouTube) (Kaplan and Haenlein, 2010). In recent years, social media, particularly SNSs,
+has expanded rapidly in industries. Over 90 per cent of marketers have used such social media
+platforms for their businesses (Bennett, 2013). According to an industry report, almost 80 per
+cent of Fortune 500 companies employ Twitter and Facebook (Barnes and Lescault, 2014). Arecent Chief Marketing Officers’ (CMO) survey shows that companies are increasing their (Case of twitter
+
+expenditures on SNS such as Twitter and Facebook by investing in technology and
+infrastructure (Tadena, 2014). Facebook reached 1.65 billion monthly active users (Facebook,
+2016), while Twitter claims to have over 300 million monthly active users (Twitter, 2016).
+
+In recent years, the hotel industry has increasingly adopted social media, particularly in
+the form of SNSs (Luo and Zhong, 2015), which play key roles in advertising, marketing and
+promotions within the hotel industry (Kim and Park, 2017; Taylor et al, 2015). This trend is
+also observed in tourism industries as festivals (MacKay ef al, 2017), destination
+management organizations (Mariani et al, 2016) and travel agencies (Park et al, 2016) are
+now actively utilizing social media. With social media’s increasing popularity, consumers
+are expected to express or share their opinions and seek information on social media in the
+hotel industry (Sparks et al., 2016; Xie et al., 2016). This increasing adoption of social media
+has changed methods of interaction and participation in the hotel industry (Leung ef al,
+2015). Among many different internet-based applications, SNSs (e.g. Twitter) in particular
+are currently flourishing. A recent report on customer engagement technology shows that
+Twitter is among “the top three” (1e. Facebook, Twitter and LinkedIn) social media
+platforms used by hotels in the USA (Leung ef al, 2015).
+
+Although the hotel industry has significantly increased its adoption of SNSs, there is a
+growing sentiment among businesses: while they increase investments (or resources) in SNSs,
+they are wondering about the impact of such investments on social media use and business
+performance (Tadena, 2014). Moreover, there has been relatively little empirical research on the
+relationship between social media use and hotel performance (Kim ef al, 2016). As a recent
+literature review (Lu et al, 2018) on social media in the hospitality and tourism industry during
+2004-2014 revealed, many studies have paid attention to online review sites (e.g. TripAdvisor),
+also known as user-generated content aggregators, and explored the impact of user-generated
+contents, such as reviews and ratings, in the context of hotel performance (Anderson, 2012; Kim
+et al, 2015b; Kwok et al, 2017; Xie et al, 2014; Ye et al, 2011). For example, Kim ef al (2015b)
+reported that online reviews influence customers’ decisions and, subsequently, hotel
+performance. However, there has been relatively little research on the SNSs form of social
+media and firm-generated content (e.g. promotion) in the hospitality and tourism contexts (Kim
+et al., 2015b). In turn, social media research in the hospitality and tourism areas lacks diversity,
+and research on Twitter and other SNSs is limited (Lu et al, 2018).
+
+This study is an attempt to fill the research gap in hospitality and tourism literature
+by answering two research questions. The first research question deals with the
+relationship between hotels’ access to resources and their use of Twitter. The empirical
+findings from this question will reveal whether hotels’ resources are positively
+associated with Twitter use. Second, the study answers the question of whether there is a
+positive relationship between hotels’ Twitter use and their RevPAR. A resource and
+capability-based perspective (Trainor, 2012) is considered as a theoretical basis. This
+theoretical framework suggests that firms’ resources become the source of distinctive
+capabilities, which are positively associated with business performance. In this vein, two
+hypotheses are developed:
+
+(1) the level of social media (Twitter) use by hotels increased with their access to
+resources; and
+
+(2) there isa positive association between Twitter use and hotels’ business performance.
+
+This research draws upon the data, including the hotel chain scales, Twitter user profiles
+and firm-generated content, of the hotel parent companies in the USA and the hotel parent
+companies’ RevPAR values.
+
+use by hotels
+
+2889CHM
+30,9
+
+2890
+
+ 
+
+Literature review
+
+Theoretical background
+
+This study draws upon a resource and capabilities-based perspective (Trainor, 2012) as the
+theoretical basis. According to this perspective, a firm is properly viewed as a collection of
+resources, such as brand names, reputation, in-house IT knowledge, skilled employees and
+capital (Wernerfelt, 1984). Organizational capabilities (or competences) can be generated
+from such resources and, as a result, lead to competitive advantage. Organizational
+capabilities are shown in different forms, including business processes (Teece ef al., 1997),
+routines (Grant, 1991) and IT deployment and use (Bharadwaj, 2000). According to Grant
+(1991), a capability is “regular and predictable patterns of activity” (p. 122), such as customer
+service, new product development, advertising and technology adoption and use. In
+technology contexts, Bharadwaj (2000) noted that IT capability is a firm’s ability to leverage
+IT for organizational benefit. The adoption and use of organizational technologies, which
+varies among companies, largely rely on firms’ resources (Caldeira and Ward, 2003). This
+resource and capability perspective has been adopted in social media contexts (Trainor,
+2012).
+
+Within this framework, a hotel’s resources are an important consideration when
+discussing its use of social media, as the adoption and use of a social media platform such as
+Twitter is considered an innovative business practice (Leung et al., 2015), involving costs
+(Paniagua and Sapena, 2014) and requiring investments in technologies, people,
+organizational policies and other infrastructure (Jussila et a/., 2014; Michaelidou et al, 2011).
+Continuous use of social media requires firm resources (e.g. technology, people and capital)
+and coordination among organizational actors. In short, a hotel’s ability to leverage social
+media largely relies on its resources, and a hotel’s use of Twitter for communication and
+engagement is considered one of its capabilities or competencies. For example, customers
+follow popular brands in Twitter (Chu and Sung, 2015), and thus, hotel brand image is
+considered a key organizational resource affecting a hotel’s Twitter use or its ability to
+leverage Twitter for organizational goals (e.g. sales, promotion and customer service). In this
+vein, hotels with large numbers of brand followers are likely to achieve their goals better
+than those with fewer followers.
+
+Social media use
+Social media has evolved at a fast pace in recent years, and there are many forms of social
+media (Kaplan and Haenlein, 2010). This study focuses on SNSs whose popularity has
+surged, as many businesses and customers have adopted Twitter and Facebook. Social
+media platforms vary by their “affordances”. While online review sites (e.g. TripAdvisor),
+which have been extensively studied in the hospitality and tourism management (Lu et al,
+2018), mainly host user-generated content, Twitter and other SNS provide both usergenerated and firm-generated content (Noone et al., 2011). Thus, two dimensions of Twitter
+use deserve extra attention: electronic word-of-mouth and engagement with customers.
+Word-of-mouth (WOM) is a popular term to describe the social fabric of information
+diffusion among customers, and the influence such information has on purchasing decisions
+and brand recognition. WOM is spread through the internet nowadays and is broadly
+known as eWOM (King ef al, 2014). Using web technologies (e.g. blogs, review sites),
+potential customers can now seek advice and information about products from outside their
+own networks (e.g. close friends). Lately, SNS has expanded the impact of eWOM through
+the virality of information available via online networks (Litvin et al, 2018). People and
+organizations are connected through such things as friendship in Facebook and follower
+relationships in Twitter. Information can be viral through this type of online relationship.For example, posting reviews and opinions on social media was well-documented by a tweet
+about the financial markets. In 2013, the Associated Press’ Twitter account was hacked and
+7 million followers’ responses to reports about a White House explosion appeared on the
+company’s Twitter feed. In response, the US stock market fell sharply within a few seconds,
+and the Dow Jones dropped more than 100 points within a few minutes.
+
+As the hospitality and tourism fields generate intangibles that are often associated with
+luxury, customers tend to be risk-averse when choosing a hotel provider (Leung et al., 2013).
+In this context, studies have examined how eWOM influences prospective customers’
+decisions on room purchases, which subsequently affect hotel performance. Several studies
+have focused on online customer review sites and the effects of user-generated content
+(e.g. customer reviews) on different performance measures (Cheng and Loi, 2014). The
+general findings of such studies suggest that the valence and volume of online customer
+reviews have a significant impact on hotels’ financial performance.
+
+The importance of engagement with customers has long been recognized in hotel
+literature. Such efforts by hotels are often discussed in the context of customer relationship
+management (CRM). This customer engagement often takes two forms: responsive and
+proactive. Management responses can not only address service-related issues and help the
+company recover from service failures (Barsky and Frame, 2009), but also increase customer
+satisfaction by addressing service failures in a timely manner (Ye, 2014). In the service field,
+it is difficult to achieve consistent service quality (Levy ef al., 2013); management responses
+to service failures have influenced customers’ future behavioral intentions (Vermeulen and
+Seegers, 2009). The extant literature on online customer reviews and hotel performance also
+provides an understanding of the role of a firm’s engagement with customers and its impact
+on financial performance. The overall findings (Kim et al, 2015b; Xie et al., 2014) suggest
+that the quantity of management responses affects hotel performance.
+
+Some hotel marketers have become proactive in engaging with customers. SNS could
+potentially enable greater proactive engagement with customers. For example, hotels are
+initiating conversations with potential customers through original tweets or posts, in which
+they ask customers about their experiences, opinions and ideas, rather than passively
+responding to questions from customers. Also, hotel management addresses the issues and
+concerns of specific customers and thanks them for positive comments. This type of
+engagement is enabled through firm-generated content via Twitter and Facebook. Finally,
+hotel management can engage with consumers by sharing customers’ tweets or posts to
+strengthen relationships, as well as brand image. Thus, by taking a firm’s perspective, in
+this study customer engagement is a hotel’s ability to leverage Twitter to respond to
+customers, as well as to proactively engage with customers using firm-generated content.
+
+Hypothesis development
+
+As a primary example of SNS, Twitter enables real-time, flexible communication through
+original tweets, replies and retweets. In addition, the Twitter site hosts content that can be
+easily accessed in various ways, including active keyword searches and following other
+users (Zhang et al, 2011). Specifically, Twitter provides certain features that can enable
+greater eWOM, as well as effective customer relationship management. For example,
+Twitter’s following feature enables relationship formation among potential customers and
+hotels. Through this relationship in the Twitter sphere, product- and brand-related
+information spreads rapidly and has the potential to become viral. Many examples of largescale eWOM distribution have occurred in this context (Sakaki et a/., 2010), including in the
+hotel industry (Mendez, 2010).
+
+Case of twitter
+use by hotels
+
+2891IJCHM
+30,9
+
+2892
+
+ 
+
+Electronic WOM and engagement with customers, using Twitter and other SNSs, rely on
+hotels’ resources. The literature shows that the business use of social media requires firm
+resources and can be expensive (Jussila et al., 2014; Michaelidou ef al., 2011; Paniagua and
+Sapena, 2014). Social media adoption is considered adoption of innovation, which faces
+several perceived barriers including lack of financial and human resources and
+unfamiliarity with new technologies (Michaelidou ef al, 2011).
+
+Active use of social media by hotels could be more challenging than adopting social
+media. Social media adoption itself may be less expensive. However, using social media
+for business purposes, such as marketing and engagement, requires investments in
+technological, financial and organizational resources, such as subscribing to social
+media management tools (e.g. Hootsuite), hiring a team responsible for social media
+communication and establishing organizational policies and procedures for
+disseminating information (e.g. promotion) and responding to customer requests and
+complaints (Jussila ef al., 2014; Paniagua and Sapena, 2014). Thus, a hotel’s use of social
+media could be affected by its access to resources, its level of innovativeness and its
+size (Michaelidou et al., 2011). Taylor et al. (2015) examined the impact of Twitter use
+between two types of hotels (midrange and luxury) on customers’ purchasing decisions.
+Their findings suggest that luxury hotels are more active on Twitter than midrange
+hotels because the hotels with greater access to resources (e.g. brand names) are more
+popular and more engaged in the Twitter sphere than those with less.
+
+H1. The level of social media use by hotels increases with their access to
+resources.
+
+Effectively managing and using Twitter and other SNS is considered organizational
+capabilities or competence. From the resource and capabilities-based perspective,
+organizational capabilities are positively associated with organizational performance and
+there is strong empirical evidence for that relationship (Fainshmidt ef al., 2016). Many
+studies on online reviews (Kwok et al, 2017) show that hotels with “processes” or
+“routines” on timely responses to customer online reviews experience positive financial
+performance. Also, studies in social media marketing suggest a positive relationship
+between the investment in social media and organizational performance. Schniederjans
+et al. (2013) investigated the relationships between social media (e.g. blogs, forums
+and corporate websites) and financial performance using impression management
+perspective. Their study suggested that social media usage has a positive association
+with firm financial performance.
+
+In Twitter contexts, scholars have found that the use of Twitter is associated with
+positive corporate financial performance. Jasen et al. (2009) showed that customers use this
+social media tool to share opinions on brands and to disseminate eWOM. According to Gong
+et al. (2014), in an investigation of the relationship between Twitter use and product sales, a
+firm’s tweets and influential retweets exerted a significant effect on sales. Paniagua and
+Sapena (2014) also examined the effects of social media on corporate financial performance
+and revealed social media’s positive influence (by way of followers in Twitter and likes in
+Facebook) on financial performance. They note that Twitter would be more effective than
+Facebook in increasing financial performance. In accordance with the resource and
+capabilities-based perspective and the extant studies on the impact of social media on
+business performance, it is posited:
+
+H2. There is a positive association between Twitter use and hotels’ business
+performance.Methodology
+
+Sample and data collection
+
+Data collection began with acquiring information from Smith Travel Research (STR)
+regarding the 129 hotel parent companies in the USA. This list was used to identify the
+Twitter use name for each of the hotel parent companies; 113 hotels maintained Twitter user
+accounts, while the other 16 hotel parent companies had no presence in the Twitter sphere.
+The hotel chain scales (e.g. upscale, luxury), also borrowed from STR, were used to divide
+129 hotels into four groups (luxury, upscale, midsize and economy) in terms of the level of
+hotels’ access to resources.
+
+The level of social media use by hotels was extracted from the 113 hotels’ Twitter user
+profiles and actual tweets. Python programming scripts were written to access Twitter
+Application Program Interface (API) and collect the data in April 2016. Twitter API, a
+program protocol, allows researchers and businesses to collect tweets and metadata (e.g.
+user profiles) using search keywords (or hashtags), user account names or random
+sampling. To access Twitter API, Twitter API credentials are required from https://apps.
+twitter.com.
+
+A Twitter user profile includes a description of the user, his or her profile age, number of
+followers (both individuals and groups) and other user information. For the actual tweets,
+text processing methods, such as Regular Expression, were used to automatically extract
+the number of mentions and retweets by each hotel, which indicates the level of customer
+engagement by the hotels.
+
+Finally, the hotels’ RevPAR were collected from the hotels’ annual reports available on
+the internet. This online search resulted in collecting the RevPAR value of 25 hotel parent
+companies that currently use Twitter. Although initially these numbers may seem
+insignificant, compared to larger studies, the sample sizes were, in fact, statistically
+sufficient because they were above the minimum required to achieve necessary accuracy at
+the 0.05 level and to attain the hypothesized effect size for the analysis utilized (Cohen, 1992).
+
+Variable definition
+
+In accordance with the proposed conceptual model, three variables are considered:
+organizational resources, social media use (or capabilities) and hotel performance (RevPAR).
+First, in terms of hotels’ organizational resources, the hotel chain scales (e.g. luxury, upscale)
+from STR were used as the measure for hotels’ access to resources, with the assumption that
+the hotels in the high hotel chain scales (e.g. luxury) are those with more resources than
+those in the low scales (e.g. economy).
+
+Second, social media use was modeled as reflective of two dimensions: eWOM and
+engagement with customers. These two dimensions were measured using data from the
+Twitter user profiles and actual tweets of hotel parent companies. For practical use, the
+scores of these dimensions are combined to create an index, Social Media Index (SMI),
+representing the overall level of Twitter use by the hotel parent companies. Table I provides
+a summary of the variables and measurements used in this study.eWOM represents the
+potentiality of hotels’ messages to be spread to customers. This dimension was measured
+through three items: number of followers, growth in number of followers and number of
+lists. For example, the number of followers tends to determine the potential virality of a
+hotel’s promotional tweet in the Twitter sphere. The promotional tweet of a hotel, with a
+large number of followers, is expected to be more effective than that of a hotel with fewer
+followers.
+
+Three values from Twitter user profiles — follower counts, follower growth and list
+counts — were used to gauge the escalation of eWOM. In our study, follower count refers to
+
+Case of twitter
+use by hotels
+
+2893IJCHM
+30,9
+
+2894
+
+ 
+
+Table I.
+Variables and
+measurement
+
+Variables Description
+
+Organizational resources The hotel chain scales (e.g., luxury, upscale) from STR were used as
+the measure for hotels’ access to resources
+
+Twitter use eWOM The potentiality of hotels’ message to be spread to customers
+
+Follower counts The number of Twitter users following a hotel
+
+Follower growth The number of months since hotel had joined Twitter
+
+Lists counts The number of Twitter lists on which the hotels’ tweets have appeared
+
+Customer engagement (CE)
+
+Status counts The total number of tweets from each hotel’s Twitter account
+
+Mentions counts The number of mentions by the hotel
+
+Retweets counts The number of retweeting customers’ tweets by the hotel
+
+Business performance The revenue per available room (a hotel’s ADR x occupancy)
+
+Notes: Adapted from http://dev.datasift.com/docs/sources/public-sources/twitter; https://dev.twitter.com/
+rest/reference/get/users/show; https://dev.twitter.com/overview/api/users
+
+the number of Twitter users following a hotel. Follower count was used to measure eWOM
+in previous studies (Bakshy et al, 2011; Cha et al, 2010; Paniagua and Sapena, 2014).
+Follower growth was calculated by dividing follower count by the number of months since
+the hotel had joined Twitter. This item was borrowed from a previous study (Lee et al,
+2013), which analyzed the relationship between Fortune 500 companies’ Twitter use and
+their corporate social responsibility ratings. Finally, list count was the number of Twitter
+lists on which the hotels’ tweets have appeared. A Twitter list[1] allows people to follow
+interesting Twitter accounts and their messages. While follower count has been the de-facto
+item for eWOM, list count, as a relatively new feature in Twitter, it is also considered an
+important eWOM indicator, as it shows the popularity of a user. As a group, these three item
+values were expected to measure the degree of potential eWOM power of each hotel parent
+company. These values were distributed in a skewed manner, so they were logarithmically
+transformed.
+
+Next, to measure the extent to which hotels engage with customers in Twitter, firmgenerated content, such as tweets, retweets and mentions are considered. On online review
+sites, such as TripAdvisor, the primary content generator is customers, and hotel staffs are
+limited in that they can only respond to customer reviews (e.g. negative comments). In
+contrast, Twitter provides more options. For example, hotel marketers are able to initiate
+conversations with existing or potential customers using tweets, respond to customers using
+mentions and build their brands among followers using vetweets. This dimension looks at
+how active hotel parent companies are in the Twitter sphere through firm-generated content.
+Three item values were used: status count, mention count and retweet count. They
+measured the degree of a user’s Twitter activity in previous studies (Cha et al., 2010). Status
+count refers to the total number of tweets from each hotel’s Twitter account. For instance,
+one hotel responded to a customer’s complaint regarding a billing error: “@Kevin hi, as
+already confirmed, the deposit was already released back to your account, the hotel offered
+to refund your last stay”. In this tweet, @Kevin is considered a mention. Another hotel sent
+out a tweet “RT @Mike: @Accorhotels joins Climate Camp. Growing vegetables and
+changing menu. https://t.co/v Y4zyfftim #Hotels #Travel”. In this example, the hotel (Accor
+Hotels) retweeted Mike’s original tweet, which positively describes the hotel’s green
+initiative. This retweet appears for all the hotel’s followers. Regular expression, a popular
+technique for finding patterns in texts, was used to automatically extract mention count andretweet count from the actual tweets generated between January and April of 2016. For
+example, a regex ((?<=@)\w-+) in the Python programming environment identifies any
+tweets containing the @ symbol as a mention. These three values — tweet counts, retweet
+counts and mention counts — were logarithmically transformed.
+
+Finally, for a practical purpose, the SMI of each hotel was calculated by the sum of
+eWOM and customer engagement scores. This index intends to show the overall level of
+Twitter use by a hotel. A hotel’s business performance was measured by RevPAR, a
+commonly accepted business performance measure for hotels. RevPAR was calculated as
+the revenue per available room (a hotel’s ADR x occupancy).
+
+Analysis
+
+To test Hi, the hotel parent companies were categorized in terms of their access to
+organizational resources. The hotel chain scales from STR rely on the actual average room
+rates to categorize hotels into one of seven group categories: luxury, upper upscale, upscale,
+upper midrange, midrange, economy and independent hotels. The hotels that charge high
+average room rates are expected to have greater resources than those that charge lower than
+average room rates. Testing H7 involved dividing the sample of 129 hotels into four groups:
+luxury group (luxury chains), upscale group (upper upscale chains and upscale chains),
+midscale group (upper midscale chains and midscale chains) and economy group (economy
+chains). The hotels in the independent category were excluded from this test, as these hotels
+are not on STR’s list of the hotel parent companies.
+
+To test H2, 25 hotel parent companies, whose RevPAR values are available on the
+internet, were divided into two groups (i.e. high and low) in terms of their degree of Twitter
+use. First, in terms of eWOM value, 14 and 11] hotels were assigned to the high eWOM group
+(above the average score, 9.13) and the low eWOM group (below the average score),
+respectively. Next, in terms of customer engagement, 16 and 9 hotels were assigned to the
+high customer engagement group (above the average score, 7.62) and the low customer
+engagement group (below the average score), respectively. The SMI value, which is
+determined by combining eWOM and customer engagement scores, was used to separate
+the hotels with high social media use from those with low social media use. 14 and 11 hotels
+were assigned to the high social media use group (above the average score, 16.14) and the
+low social media use group (below the average score), respectively.
+
+Results
+
+Relationship between hotel’s resources and social media use
+
+MANOVA was used to test H7. The hypothesis states that the greater access hotels have to
+resources, the higher their social media use is. The hotels were divided into four groups,
+based on the hotel chain scales from STR: luxury (i.e. luxury chains), upscale (1.e. upper
+upscale chains and upscale chains), midscale (.e. upper midscale chains and midscale
+chains) and economy (i.e. economy chains). MANOVA tests whether there is a significant
+difference among those four groups of hotels with respect to social media use. Table II
+summarizes the test results. A significant effect was found (Wilks’s A = 0.730, F = 6.133,
+pb < 0.001). Follow-up univariate analysis of variance shows there is a statistical difference in
+eWOM (F(3, 109) = 12.27, p < 0.001, n” = 0.253), customer engagement (F(3, 109) = 11.43,
+p = 0.001, 7? = 0.239) and SMI (F(3, 109) = 328.26, p < 0.001, 7 = 0.267).
+
+As a follow-up, a Bonferroni post-hoc test was performed (Table III). With respect to
+eWOM and SMI, the test results showed that the luxury group was significantly different
+from the economy group (p < 0.001), but not from the other two groups (upscale and
+midsize) (b >0.05). The upscale group’s eWOM was significantly different from the
+
+Case of twitter
+use by hotels
+
+2895CHM
+30,9
+
+2896
+
+ 
+
+Table II.
+
+Results of MANOVA
+for eWOM, customer
+engagement and
+social media index
+
+Multivariate results
+
+Wilks’s A F
+Main effect
+Scales 0.730 6.133%
+Source Type III sum of squares df Mean square F Sig. Partial 7?
+Dependent variable: eWOM
+Scales 296.280 3 98.76 12.27 0.001* 0.253
+Error 887.101 109 8.047
+Total 5732.692 113
+R° = 0.253 (adjusted R? = 0.232)
+Dependent variable: Customer engagement
+Scales 201.272 3 67.09 11.43 0.001* 0.239
+Error 639.953 109 5.871
+Total 4.404.311 113
+R° = 0.239 (adjusted R? = 0.218)
+Dependent variable: Social media index
+Scales 984.775 3 328.26 13.24 0.001* 0.267
+Error 639.953 106 24.79
+
+Total 19,870.445 113
+R? = 0.267 (adjusted R? = 0.247)
+
+Note: *) < 0.05; statistically significant effects are in italics
+
+economy group’s (p < 0.001), but not from the midsize group’s (p > 0.05). The midsize
+group’s eWOM is significantly different from the economy group’s (p < 0.05). In terms of
+customer engagement (CE), the luxury group was significantly different from the
+economy group (d < 0.001), but not from the other two groups. The upscale group was
+significantly different from the economy group (p <0.001), but not from the midsize
+group. The difference between midsize and economy was not statistically significant
+with respect to CE.
+
+Relationship between social media use and RevPAR
+
+To test H2, the data were analyzed using an independent-sample t-test. Table IV shows the
+results of H2. First, the results showed that there was a significant difference in hotel
+RevPAR between the two groups (high and low eWOM) (¢ (23) = 2.22; p < 0.05, 7” = 0.177).
+More specifically, the high eWOM group experienced a significantly higher RevPAR
+(M = 147.44, SD = 98.84) than the low eWOM group (MV = 78.64, SD = 28.66). The results
+also showed a significant difference in hotel RevPAR between the high and low groups in
+terms of customer engagement (¢ (23) = 2.24; p < 0.05, n? = 0.119). The hotel parent
+companies with high customer engagement experienced a significantly higher RevPAR
+(M = 138.13, SD = 95.70) than those with low customer engagement (MV = 78.91, SD = 30.60).
+Finally, the results showed a significant difference in hotel RevPAR between the hotel
+parent companies with high Twitter use and those with low Twitter use (¢ (23) = 2.31; p <
+0.05, 7” = 0.266). More specifically, the group with high SMI experienced a significantly
+higher RevPAR (MV = 155.04, SD = 101.10) than the group with low SMI (MV = 81.07, SD =
+34.11). Thus, H2 was supported.Case of twitter
+use by hotels
+
+INS
+HO
+WOM?
+INS
+HO
+WOM?
+INS
+HO
+WOM?
+INS
+HO
+WOM?
+
+salqeiea
+juapuedeq
+
+&
+
+ep)
+
+Q
+
+N
+«100 vOS'T
+6010 606
++LE00 GLLG
+«0000 €00°9
+«1000 919%
+«0000 L8EE
+«0000 6S8'8
+«0000 V86E
+«0000 8987
+
+DOULITFIUSIS sUsJeJjIp
+UbdI
+AWIOU00q
+
+«100
+6010
++2600
+
+000°T
+000°T
+000°T
+6500
+S00
+0010
+
+OULITJIUSIS
+
+oZiSplN
+
+VO8T—
+GEOG
+GLLG—
+
+661 T
+v8o0
+9190
+8V0'V
+oo6 T
+960°C
+
+souaJeJfIp
+
+uesyl
+
+«1700
+«1000
+*000°0
+000°T
+000°T
+000°T
+
+1400
+820°0
+6610
+
+OULITJIUSIS
+
+vO8'T— «0000
+
+919'6— «0000
+
+L8EE— «0000
+
+661 T— 6500
+
+v8S0— S500
+
+919'0— 00TO
+1200
+8200
+6¢éT'0
+
+68'S
+
+69¢'T
+
+O8v'T
+
+doUVIEFFJIP IOULITFIUSIS
+ueefl
+
+SoRyU YM
+RsSege
+ok25 .8
+a V'anerere sn
+2ebsges
+Soe 5 ao
+SOc . 5 @
+OS HE
+oO oO S
+22528
+BeOS
+g8 0 »
+wa
+GO'0 > Fx 0I0N
+698'8—
+86 E—
+208'F— AwIOU0Ny
+8v0v—
+656 T—
+960°C— oZISPIA
+678'o—
+69¢ T—
+O8V T— ajeosdy
+AMXNT
+JOUIIOFJIP SaTBIS
+UvaCHM
+30,9
+
+2898
+
+ 
+
+Table IV.
+
+Results of
+independent t-test for
+social media use
+
+Dependent variable: RevPAR n M(SD) 7” t Sig.
+Type of group (eWOM)
+
+High eWOM 14 147.44 (98.84) 0.177 2.22 0.036*
+Low eWOM 11 78.64 (28.66)
+
+Type of group (Customer engagement)
+
+High customer engagement 16 138.13 (95.70) 0.119 2.24 0.037*
+Low customer engagement 9 79.91 (30.60)
+
+Type of group (SMD
+
+High social media index 14 155.04 (101.10) 0.266 2.31 0.030*
+Low social media index 11 81.07 (84.11)
+
+Note: *) < 0.05; statistically significant effects are in italics
+
+Discussion and conclusion
+
+Conclusions
+
+Due to social media having become an essential tool in the hotel industry, for marketing,
+advertising and customer service, there have been an increasing number of studies on this
+topic. However, they have focused primarily on online review sites (e.g. TripAdvisor, hotels.
+com) and other user-generated content aggregators (Kwok ef al., 2017). There have been few
+empirical studies on SNSs (e.g. Twitter, Facebook) in the hotel contexts (Lu et al., 2018).
+Drawn from a resources and capabilities-based perspective, this study is to explore (1) the
+relationship between firms’ access to resources and SNS use and (2) the relationship between
+SNS use and performance in the hotel industry. Twitter was chosen for this study because of
+its growing popularity in both business and society in general (Kessler, 2010; Park ef al,
+2016; Taylor et al., 2015).
+
+Question 1 addressed the relationship between hotels’ resources and social media use. As
+social media use is an innovative business practice (Leung et al., 2015) requiring bundling of
+firm resources, hotels’ resources are expected to influence the adoption and use of social
+media. For Question 2, the hotels were divided into two groups (high and low) in terms of
+SMI. The RevPAR value of the two groups was compared. To our knowledge, this is the first
+study to empirically investigate the use of SNSs by hotel marketers utilizing data drawn
+from actual firm-generated content and hotels’ profile information from Twitter. The extant
+literature emphasizes the positive role of social media use on business performance (Gong
+et al., 2014; Paniagua and Sapena, 2014). Similarly, this study found a positive association
+between the level of social media use and hotel performance. In this research, we viewed
+social media use as organizational capability and considered two dimensions (i.e. eWOM
+and customer engagement). For practical purposes, the combined scores (social media index,
+SMI) of these two dimensions were used to measure hotel chains’ overall level of social
+media use.
+
+The findings related to H7 showed that social media use by luxury, upscale and midrange hotels was significantly higher than that of economy hotels. Organizational
+initiatives, such as adoption of new technologies and business practices, require resources.
+Therefore, the hotels with greater resources appeared to be more active in the Twitter sphere
+and more influential and engaged than those with fewer resources. However, the results also
+indicated that there was no statistical significance in social media use by the three groups ofhotels (ie. luxury, upscale and midrange). This may suggest that the adoption and
+continuing use of social media platforms by hotels is less resource-intensive than more
+complex initiatives, such as Radio-Frequency Identification (RFID) technology[2] (Cobos
+et al., 2016) and big data analytics (Fan and Gordon, 2014). That is, social media adoption
+and use by hotels seems to require fewer resources, so that even midrange hotels have
+become as active in the Twitter sphere as luxury and upscale hotels.
+
+Also, the results associated with H7 seemed to indicate that the impact of hotels’ access
+to resources was different for eWOM and customer engagement. The luxury, upscale and
+economy categories of hotels were similar with respect to the level of eWOM. On the other
+hand, only two groups (luxury, upscale) appeared to be similar, in terms of customer
+engagement, and there was no significant difference between midrange and economy
+categories. This may provide some evidence that engaging with customers is more resourceintensive than eWOM. In a SNS sphere, the latter mainly relies on the number of followers
+(or friendships) and the popularity of hotel brand images and reputations (e.g. list counts). A
+hotel may be able to increase its number of followers through attracting more users and
+other strategies. On the other hand, this type of customer engagement would require
+companies to invest more resources to generate original messages, respond to other users’
+tweets and forward others’ messages of interest to a hotel’s followers.
+
+The results associated with H? show that both eWOM and customer engagement are
+positively associated with hotel RevPAR. This finding is similar to that of previous studies
+showing that a high volume of online reviews and management responses on customer
+review sites are favorably perceived by customers and may help increase a hotel’s financial
+growth. Our findings indicate that hotels with high SNS use experience greater financial
+success.
+
+Theoretical implications
+From a theoretical perspective, previous researchers have considered eWOM to be
+important for measuring social media use (Hu et al., 2012; Kim et al., 2015a; Ye et al., 2011)).
+In our study, we explored both eWOM and customer engagement in understanding social
+media use, which has become equally important in a SNS setting. Potential customers go to
+online review sites to seek information and read both negative and positive reviews prior to
+deciding where to make reservations. However, with Twitter, customers do not have to seek
+out such information. For example, a customer’s negative tweet about a hotel’s service,
+quality or safety automatically appears in hihe/sher followers’ feed and can be retweeted
+instantly. The brevity of messages makes microblogging popular, and social networking
+allows tweets or posts to spread quickly to a larger on-line community. Thus, timely,
+appropriate responses from hotel management become even more important on SNSs than
+on online review sites. Hotels’ marketers can influence customers’ perceptions and purchase
+decisions via SNSs and Twitter and other similar SNSs can be effective tools for customer
+relationship management, as well as act as conduits for sales and promotions. However, this
+quick access can also turn on a hotel firm, in that it is increasingly possible that service
+mistakes and improper responses could go viral on social media platforms (Krupnick, 2016).
+In this context, hotels need to increase their ability to leverage SNSs for creating business
+value, and this requires a strategic perspective on social media use (Hvass and Munar, 2012).
+Previous studies show that the usage of SNSs is limited to one-way communication (e.g.
+promotion) (Sevin, 2013). It is important for hotels’ management to understand the strategic
+roles SNSs can play for a variety of business-to-customer activities, including promotion,
+advertising, sales, customer service and stakeholder relationships, using two-way
+communication and networking. To realize such strategic benefits, hotels need to put effort
+
+Case of twitter
+use by hotels
+
+2899IJCHM
+30,9
+
+2900
+
+ 
+
+into effectively bundling diverse resources (e.g. brand names, employee skills, customer
+support processes, organization policies and technologies) (Trainor, 2012). For example,
+hotels can take advantage of their offline brand images to increase their online presence.
+Also, existing offline processes and policies, for example for customer service, can be
+adapted to support customer inquiries on SNSs.
+
+Practical implications
+
+From a practical perspective, first, previous hospitality studies have shown the effects of
+online review sites on hotel business and performance (Kwok et al, 2017). On SNSs, hotels
+can be more proactive through networking (e.g. followers) and firm-generated content
+(e.g. tweets) than simply by responding to customers’ online reviews. According to the
+findings of this study, hotels’ access to resources is positively associated with Twitter use.
+This study also showed, however, that even hotels (eg. midrange) with less access to
+resources have been tapping into the potential of Twitter as a tool for marketing and
+communication. Also, the study shows that Twitter use is positively associated with hotels’
+RevPAR values. This means hotels need to think about SNSs as a strategic tool for
+information diffusion and engagement and assemble organizational resources to build the
+ability to leverage them.
+
+Second, this study revealed that 87 per cent (113 out of 129) of the hotel parent companies
+currently have Twitter accounts, with varying degrees of use. This suggests that social
+media is already mainstream within the hotel business. However, as noted earlier, there has
+been far less attention focused on many highly popular SNSs, as compared to online review
+sites and user-generated content. This research has responded to that need by using
+descriptive data extracted from Twitter-user profiles and firm-generated content (original
+tweets, mentions and retweets by hotels) to measure the impact of Twitter use on RevPAR.
+More research is clearly needed to better understand the role of emerging social media
+platforms to increase success. Researchers can help hotel marketers effectively manage and
+take advantage of these essential tools (e.g. Facebook, Instagram).
+
+Third, previous studies of online reviews (e.g. TripAdvisor, Expedia) have collected data
+through web crawling, as well as various techniques for analyzing text analytic techniques
+for data preparation. Along these lines, this study has transformed the data using text
+analytics methods (Chae, 2015) by collecting research data on social media use from actual
+tweets and user profiles through Twitter API, rather than asking respondents (or hotel staff)
+through a survey or in a case study setting for further statistical analysis. As services,
+transactions and customer feedback are increasingly taking place online in the hotel
+industry, understanding customer behavior in this unique setting is essential. In response,
+research methods, such as big data analytics (Xiang et al. 2015) and computational research
+(Lazer et al., 2009), are in demand, for collecting and analyzing social media and web data.
+API-based data collection and advanced text analytical techniques such as topic modeling
+(Blei, 2012) could provide valuable insights from big data regarding how hotels and
+customers actually use social media. This type of big data research could help reveal the
+extent to which social media is used by customers and hotel staff for billing questions,
+service complaints, sales, advertising, customer service and other issues.
+
+Limitations and future research
+
+This study has limitations. First, for testing H7, the study used STR’s hotel scales and
+classified the hotels into four groups for the level of organizational resources by the hotel
+parent companies. The literature presents different types of resources (Grant, 1991), andthus, future research using the survey method could focus on the level of a specific resource
+type (e.g. human resources, IT resources and market-based resources) as a measurement.
+
+In terms of data collection, the researchers faced a lack of availability of RevPAR. One
+of the authors manually searched hotels’ annual reports on the internet to collect
+performance data, which yielded 25 samples for testing H2. Thus, the findings might not be
+generalizable. Also, the unit of analysis was hotel parent companies. Future scholars could
+consider a similar research model for individual hotels. In this endeavor, researchers could
+consider organizational characteristics, hotel innovativeness and firm size (Michaelidou
+et al, 2011) in their research design and utilize other statistical models with control
+variables.
+
+Previous studies of online review sites in hospitality research have focused primarily on
+user-generated content (e.g. reviews, ratings) and considered the role of management
+responses in their analysis. This study, on the other hand, has drawn the level of social
+media use largely from hotel-generated contents. This approach does not capture whether or
+how hotels have responded to negative/positive tweets from customers or from the general
+public. Addressing this issue would require massive data collection and complex analytical
+approaches: collecting all tweets mentioning hotel names, over a long period of time, and
+further analyzing whether and how hotels respond to them, with advanced text analytic
+techniques such as aspect sentiment analysis.
+
+Finally, this study introduced measurement items (e.g. tweet counts) in the context of
+Twitter use. It is acknowledged that different items of social media use (e.g. user influence)
+are also discussed in websites (e.g. unionmetrics.com) and academic literature (Chae, 2015).
+As future hospitality and tourism research further explores SNSs and firm-generated
+content, it is important to consider these expanded measures in research design. Also, for
+other emerging social media platforms, hospitality and tourism researchers would need to
+develop/use new measurement items (Bonson and Ratkai, 2013) and advanced data analytic
+techniques.
+
+Notes
+
+1. The Twitter lists subscribing @21cHotels can be found at https://twitter.com/21cHotels/
+memberships
+
+2. RFID is a wireless technology, which is being deployed to automate such tasks as object tracking
+and information sharing.
+
+References
+
+Anderson, C. (2012), “The impact of social media on lodging performance”, Cornell Hospitality Report,
+Vol. 12 No. 15, pp. 6-11.
+
+Bakshy, E., Hofman, J., Mason, W. and Watts, D. (2011), “Everyone’s an influencer: quantifying
+influence on twitter”, Proceedings of the fourth ACM international conference on Web search and
+data mining, ACM, Hong Kong, China.
+
+Barnes, N. and Lescault, A. (2014), “The 2014 fortune 500 and social media: LinkedIn dominates
+as use of newer tools explode”, available at: www.umassd.edu/cmr/socialmediaresearch/
+2014fortune500andsocialmedia
+
+Barsky, J. and Frame, C. (2009), “Handling online reviews: best practices”, http://cdn.tripadvisor.com/
+pdfs/ExpertTips_HandlingOnlieReviews.pdf
+
+Bennett, S. (2013), “Incredible statistics, facts and figures form the social media revolution”, available
+at: www.mediabistro.com/alltwitter/social-revolution_b37610
+
+Case of twitter
+use by hotels
+
+2901CHM
+30,9
+
+2902
+
+ 
+
+Bharadwaj, A. (2000), “A resource-based perspective on information technology capability and firm
+performance: an empirical investigation”, MIS Quarterly, Vol. 24 No. 1, pp. 169-196.
+
+Blei, D. (2012), “Probabilistic topic models”, Communications of the Acm, Vol. 55 No. 4, pp. 77-84.
+
+Bonson, E. and Ratkai, M. (2013), “A set of metrics to assess stakeholder engagement and social
+legitimacy on a corporate facebook page”, Online Information Review, Vol. 37 No. 5,
+pp. 787-803.
+
+Caldeira, M. and Ward, J. (2003), “Using resource-based theory to interpret the successful adoption and
+use of information systems and technology in manufacturing small and medium-sized
+enterprises”, European Journal of Information Systems, Vol. 12 No. 2, pp. 127-141.
+
+Cha, M., Haddadi, H., Benevenuto, F. and Gummadi, P. (2010), “Measuring User Influence in Twitter:
+The Million Follower Fallacy”, JCWSM, Vol. 10 Nos 10/17, p. 30.
+
+Chae, B. (2015), “Insights from hashtag #supplychain and twitter analytics: considering twitter and
+twitter data for supply chain practice and research”, International Journal of Production
+Economics, Vol. 165, pp. 247-259.
+
+Cheng, V. and Loi, M. (2014), “Handling negative online customer reviews: the effects of elaboration
+likelihood model and distributive justice”, Journal of Travel and Tourism Marketing, Vol. 31
+No. 1, pp. 1-15.
+
+Chu, S.-C. and Sung, Y. (2015), “Using a consumer socialization framework to understand electronic
+word-of-mouth (EeWOM) group membership among Brand followers on twitter”, Electronic
+Commerce Research and Applications, Vol. 14 No. 4, pp. 251-260.
+
+Cobos, L., Mejia, C., Ozturk, A. and Wang, Y. (2016), “A technology adoption and implementation
+
+process in an independent hotel chain”, International Journal of Hospitality Management, Vol. 57,
+pp. 93-105.
+
+Cohen, J. (1992), “A power primer”, Psychological Bulletin, Vol. 112 No. 1, pp. 155-159.
+Facebook (2016), “Newsroom”, available at: http://newsroom.fb.com/company-info/
+
+Fainshmidt, S., Pezeshkan, A., Lance Frazier, M., Nair, A. and Markowski, E. (2016), “Dynamic
+capabilities and organizational performance: a Meta-analytic evaluation and extension”, Journal
+of Management Studies, Vol. 53 No. 8, pp. 1348-1380.
+
+Fan, W. and Gordon, M. (2014), “The power of social media analytics”, Commumications of the Acm,
+Vol. 57 No. 6, pp. 74-81.
+
+Gong, S. Zhang, J. Zhao, P. and Jiang, X. (2014), “Tweets and sales”, available at SSRN: http://ssrn.com/
+abstract=2461370 or http://dx.doi.org/10.2139/ssrn.2461370 (accessed July 1, 2014).
+
+Grant, R. (1991), “The resource-based theory of competitive advantage: implications for strategy
+formulation”, California Management Review, Vol. 33 No. 3, pp. 114-135.
+
+Hu, N., Bose, I., Koh, N. and Liu, L. (2012), “Manipulation of online reviews: An analysis of ratings,
+readability, and sentiments”, Decision Support Systems, Vol. 52 No. 3, pp. 674-684.
+
+Hvass, K. and Munar, A. (2012), “The take off of social media in tourism”, Journal of Vacation
+Marketing, Vol. 18 No. 2, pp. 93-103.
+
+Jasen, B., Zhang, M., Sobel, K. and Chowdury, A. (2009), “Twitter power: Tweets as electronic word of
+mouth”, Journal of the American Society for Information Science and Technology, Vol. 60 No. 11,
+pp. 2169-2188.
+
+Jussila, J., Karkkainen, H. and Aramo-immonen, H. (2014), “Social media utilization in business-to
+business relationships of technology industry firms”, Computers in Human Behavior, Vol. 30,
+pp. 606-613.
+
+Kaplan, A. and Haenlein, M. (2010), “Users of the world, unite! The challenges and opportunities of
+social media”, Business Horizons, Vol. 53 No. 1, pp. 59-68.
+
+Kessler, S. (2010), “The future of the hotel industry and social media”, http://mashable.com/2010/10/18/
+hotel-industry-social-media/#HGQ2jVh7gJuqlKim, S., Koh, Y., Cha, J. and Lee, S. (2015a), “Effects of social media on firm value for U.S. restaurant
+companies’, International Journal of Hospitality Management, Vol. 49, pp. 40-46.
+
+Kim, W., Li, J. and Brymer, R. (2016), “The impact of social media reviews on restaurant performance:
+the moderating role of excellence certificate”, International Journal of Hospitality Management,
+Vol. 55, pp. 41-51.
+
+Kim, W., Lim, H. and Brymer, R. (2015b), “The effectiveness of managing social media on hotel
+performance”, International Journal of Hospitality Management, Vol. 44, pp. 165-171.
+
+Kim, W. and Park, S. (2017), “Social media review rating versus traditional customer satisfaction: which
+one has more incremental predictive power in explaining hotel performance?”, International
+Journal of Contemporary Hospitality Management, Vol. 29 No. 2, pp. 784-802.
+
+King, R., Racherla, P. and Bush, V. (2014), “What we know and don’t know about online word-of-mouth:
+a review and synthesis of the literature”, Journal of Interactive Marketing, Vol. 28 No. 3,
+pp. 167-183.
+
+Krupnick, M. (2016), For Hotels, Bedbugs Are Bad Enough, and Social Media Adds to Irntation, New
+York, NY Times.
+
+Kwok, L., Xie, K. and Richards, T. (2017), “Thematic framework of online review research: a systematic
+analysis of contemporary literature on seven major hospitality and tourism journals”,
+International Journal of Contemporary Hospitality Management, Vol. 29 No. 1, pp. 307-354.
+
+Lazer, D., Pentland, A., Adamic, L., Aral, S., Barabasi, A. and Gutmann, M. (2009), “Life in the network:
+the coming age of computational social science”, Science (New York, N.Y.).), Vol. 323 No. 5915,
+p. 721.
+
+Lee, K., Oh, W. and Kim, N. (2013), “Social media for socially responsible firms: analysis of fortune 500’s
+twitter profiles and their CSR/CSIR ratings”, Journal of Business Ethics, Vol. 118 No. 4,
+pp. 791-806.
+
+Leung, X., Bai, B. and Stahura, K. (2015), “The marketing effectiveness of social media in the hotel
+industry: a comparison of facebook and twitter”, Journal of Hospitality and Tourism Research,
+Vol. 39 No. 2, pp. 147-169.
+
+Leung, D., Law, R., Van hoof, H. and Buhalis, D. (2013), “Social media in tourism and hospitality:
+a literature review”, Journal of Travel and Tourism Marketing, Vol. 30 Nos 1/2, pp. 3-22.
+
+Levy, S., Duan, W. and Boo, S. (2013), “An analysis of One-Star online reviews and responses in the
+Washington, D.C., lodging market”, Cornell Hospitality Quarterly, Vol. 54 No. 1, pp. 49-63.
+
+Litvin, S., Goldsmith, R. and Pan, B. (2018), “A retrospective view of electronic word-of-mouth in
+hospitality and tourism management”, International Journal of Contemporary Hospitality
+Management, Vol. 30 No. 1, pp. 313-325.
+
+Lu, Y., Chen, Z. and Law, R. (2018), “Mapping the progress of social media research in hospitality and
+tourism management from 2004 to 2014”, Journal of Travel and Tourism Marketing, Vol. 35
+No. 2, pp. 102-118.
+
+Luo, Q. and Zhong, D. (2015), “Using social network analysis to explain communication characteristics
+of travel-related electronic word-of-mouth on social networking sites”, Tourism Management,
+Vol. 46, pp. 274-282.
+
+Mackay, K., Barbe, D., Winkle, C. and Halpenny, E. (2017), “Social media activity in a festival context:
+temporal and content analysis”, International Journal of Contemporary Hospitahty Management,
+Vol. 29 No. 2, pp. 669-689.
+
+Mariani, M., Difelice, M. and Mura, M. (2016), “Facebook as a destination marketing tool: evidence
+from Italian regional destination management organizations”, Tourism Management, Vol. 54,
+pp. 321-343.
+
+Mendez, J. (2010), “High peaks resort’s highly effective social media promotion”, available at: www.
+e-marketingassociates.com/high-peaks-resorts-highly-effective-social-media-promotion/
+
+Case of twitter
+use by hotels
+
+2903CHM
+30,9
+
+2904
+
+ 
+
+Michaelidou, N., Siamagka, N. and Christodoulides, G. (2011), “Usage, barriers and measurement of
+social media marketing: An exploratory investigation of small and medium B2B brands”,
+Industrial Marketing Management, Vol. 40 No. 7, pp. 1153-1159.
+
+Noone, B., Mcguire, K. and Rohlfs, K. (2011), “Social media meets hotel revenue management:
+Opportunities, issues and unanswered questions”, Journal of Revenue and Pricing Management,
+Vol. 10 No. 4, pp. 293-305.
+
+Paniagua, J. and Sapena, J. (2014), “Business performance and social media: love or hate?”, Business
+Horizons, Vol. 57 No. 6, pp. 719-728.
+
+Park, S., Ok, C. and Chae, B. (2016), “Using twitter data for cruise tourism marketing and research”,
+Journal of Travel and Tourism Marketing, Vol. 33 No.6, pp. 1-14.
+
+Sakaki, T., Okazaki, M. and Matsuo, Y. (2010), “Earthquake shakes twitter users: real-time event
+detection by social sensors”, Proceedings of the 19th international conference on World wide web,
+ACM, Raleigh, NC.
+
+Schniederjans, D., Cao, E. and Schniederjans, M. (2013), “Enhancing financial performance with social media:
+an impression management perspective”, Decision Support Systems, Vol. 55 No. 4, pp. 911-918.
+
+Sevin, E. (2013), “Places going viral: Twitter usage patterns in destination marketing and place
+branding”, Journal of Place Management and Development, Vol. 6 No. 3, pp. 227-239.
+
+Sparks, B., So, K. and Bradley, G. (2016), “Responding to negative online reviews: the effects of hotel
+response on customer inferences of trust and concern”, Tourism Management, Vol. 53, pp. 74-85.
+
+Tadena, N. (2014), “Social media spending is on the rise but impact is hard to measure”, The Wall Street
+Journal,
+
+Taylor, D., Barber, N. and Deale, C. (2015), “To tweet or not to tweet: that is the question for hoteliers:
+a preliminary study”, Information Technology and Tourism, Vol. 15 No. 1, pp. 71-99.
+
+Teece, D., Pisano, G. and Shuen, A. (1997), “Dynamic capabilities and strategic management”, Strategic
+Management Journal, Vol. 18 No. 7, pp. 509-533.
+
+Trainor, K. (2012), “Relating social media technologies to performance: a capabilities-based
+perspective”, Journal of Personal Selling and Sales Management, Vol. 32 No. 3, pp. 317-331.
+
+Twitter (2016), “Fact sheet”, available at: http://about.twitter.com/company
+
+Vermeulen, I. and Seegers, D. (2009), “Tried and tested: the impact of online hotel reviews on consumer
+consideration”, Tourism Management, Vol. 30 No. 1, pp. 123-127.
+
+Wernerfelt, B. (1984), “A resource-based view of the firm”, Strategic Management Journal, Vol. 5 No. 2,
+pp. 171-180.
+
+Xiang, Z., Schwartz, Z., Gerdes, J. and Uysal, M. (2015), “What can big data and text analytics tell us
+about hotel guest experience and _ satisfaction?”, International Journal of Hospitality
+Management, Vol. 44, pp. 120-130.
+
+Xie, K., Chen, C. and Wu, S. (2016), “Online consumer review factors affecting offline hotel popularity:
+evidence from TripAdvisor”, Journal of Travel and Tourism Marketing, Vol. 33 No. 2, pp. 211-223.
+
+Xie, K., Zhang, Z. and Zhang, Z. (2014), “The business value of online consumer reviews and
+management response to hotel performance”, International Journal of Hospitality Management,
+Vol. 43, pp. 1-12.
+
+Ye, Q. (2014), “First step in social media: measuring the influence of online management
+responses on customer satisfaction”, Production and Operations Management, Vol. 23
+No. 4, pp. 570-582.
+
+Ye, Q., Law, R., Gu, B. and Chen, W. (2011), “The influence of user-generated content on traveler
+behavior: an empirical investigation on the effects of e-word-of-mouth to hotel online bookings”,
+Computers in Human Behavior, Vol. 27 No. 2, pp. 634-639.
+
+Zhang, X., Fuehres, H. and Gloor, P. (2011), “Predicting stock market indicators through twitter “I hope
+it is not as badas I fear”, Procedia — Social and Behavioral Sciences, Vol. 26, pp. 55-62.Appendix
+
+Z
+°
+
+OONDOUTFEWNHEH
+
+Followers
+
+51,052
+49,219
+15,203
+7,938
+9,654
+15,492
+34,528
+27,919
+9,066
+31,922
+940,513
+146,740
+10,785
+215,029
+24,858
+118,474
+115,262
+99,859
+39,329
+10,367
+408,027
+115,741
+48,547
+8,912
+10,473
+3,941
+4,421
+185,610
+18,054
+6,372
+8,605
+30,500
+48,800
+11,839
+2,619
+1,787
+1,237
+3,889
+6,437
+2,859
+3,223
+0,144
+4,833
+
+User-generated
+Follows Growth
+
+630.27
+600.23
+174.75
+93.39
+119.19
+227.82
+379.43
+336.37
+106.66
+390.79
+9500.13
+1595.00
+176.80
+2443.51
+279.30
+1361.77
+1459.01
+689.57
+462.69
+126.43
+4163.54
+1394.47
+998.01
+97.93
+126.18
+45.30
+138.16
+2133.45
+334.33
+74.09
+91.54
+346.59
+095.12
+149.86
+44.39
+25.90
+15.86
+65.92
+72.33
+33.24
+37.92
+97.16
+58.94
+
+Lists
+
+972
+1,200
+503
+36
+232
+388
+695
+607
+
+Tweets
+
+27,306
+13,149
+15,954
+11,899
+7,208
+3,829
+8,480
+13,486
+15,512
+25,799
+23,099
+14,944
+3,171
+48,783
+11,881
+12,886
+19,660
+13,746
+45,769
+3,787
+23,277
+21,757
+15,073
+6,107
+7,127
+7,346
+1,240
+24,935
+12,266
+4,460
+3,698
+4,367
+13,700
+5,335,
+4,311
+2,215
+3,287
+2,800
+2,073
+2,185
+2,905
+3,795
+4211
+
+Firm-generated
+Mentions
+
+2,423
+811
+273
+370
+
+32
+410
+
+1,433
+438
+415
+673
+
+3,167
+934
+147
+
+2,173
+460
+710
+
+1,006
+637
+
+2,619
+360
+792
+793
+450
+640
+048
+079
+196
+201
+079
+264
+318
+149
+220
+
+Case of twitter
+use by hotels
+
+Retweets
+
+78 2905
+
+236
+40
+75
+
+ 
+
+1 Table Al.
+Tweeting sample
+(user-generated vs
+(continued) firm-generated)CHM
+
+ 
+
+30,9 User-generated Firm-generated
+No. Followers Follows Growth Lists Tweets Mentions Retweets
+44 1,303 20.36 19 5,217 68 24
+45 1,099 13.40 70 4,290 273 65
+46 64,703 743.71 951 1,485 18 2
+
+2906 47 3,741 45.07 95 1,537 7 1
+48 22,402 233.35 524 2,642 0 0
+49 22,383 263.33 558 1,543 268 44
+50 2,289 39.47 43 4,115 279 3
+51 2,738 49.78 48 4,787 20 3
+52 3,292 137.17 28 2,208 370 166
+53 1,405 18.73 55 1,917 90 21
+54 3,457 45.49 166 4,272 21 9
+55 1,712 71.33 60 1,355 224 30
+56 7,382 129.51 151 1,849 118 12
+57 2,681 31.17 157 8,993 4 0
+58 1,666 31.43 75 4533 311 90
+59 2,207 30.23 89 3,378 31 0
+60 3,173 37.33 123 3,267 70 11
+61 4,387 64.51 117 2,667 1,445 213
+62 2,075 25.94 95 3,545 146 33
+63 1,704 26.63 67 3,616 95 27
+64 2,297 27.35 59 525 51 28
+65 238 2.98 7 177 54 10
+66 1,195 36.21 19 358 89 19
+67 553 12.02 15 1,427 82 34
+68 245 9.80 11 408 30 3
+69 303 4.89 19 465 8 2
+70 1,994 24.62 48 2,253 4 0
+71 2,563 34.17 50 1,258 90 24
+72 509 8.08 16 1,074 23 0
+73 1,092 12.55 51 1,062 12 3
+74 803 10.57 11 386 31 1
+75 1,058 12.75 28 1,477 41 14
+76 183 7.32 56 1,294 655 61
+77 1,815 26.69 40 765 73 13
+78 643 24.73 16 295 3 1
+79 572 8.06 20 1,160 327 34
+80 163 2.86 5 651 1 0
+81 1,154 14.25 47 373 0 0
+82 267 4.60 14 132 7 1
+83 1,238 15.10 34 14 0 0
+84 1,072 13.57 11 87 0 0
+85 483 6.44 15 849 1 0
+86 148 5.48 0 45 0 0
+87 120 1.62 12 560 0 0
+88 200 3.92 7 1,875 0 0
+89 146 5.03 10 1,096 80 22
+90 169 2.96 10 82 0 0
+91 258 2.84 2 404. 0 0
+92 165 2.17 12 218 23 5
+93 301 3.42 12 60 1 0
+
+Table AI. (continued)User-generated
+
+No. Followers Follows Growth Lists
+94 83 1.63 5
+95 253 3.56 9
+96 24 0.60 1
+97 27 0.38 0
+98 12 0.35 0
+99 71 0.97 4
+
+100 38 1.19 2
+
+101 4 2.00 1
+
+102 39 3.25 3
+
+103 1 0.03 0
+
+104 16 0.24 0
+
+105 7 0.11 2
+
+106 17 0.26 0
+
+107 170 2.36 6
+
+108 60 1.20 1
+
+109 49 0.67 6
+
+110 16 0.47 1
+
+111 54 0.72 0
+
+112 28 0.80 2
+
+113 3 1.00 0
+
+Corresponding author
+Woo-Hyuk Kim can be contacted at: woohyuk@ksu.edu
+
+Tweets
+
+231
+047
+3
+13
+
+67
+
+Firm-generated
+Mentions
+
+a
+ooo
+
+NX
+
+NoOcccococCcocoocooCcrmCOCOCOCOCcCOCUNN OO COO
+
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+
+Or contact us for further details: permissions@emeraldinsight.com
+
+Retweets
+
+cooococococoocoococoococoCcocooCcoNno
+
+Case of twitter
+use by hotels
+
+2907
+
+ 
+
+Table AI.

@@ -1,0 +1,2523 @@
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>perception=>perceived privacy
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>perception=>perceived privacy
+=>whom/user=>accompanying behavior=>discussion
+=>who=>business=>benefit/loss=>performance
+=>whom/user=>user characteristics=>need
+=>whom/user=>ugc behavior
+=>what effects=>behavior=>protest
+=>which channel=>web2=>channel comparison
+=>what effects=>behavior=>protest
+=>whom/user=>ugc behavior
+=>what effects=>behavior=>protest
+=>which channel=>web2=>channel comparison
+=>what effects=>behavior=>protest
+=>what effects=>behavior=>engagement
+=>what effects=>behavior=>engagement
+=>whom/user=>user characteristics=>social capital
+=>what effects=>behavior=>engagement
+=>whom/user=>user characteristics=>social capital
+=>what effects=>behavior=>engagement
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>behavior=>engagement
+=>what effects=>behavior=>engagement
+=>whom/user=>ugc behavior
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>what effects=>perception=>usefulness
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>what effects=>perception=>ambient intimacy
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>whom/user=>accompanying behavior=>social tie/networking
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>whom/user=>media use
+=>whom/user=>ugc behavior
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>ugc behavior
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>whom/user=>ugc behavior
+=>whom/user=>exposure behavior=>info disclosure
+=>who=>politician=>characteristics=>competence
+=>whom/user=>media use
+=>whom/user=>exposure behavior=>info disclosure
+=>who=>politician=>characteristics=>competence
+=>who=>business or politician
+=>whom/user=>exposure behavior=>info disclosure
+=>what effects=>perception=>interpersonal attraction
+=>who=>business or politician
+=>who=>business=>other
+=>whom/user=>exposure behavior=>engagement
+=>who=>politician=>behavior=>activity
+=>whom/user=>exposure behavior=>engagement
+=>who=>business=>other
+=>whom/user=>exposure behavior=>engagement
+=>who=>politician=>behavior=>activity
+=>whom/user=>exposure behavior=>engagement
+=>what content=>ugc=>element=>video
+=>whom/user=>exposure behavior=>engagement
+=>what content=>ugc=>element=>video
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>user characteristics=>personality
+=>whom/user=>ugc behavior
+=>whom/user=>user characteristics=>personality
+=>whom/user=>ugc behavior
+=>who=>business=>behavior=>ugc
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>exposure behavior=>other
+=>whom/user=>media use
+=>whom/user=>exposure behavior=>other
+=>which channel=>other
+=>whom/user=>exposure behavior=>other
+=>whom/user=>user characteristics=>social capital
+=>which channel=>other
+=>whom/user=>exposure behavior=>other
+=>whom/user=>user characteristics=>need
+=>whom/user=>exposure behavior=>other
+=>whom/user=>exposure behavior=>other
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>exposure behavior=>other
+=>whom/user=>user characteristics=>social capital
+=>who=>celebrity=>characteristics=>credibility
+=>whom/user=>accompanying behavior=>reaction
+=>whom/user=>ugc behavior
+=>what effects=>perception=>emotion
+=>whom/user=>ugc behavior
+=>what effects=>perception=>emotion
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>whom/user=>user characteristics=>personality
+=>whom/user=>ugc behavior
+=>whom/user=>user characteristics=>personality
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>whom/user=>user characteristics=>personality
+=>whom/user=>ugc behavior
+=>what content=>ugc=>content=>frame
+=>whom/user=>ugc behavior
+=>what content=>ugc=>content=>frame
+=>whom/user=>ugc behavior
+=>whom/user=>media use
+=>what effects=>perception=>perceived cognitive homogeneity
+=>whom/user=>media use
+=>whom/user=>accompanying behavior=>addiction
+=>whom/user=>media use
+=>whom/user=>accompanying behavior=>addiction
+=>whom/user=>media use
+=>what effects=>behavior=>protest
+=>what effects=>perception=>feelings of maintaining social ties
+=>whom/user=>accompanying behavior=>addiction
+=>who=>individual opinion leader=>behavior=>activeness
+=>whom/user=>accompanying behavior=>addiction
+=>who=>politician=>behavior=>activity
+=>whom/user=>media use
+=>who=>politician=>behavior=>activity
+=>what effects=>benefit/loss=>social capital effect
+=>whom/user=>user characteristics=>social capital
+=>what effects=>behavior=>engagement
+=>whom/user=>user characteristics=>social capital
+=>what effects=>behavior=>engagement
+=>what effects=>perception=>feelings of maintaining social ties
+=>whom/user=>media use
+=>whom/user=>user characteristics=>network attr
+=>what effects=>benefit/loss=>social capital effect
+=>who=>business=>characteristics=>other
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>who=>business=>characteristics=>other
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>benefit/loss=>social capital effect
+=>who=>business=>characteristics=>other
+=>what effects=>perception=>gratification/enjoyment
+=>whom/user=>media use
+=>who=>business=>characteristics=>other
+=>what effects=>perception=>gratification/enjoyment
+=>what effects=>benefit/loss=>social capital effect
+=>who=>business=>characteristics=>other
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>user characteristics=>social capital
+=>whom/user=>media use
+=>what effects=>perception=>perceived control
+=>whom/user=>media use
+=>whom/user=>user characteristics=>social capital
+=>whom/user=>media use
+=>whom/user=>ugc behavior
+=>whom/user=>media use
+=>who=>business or politician
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>ugc behavior
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>ugc behavior
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>exposure behavior=>info disclosure
+=>who=>business or politician
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>who=>business or politician
+=>who=>nonprofit=>characteristics=>social capital
+=>who=>politician=>behavior=>interaction
+=>who=>nonprofit=>characteristics=>social capital
+=>what effects=>perception=>usefulness
+=>whom/user=>user characteristics=>demographics
+=>whom/user=>exposure behavior=>info disclosure
+=>who=>business or politician
+=>whom/user=>user characteristics=>demographics
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>who=>business or politician
+=>whom/user=>accompanying behavior=>social tie/networking
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>who=>business=>characteristics=>other
+=>whom/user=>user characteristics=>need
+=>who=>business=>characteristics=>other
+=>whom/user=>user characteristics=>need
+=>who=>business=>characteristics=>other
+=>whom/user=>user characteristics=>need
+=>who=>business=>characteristics=>other
+=>whom/user=>user characteristics=>need
+=>who=>business=>characteristics=>other
+=>whom/user=>user characteristics=>need
+=>who=>business=>characteristics=>other
+=>whom/user=>user characteristics=>need
+=>whom/user=>media use
+=>whom/user=>user characteristics=>need
+=>whom/user=>media use
+=>whom/user=>user characteristics=>need
+=>whom/user=>media use
+=>whom/user=>user characteristics=>need
+=>who=>business=>characteristics=>other
+=>whom/user=>user characteristics=>need
+=>who=>business=>characteristics=>other
+=>whom/user=>user characteristics=>need
+=>who=>business=>characteristics=>other
+=>whom/user=>user characteristics=>need
+=>whom/user=>user characteristics=>need
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>whom/user=>user characteristics=>need
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>whom/user=>user characteristics=>need
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>whom/user=>user characteristics=>need
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>whom/user=>user characteristics=>need
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>whom/user=>user characteristics=>need
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>whom/user=>exposure behavior=>privacy setting
+=>whom/user=>exposure behavior=>privacy setting
+=>who=>government=>characteristics=>situation
+=>what effects=>attitude/opinion=>other
+=>what effects=>perception=>feelings of maintaining social ties
+=>whom/user=>media use
+=>whom/user=>ugc behavior
+=>what effects=>attitude/opinion=>other
+=>what effects=>perception=>feelings of maintaining social ties
+=>what effects=>attitude/opinion=>other
+=>whom/user=>accompanying behavior=>activity
+=>what effects=>attitude/opinion=>other
+=>whom/user=>ugc behavior
+=>which channel=>web2=>interface quality
+=>whom/user=>ugc behavior
+=>what effects=>attitude/opinion=>online group identity
+=>who=>politician=>behavior=>activity
+=>what effects=>perception=>interpersonal attraction
+=>whom/user=>ugc behavior
+=>who=>business=>benefit/loss=>performance
+=>whom/user=>media use
+=>what effects=>behavior=>protest
+=>whom/user=>user characteristics=>other
+=>who=>business=>benefit/loss=>performance
+=>whom/user=>media use
+=>who=>business=>benefit/loss=>performance
+=>whom/user=>media use
+=>what effects=>behavior=>protest
+=>whom/user=>media use
+=>who=>business=>benefit/loss=>performance
+=>what effects=>behavior=>engagement
+=>whom/user=>ugc behavior
+=>whom/user=>exposure behavior=>privacy setting
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>who=>government=>behavior=>activity
+=>whom/user=>ugc behavior
+=>what effects=>perception=>engagement in content
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>who=>business=>benefit/loss=>performance
+=>what effects=>attitude/opinion=>trust
+=>whom/user=>ugc behavior
+=>what effects=>perception=>perceived control
+=>what effects=>behavior=>purchasing
+=>what effects=>perception=>perceived cognitive homogeneity
+=>what effects=>behavior=>purchasing
+=>what effects=>perception=>social presence
+=>what effects=>behavior=>purchasing
+=>whom/user=>media use
+=>whom/user=>accompanying behavior=>addiction
+=>whom/user=>media use
+=>whom/user=>accompanying behavior=>addiction
+=>whom/user=>accompanying behavior=>discussion
+=>whom/user=>accompanying behavior=>brand acquaintancing
+=>whom/user=>accompanying behavior=>discussion
+=>whom/user=>accompanying behavior=>brand acquaintancing
+=>whom/user=>accompanying behavior=>discussion
+=>whom/user=>accompanying behavior=>addiction
+=>whom/user=>accompanying behavior=>social tie/networking
+=>whom/user=>accompanying behavior=>addiction
+=>whom/user=>accompanying behavior=>social tie/networking
+=>whom/user=>accompanying behavior=>addiction
+=>what effects=>perception=>perceived cognitive homogeneity
+=>whom/user=>accompanying behavior=>addiction
+=>what effects=>perception=>perceived relational mobility
+=>whom/user=>accompanying behavior=>addiction
+=>what effects=>perception=>other
+=>what effects=>perception=>gratification/enjoyment
+=>whom/user=>ugc behavior
+=>what effects=>behavior=>other
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>what content=>ugc=>characteristics=>richness
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>user characteristics=>situation
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>ugc behavior
+=>whom/user=>exposure behavior=>engagement
+=>what effects=>behavior=>engagement
+=>whom/user=>ugc behavior
+=>what effects=>behavior=>engagement
+=>whom/user=>accompanying behavior=>reaction
+=>whom/user=>user characteristics=>situation
+=>whom/user=>ugc behavior
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>ugc behavior
+=>whom/user=>media use
+=>what effects=>behavior=>performance
+=>whom/user=>media use
+=>what effects=>behavior=>performance
+=>whom/user=>media use
+=>what effects=>behavior=>performance
+=>whom/user=>accompanying behavior=>discussion
+=>whom/user=>media use
+=>what effects=>behavior=>performance
+=>whom/user=>accompanying behavior=>discussion
+=>whom/user=>media use
+=>whom/user=>accompanying behavior=>discussion
+=>whom/user=>user characteristics=>need
+=>what effects=>perception=>perceived control
+=>whom/user=>media use
+=>who=>business=>other
+=>whom/user=>media use
+=>who=>business=>other
+=>whom/user=>media use
+=>what effects=>perception=>other
+=>whom/user=>ugc behavior
+=>what effects=>perception=>other
+=>whom/user=>ugc behavior
+=>who=>business=>characteristics=>intimacy
+=>whom/user=>exposure behavior=>engagement
+=>who=>business=>characteristics=>other
+=>whom/user=>exposure behavior=>engagement
+=>who=>business=>behavior=>interaction
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>ugc behavior
+=>whom/user=>exposure behavior=>engagement
+=>who=>politician=>characteristics=>communication style
+=>whom/user=>exposure behavior=>engagement
+=>who=>business=>other
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>user characteristics=>need
+=>whom/user=>media use
+=>whom/user=>media use
+=>others=>event
+=>whom/user=>media use
+=>others=>event
+=>whom/user=>media use
+=>what effects=>perception=>other
+=>what effects=>perception=>social influence
+=>whom/user=>media use
+=>what effects=>perception=>social influence
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>online group identity
+=>whom/user=>media use
+=>whom/user=>user characteristics=>personality
+=>whom/user=>media use
+=>whom/user=>user characteristics=>value/culture
+=>whom/user=>media use
+=>whom/user=>ugc behavior
+=>whom/user=>media use
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>which channel=>other
+=>whom/user=>ugc behavior
+=>whom/user=>user characteristics=>need
+=>whom/user=>exposure behavior=>privacy setting
+=>whom/user=>user characteristics=>need
+=>whom/user=>exposure behavior=>info disclosure
+=>what effects=>perception=>perceived control
+=>whom/user=>exposure behavior=>info disclosure
+=>what effects=>perception=>perceived control
+=>who=>politician=>characteristics=>competence
+=>what effects=>perception=>perceived privacy
+=>whom/user=>exposure behavior=>info disclosure
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>ugc behavior
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>ugc behavior
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>ugc behavior
+=>whom/user=>user characteristics=>need
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>ugc behavior
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>whom/user=>ugc behavior
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>whom/user=>ugc behavior
+=>what effects=>perception=>feelings of maintaining social ties
+=>whom/user=>ugc behavior
+=>what effects=>perception=>feelings of maintaining social ties
+=>whom/user=>ugc behavior
+=>who=>politician=>behavior=>activity
+=>what effects=>behavior=>protest
+=>what effects=>perception=>social influence
+=>what effects=>behavior=>engagement
+=>what effects=>perception=>other
+=>what effects=>attitude/opinion=>other
+=>whom/user=>user characteristics=>demographics
+=>whom/user=>ugc behavior
+=>who=>politician=>behavior=>interaction
+=>what effects=>behavior=>engagement
+=>whom/user=>media use
+=>what effects=>behavior=>engagement
+=>whom/user=>media use
+=>what effects=>behavior=>engagement
+=>what content=>ugc=>characteristics=>rational
+=>whom/user=>ugc behavior
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>user characteristics=>personality
+=>who=>business=>behavior=>respond to complaints
+=>who=>individual opinion leader=>characteristics=>online network size
+=>what effects=>behavior=>crime
+=>what effects=>perception=>ambient intimacy
+=>what effects=>behavior=>crime
+=>what effects=>perception=>feelings of maintaining social ties
+=>what effects=>behavior=>crime
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>exposure behavior=>info disclosure
+=>whom/user=>media use
+=>whom/user=>exposure behavior=>info disclosure
+=>what effects=>attitude/opinion=>norm regarding social media
+=>whom/user=>exposure behavior=>info disclosure
+=>who=>government=>other
+=>what effects=>behavior=>engagement
+=>who=>individual opinion leader=>other
+=>what effects=>behavior=>engagement
+=>whom/user=>accompanying behavior=>brand acquaintancing
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>user characteristics=>need
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>ugc behavior
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>exposure behavior=>engagement
+=>what effects=>benefit/loss=>relationship outcome
+=>what effects=>perception=>perceived privacy
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>what effects=>perception=>perceived privacy
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>what effects=>perception=>perceived privacy
+=>what effects=>perception=>perceived privacy
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>trust in information
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>perception=>perceived privacy
+=>what effects=>perception=>ambient intimacy
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>what effects=>perception=>ambient intimacy
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>whom/user=>accompanying behavior=>social tie/networking
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>what effects=>perception=>perceived privacy
+=>what effects=>attitude/opinion=>other
+=>whom/user=>exposure behavior=>privacy setting
+=>whom/user=>media use
+=>whom/user=>accompanying behavior=>activity
+=>whom/user=>media use
+=>whom/user=>accompanying behavior=>activity
+=>whom/user=>media use
+=>what effects=>perception=>social presence
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>whom/user=>user characteristics=>situation
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>what effects=>perception=>ambient intimacy
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>who=>celebrity=>characteristics=>credibility
+=>what effects=>behavior=>purchasing
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>ugc behavior
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>ugc behavior
+=>what effects=>attitude/opinion=>trust
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>what effects=>perception=>other
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>whom/user=>user characteristics=>value/culture
+=>whom/user=>ugc behavior
+=>what effects=>perception=>social influence
+=>who=>business=>benefit/loss=>performance
+=>what effects=>perception=>empowerment
+=>who=>business=>benefit/loss=>performance
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>who=>politician=>behavior=>activity
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>social capital
+=>whom/user=>media use
+=>who=>business=>other
+=>who=>business=>behavior=>respond to complaints
+=>what effects=>perception=>social influence
+=>whom/user=>media use
+=>who=>business=>characteristics=>intimacy
+=>what effects=>behavior=>protest
+=>who=>business or politician
+=>what effects=>perception=>engagement in content
+=>what effects=>behavior=>protest
+=>who=>business or politician
+=>whom/user=>exposure behavior=>other
+=>whom/user=>exposure behavior=>engagement
+=>what content=>ugc=>characteristics=>richness
+=>who=>business=>benefit/loss=>performance
+=>who=>media=>behavior=>sm use
+=>whom/user=>exposure behavior=>other
+=>whom/user=>exposure behavior=>engagement
+=>what effects=>perception=>other
+=>who=>politician=>characteristics=>communication style
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>media use
+=>what content=>ugc=>characteristics=>richness
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>media use
+=>who=>business=>other
+=>what effects=>attitude/opinion=>other
+=>who=>nonprofit=>characteristics=>other
+=>who=>business=>behavior=>respond to complaints
+=>who=>politician=>behavior=>activity
+=>who=>individual opinion leader=>characteristics=>opinion leadership
+=>who=>politician=>behavior=>activity
+=>who=>politician=>characteristics=>communication style
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>behavior=>purchasing
+=>who=>media=>behavior=>sm use
+=>who=>nonprofit=>characteristics=>other
+=>who=>politician=>behavior=>activity
+=>what content=>propaganda
+=>who=>politician=>behavior=>activity
+=>who=>nonprofit=>characteristics=>other
+=>which channel=>other
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>ugc behavior
+=>who=>politician=>behavior=>activity
+=>whom/user=>user characteristics=>social capital
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>exposure behavior=>engagement
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>exposure behavior=>engagement
+=>who=>business=>other
+=>whom/user=>media use
+=>who=>politician=>behavior=>activity
+=>whom/user=>ugc behavior
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>behavior=>other
+=>what effects=>perception=>other
+=>whom/user=>ugc behavior
+=>whom/user=>user characteristics=>need
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>what effects=>behavior=>engagement
+=>whom/user=>media use
+=>what effects=>behavior=>engagement
+=>whom/user=>media use
+=>whom/user=>media use
+=>who=>business or politician
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>user characteristics=>social capital
+=>whom/user=>media use
+=>what effects=>behavior=>engagement
+=>whom/user=>accompanying behavior=>discussion
+=>who=>business or politician
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>exposure behavior=>engagement
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>exposure behavior=>engagement
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>exposure behavior=>engagement
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>user characteristics=>ability
+=>whom/user=>ugc behavior
+=>what effects=>perception=>social influence
+=>what effects=>attitude/opinion=>other
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>who=>government=>characteristics=>situation
+=>who=>politician=>behavior=>activity
+=>who=>politician=>behavior=>activity
+=>whom/user=>accompanying behavior=>brand acquaintancing
+=>whom/user=>ugc behavior
+=>whom/user=>accompanying behavior=>brand acquaintancing
+=>who=>politician=>behavior=>activity
+=>whom/user=>exposure behavior=>engagement
+=>who=>politician=>behavior=>activity
+=>whom/user=>ugc behavior
+=>what effects=>perception=>information value
+=>whom/user=>media use
+=>what effects=>perception=>information value
+=>whom/user=>media use
+=>what effects=>perception=>other
+=>whom/user=>media use
+=>what effects=>perception=>information value
+=>whom/user=>media use
+=>what effects=>perception=>information value
+=>whom/user=>accompanying behavior=>reading news
+=>what effects=>perception=>information value
+=>whom/user=>accompanying behavior=>reading news
+=>what effects=>perception=>other
+=>whom/user=>accompanying behavior=>reading news
+=>what effects=>perception=>information value
+=>whom/user=>accompanying behavior=>reading news
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>perception=>usefulness
+=>what effects=>perception=>social influence
+=>whom/user=>media use
+=>whom/user=>media use
+=>what effects=>behavior=>performance
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>what effects=>behavior=>performance
+=>whom/user=>user characteristics=>other
+=>whom/user=>media use
+=>whom/user=>user characteristics=>other
+=>what effects=>behavior=>performance
+=>whom/user=>media use
+=>what effects=>behavior=>performance
+=>whom/user=>media use
+=>whom/user=>ugc behavior
+=>whom/user=>media use
+=>what effects=>behavior=>performance
+=>whom/user=>media use
+=>who=>individual opinion leader=>behavior=>ugc
+=>what effects=>attitude/opinion=>other
+=>which channel=>web2=>channel comparison
+=>what effects=>attitude/opinion=>other
+=>which channel=>web2=>channel comparison
+=>what effects=>attitude/opinion=>other
+=>who=>nonprofit=>characteristics=>social capital
+=>whom/user=>accompanying behavior=>reaction
+=>whom/user=>accompanying behavior=>information seeking
+=>what effects=>behavior=>brand co-promotion
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>perception=>feelings of maintaining social ties
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>perception=>feelings of maintaining social ties
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>who=>business=>other
+=>whom/user=>media use
+=>who=>government=>other
+=>whom/user=>media use
+=>who=>politician=>characteristics=>other
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>what effects=>attitude/opinion=>other
+=>what effects=>perception=>perceived relational mobility
+=>who=>media=>benefit/loss=>perception
+=>what effects=>perception=>gratification/enjoyment
+=>who=>media=>benefit/loss=>perception
+=>who=>business=>behavior=>ugc
+=>whom/user=>media use
+=>who=>government=>behavior=>activity
+=>what effects=>benefit/loss=>social capital effect
+=>whom/user=>user characteristics=>social capital
+=>what effects=>attitude/opinion=>other
+=>what effects=>behavior=>offline communication
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>whom/user=>user characteristics=>need
+=>whom/user=>ugc behavior
+=>whom/user=>user characteristics=>value/culture
+=>what effects=>behavior=>voting
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>what effects=>behavior=>voting
+=>whom/user=>accompanying behavior=>brand acquaintancing
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>user characteristics=>need
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>ugc behavior
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>exposure behavior=>engagement
+=>what effects=>benefit/loss=>relationship outcome
+=>what effects=>perception=>social presence
+=>who=>business=>benefit/loss=>performance
+=>who=>nonprofit=>characteristics=>other
+=>who=>business=>benefit/loss=>performance
+=>who=>nonprofit=>characteristics=>other
+=>who=>business=>benefit/loss=>performance
+=>what effects=>attitude/opinion=>online group identity
+=>who=>business=>benefit/loss=>performance
+=>whom/user=>user characteristics=>need
+=>whom/user=>media use
+=>what effects=>perception=>accessibility
+=>whom/user=>user characteristics=>need
+=>whom/user=>media use
+=>who=>celebrity=>characteristics=>credibility
+=>whom/user=>exposure behavior=>engagement
+=>what content=>ugc=>element=>image
+=>what effects=>perception=>other
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>accompanying behavior=>social viewing
+=>whom/user=>ugc behavior
+=>whom/user=>exposure behavior=>privacy setting
+=>whom/user=>ugc behavior
+=>what effects=>perception=>perceived privacy
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>perception=>perceived privacy
+=>which channel=>web2=>openness
+=>who=>business=>benefit/loss=>performance
+=>who=>nonprofit=>characteristics=>other
+=>who=>business=>benefit/loss=>performance
+=>what effects=>perception=>perceived privacy
+=>who=>business=>benefit/loss=>performance
+=>what effects=>perception=>perceived privacy
+=>who=>business=>benefit/loss=>performance
+=>whom/user=>ugc behavior
+=>what effects=>perception=>other
+=>whom/user=>user characteristics=>situation
+=>what effects=>attitude/opinion=>other
+=>which channel=>other
+=>what effects=>attitude/opinion=>other
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>ugc behavior
+=>whom/user=>accompanying behavior=>discussion
+=>what effects=>behavior=>offline communication
+=>what effects=>perception=>perceived privacy
+=>who=>politician=>behavior=>activity
+=>what effects=>perception=>other
+=>who=>politician=>behavior=>activity
+=>what effects=>benefit/loss=>social capital effect
+=>what effects=>perception=>other
+=>what effects=>benefit/loss=>social capital effect
+=>what effects=>perception=>other
+=>what effects=>benefit/loss=>social capital effect
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>benefit/loss=>social capital effect
+=>whom/user=>user characteristics=>social capital
+=>what effects=>benefit/loss=>social capital effect
+=>whom/user=>user characteristics=>social capital
+=>who=>business=>benefit/loss=>performance
+=>whom/user=>exposure behavior=>privacy setting
+=>whom/user=>user characteristics=>social capital
+=>who=>business=>benefit/loss=>performance
+=>whom/user=>exposure behavior=>privacy setting
+=>whom/user=>ugc behavior
+=>whom/user=>accompanying behavior=>discussion
+=>who=>government=>characteristics=>situation
+=>whom/user=>exposure behavior=>engagement
+=>who=>government=>characteristics=>situation
+=>what effects=>benefit/loss=>social capital effect
+=>whom/user=>media use
+=>who=>business=>benefit/loss=>investment
+=>whom/user=>user characteristics=>need
+=>who=>business=>benefit/loss=>investment
+=>whom/user=>ugc behavior
+=>whom/user=>exposure behavior=>privacy setting
+=>what effects=>attitude/opinion=>online group identity
+=>who=>business=>benefit/loss=>investment
+=>whom/user=>accompanying behavior=>social tie/networking
+=>who=>business=>benefit/loss=>investment
+=>who=>individual opinion leader=>behavior=>activeness
+=>whom/user=>ugc behavior
+=>whom/user=>user characteristics=>personality
+=>whom/user=>media use
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>other
+=>who=>nonprofit=>characteristics=>other
+=>who=>politician=>behavior=>ugc
+=>whom/user=>user characteristics=>need
+=>what effects=>attitude/opinion=>other
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>who=>politician=>behavior=>ugc
+=>whom/user=>exposure behavior=>engagement
+=>what effects=>behavior=>stock
+=>whom/user=>exposure behavior=>engagement
+=>what effects=>behavior=>stock
+=>which channel=>web2=>interface quality
+=>whom/user=>accompanying behavior=>discussion
+=>whom/user=>user characteristics=>value/culture
+=>which channel=>web2=>interface quality
+=>whom/user=>accompanying behavior=>discussion
+=>who=>business=>characteristics=>other
+=>who=>nonprofit=>other
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>whom/user=>accompanying behavior=>social tie/networking
+=>whom/user=>media use
+=>whom/user=>user characteristics=>need
+=>whom/user=>media use
+=>whom/user=>user characteristics=>need
+=>whom/user=>media use
+=>who=>government=>other
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>whom/user=>exposure behavior=>other
+=>whom/user=>accompanying behavior=>brand acquaintancing
+=>whom/user=>exposure behavior=>other
+=>whom/user=>accompanying behavior=>brand acquaintancing
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>ugc behavior
+=>who=>nonprofit=>characteristics=>other
+=>who=>business=>benefit/loss=>performance
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>ugc behavior
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>ugc behavior
+=>what effects=>perception=>accessibility
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>exposure behavior=>engagement
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>whom/user=>exposure behavior=>engagement
+=>what effects=>attitude/opinion=>other
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>perception=>usefulness
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>perception=>usefulness
+=>who=>nonprofit=>characteristics=>other
+=>who=>business=>benefit/loss=>performance
+=>who=>business or politician
+=>whom/user=>media use
+=>what effects=>benefit/loss=>social capital effect
+=>whom/user=>media use
+=>what effects=>benefit/loss=>social capital effect
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>other
+=>what effects=>perception=>perceived privacy
+=>what effects=>attitude/opinion=>other
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>other
+=>what effects=>perception=>other
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>other
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>which channel=>other
+=>whom/user=>ugc behavior
+=>which channel=>other
+=>what effects=>attitude/opinion=>other
+=>which channel=>other
+=>what effects=>attitude/opinion=>other
+=>which channel=>other
+=>what effects=>attitude/opinion=>other
+=>which channel=>other
+=>whom/user=>ugc behavior
+=>which channel=>other
+=>what effects=>attitude/opinion=>other
+=>which channel=>other
+=>whom/user=>ugc behavior
+=>which channel=>other
+=>whom/user=>exposure behavior=>engagement
+=>which channel=>other
+=>whom/user=>ugc behavior
+=>who=>business=>other
+=>what effects=>behavior=>performance
+=>whom/user=>user characteristics=>situation
+=>whom/user=>ugc behavior
+=>which channel=>other
+=>what effects=>behavior=>protest
+=>which channel=>other
+=>who=>business=>benefit/loss=>performance
+=>what effects=>perception=>social presence
+=>whom/user=>ugc behavior
+=>whom/user=>media use
+=>whom/user=>ugc behavior
+=>whom/user=>media use
+=>what effects=>perception=>ambient intimacy
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>behavior=>protest
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>behavior=>protest
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>behavior=>purchasing
+=>who=>business=>other
+=>whom/user=>exposure behavior=>engagement
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>behavior=>purchasing
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>behavior=>purchasing
+=>whom/user=>user characteristics=>social capital
+=>what effects=>attitude/opinion=>other
+=>who=>nonprofit=>characteristics=>social capital
+=>what effects=>attitude/opinion=>other
+=>who=>business=>behavior=>ugc
+=>what effects=>attitude/opinion=>other
+=>who=>business=>behavior=>ugc
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>who=>business=>behavior=>ugc
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>whom/user=>media use
+=>whom/user=>media use
+=>what effects=>perception=>social presence
+=>whom/user=>accompanying behavior=>addiction
+=>what effects=>perception=>social presence
+=>whom/user=>accompanying behavior=>addiction
+=>what effects=>perception=>social presence
+=>whom/user=>media use
+=>whom/user=>user characteristics=>need
+=>what effects=>perception=>social presence
+=>whom/user=>accompanying behavior=>addiction
+=>whom/user=>user characteristics=>need
+=>whom/user=>exposure behavior=>privacy setting
+=>whom/user=>media use
+=>whom/user=>user characteristics=>need
+=>whom/user=>exposure behavior=>privacy setting
+=>whom/user=>accompanying behavior=>addiction
+=>whom/user=>user characteristics=>need
+=>what effects=>perception=>perceived similarity
+=>what effects=>perception=>other
+=>what effects=>perception=>perceived similarity
+=>what effects=>behavior=>purchasing
+=>what effects=>perception=>perceived similarity
+=>whom/user=>ugc behavior
+=>what effects=>perception=>perceived similarity
+=>what effects=>behavior=>purchasing
+=>what effects=>perception=>perceived similarity
+=>whom/user=>ugc behavior
+=>what effects=>perception=>perceived similarity
+=>what effects=>behavior=>purchasing
+=>whom/user=>exposure behavior=>selective exposure
+=>whom/user=>ugc behavior
+=>whom/user=>exposure behavior=>other
+=>what effects=>behavior=>performance
+=>whom/user=>exposure behavior=>other
+=>whom/user=>exposure behavior=>engagement
+=>what effects=>perception=>ease of use
+=>who=>business=>benefit/loss=>performance
+=>what content=>ugc=>characteristics=>sentiment
+=>what effects=>behavior=>protest
+=>whom/user=>exposure behavior=>other
+=>what effects=>behavior=>performance
+=>what effects=>perception=>ease of use
+=>what effects=>behavior=>performance
+=>what content=>ugc=>characteristics=>sentiment
+=>whom/user=>user characteristics=>network attr
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>other
+=>whom/user=>user characteristics=>need
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>ugc behavior
+=>who=>business=>characteristics=>other
+=>whom/user=>ugc behavior
+=>whom/user=>media use
+=>what effects=>behavior=>protest
+=>what effects=>perception=>perceived control
+=>who=>business=>benefit/loss=>performance
+=>what effects=>attitude/opinion=>other
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>other
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>other
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>other
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>perception=>gratification/enjoyment
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>other
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>other
+=>who=>nonprofit=>characteristics=>other
+=>who=>business=>benefit/loss=>performance
+=>what effects=>attitude/opinion=>trust in the source
+=>what effects=>behavior=>protest
+=>what effects=>attitude/opinion=>trust in the source
+=>what effects=>behavior=>protest
+=>who=>business=>other
+=>what effects=>behavior=>protest
+=>whom/user=>user characteristics=>situation
+=>what effects=>behavior=>protest
+=>who=>business=>behavior=>ugc
+=>what effects=>behavior=>protest
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>behavior=>protest
+=>whom/user=>exposure behavior=>info disclosure
+=>what effects=>perception=>perceived support
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>other
+=>others=>event
+=>what effects=>behavior=>voting
+=>whom/user=>user characteristics=>need
+=>what effects=>behavior=>voting
+=>whom/user=>accompanying behavior=>social tie/networking
+=>what effects=>behavior=>performance
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>behavior=>performance
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>behavior=>performance
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>behavior=>protest
+=>who=>politician=>behavior=>activity
+=>what effects=>behavior=>voting
+=>whom/user=>user characteristics=>need
+=>which channel=>web2=>interface quality
+=>what effects=>attitude/opinion=>other
+=>which channel=>web2=>interface quality
+=>what effects=>behavior=>protest
+=>which channel=>web2=>interface quality
+=>what effects=>attitude/opinion=>trust
+=>which channel=>web2=>interface quality
+=>what effects=>attitude/opinion=>other
+=>whom/user=>ugc behavior
+=>what effects=>attitude/opinion=>other
+=>whom/user=>ugc behavior
+=>what effects=>behavior=>protest
+=>whom/user=>ugc behavior
+=>what effects=>attitude/opinion=>trust
+=>whom/user=>ugc behavior
+=>what effects=>attitude/opinion=>other
+=>what effects=>perception=>other
+=>what effects=>perception=>usefulness
+=>what effects=>perception=>social influence
+=>what effects=>perception=>usefulness
+=>what effects=>perception=>ambient intimacy
+=>what effects=>perception=>usefulness
+=>what effects=>perception=>other
+=>what effects=>attitude/opinion=>other
+=>whom/user=>ugc behavior
+=>what effects=>attitude/opinion=>other
+=>what effects=>perception=>social influence
+=>what effects=>attitude/opinion=>other
+=>what effects=>perception=>ambient intimacy
+=>what effects=>attitude/opinion=>other
+=>what effects=>perception=>usefulness
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>what effects=>perception=>other
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>behavior=>purchasing
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>behavior=>purchasing
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>behavior=>purchasing
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>behavior=>purchasing
+=>who=>politician=>behavior=>activity
+=>what effects=>attitude/opinion=>other
+=>whom/user=>user characteristics=>need
+=>whom/user=>exposure behavior=>engagement
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>what effects=>benefit/loss=>social capital effect
+=>whom/user=>media use
+=>what effects=>benefit/loss=>social capital effect
+=>whom/user=>user characteristics=>situation
+=>what effects=>attitude/opinion=>trust in information
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>accompanying behavior=>reading news
+=>whom/user=>accompanying behavior=>activity
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>accompanying behavior=>reading news
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>what effects=>attitude/opinion=>other
+=>whom/user=>user characteristics=>value/culture
+=>whom/user=>exposure behavior=>engagement
+=>what effects=>behavior=>other
+=>who=>government=>characteristics=>situation
+=>what effects=>behavior=>other
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>exposure behavior=>info disclosure
+=>who=>government=>characteristics=>situation
+=>who=>media=>benefit/loss=>perception
+=>what effects=>perception=>empowerment
+=>what effects=>behavior=>other
+=>whom/user=>user characteristics=>demographics
+=>who=>business=>benefit/loss=>performance
+=>who=>business or politician
+=>who=>individual opinion leader=>behavior=>activeness
+=>whom/user=>exposure behavior=>info disclosure
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>behavior=>performance
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>who=>business=>benefit/loss=>performance
+=>whom/user=>user characteristics=>situation
+=>who=>business=>benefit/loss=>performance
+=>whom/user=>media use
+=>who=>business=>benefit/loss=>performance
+=>whom/user=>media use
+=>what effects=>perception=>perceived support
+=>whom/user=>accompanying behavior=>information seeking
+=>what effects=>attitude/opinion=>other
+=>which channel=>other
+=>whom/user=>media use
+=>whom/user=>user characteristics=>situation
+=>whom/user=>media use
+=>whom/user=>user characteristics=>need
+=>whom/user=>media use
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>media use
+=>which channel=>other
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>ugc behavior
+=>whom/user=>media use
+=>whom/user=>ugc behavior
+=>who=>politician=>behavior=>activity
+=>whom/user=>ugc behavior
+=>whom/user=>media use
+=>whom/user=>ugc behavior
+=>what content=>ugc=>element=>hashtag/url
+=>what effects=>behavior=>performance
+=>whom/user=>user characteristics=>social capital
+=>whom/user=>user characteristics=>need
+=>what effects=>perception=>gratification/enjoyment
+=>whom/user=>accompanying behavior=>activity
+=>whom/user=>ugc behavior
+=>who=>business=>characteristics=>other
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>who=>business=>characteristics=>other
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>who=>nonprofit=>characteristics=>social capital
+=>who=>politician=>other
+=>who=>business=>characteristics=>popularity
+=>whom/user=>exposure behavior=>engagement
+=>which channel=>other
+=>what effects=>benefit/loss=>social capital effect
+=>whom/user=>exposure behavior=>privacy setting
+=>whom/user=>accompanying behavior=>social tie/networking
+=>what effects=>perception=>usefulness
+=>whom/user=>accompanying behavior=>social tie/networking
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>norm regarding social media
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>norm regarding social media
+=>what effects=>perception=>usefulness
+=>what effects=>attitude/opinion=>norm regarding social media
+=>whom/user=>ugc behavior
+=>what effects=>perception=>usefulness
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>trust
+=>what effects=>perception=>usefulness
+=>what effects=>attitude/opinion=>trust
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>which channel=>web2=>channel comparison
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>social capital
+=>whom/user=>exposure behavior=>engagement
+=>who=>nonprofit=>characteristics=>social capital
+=>whom/user=>exposure behavior=>engagement
+=>who=>nonprofit=>characteristics=>social capital
+=>what effects=>perception=>parasocial relationship
+=>who=>nonprofit=>characteristics=>social capital
+=>whom/user=>exposure behavior=>other
+=>who=>nonprofit=>characteristics=>social capital
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>who=>nonprofit=>characteristics=>social capital
+=>what effects=>attitude/opinion=>value regarding social media
+=>who=>nonprofit=>characteristics=>social capital
+=>whom/user=>exposure behavior=>other
+=>whom/user=>accompanying behavior=>social tie/networking
+=>what effects=>perception=>parasocial relationship
+=>whom/user=>accompanying behavior=>social tie/networking
+=>whom/user=>exposure behavior=>other
+=>whom/user=>accompanying behavior=>social tie/networking
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>whom/user=>accompanying behavior=>social tie/networking
+=>what effects=>attitude/opinion=>value regarding social media
+=>whom/user=>exposure behavior=>other
+=>whom/user=>media use
+=>whom/user=>exposure behavior=>other
+=>whom/user=>media use
+=>which channel=>web2=>interface quality
+=>whom/user=>media use
+=>whom/user=>exposure behavior=>other
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>whom/user=>accompanying behavior=>social viewing
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>accompanying behavior=>social viewing
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>accompanying behavior=>social viewing
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>accompanying behavior=>social viewing
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>accompanying behavior=>social viewing
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>exposure behavior=>engagement
+=>who=>government=>characteristics=>situation
+=>who=>business=>benefit/loss=>other
+=>who=>business=>other
+=>who=>business=>benefit/loss=>other
+=>who=>nonprofit=>characteristics=>other
+=>who=>business=>benefit/loss=>performance
+=>whom/user=>user characteristics=>need
+=>who=>nonprofit=>characteristics=>other
+=>who=>business=>benefit/loss=>performance
+=>whom/user=>user characteristics=>need
+=>whom/user=>ugc behavior
+=>what effects=>benefit/loss=>social capital effect
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>what effects=>benefit/loss=>social capital effect
+=>whom/user=>ugc behavior
+=>what effects=>benefit/loss=>social capital effect
+=>whom/user=>accompanying behavior=>reading news
+=>what effects=>benefit/loss=>social capital effect
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>who=>nonprofit=>characteristics=>other
+=>who=>business=>benefit/loss=>performance
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>whom/user=>media use
+=>who=>business=>benefit/loss=>performance
+=>whom/user=>exposure behavior=>other
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>what effects=>perception=>accessibility
+=>who=>business=>other
+=>whom/user=>accompanying behavior=>brand acquaintancing
+=>who=>business=>other
+=>whom/user=>accompanying behavior=>brand acquaintancing
+=>who=>business=>other
+=>whom/user=>accompanying behavior=>brand acquaintancing
+=>who=>business=>other
+=>whom/user=>accompanying behavior=>brand acquaintancing
+=>who=>government=>use experience
+=>who=>government=>characteristics=>communication style
+=>whom/user=>media use
+=>who=>government=>characteristics=>communication style
+=>who=>business=>behavior=>ugc
+=>who=>government=>characteristics=>communication style
+=>who=>business=>other
+=>who=>government=>characteristics=>communication style
+=>who=>government=>characteristics=>situation
+=>who=>government=>characteristics=>communication style
+=>who=>government=>other
+=>who=>government=>characteristics=>communication style
+=>who=>government=>other
+=>who=>government=>characteristics=>communication style
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>which channel=>web2=>other
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>attachment
+=>which channel=>web2=>other
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>attachment
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>what effects=>attitude/opinion=>loyalty
+=>which channel=>web2=>other
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>who=>business=>benefit/loss=>performance
+=>what effects=>perception=>ease of use
+=>what effects=>perception=>usefulness
+=>what effects=>perception=>ease of use
+=>whom/user=>ugc behavior
+=>what effects=>perception=>usefulness
+=>what effects=>attitude/opinion=>other
+=>what effects=>perception=>usefulness
+=>whom/user=>ugc behavior
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>ugc behavior
+=>what effects=>perception=>gratification/enjoyment
+=>what effects=>attitude/opinion=>other
+=>what effects=>perception=>gratification/enjoyment
+=>whom/user=>ugc behavior
+=>what effects=>perception=>gratification/enjoyment
+=>what effects=>perception=>usefulness
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>other
+=>whom/user=>media use
+=>what effects=>perception=>ease of use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>ugc behavior
+=>whom/user=>accompanying behavior=>social tie/networking
+=>what effects=>attitude/opinion=>other
+=>whom/user=>accompanying behavior=>social tie/networking
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>exposure behavior=>engagement
+=>who=>politician=>behavior=>activity
+=>what effects=>behavior=>protest
+=>who=>business=>other
+=>what effects=>attitude/opinion=>other
+=>whom/user=>accompanying behavior=>social tie/networking
+=>what effects=>behavior=>protest
+=>which channel=>other
+=>what effects=>behavior=>protest
+=>whom/user=>accompanying behavior=>social tie/networking
+=>what effects=>behavior=>protest
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>trust
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>trust
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>whom/user=>user characteristics=>social capital
+=>what effects=>attitude/opinion=>trust
+=>whom/user=>user characteristics=>social capital
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>what effects=>attitude/opinion=>trust
+=>who=>business=>benefit/loss=>performance
+=>whom/user=>user characteristics=>geographic proximity to event
+=>who=>business=>benefit/loss=>performance
+=>whom/user=>user characteristics=>geographic proximity to event
+=>what effects=>behavior=>voting
+=>what effects=>attitude/opinion=>trust
+=>what effects=>behavior=>protest
+=>what effects=>attitude/opinion=>trust
+=>what effects=>behavior=>protest
+=>what effects=>attitude/opinion=>trust
+=>what effects=>behavior=>protest
+=>whom/user=>user characteristics=>geographic proximity to event
+=>what effects=>behavior=>protest
+=>whom/user=>user characteristics=>geographic proximity to event
+=>what effects=>behavior=>protest
+=>whom/user=>user characteristics=>geographic proximity to event
+=>what effects=>behavior=>protest
+=>what content=>ugc=>element=>image
+=>what effects=>attitude/opinion=>attitudes towards content
+=>whom/user=>exposure behavior=>privacy setting
+=>whom/user=>exposure behavior=>privacy setting
+=>whom/user=>user characteristics=>personality
+=>what effects=>attitude/opinion=>other
+=>whom/user=>user characteristics=>personality
+=>whom/user=>ugc behavior
+=>whom/user=>exposure behavior=>privacy setting
+=>whom/user=>exposure behavior=>engagement
+=>who=>business=>characteristics=>other
+=>who=>politician=>characteristics=>communication style
+=>whom/user=>accompanying behavior=>seeing bullying
+=>who=>politician=>characteristics=>communication style
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>who=>business=>benefit/loss=>performance
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>who=>business=>benefit/loss=>performance
+=>who=>individual opinion leader=>behavior=>ugc
+=>who=>politician=>behavior=>ugc
+=>who=>business=>characteristics=>intimacy
+=>what effects=>benefit/loss=>psychosocial outcomes
+=>whom/user=>accompanying behavior=>brand acquaintancing
+=>who=>politician=>behavior=>ugc
+=>what content=>ugc=>element=>image
+=>who=>politician=>behavior=>ugc
+=>whom/user=>media use
+=>what effects=>behavior=>protest
+=>whom/user=>media use
+=>whom/user=>exposure behavior=>other
+=>whom/user=>media use
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>other
+=>whom/user=>media use
+=>what effects=>behavior=>protest
+=>what effects=>perception=>accessibility
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>exposure behavior=>engagement
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>benefit/loss=>social capital effect
+=>what effects=>behavior=>offline communication
+=>who=>business=>other
+=>what effects=>behavior=>protest
+=>others=>time
+=>who=>government=>other
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>exposure behavior=>engagement
+=>who=>government=>other
+=>whom/user=>ugc behavior
+=>whom/user=>user characteristics=>demographics
+=>what effects=>perception=>information value
+=>whom/user=>user characteristics=>demographics
+=>what effects=>perception=>information value
+=>whom/user=>user characteristics=>demographics
+=>what effects=>perception=>information value
+=>whom/user=>user characteristics=>demographics
+=>what effects=>perception=>information value
+=>whom/user=>user characteristics=>demographics
+=>who=>nonprofit=>characteristics=>social capital
+=>whom/user=>user characteristics=>demographics
+=>who=>nonprofit=>characteristics=>social capital
+=>whom/user=>user characteristics=>demographics
+=>what effects=>perception=>information value
+=>whom/user=>user characteristics=>demographics
+=>what effects=>perception=>information value
+=>what effects=>behavior=>other
+=>whom/user=>ugc behavior
+=>whom/user=>user characteristics=>demographics
+=>whom/user=>ugc behavior
+=>who=>politician=>characteristics=>other
+=>what effects=>behavior=>protest
+=>whom/user=>user characteristics=>situation
+=>whom/user=>media use
+=>whom/user=>exposure behavior=>other
+=>whom/user=>media use
+=>whom/user=>exposure behavior=>other
+=>whom/user=>media use
+=>who=>politician=>behavior=>activity
+=>whom/user=>media use
+=>who=>politician=>characteristics=>other
+=>whom/user=>media use
+=>whom/user=>exposure behavior=>other
+=>whom/user=>media use
+=>who=>politician=>behavior=>activity
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>online group identity
+=>who=>politician=>behavior=>activity
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>online group identity
+=>whom/user=>user characteristics=>need
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>user characteristics=>need
+=>whom/user=>media use
+=>whom/user=>user characteristics=>need
+=>whom/user=>media use
+=>whom/user=>user characteristics=>need
+=>whom/user=>media use
+=>whom/user=>user characteristics=>need
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>user characteristics=>social capital
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>value regarding social media
+=>whom/user=>user characteristics=>need
+=>what effects=>behavior=>protest
+=>whom/user=>media use
+=>what effects=>behavior=>protest
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>behavior=>protest
+=>others=>event
+=>whom/user=>media use
+=>others=>event
+=>whom/user=>accompanying behavior=>reading news
+=>others=>event
+=>what effects=>attitude/opinion=>attitudes towards content
+=>others=>event
+=>whom/user=>accompanying behavior=>reading news
+=>what effects=>perception=>feelings of maintaining social ties
+=>whom/user=>media use
+=>what effects=>perception=>feelings of maintaining social ties
+=>what effects=>attitude/opinion=>trust in information
+=>what effects=>perception=>feelings of maintaining social ties
+=>whom/user=>media use
+=>whom/user=>user characteristics=>ability
+=>who=>business=>benefit/loss=>performance
+=>whom/user=>user characteristics=>ability
+=>whom/user=>media use
+=>whom/user=>user characteristics=>ability
+=>whom/user=>media use
+=>whom/user=>user characteristics=>ability
+=>whom/user=>media use
+=>whom/user=>user characteristics=>ability
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>who=>politician=>behavior=>activity
+=>whom/user=>accompanying behavior=>brand acquaintancing
+=>who=>business=>characteristics=>intimacy
+=>whom/user=>media use
+=>what effects=>perception=>social influence
+=>what effects=>behavior=>protest
+=>whom/user=>user characteristics=>need
+=>what effects=>behavior=>protest
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>behavior=>protest
+=>whom/user=>accompanying behavior=>social tie/networking
+=>what effects=>behavior=>protest
+=>what effects=>perception=>social influence
+=>what effects=>behavior=>protest
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>behavior=>protest
+=>which channel=>other
+=>what effects=>behavior=>protest
+=>whom/user=>user characteristics=>network attr
+=>whom/user=>accompanying behavior=>reading news
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>whom/user=>user characteristics=>need
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>whom/user=>user characteristics=>network attr
+=>what effects=>behavior=>performance
+=>whom/user=>user characteristics=>demographics
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>whom/user=>user characteristics=>demographics
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>trust
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>trust
+=>whom/user=>exposure behavior=>info disclosure
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>trust
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>trust
+=>what effects=>perception=>other
+=>what effects=>attitude/opinion=>other
+=>what effects=>perception=>other
+=>who=>nonprofit=>characteristics=>social capital
+=>whom/user=>ugc behavior
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>whom/user=>ugc behavior
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>what effects=>perception=>perceived benefit/loss
+=>whom/user=>accompanying behavior=>information seeking
+=>what effects=>perception=>perceived benefit/loss
+=>what effects=>behavior=>protest
+=>what effects=>perception=>perceived benefit/loss
+=>what effects=>behavior=>purchasing
+=>what effects=>perception=>perceived benefit/loss
+=>whom/user=>ugc behavior
+=>what effects=>perception=>other
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>what effects=>perception=>other
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>what effects=>perception=>other
+=>whom/user=>accompanying behavior=>reading news
+=>what effects=>attitude/opinion=>online group identity
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>whom/user=>accompanying behavior=>activity
+=>whom/user=>accompanying behavior=>reading news
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>user characteristics=>ability
+=>what effects=>perception=>other
+=>who=>politician=>behavior=>activity
+=>what effects=>behavior=>protest
+=>whom/user=>user characteristics=>ability
+=>what effects=>perception=>other
+=>whom/user=>user characteristics=>ability
+=>whom/user=>ugc behavior
+=>who=>politician=>behavior=>activity
+=>what effects=>behavior=>performance
+=>whom/user=>user characteristics=>ability
+=>what effects=>perception=>other
+=>who=>politician=>behavior=>activity
+=>who=>business=>benefit/loss=>performance
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>whom/user=>user characteristics=>value/culture
+=>whom/user=>accompanying behavior=>addiction
+=>whom/user=>media use
+=>whom/user=>accompanying behavior=>addiction
+=>which channel=>other
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>whom/user=>accompanying behavior=>reading news
+=>whom/user=>media use
+=>whom/user=>exposure behavior=>info disclosure
+=>whom/user=>user characteristics=>need
+=>who=>individual opinion leader=>other
+=>what effects=>perception=>parasocial relationship
+=>who=>individual opinion leader=>other
+=>whom/user=>ugc behavior
+=>who=>individual opinion leader=>other
+=>whom/user=>ugc behavior
+=>who=>politician=>behavior=>activity
+=>what effects=>attitude/opinion=>other
+=>who=>politician=>behavior=>activity
+=>what effects=>attitude/opinion=>other
+=>who=>politician=>behavior=>activity
+=>what effects=>attitude/opinion=>other
+=>who=>politician=>behavior=>activity
+=>whom/user=>accompanying behavior=>reaction
+=>who=>politician=>behavior=>activity
+=>whom/user=>accompanying behavior=>reaction
+=>who=>politician=>behavior=>activity
+=>whom/user=>accompanying behavior=>reaction
+=>whom/user=>user characteristics=>need
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>user characteristics=>need
+=>what effects=>attitude/opinion=>other
+=>whom/user=>exposure behavior=>engagement
+=>what effects=>perception=>other
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>ugc behavior
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>exposure behavior=>other
+=>whom/user=>exposure behavior=>privacy setting
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>exposure behavior=>other
+=>what effects=>behavior=>other
+=>who=>politician=>behavior=>activity
+=>whom/user=>exposure behavior=>privacy setting
+=>what effects=>perception=>perceived benefit/loss
+=>what effects=>attitude/opinion=>other
+=>what effects=>perception=>perceived similarity
+=>who=>politician=>characteristics=>competence
+=>what effects=>perception=>perceived similarity
+=>who=>politician=>characteristics=>competence
+=>who=>politician=>behavior=>activity
+=>who=>politician=>characteristics=>competence
+=>who=>politician=>behavior=>activity
+=>who=>politician=>characteristics=>competence
+=>which channel=>web2=>interface quality
+=>what effects=>perception=>perceived privacy
+=>which channel=>web2=>interface quality
+=>what effects=>perception=>perceived privacy
+=>who=>politician=>characteristics=>competence
+=>who=>politician=>characteristics=>competence
+=>what effects=>perception=>perceived similarity
+=>what effects=>behavior=>purchasing
+=>what effects=>perception=>perceived similarity
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>what effects=>perception=>perceived similarity
+=>what effects=>behavior=>purchasing
+=>what effects=>perception=>perceived similarity
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>whom/user=>accompanying behavior=>information seeking
+=>whom/user=>media use
+=>whom/user=>accompanying behavior=>information seeking
+=>whom/user=>media use
+=>whom/user=>media use
+=>what effects=>behavior=>performance
+=>who=>individual opinion leader=>behavior=>activeness
+=>whom/user=>media use
+=>who=>individual opinion leader=>behavior=>activeness
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>user characteristics=>need
+=>whom/user=>media use
+=>whom/user=>user characteristics=>need
+=>whom/user=>media use
+=>whom/user=>user characteristics=>need
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>ugc behavior
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>whom/user=>media use
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>whom/user=>media use
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>whom/user=>media use
+=>which channel=>web1 or web2
+=>what effects=>benefit/loss=>knowledge
+=>which channel=>web1 or web2
+=>whom/user=>accompanying behavior=>brand acquaintancing
+=>whom/user=>exposure behavior=>info disclosure
+=>what effects=>benefit/loss=>social capital effect
+=>which channel=>web1 or web2
+=>what effects=>behavior=>voting
+=>whom/user=>media use
+=>whom/user=>media use
+=>what effects=>perception=>feelings of maintaining social ties
+=>whom/user=>ugc behavior
+=>what effects=>perception=>feelings of maintaining social ties
+=>whom/user=>ugc behavior
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>who=>nonprofit=>characteristics=>other
+=>what content=>ugc=>characteristics=>sentiment
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>behavior=>performance
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>behavior=>protest
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>who=>nonprofit=>characteristics=>other
+=>who=>business=>benefit/loss=>performance
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>perception=>social presence
+=>whom/user=>media use
+=>whom/user=>accompanying behavior=>information seeking
+=>whom/user=>media use
+=>whom/user=>ugc behavior
+=>whom/user=>media use
+=>what effects=>benefit/loss=>knowledge
+=>whom/user=>user characteristics=>geographic proximity to event
+=>whom/user=>accompanying behavior=>information seeking
+=>whom/user=>user characteristics=>geographic proximity to event
+=>whom/user=>ugc behavior
+=>whom/user=>user characteristics=>geographic proximity to event
+=>what effects=>perception=>other
+=>whom/user=>user characteristics=>geographic proximity to event
+=>whom/user=>ugc behavior
+=>whom/user=>user characteristics=>geographic proximity to event
+=>what effects=>attitude/opinion=>other
+=>whom/user=>user characteristics=>geographic proximity to event
+=>what effects=>attitude/opinion=>other
+=>whom/user=>user characteristics=>geographic proximity to event
+=>what effects=>attitude/opinion=>other
+=>whom/user=>user characteristics=>geographic proximity to event
+=>whom/user=>ugc behavior
+=>whom/user=>media use
+=>whom/user=>ugc behavior
+=>whom/user=>user characteristics=>geographic proximity to event
+=>whom/user=>accompanying behavior=>information seeking
+=>whom/user=>user characteristics=>geographic proximity to event
+=>whom/user=>ugc behavior
+=>whom/user=>user characteristics=>geographic proximity to event
+=>what effects=>attitude/opinion=>other
+=>whom/user=>user characteristics=>geographic proximity to event
+=>whom/user=>ugc behavior
+=>whom/user=>media use
+=>what effects=>benefit/loss=>knowledge
+=>whom/user=>user characteristics=>geographic proximity to event
+=>what effects=>perception=>other
+=>whom/user=>user characteristics=>geographic proximity to event
+=>what effects=>attitude/opinion=>other
+=>whom/user=>user characteristics=>geographic proximity to event
+=>what effects=>attitude/opinion=>trust in information
+=>who=>business=>behavior=>ugc
+=>whom/user=>user characteristics=>geographic proximity to event
+=>whom/user=>ugc behavior
+=>whom/user=>media use
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>what effects=>behavior=>purchasing
+=>what effects=>behavior=>attention
+=>what effects=>perception=>social influence
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>which channel=>other
+=>what effects=>behavior=>purchasing
+=>whom/user=>user characteristics=>ability
+=>what effects=>behavior=>attention
+=>who=>politician=>behavior=>activity
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>user characteristics=>need
+=>whom/user=>media use
+=>whom/user=>user characteristics=>need
+=>whom/user=>media use
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>social capital
+=>whom/user=>user characteristics=>geographic proximity to event
+=>who=>nonprofit=>characteristics=>social capital
+=>whom/user=>user characteristics=>geographic proximity to event
+=>what effects=>attitude/opinion=>trust in information
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>other
+=>whom/user=>user characteristics=>need
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>what effects=>perception=>perceived control
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>what effects=>perception=>perceived benefit/loss
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>perception=>feelings of maintaining social ties
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>perception=>feelings of maintaining social ties
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>perception=>feelings of maintaining social ties
+=>whom/user=>user characteristics=>personality
+=>what effects=>perception=>feelings of maintaining social ties
+=>what effects=>perception=>feelings of maintaining social ties
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>what effects=>perception=>feelings of maintaining social ties
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>whom/user=>user characteristics=>social capital
+=>what effects=>perception=>social influence
+=>whom/user=>media use
+=>what effects=>perception=>social influence
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>ugc behavior
+=>whom/user=>media use
+=>who=>business=>benefit/loss=>performance
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>what effects=>perception=>social influence
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>who=>politician=>behavior=>activity
+=>what effects=>behavior=>protest
+=>whom/user=>user characteristics=>other
+=>whom/user=>ugc behavior
+=>who=>politician=>behavior=>activity
+=>whom/user=>media use
+=>which channel=>other
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>which channel=>other
+=>what effects=>attitude/opinion=>trust
+=>which channel=>other
+=>what effects=>attitude/opinion=>other
+=>who=>government=>other
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>what effects=>perception=>perceived privacy
+=>whom/user=>media use
+=>what content=>ugc=>content=>frame
+=>who=>nonprofit=>characteristics=>social capital
+=>who=>government=>characteristics=>situation
+=>whom/user=>media use
+=>who=>government=>characteristics=>situation
+=>whom/user=>media use
+=>who=>government=>characteristics=>situation
+=>whom/user=>media use
+=>which channel=>web2=>openness
+=>whom/user=>media use
+=>which channel=>web2=>openness
+=>whom/user=>ugc behavior
+=>whom/user=>user characteristics=>need
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>user characteristics=>other
+=>what effects=>benefit/loss=>social capital effect
+=>whom/user=>media use
+=>what effects=>benefit/loss=>social capital effect
+=>who=>nonprofit=>characteristics=>other
+=>who=>politician=>characteristics=>competence
+=>whom/user=>user characteristics=>need
+=>who=>nonprofit=>characteristics=>other
+=>who=>politician=>characteristics=>competence
+=>whom/user=>user characteristics=>need
+=>who=>politician=>behavior=>activity
+=>who=>politician=>characteristics=>competence
+=>what content=>ugc=>content=>frame
+=>who=>politician=>characteristics=>competence
+=>what content=>ugc=>content=>frame
+=>who=>politician=>characteristics=>competence
+=>whom/user=>ugc behavior
+=>who=>politician=>characteristics=>competence
+=>whom/user=>user characteristics=>social capital
+=>who=>business=>behavior=>csr engagement
+=>whom/user=>user characteristics=>need
+=>whom/user=>ugc behavior
+=>what effects=>perception=>social influence
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>what effects=>perception=>perceived relational mobility
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>whom/user=>user characteristics=>social capital
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>whom/user=>exposure behavior=>privacy setting
+=>whom/user=>ugc behavior
+=>whom/user=>media use
+=>whom/user=>accompanying behavior=>brand acquaintancing
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>trust in information
+=>whom/user=>ugc behavior
+=>what effects=>attitude/opinion=>trust in information
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>trust in information
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>trust in information
+=>whom/user=>media use
+=>whom/user=>ugc behavior
+=>whom/user=>media use
+=>whom/user=>accompanying behavior=>brand acquaintancing
+=>whom/user=>accompanying behavior=>brand acquaintancing
+=>what effects=>behavior=>purchasing
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>accompanying behavior=>information seeking
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>accompanying behavior=>information seeking
+=>what effects=>perception=>social influence
+=>whom/user=>accompanying behavior=>information seeking
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>whom/user=>exposure behavior=>other
+=>whom/user=>media use
+=>whom/user=>exposure behavior=>info disclosure
+=>who=>business=>behavior=>ugc
+=>whom/user=>accompanying behavior=>information seeking
+=>whom/user=>user characteristics=>need
+=>whom/user=>user characteristics=>value/culture
+=>whom/user=>user characteristics=>value/culture
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>who=>business=>benefit/loss=>performance
+=>whom/user=>user characteristics=>demographics
+=>whom/user=>media use
+=>what content=>ugc=>element=>image
+=>whom/user=>media use
+=>whom/user=>user characteristics=>demographics
+=>whom/user=>media use
+=>what effects=>perception=>perceived control
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>whom/user=>user characteristics=>demographics
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>whom/user=>user characteristics=>demographics
+=>what effects=>perception=>compatibility
+=>whom/user=>media use
+=>what effects=>perception=>perceived benefit/loss
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>trust in social media
+=>whom/user=>media use
+=>whom/user=>media use
+=>what effects=>behavior=>performance
+=>whom/user=>media use
+=>what effects=>behavior=>performance
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>exposure behavior=>engagement
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>ugc behavior
+=>what effects=>perception=>ease of use
+=>whom/user=>exposure behavior=>engagement
+=>what effects=>perception=>ease of use
+=>whom/user=>ugc behavior
+=>whom/user=>exposure behavior=>engagement
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>who=>business=>behavior=>interaction
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>whom/user=>exposure behavior=>engagement
+=>what effects=>attitude/opinion=>loyalty
+=>who=>business=>behavior=>interaction
+=>what effects=>attitude/opinion=>loyalty
+=>what effects=>attitude/opinion=>online group identity
+=>what effects=>attitude/opinion=>loyalty
+=>who=>nonprofit=>characteristics=>other
+=>who=>business=>benefit/loss=>performance
+=>what effects=>perception=>other
+=>who=>nonprofit=>characteristics=>other
+=>who=>business=>benefit/loss=>performance
+=>what effects=>perception=>other
+=>who=>nonprofit=>characteristics=>other
+=>who=>business=>benefit/loss=>performance
+=>what effects=>perception=>other
+=>who=>business=>other
+=>whom/user=>accompanying behavior=>brand acquaintancing
+=>whom/user=>accompanying behavior=>information seeking
+=>whom/user=>exposure behavior=>engagement
+=>who=>government=>characteristics=>situation
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>user characteristics=>geographic proximity to event
+=>whom/user=>ugc behavior
+=>who=>business=>other
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>whom/user=>exposure behavior=>engagement
+=>who=>business=>other
+=>what effects=>benefit/loss=>social capital effect
+=>what effects=>perception=>information value
+=>who=>politician=>other
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>other
+=>who=>nonprofit=>characteristics=>other
+=>who=>business=>behavior=>sm use
+=>who=>nonprofit=>characteristics=>other
+=>which channel=>other
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>accompanying behavior=>brand acquaintancing
+=>others=>time
+=>which channel=>other
+=>whom/user=>media use
+=>who=>business=>characteristics=>popularity
+=>whom/user=>media use
+=>what effects=>perception=>feelings of maintaining social ties
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>other
+=>whom/user=>media use
+=>who=>business=>other
+=>whom/user=>ugc behavior
+=>whom/user=>accompanying behavior=>activity
+=>whom/user=>ugc behavior
+=>what content=>ugc=>element=>video
+=>what effects=>attitude/opinion=>trust in information
+=>what effects=>perception=>accessibility
+=>who=>business=>other
+=>whom/user=>ugc behavior
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>trust in information
+=>who=>politician=>behavior=>exposure
+=>what effects=>attitude/opinion=>other
+=>whom/user=>user characteristics=>need
+=>what effects=>benefit/loss=>social capital effect
+=>what effects=>perception=>gratification/enjoyment
+=>whom/user=>ugc behavior
+=>whom/user=>user characteristics=>other
+=>whom/user=>media use
+=>whom/user=>user characteristics=>situation
+=>whom/user=>media use
+=>whom/user=>accompanying behavior=>information seeking
+=>whom/user=>media use
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>whom/user=>media use
+=>who=>individual opinion leader=>behavior=>ugc
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>media use
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>ugc behavior
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>accompanying behavior=>information seeking
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>ugc behavior
+=>who=>business=>other
+=>whom/user=>ugc behavior
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>ugc behavior
+=>whom/user=>user characteristics=>value/culture
+=>whom/user=>accompanying behavior=>information seeking
+=>whom/user=>accompanying behavior=>discussion
+=>whom/user=>exposure behavior=>info disclosure
+=>what effects=>perception=>information value
+=>whom/user=>exposure behavior=>info disclosure
+=>whom/user=>user characteristics=>need
+=>whom/user=>exposure behavior=>info disclosure
+=>what effects=>perception=>perceived control
+=>whom/user=>exposure behavior=>info disclosure
+=>whom/user=>exposure behavior=>info disclosure
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>who=>business=>benefit/loss=>performance
+=>whom/user=>ugc behavior
+=>who=>business=>benefit/loss=>performance
+=>what effects=>perception=>social influence
+=>who=>business=>benefit/loss=>performance
+=>what effects=>perception=>perceived support
+=>who=>business=>benefit/loss=>performance
+=>what effects=>perception=>perceived support
+=>who=>business=>benefit/loss=>performance
+=>what effects=>perception=>perceived support
+=>who=>business=>benefit/loss=>performance
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>what effects=>behavior=>protest
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>what effects=>behavior=>protest
+=>whom/user=>ugc behavior
+=>what effects=>attitude/opinion=>other
+=>what effects=>perception=>accessibility
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>ugc behavior
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>ugc behavior
+=>whom/user=>user characteristics=>personality
+=>whom/user=>ugc behavior
+=>who=>business or politician
+=>whom/user=>user characteristics=>personality
+=>whom/user=>ugc behavior
+=>who=>business or politician
+=>whom/user=>user characteristics=>social capital
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>other
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>other
+=>whom/user=>accompanying behavior=>social tie/networking
+=>what effects=>attitude/opinion=>other
+=>what effects=>perception=>ambient intimacy
+=>whom/user=>media use
+=>what effects=>perception=>ambient intimacy
+=>whom/user=>media use
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>whom/user=>media use
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>trust
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>what effects=>attitude/opinion=>other
+=>what effects=>attitude/opinion=>trust
+=>what effects=>attitude/opinion=>other
+=>what effects=>attitude/opinion=>trust
+=>what effects=>attitude/opinion=>trust
+=>whom/user=>user characteristics=>emotion
+=>whom/user=>accompanying behavior=>information seeking
+=>whom/user=>accompanying behavior=>social tie/networking
+=>whom/user=>media use
+=>which channel=>web2=>interface quality
+=>what effects=>behavior=>offline communication
+=>which channel=>web2=>interface quality
+=>whom/user=>exposure behavior=>info disclosure
+=>whom/user=>user characteristics=>need
+=>what effects=>behavior=>offline communication
+=>whom/user=>media use
+=>what effects=>perception=>gratification/enjoyment
+=>what content=>propaganda
+=>whom/user=>media use
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>other
+=>what effects=>attitude/opinion=>attitudes towards the source
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>what effects=>attitude/opinion=>attitudes towards the source
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>attitudes towards the source
+=>what effects=>behavior=>purchasing
+=>whom/user=>exposure behavior=>engagement
+=>what effects=>attitude/opinion=>other
+=>whom/user=>exposure behavior=>engagement
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>media use
+=>whom/user=>exposure behavior=>engagement
+=>what effects=>behavior=>purchasing
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>other
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>what effects=>behavior=>purchasing
+=>whom/user=>user characteristics=>need
+=>who=>media=>behavior=>sm use
+=>whom/user=>user characteristics=>need
+=>who=>media=>behavior=>sm use
+=>whom/user=>media use
+=>who=>media=>behavior=>sm use
+=>what effects=>perception=>social influence
+=>whom/user=>media use
+=>what effects=>perception=>perceived similarity
+=>whom/user=>media use
+=>who=>government=>other
+=>whom/user=>media use
+=>what effects=>perception=>social influence
+=>whom/user=>media use
+=>what effects=>perception=>perceived similarity
+=>whom/user=>media use
+=>who=>government=>other
+=>what effects=>perception=>parasocial relationship
+=>what effects=>attitude/opinion=>online group identity
+=>whom/user=>media use
+=>whom/user=>user characteristics=>ability
+=>whom/user=>media use
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>behavior=>crime
+=>whom/user=>user characteristics=>demographics
+=>who=>business=>benefit/loss=>performance
+=>whom/user=>user characteristics=>value/culture
+=>whom/user=>ugc behavior
+=>whom/user=>user characteristics=>value/culture
+=>whom/user=>ugc behavior
+=>whom/user=>media use
+=>what effects=>behavior=>protest
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>trust in information
+=>whom/user=>media use
+=>what effects=>behavior=>protest
+=>whom/user=>accompanying behavior=>discussion
+=>whom/user=>media use
+=>whom/user=>user characteristics=>value/culture
+=>whom/user=>accompanying behavior=>activity
+=>whom/user=>ugc behavior
+=>what effects=>attitude/opinion=>attitudes towards social media
+=>whom/user=>ugc behavior
+=>who=>politician=>behavior=>activity
+=>whom/user=>accompanying behavior=>information seeking
+=>whom/user=>media use
+=>whom/user=>accompanying behavior=>brand acquaintancing
+=>who=>government=>characteristics=>situation
+=>whom/user=>accompanying behavior=>brand acquaintancing
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>ugc behavior
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>ugc behavior
+=>whom/user=>media use
+=>whom/user=>user characteristics=>network attr
+=>whom/user=>media use
+=>whom/user=>ugc behavior
+=>whom/user=>accompanying behavior=>information seeking
+=>what content=>ugc=>characteristics=>sentiment
+=>what effects=>perception=>perceived control
+=>what content=>ugc=>characteristics=>sentiment
+=>who=>business or politician
+=>what content=>ugc=>element=>image
+=>what effects=>behavior=>protest
+=>whom/user=>ugc behavior
+=>what effects=>behavior=>protest
+=>whom/user=>exposure behavior=>privacy setting
+=>whom/user=>exposure behavior=>info disclosure
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>exposure behavior=>info disclosure
+=>whom/user=>exposure behavior=>info disclosure
+=>whom/user=>media use
+=>whom/user=>user characteristics=>social capital
+=>whom/user=>media use
+=>whom/user=>exposure behavior=>info disclosure
+=>whom/user=>user characteristics=>social capital
+=>which channel=>other
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>which channel=>other
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>which channel=>other
+=>whom/user=>user characteristics=>value/culture
+=>whom/user=>user characteristics=>other
+=>whom/user=>media use
+=>whom/user=>user characteristics=>other
+=>whom/user=>media use
+=>what effects=>perception=>gratification/enjoyment
+=>whom/user=>media use
+=>whom/user=>user characteristics=>other
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>whom/user=>accompanying behavior=>social tie/networking
+=>whom/user=>media use
+=>whom/user=>user characteristics=>need
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>user characteristics=>other
+=>whom/user=>user characteristics=>other
+=>whom/user=>media use
+=>whom/user=>ugc behavior
+=>whom/user=>accompanying behavior=>information seeking
+=>whom/user=>ugc behavior
+=>whom/user=>accompanying behavior=>information seeking
+=>who=>business=>other
+=>whom/user=>media use
+=>who=>business=>other
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>which channel=>other
+=>whom/user=>accompanying behavior=>information seeking
+=>whom/user=>ugc behavior
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>perception=>usefulness
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>ugc behavior
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>trust in information
+=>who=>nonprofit=>characteristics=>other
+=>who=>business=>benefit/loss=>performance
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>trust in information
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>trust in information
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>ugc behavior
+=>who=>nonprofit=>characteristics=>other
+=>who=>business=>benefit/loss=>performance
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>ugc behavior
+=>whom/user=>user characteristics=>situation
+=>who=>business=>benefit/loss=>performance
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>trust in information
+=>whom/user=>media use
+=>whom/user=>media use
+=>what effects=>perception=>social influence
+=>what effects=>perception=>parasocial relationship
+=>who=>business=>other
+=>what effects=>perception=>perceived support
+=>what effects=>perception=>perceived support
+=>who=>business=>benefit/loss=>performance
+=>whom/user=>media use
+=>who=>business=>benefit/loss=>performance
+=>who=>business=>behavior=>ugc
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>norm regarding social media
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>whom/user=>user characteristics=>need
+=>whom/user=>user characteristics=>need
+=>whom/user=>media use
+=>whom/user=>user characteristics=>need
+=>whom/user=>user characteristics=>need
+=>whom/user=>media use
+=>whom/user=>user characteristics=>social capital
+=>whom/user=>exposure behavior=>privacy setting
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>trust
+=>whom/user=>media use
+=>what effects=>perception=>social influence
+=>whom/user=>media use
+=>whom/user=>user characteristics=>ability
+=>whom/user=>exposure behavior=>engagement
+=>what effects=>attitude/opinion=>trust
+=>what effects=>attitude/opinion=>trust
+=>what effects=>perception=>self-efficacy
+=>what effects=>attitude/opinion=>trust in information
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>user characteristics=>need
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>trust
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>trust in information
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>what effects=>attitude/opinion=>trust
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>exposure behavior=>privacy setting
+=>whom/user=>ugc behavior
+=>whom/user=>media use
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>attitudes towards brand
+=>whom/user=>user characteristics=>need
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>media use
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>user characteristics=>need
+=>whom/user=>user characteristics=>social capital
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>user characteristics=>need
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>media use
+=>what effects=>benefit/loss=>social capital effect
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>online group identity
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>online group identity
+=>what effects=>attitude/opinion=>norm regarding social media
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>whom/user=>exposure behavior=>selective exposure
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>norm regarding social media
+=>whom/user=>accompanying behavior=>brand acquaintancing
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>accompanying behavior=>brand acquaintancing
+=>whom/user=>exposure behavior=>selective exposure
+=>whom/user=>accompanying behavior=>brand acquaintancing
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>accompanying behavior=>information seeking
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>accompanying behavior=>reaction
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>whom/user=>media use
+=>what effects=>perception=>usefulness
+=>whom/user=>media use
+=>who=>government=>characteristics=>communication style
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>trust
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>trust
+=>what effects=>perception=>usefulness
+=>what effects=>attitude/opinion=>trust
+=>what effects=>attitude/opinion=>other
+=>what effects=>attitude/opinion=>trust
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>online group identity
+=>what effects=>perception=>other
+=>whom/user=>user characteristics=>network attr
+=>whom/user=>ugc behavior
+=>whom/user=>user characteristics=>value/culture
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>online group identity
+=>whom/user=>media use
+=>whom/user=>media use
+=>what effects=>benefit/loss=>social capital effect
+=>whom/user=>media use
+=>what effects=>benefit/loss=>social capital effect
+=>whom/user=>ugc behavior
+=>whom/user=>media use
+=>whom/user=>ugc behavior
+=>whom/user=>media use
+=>whom/user=>ugc behavior
+=>whom/user=>exposure behavior=>privacy setting
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>user characteristics=>personality
+=>whom/user=>ugc behavior
+=>whom/user=>media use
+=>whom/user=>ugc behavior
+=>whom/user=>user characteristics=>personality
+=>whom/user=>media use
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>whom/user=>ugc behavior
+=>whom/user=>accompanying behavior=>social tie/networking
+=>whom/user=>ugc behavior
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>accompanying behavior=>social tie/networking
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>online group identity
+=>whom/user=>media use
+=>whom/user=>accompanying behavior=>social tie/networking
+=>whom/user=>media use
+=>what content=>ugc=>content=>entertainment
+=>whom/user=>media use
+=>who=>politician=>behavior=>activity
+=>whom/user=>media use
+=>whom/user=>accompanying behavior=>discussion
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>whom/user=>media use
+=>whom/user=>accompanying behavior=>info/resource sharing
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>media use
+=>whom/user=>user characteristics=>ability
+=>whom/user=>media use
+=>whom/user=>user characteristics=>ability
+=>whom/user=>media use
+=>whom/user=>exposure behavior=>engagement
+=>whom/user=>media use
+=>who=>nonprofit=>characteristics=>other
+=>who=>business=>benefit/loss=>performance
+=>whom/user=>accompanying behavior=>activity
+=>who=>business=>benefit/loss=>performance
+=>whom/user=>accompanying behavior=>activity
+=>who=>business=>benefit/loss=>performance
+=>who=>media=>other
+=>what effects=>behavior=>performance
+=>who=>business=>other
+=>whom/user=>media use
+=>who=>politician=>behavior=>activity
+=>what effects=>attitude/opinion=>other
+=>whom/user=>media use
+=>what effects=>benefit/loss=>social capital effect
+=>whom/user=>user characteristics=>social capital
+=>whom/user=>media use
+=>what effects=>benefit/loss=>social capital effect
+=>whom/user=>user characteristics=>social capital
+=>whom/user=>media use
+=>what effects=>benefit/loss=>social capital effect
+=>whom/user=>user characteristics=>social capital
+=>whom/user=>media use
+=>what effects=>attitude/opinion=>other
+=>whom/user=>ugc behavior
+=>what effects=>behavior=>protest
+=>what effects=>behavior=>other
+=>whom/user=>ugc behavior
+=>whom/user=>user characteristics=>value/culture
+=>whom/user=>ugc behavior

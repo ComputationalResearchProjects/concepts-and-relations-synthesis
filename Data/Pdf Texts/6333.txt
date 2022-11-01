@@ -1,0 +1,1207 @@
+é 3 Routledge
+2 Taylor & Francis Group
+
+Information, Communication & Society
+
+ 
+
+ISSN: 1369-118X (Print) 1468-4462 (Online) Journal homepage: https://www.tandfonline.com/loi/rics20
+
+ 
+
+Social media and political discussion: when online
+presence silences offline conversation
+
+Keith N. Hampton, Inyoung Shin & Weixu Lu
+
+To cite this article: Keith N. Hampton, Inyoung Shin & Weixu Lu (2017) Social media and political
+discussion: when online presence silences offline conversation, Information, Communication &
+Society, 20:7, 1090-1107, DOI: 10.1080/1369118X.2016.1218526
+
+ 
+
+To link to this article: https://doi.org/10.1080/1369118X.2016.1218526
+
+ 
+
+i Published online: 16 Aug 2016.
+
+(F Submit your article to this journal @
+all Article views: 8139
+
+ey View related articles
+
+® View Crossmark data@
+
+CrossMark
+
+(7) Citing articles: 18 View citing articles @
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journallnformation?journalCode=rics20INFORMATION, COMMUNICATION & SOCIETY, 2017 3
+VOL. 20, NO. 7, 1090-1107 z Routledge
+http://dx.doi.org/10.1080/1369118X.2016.1218526 a Taylor & Francis Group
+
+® Check for updates
+
+Social media and political discussion: when online presence
+silences offline conversation
+
+Keith N. Hampton*, Inyoung Shin and Weixu Lu
+
+Department of Communication, Rutgers University, New Brunswick, NJ, USA
+
+ABSTRACT ARTICLE HISTORY
+This paper explores the relationship between the use of social Received 22 February 2016
+media, attitudinal strength, perceived opinion agreement with Accepted 26 July 2016
+social ties, and willingness to discuss a political issue in different
+online and offline contexts. Unlike the anonymous environment of Discursi tte ct
+. : . iscursive deliberation; social
+some Internet forums, social media are closely tied to the networks; spiral of silence:
+relationships and activities of everyday life. Social media opinion climate; reference
+increasingly make ties from offline contexts persistent online, and, group
+because of the ambient nature of these technologies, awareness
+of the opinions, interests, and activities of social ties has become
+pervasive. As such, the use of social media is likely to affect
+everyday conversation about political issues in on- and offline
+contexts, including the home, workplace, social gatherings with
+friends, community meetings, and on social network sites (SNSs).
+Based on a national probability survey, we find that the use of
+SNSs_ (i.e, Facebook and Twitter) has a direct, negative
+relationship to deliberation in many offline settings. Some uses of
+these platforms are associated with having a lower, perceived
+opinion agreement with social ties. As part of a spiral of silence,
+this further reduces the willingness of social media users to join
+political conversations in some offline settings. Only those with
+the strongest attitudes on an issue are immune.
+
+KEYWORDS
+
+One of the most prevalent views of the Internet is that it has the potential to support
+democracy by providing new forums for political deliberation (Papacharissi, 2002). This
+view assumes that access to new information and communication technologies will provide opportunities for discussion among those who were previously silent and increase
+the overall volume of discourse around political issues. This view has become even
+more pronounced as a result of the increase in the use of social media. However, with
+the exception of studies in which people are purposefully brought together to discuss
+an issue online (Price & Cappella, 2002) and studies of platforms that have been used
+for deliberation around a specific issue (Halpern & Gibbs, 2013), there are few, if any,
+studies of how social media fit into the landscape of opportunities for everyday conversation about political issues (Kim, Wyatt, & Katz, 1999).
+
+CONTACT Keith N. Hampton Q keith.hampton@mysocialnetwork.net © Department of Media and Information,
+Michigan State University, 404 Wilson Road, East Lansing, MI 48824, USA
+*Present address: Department of Media and Information, Michigan State University, Lansing, MI, USA
+
+© 2016 Informa UK Limited, trading as Taylor & Francis GroupINFORMATION, COMMUNICATION & SOCIETY 1091
+
+Conceptualizing computer-mediated communication as something that starts online
+and stays online, with no extension into interactions in other settings, has long been outdated (Wellman & Hampton, 1999). Most online interactions, especially those on social
+media, originate with relationships organized around other social settings, such as the
+home, workplace, and neighborhood (Hampton, Goulet, Rainie, & Purcell, 2011). We
+should expect interactions that take place online to have implications for conversations
+that take place in-person (Hampton & Wellman, 2003). Social media may provide a
+new forum for deliberation but negatively affect willingness to engage in political conversations offline. There may also be different paths to deliberation. When used as a source of
+news or information, social media may directly impact people’s willingness to join a conversation on an issue. In contrast, other uses, such as viewing content posted by friends
+and family, may increase awareness of the opinions of others. If those opinions are not
+in agreement with one’s own, they may lead to a spiral of silence that impedes open deliberation (Noelle-Neumann, 1974).
+
+Based on a national, probability sample, this study explores the role that social media
+play in people’s willingness to participate in conversations on political issues. We focus on
+one recent issue - revelations by Edward Snowden about the US government’s surveillance
+program to collect information on citizen’s telephone calls, emails, and other online communications. We argue that the unique characteristics of social media - relational persistence, pervasive awareness of the opinions of social ties, and the collapsing of multiple
+reference groups into a single context - explain our finding that, with the exception of
+those with very strong attitudes, social media generally have a negative impact on the willingness of people to join a political conversation in face-to-face contexts. And, in some
+situations, there is a spiral of silence, where willingness to discuss political issues is
+indirectly hindered as a result of higher levels of perceived disagreement with social ties.
+
+Literature review
+Deliberative democracy
+
+There is a tradition within democratic theory that regards public deliberation as the foundation of the democratic process (Dewey, 1927; Habermas, 1989). Deliberative democracy
+recognizes that opinions are not fixed preferences, but are fluid and part of a communicative process that provides accountability and justification for the political order (Chambers,
+2003). There is a great deal of variation in the definition of deliberation that ranges from
+formal public gatherings where individuals assemble for debate mediated by referees
+(Schudson, 1997) to those that are informal, conversational, and may even take place in
+settings such as the home (Kim et al., 1999). There is evidence for a range of individual outcomes as a result of deliberation, including attitudinal change, tolerance of opposing views,
+higher levels of generalized trust, increased political knowledge, civic engagement, and
+other forms of political participation (Delli Carpini, Cook, & Jacobs, 2004).
+
+In this paper we adopt a definition of “discursive deliberation’ (Delli Carpini et al., 2004)
+and accept that deliberation can be somewhat ‘incomplete’ (Fishkin, 1995) relative to the
+most formal views of public debate. This conceptualization accepts that deliberation
+includes talk, discussion, and informal conversation between citizens that might take
+place outside of formal structures. Whereas some definitions of deliberation privilege1092 @) K. N. HAMPTON ET AL.
+
+face-to-face contact, discursive deliberation accepts the possibility that exchange through
+communication technologies, including the Internet, can also be deliberative. People may
+choose to discuss political issues in an open public meeting, in the workplace, or in the
+home, but they may also choose to deliberate online.
+
+Opinion climate
+
+A range of individual factors contribute to the likelihood of a person participating in political conversation. Largely mirroring socioeconomic patterns that predict a broad range of
+political behaviors, those with lower educational attainment, lower incomes, and African
+Americans are overrepresented among those who do not engage in political conversation
+(Jacobs, Cook, & Delli Carpini, 2009). Those who have more interest, more knowledge
+(Hayes, Shanahan, & Glynn, 2001), higher opinion strength (Matthes, Rios Morrison, &
+Schemer, 2010), and those who use more news media (Kim et al., 1999) are also more
+likely to discuss a specific issue.
+
+The climate for discussion can influence the willingness of people to deliberate. NoelleNeumann’s (1974) theory of the spiral of silence argues that people assess opinion climate,
+and, if their opinion is in the minority, they are less likely to speak out on an issue for fear
+of social isolation. However, critics have argued that research on the spiral of silence has
+focused too heavily on individual factors, ignored interpersonal influence, and overestimated the effects of the mass media on the willingness to discuss political issues (Katz,
+1981). Oshagan (1996) argues that reference groups or situational contexts that consist
+of ‘family members, close friends, co-workers, or neighbors’ (p. 336) are likely to be
+more consequential than a generalized sense of society’s opinion. Indeed, Moy, Domke,
+and Stamm (2001) and others have found that reference groups take primacy over
+broad public opinion in predicting the willingness of people to share their opinion.
+
+The potential for deliberation free from the social pressures of existing reference groups
+is one reason the Internet may be a promising forum for political discussion. The Internet
+offers anonymity (Qian & Scott, 2007) and reduced social cues, which may facilitate the
+exchange of opinions. There are examples of online forums that have grown organically
+to foster political debate (Papacharissi, 2004), and scholars have purposefully brought previously unconnected citizens together for online political discussion (Price, 2009). However, in practice, most Internet users are not active in online forums dedicated to
+political discussion. Three percent of American Internet users participate in formal,
+real-time, online deliberation, and only 11% participate in other political forums
+(Smith, 2010). Findings also show that online forums dedicated to political conversation
+contain fewer diverse points of view than forums in which politics arise only incidentally
+(Wojcieszak & Mutz, 2009). This is why a branch of Internet technologies known as ‘social
+media’ may provide new opportunities for political discussion. These technologies are
+promising, because the majority of Internet users make use of them, and they provide forums for conversations that are not specifically dedicated to political deliberation.
+
+Social media and deliberation
+
+Social media is a broad, amorphous term that has been used to refer to those Internet technologies built on a platform that allows for the creation and exchange of user-generatedINFORMATION, COMMUNICATION & SOCIETY 1093
+
+content (Kaplan & Haenlein, 2010). Social network sites (SNSs) are a subset of social media
+that are more clearly defined. SNSs refer to those services that allow individuals to create a
+profile, articulate a shared connection to other users, view connections between users, and
+share content (boyd & Ellison, 2007). In contrast to more traditional Internet technologies,
+SNSs are generally not anonymous, and social cues are more visible, because they allow for
+the exchange of text as well as photographs and other media. Two of the most popular SNS
+platforms are Facebook, on which more than 70% of adult, American, Internet users participate, and Twitter, used by more than 23% of the adult, Internet population (Duggan,
+Ellison, Lampe, Lenhart, & Madden, 2015).
+
+Facebook users generally choose to interact with existing social ties that consist of
+family, coworkers, and friends from other social settings (Hampton, Goulet, et al.,
+2011). In this way, SNSs may more closely resemble opportunities for everyday conversation about political issues than a formal, planned forum for deliberation with strangers.
+Once a relationship has been articulated through social media, social ties become enduring
+channels of communication. In this way, SNSs offer a unique form of relational persistence
+(Hampton, 2016). Social ties that previously might have been abandoned or replaced as
+people moved through the life course (Coleman, 1988) are more likely to endure both
+as an audience and as a source of information. Although this persistent contact has advantages in terms of access to social capital, it may also bind people to communities from
+which they otherwise would have been liberated (Wellman, 1979).
+
+The ambient nature of social media, as provided through mobile devices and personal
+computing, allows typical users of SNSs to access content contributed by their connections
+on multiple occasions per day (Hampton, Goulet, et al. 2011). This contact provides
+ongoing exposure to the interests and opinions of social ties in the form of status updates,
+comments, and ‘likes.’ This contact is both pervasive and flattened into a single channel of
+communication (Hampton, 2016). Previously, routine contact with audiences that
+spanned contexts was limited to ties that bridged social circles (Granovetter, 1973). Unlike
+conversational settings, such as the workplace, where one speaks primarily to coworkers,
+or the home, where one discusses issues primarily with family, SNSs create context collapse
+where social ties from diverse settings coexist in a single forum (Marwick & boyd, 2010;
+Wesch, 2009).
+
+How social media use might silence conversation
+
+SNS use is associated with persistent contact and pervasive awareness of social ties comprising identifiable reference groups of friends, family, neighbors, coworkers, etc. While
+it is generally believed that friends, family, and other acquaintances have more similar
+attitudes and beliefs than do strangers, much of the homophily reported between ties
+is inferred based on stereotypes and attitudinal projection (Goel, Mason, & Watts,
+2010). The use of SNSs has been associated with higher awareness of political and socioeconomic diversity within people’s social networks (Hampton, Lee, & Her, 2011; Hampton, Sessions, & Ja Her, 2011). This may not represent diversity from new ties, but
+newfound diversity as a result of relational persistence, context collapse, and new opportunities for discussion with existing ties. While network diversity has many benefits,
+including for political participation (Hampton, 2011), in terms of opinion diversity,
+awareness of dissonant information on one topic may increase entropy about attitudes1094 K.N. HAMPTON ET AL.
+
+on other topics. Awareness of diverse opinions, interests, and backgrounds may lower
+perceived homophile, and increase complexity, cognitive dissonance, and ambivalence
+toward discussion of political issues in general. While this uncertainty is likely to vary
+by issue, those issues that are new, where opportunities for social comparison have
+been limited, and where opinions across the population are divided, would seem most
+susceptible to lower levels of engagement (Rogers, 1983). Thus, for such an issue, we
+hypothesize that:
+
+Hla. Frequent use of SNSs has a direct, negative relationship to willingness to join face-toface political conversations in contexts in which reference groups (e.g., family, neighbors,
+coworkers, and close friends) are found (e.g., the home, community meetings, workplace,
+and other social gatherings).
+
+SNSs can be used in many different ways and for many purposes. For example, they can be
+used as a source of news, as a way to share content with friends and family, and as a channel for one-to-one communication. Since the use of SNSs is not specifically directed at political communication, we do not expect that frequency of use has a direct relationship to
+willingness to discuss political issues on SNSs. We also do not anticipate that the aggregate
+frequency of social sharing, through status updates, commenting on others’ content, and
+personal messaging, on topics that might range from favorite foods to elections is a likely
+predictor of the willingness of a person to participate in a discussion of a political issue.
+This seems especially unlikely when we control for characteristics that have been found
+to be predictive of speaking out: interest in and knowledge of the topic. However, some
+uses of SNSs are likely to be associated with willingness to contribute to a discussion.
+For example, SNS users may encounter information on a political issue in the form of a
+link shared from an online version of traditional mass media (e.g., an article published
+on the online version of a newspaper). News media use is closely associated with willingness to engage in political conversations (Kim et al., 1999). Therefore:
+
+H1b. Exposure to information on a political issue through SNSs will be positively related to
+willingness to discuss that issue on SNSs.
+
+Unlike mass media, when information is shared through social media, it is shared
+indirectly, as a result of social sharing. This process closely resembles a traditional, twostep flow of communication (Katz & Lazarsfeld, 1955) and may enhance awareness of
+opinion diversity within specific reference groups. Thus:
+
+Hic. Exposure to information on a political issue through SNSs has a direct, negative
+relationship to willingness to join a face-to-face conversation on this issue in contexts in
+which reference groups are found.
+
+This is consistent with our expectation that the use of SNSs is related to awareness of
+others’ opinions:
+
+H2a. Frequent use of SNSs is associated with lower, perceived agreement on political issues
+with reference groups.
+
+And, for a specific political issue:
+
+H2b. Exposure to information on a political issue through SNSs is associated with lower, perceived agreement on that issue with reference groups.INFORMATION, COMMUNICATION & SOCIETY 1095
+
+One activity on SNSs is likely to be associated with higher levels of perceived agreement,
+frequency of ‘liking’ behavior. This activity involves a simple binary indication that a person ‘likes’ the content of another user; it is pure affirmation.
+
+H2c. Frequency of ‘liking’ activity on SNSs is positively associated with perceived opinion
+agreement with reference groups.
+
+SNSs use algorithms to show users a small, prioritized subset of all shared content (Hamilton, Karahalios, Sandvig, & Eslami, 2014). It is in the interest of SNSs to favor exposure to
+congruent information. Facebook’s algorithm favors displaying political information from
+contacts with similar opinions (Bakshy, Messing, & Adamic, 2015). Awareness of disagreement has the potential to induce a spiral of silence, which can reduce deliberation
+(and presumably reduce interaction on SNSs, which hurts advertisement revenue). Therefore, we do not believe that the use of SNSs translates into perceived disagreement with
+connections on these platforms:
+
+H2d. Frequent use of SNSs is positively associated with higher perceived agreement with connections on SNSs.
+
+H2e. Exposure to political information through SNSs is positively associated with higher perceived agreement with connections on SNSs.
+
+There is a paradox in that the use of SNSs is associated with lower agreement with specific
+reference groups, while associated with higher agreement with connections on SNSs who
+generally comprise members of those groups. However, not all SNS users are likely to be
+open to awareness of disagreement. Those who have a strong opinion about an issue tend
+to misrepresent opinion climates (Boninger, Krosnick, Berent, & Fabrigar, 1995); they
+tend to exaggerate agreement with in-group members (Holtz & Miller, 1985). Thus:
+
+H3a. Those who have stronger opinions about an issue will tend to perceive higher levels of
+agreement on SNSs and with reference groups.
+
+In addition, prior research has consistently found that those with strong opinions are often
+immune to the spiral of silence (Noelle-Neumann, 1993). Opinion strength is a strong
+motivator for people to express their opinion:
+
+H3b. Those with stronger opinions on a political issue are more willing to join a conversation
+about that issue on SNSs and in face-to-face settings.
+
+Some have suggested an intermingling of constructs related to opinion strength, personality strength, and sociometric qualities of opinion leadership (Scheufele & Shah, 2000),
+such that those who identify as opinion leaders are also likely to have stronger opinions
+on a variety of topics. Popularity is an indicator of opinion leadership (Katz & Lazarsfeld,
+1955), and the number of connections (or ‘friends’) on an SNS is a direct measure of
+popularity:
+
+H3c: Those who amass a larger number of connections on an SNS are likely to have stronger
+
+opinions.
+
+Consistent with the theory of the spiral of silence (Noelle- Neumann, 1974), when individuals do not perceive agreement, they are less likely to speak out. However, we believe that
+some settings are more likely to be immune to the spiral of silence. Different types of social1096 K.N. HAMPTON ET AL.
+
+ties are likely to be found in different settings (Lofland, 1998). Contexts in which strong
+ties dominate, such as the home, may be less likely to host the spiral of silence. Even
+when there is awareness of opinion disagreement, the strength and density of bonds
+and the high level of trust among ties in such intimate contexts reduce the risk of social
+isolation (Coleman, 1988). This is not true of settings such as the workplace, which
+tend to host ties other than close friends and family and thus contain more diverse ties
+and opinions:
+
+H4a. For settings that are not dominated by strong ties, lower perceived agreement with
+reference groups is associated with less willingness to join a conversation in settings where
+those reference groups are predominant.
+
+H4b. Lower perceived agreement with connections on an SNS is associated with lower willingness to join a conversation on an SNS.
+
+It has been argued that Internet users in general (Sunstein, 2001), and users of some SNSs
+in particular (Himelboim, McCreery, & Smith, 2013), form opinion ‘silos’; they seek out
+politically similar connections. Such a pattern of adoption would likely reduce the generalizability of our hypotheses to those SNSs that are immune to this self-selection. Interactive
+media that have near-universal adoption also have interdependences and network externalities that make it difficult for people to limit connections to those who are most similar
+(Markus, 1987). Therefore, our generic reference to a SNS assumes a platform with widespread, and near-universal adoption, similar to the current adoption of Facebook. Our
+expectations for how the use of SNSs, under these conditions, is related to people’s willingness to discuss political issues are formalized in Figure 1. While the generalizability
+of our hypotheses should be explored across SNSs, those that are smaller in scale such as Twitter - are more likely to exhibit silos, to be specialized in their use, and to
+span fewer reference groups. As such, the negative relationship to discussion in face-to
+HIc (-)
+
+ 
+
+  
+
+H1b (+)
+
+ 
+ 
+  
+  
+
+ 
+    
+
+political information
+
+Perceived agreement
+with SNS connections
+
+    
+
+Perceived agreement
+with reference group
+
+    
+ 
+
+       
+ 
+ 
+ 
+ 
+ 
+
+Willingness to discuss
+on SNS
+
+ 
+
+Willingness to discuss
+offline
+
+ 
+ 
+
+Attitude strength
+
+ 
+
+Figure 1. Hypothesized relationship between the use of SNSs, opinion strength, opinion awareness,
+and willingness to discuss a political issue on- and offline.INFORMATION, COMMUNICATION & SOCIETY 1097
+
+face settings will be more limited in scope (ie., fewer settings), there will be less opinion
+diversity, and less of an opportunity for a spiral of silence.
+
+Method
+
+In collaboration with the Pew Research Center, a random-digit dial survey of 1801 adults
+living in households in the USA was conducted from August to September 2013. Telephone interviews were conducted in English and Spanish over landline (901) and mobile
+phones (900, including 482 without a landline). A two-stage weighting procedure was used
+to weight this dual-frame sample. The first-stage weight was used to account for different
+probabilities of selection associated with the number of adults in each household and overlapping landline and mobile phone sample frames. The second stage of weighting balanced
+sample demographics to population parameters. The sample was balanced to match
+national population parameters for gender, age, education, race, Hispanic origin, region,
+population density, and telephone usage. The response rate, as a product of contact rate
+(64.2%), cooperation rate (14.7%), and completion rate (95.9%), was 9.0%. Our analysis
+is based on 1060 participants who identified themselves as users of either Facebook
+(89.4%) and/or Twitter (20.8%).
+
+Our study focuses on the willingness of people to discuss one, specific, current political
+issue that was widely reported in the media in the summer of 2013 and was of interest to a
+majority of Americans (Hampton et al., 2014). By focusing on one current issue, we
+reduce the error associated with self-reported recall of past events. We focused on revelations by defense contractor Edward Snowden, from leaked, classified documents about
+efforts by the US National Security Agency (NSA) to record data from phone and email
+records. At the time of our study, the material leaked by Snowden related to NSA surveillance dealt specifically with ‘meta-data,’ described as including when phone calls happened,
+the duration of calls, the phone numbers of the callers, and the email addresses of senders
+and recipients, but not the contents of calls or emails (Greenwald & Ackerman, 2013).
+
+Participants were asked first about their interest in reports of a “government program
+with the aim of collecting information about people’s telephone calls, emails and other
+online communication, to which they could respond on a four-point scale (3-0) ranging
+from ‘very interested’ to ‘not interested at all’ (M = 1.77, SD = 1.03). Next, on a scale ranging from ‘very knowledgeable’ to ‘not knowledgeable at all’ (3-0), they were asked how
+they would rate their knowledge ‘about the debate surrounding these government programs’ (M = 1.51, SD = 0.89). This was followed by a four-point scale, ‘a lot’ to ‘none at
+all (3-0), that measured ‘how much information, if any, they had obtained about the
+debate from each of ‘local print newspapers’ (M = 0.57, SD = 0.88), “TV and radio’ (M
+= 1.66, SD = 1.12), ‘friends and family (M = 1.03, SD = 1.02), ‘Facebook (M = 0.75, SD
+= 1.02), “Twitter? (M=0.15, SD =0.55), and ‘online news sources other than Facebook
+or Twitter’ (M = 1.27, SD = 1.23).
+
+To measure attitudinal strength, participants were asked, ‘Do you favor or oppose a
+government program to collect nearly all communications in the United States as part
+of anti-terrorism efforts?’ With this wording, we expected to find a distribution that
+would be somewhat equally divided in support. Findings showed that 13% ‘strongly
+favor,’ 24% ‘somewhat favor,’ 22% “somewhat oppose, and 30% ‘strongly oppose’ the program (M = 1.34, SD = 0.63).1098 K.N. HAMPTON ET AL.
+
+The dependent variable, willingness to deliberate, was collected for different settings.
+Participants were asked: ‘If the topic of the government’s surveillance program came up,
+would you be very willing, somewhat willing, somewhat unwilling, or very unwilling to
+join the conversation’ at a community meeting (M = 1.80, SD = 1.03), at work (M = 1.61,
+SD = 1.10), at a restaurant with friends (M=1.97, SD=0.99), at a family dinner (M=
+2.10, SD =0.97), and on Facebook? (M= 1.10, SD = 1.09). Finally, perceived agreement
+with different reference groups was measured on a four-point scale (3-0). Participants
+were asked the extent to which they think neighbors (M = 1.27, SD = 1.17), coworkers
+(M = 1.44, SD = 1.18), close friends (M = 2.02, SD = 1.03), family members (other than
+spouse) (M = 1.94, SD = 1.06), the people in their network on Facebook (M = 1.40, SD =
+1.17), and their Twitter followers (M = 0.29, SD = 0.77) agreed with their view.’
+
+Social media use was measured based on participants’ self-reported use of Facebook
+and Twitter. Participants were asked how frequently they did various activities on social
+media, and the reply was recoded as times per month (0-90). The survey measured frequency of Twitter use (M = 7.61, SD = 22.63), Facebook use (M = 41.18, SD = 39.03), Facebook status updates (M=7.24, SD =17.88), Facebook likes (M = 30.62, SD = 37.04),
+Facebook commenting (M = 19.68, SD = 30.28), and private Facebook messaging (M =
+13.36, SD = 26.11). Participants also reported the number of Facebook friends (M =
+229.21, SD =573.97). The reliability of self-reported, social media use based on this
+approach has been validated in prior studies (Goulet, 2012; Hampton, Goulet, Marlow,
+& Rainie, 2012), in which researchers compared self-reported data with transactional
+log data provided by Facebook.
+
+In addition to the control variables for interest, knowledge, and exposure to information from sources outside of SNSs, additional controls were included for age (M=
+40.30, SD=15.19), gender (53.8% females), race (12.5% Black or African American),
+years of education (M = 13.90, SD =2.28), and marital status (59.0% married or living
+with a partner). M-plus 7.0 was used to model a series of regression analyses specified
+as a path model, employing maximum likelihood estimation with robust standard errors.
+
+Results
+
+As presented in Table 1 and Figure 2, we find clear support for the hypotheses that SNS use
+has a direct, negative relationship to willingness to discuss a political issue in offline, faceto-face contexts (H1a). The evidence is strongest for Facebook, and less generalized for the
+smaller, more narrowly adopted Twitter platform. There is a negative relationship between
+frequency of Facebook use and willingness to discuss political issues at a community meeting (b= —.005, p <.001), in the workplace (b = —.002, p< .05), and at a social event with
+friends (b = —.004, p < .01). Twitter use has a similar direct, negative relationship to willingness to discuss a political issue, but only at work (b = —.004, p < .05). Consistent with
+HIb, there is a direct, positive relationship between the use of Facebook as a source of
+information on a political issue and willingness to discuss that issue on Facebook (b = .168,
+p<.001). As suggested by H1c, those who use Facebook for information were even less
+willing to discuss that issue in the workplace (b = —.097, p < .05) and at home with family
+(b =—.079, p <.05). We did not find a relationship between the use of Twitter for information and willingness to converse about politics in face-to-face settings. As expected,
+we found no relationship between general social sharing practices on Facebook, overallTable 1. Path model for social media use and willingness to discuss a political issue (N = 1060).
+
+Constant
+
+Age
+
+Education
+
+Female
+
+Black
+
+Married
+
+Interest
+
+Knowledge
+
+Attitude strength
+
+Info from newspapers
+
+Info from TV/radio
+
+Info from friend/
+family
+
+Info from other
+online
+
+Info from FB
+
+Info from Twitter
+
+Twitter monthly visits
+
+FB monthly visits
+
+Number of FB friends
+
+FB status updates
+
+FB likes
+
+FB comments
+
+FB messages
+
+Family agreement
+
+Friend agreement
+
+Coworker agreement
+
+Neighbor agreement
+
+FB Agreement
+
+Twitter agreement
+
+R?
+
+Strong attitude
+
+1.316***
+001
+—.007
+—.175***
+—.205**
+—.085
+.033
+058
+
+—.019
+—.014
+041
+
+014
+
+—.005
+.008
+—.002
+.001
+.0001***
+.001
+.0002
+—.001
+—.001
+
+Family
+agreement
+
+1.073***
+—.006
+034
+047
+—.200
+—.104
+.020
+081
+.296***
+—.018
+—.020
+.090*
+
+.016
+
+.076
+—.190*
+.003
+—.002
+—.00005
+.003
+.003*
+—.002
+.002
+
+Friends agreement
+
+1.142***
+—.005
+.030
+—.091
+—.043
+—.059
+.094*
+.130**
+.269***
+—.012
+—.056
+041
+
+—.0004
+
+.050
+—.104
+.004*
+—.001
+.0001
+.004
+.002
+
+Coworker
+agreement
+
+1.234***
+—.013***
+—.021
+—.330***
+
+.196
+—.056
+.114**
+—.001
+333***
+.002
+.006
+.030
+
+.003
+
+.073
+—.064
+.002
+—.003*
+.0001
+—.003
+.002
+—.001
+—.001
+
+Neighbor
+agreement
+
+1.202***
+—.012***
+.008
+051
+045
+—.003
+.048
+—.027
+.189**
+016
+051
+.060
+
+—.071
+
+044
+—.014
+.001
+—.002
+.0001
+.001
+.001
+—.001
+.001
+
+Facebook
+agreement
+
+1.189***
+—.012***
+—.002
+—.008
+
+034
+028
+.067
+—.033
+.204***
+012
+043
+—.060
+
+—.038
+
+.258***
+—.069
+—.003
+
+.004**
+
+.0001
+
+.001
+—.001
+—.001
+
+.003
+
+Twitter
+agreement
+
+222
+—.004*
+.005
+—.076
+.090
+—.020
+024
+—.039
+.003
+—.027
+002
+—.008
+
+014
+
+029
+.267*
+.014***
+—.001
+.0001
+—.001
+.001
+.001
+.001
+
+(Continued)
+
+6601 (#) ALIIDOS 8 NOLLVDINNWWOD ‘NOLLYWYOSNITable 1. Continued.
+
+At community
+
+At restaurants with
+
+ 
+
+meeting At work friends At family dinner On Facebook
+Constant .709** .687** 407 .682** 842***
+Age —.001 —.006** —.005* —.003 —.004
+Education —.002 .002 057*** 026 —.039**
+Female —.126 —.092 —.077 .089 —.077
+Black —.123 —.148 —.060 —.109 —.062
+Married 117 .216** —.024 .060 035
+Interest .119** .119** .137*** .146*** .043
+Knowledge 147** .201*** .160** .098* 127*
+Attitude strength .276*** .181** .183** .168** 25 7***
+Info from newspapers 054 .061 .005 .004 .062
+Info from TV/radio —.032 —.002 017 .060 —.053
+Info from friend/ 055 .007 .061 .085* .007
+family
+Info from other .067* .010 —.009 .040 021
+online
+Info from FB .020 —.097* -.011 —.079* .168***
+Info from Twitter —.130 —.083 —.110 —.014 .00003
+Twitter monthly visits —.002 —.004* .0004 .0004 —.004
+FB monthly visits —.005*** —.002* —.004** —.001 .001
+Number of FB friends .0001 .0001* .00002 .0001 .0001
+FB status updates .004 .0004 .002 —.001 .004
+FB likes .002 .001 .002 .002 —.0001
+FB comments .0004 .002 .001 —.001 .002
+FB messages 001 .002 —.001 —.0001 .003
+Family agreement 029 024 .068 071 —.043
+Friends agreement 079 —.031 .064 .065 —.070
+Coworkers .020 27 2*** —.005 034 .037
+agreement
+Neighbors .008 —.046 —.009 —.046 —.009
+agreement
+FB agreement .033 012 .048 016 .201***
+Twitter agreement .069 141* .005 .007 .048
+R? 211 .233 .185 173 .248
+
+ 
+
+Note: All coefficients are unstandardized coefficients.
+*p <.05. **p <.01. ***p < .001.
+
+“TW 14a NOLdWVH ‘N @) OOLLINFORMATION, COMMUNICATION & SOCIETY 1101
+
+ 
+      
+ 
+
+     
+
+ 
+
+Facebook for information
+
+Twitter for information
+Facebook agreement },
+\
+
+258 %%%
+267%
+on
+0 14e" ee | \
+Frequent Twitter use = =< a Twitter agreement \
+\
+\
+-T— __ Frequent Facebook use \
+[> Family agreement \3
+<=] \**
+003* \ \*
+[i Friends agreement F \
+> \
+Ve oN
+i \ \
+Coworker agreement \ \
+\ \
+\
+\ Discussion on
+\ Facebook
+
+ 
+
+Facebook likes
+
+Facebook friends
+
+Facebook status updates
+eo
+Facebook comments S
+*
+*
+[ Facetook mesages | .
+
+ 
+
+ 
+
+Ns)
+. +,
+Neighbor agreement %,
+
+  
+   
+
+Discussion with
+family at dinner
+
+Discussion with
+friends at restaurant
+
+Discussion in
+
+Facebook messages
+
+ 
+
+ 
+
+__1g3**
+.181**
+
+Attitude strength —<—- = —_ _
+
+\
+\
+
+ 
+
+workplace
+276+»
+
+\
+
+\
+
++
+\
+\
+
+3% Discussion at
+
+community meeting
+
+ 
+
+ 
+
+Figure 2. Path model for social media use and willingness to discuss a political issue.
+
+frequency of status updates, private messaging, and commenting, and any of our outcome
+variables.
+
+Evidence of lower agreement with specific reference groups is inconsistent and more
+muted than anticipated. As anticipated in H2a, the frequency of Facebook use is associated
+with lower perceived agreement with coworkers (b = —.003, p < .05). However, the finding
+is not generalizable to other reference groups; there is no relationship to perceived agreement with family members, close friends, or neighbors. Possibly as a result of its less universal adoption, counter to H2a, frequency of Twitter use is associated with higher levels of
+perceived agreement with friends (b = .004, p<.05). The use of Twitter as a source of
+information on a political issue has the expected negative relationship to agreement
+(H2b), but the finding is limited to agreement with family members (b = —.190, p< .05).
+As anticipated in H2c, those who more frequently ‘like’ other users’ content on Facebook
+have a stronger feeling that family members share their views on a political issue (b = .003,
+p<.05). This does not apply to other reference groups.
+
+There is consistent evidence that frequent use of SNSs and exposure to political information through SNSs are related to perceived opinion agreement with followers (H2d and
+H2e). Frequency of Facebook use (b = .004, p < .01) and use as a source of political information (b= .258, p< .001) are positively associated with perceived agreement with followers. Similarly, frequency of Twitter use (b=.014, p<.001) and use as a source of
+news (b = .267, p < .05) have positive relationships to perceived agreement with followers.
+
+There is strong evidence to support of our hypotheses that attitudinal strength on a political issue is associated with higher levels of perceived agreement with reference groups on
+that issue (H3a). Those with stronger opinions perceived higher levels of attitude congruence with family (b =.296, p<.001), friends (b = .269, p< .001), coworkers (b= .333, p1102 @) K. N. HAMPTON ET AL.
+
+<.01), neighbors (b = .189, p< .01), and their audience on Facebook (b = .204, p< .001).
+Those with a strong opinion on a political issue were also more willing to join a conversation on that issue across on- and offline settings (H3b): community meetings (b = .276, p
+< .001), a social gathering with friends (b = .183, p < .01), at home with family (b = .168, p
+< 001), in the workplace (b = .181, p< .01), and on Facebook (b = .257, p< .01). Although
+marginally substantive, consistent with H3c, those with more contacts on Facebook
+reported slight stronger opinions (b = .0001, p < 001). There was also an unexpected, positive relationship between number of Facebook followers and willingness to join a political
+conversation in the workplace (b= .0001, p< 05). This suggests that opinion leaders, or
+those who seek more contacts on Facebook are more willing to speak out on a political
+issue. A larger network may insolate against a fear of social isolation or a loss of social support (Lu & Hampton, in press).
+
+There is evidence of a spiral of silence in our data. As hypothesized in H4a, this evidence is limited to contexts that are not dominated by strong ties, the workplace, and Facebook. Facebook users who felt that their audience was more in agreement with their
+opinion were more willing to express their views on Facebook (b=.201, p<.001). As
+has already been explored, agreement with followers is highest among frequent Facebook
+users, those who use Facebook as a source of political information, and those with strong
+opinions. Based on the delta method of assessing significance of indirect effects (Muthén &
+Muthén, 2012), and consistent with our hypothesis (H4b), we verified that the use of Facebook as a source of political information (but not frequency of Facebook use) is indirectly,
+through agreement with followers, associated with more willingness to speak out on Facebook (b = .052, p < .001). Attitudinal strength on a political issue is also indirectly and significantly related to willingness to speak out on Facebook (b= .041, p<.01).
+
+In the workplace, those who felt that their coworkers agreed with their opinion were
+more willing to join a conversation on that issue (b = .272, p < .001). Opinion congruence
+with coworkers was higher for those with strong opinions and lower for those who visited
+Facebook more often. Based on the delta method, we find that Facebook users are significantly less likely to join a conversation in the workplace as a direct result of frequent Facebook use (b= -—.002, p<.05) and as an indirect result of lower levels of perceived
+agreement with coworkers (b = —.001, p < .05). We also found an unexpected relationship:
+Twitters users who felt their audience on Twitter agreed with their opinion were more
+willing to speak out on that issue in the workplace (b=.141, p<.05). This relationship
+contrasts with the findings on Facebook use and workplace discussion. Frequent Twitter
+users are less likely to speak out on political issues in the workplace (b = —.004, p< .05).
+However, as verified through the delta method, this relationship is moderated by the
+higher levels of perceived agreement that Twitter users share with their audience on Twitter (b=.002, p<.05). Although this moderation does not eliminate the direct, negative
+effect of Twitter use on deliberation in the workplace, it is reduced.
+
+Discussion
+
+There has been considerable optimism for how the Internet and, recently, social media,
+may support democratic deliberation. On the whole, our findings do not support the conclusion that SNSs are a positive contributor to deliberative democracy. We find clear evidence that the use of an SNS can have a direct, negative impact on deliberation in manyINFORMATION, COMMUNICATION & SOCIETY 1103
+
+offline settings: the home, the workplace, social gatherings with friends, and community
+meetings. While most pronounced for an SNS with near-universal adoption, Facebook,
+the same relationship was found for a less ubiquitous SNS, Twitter, although for the limited setting of the workplace. Only those with the strongest opinions about an issue are
+likely to overcome these negative relationships.
+
+In the absence of information, people tend to assume homophily with close social ties.
+We anticipated that the use of SNSs would reveal opinion diversity around an issue among
+family, close friends, neighbors, and coworkers. We found mixed support for this conclusion. Frequency of Facebook use was associated with lower levels of perceived agreement with coworkers, and the use of Twitter to obtain political information was
+negatively associated with perceived agreement about that issue with family members.
+Yet, these relationships did not extend to as many reference groups as we anticipated.
+And, in the case of Twitter, frequent users perceived higher agreement with close friends,
+possibly as a result of the small-scale and more limited scope of the Twitter user base. It is
+possible that we overestimated the opportunity for discussion on Facebook around the
+issue we explored, thus opinion diversity remained undiscovered. It is also possible that
+Facebook users were aware of unexpected disagreement among their social ties on the
+issue we explored, but that our measure of perceived agreement with reference groups
+did not capture variations that would have been visible if we had focused on disagreement
+with specific ties. However, existing methodologies would largely have limited our scope to
+a study of close ties (Klofstad, McClurg, & Rolfe, 2009), which we found to be less likely to
+lead to a spiral of silence.
+
+We expected the relationship between the use of SNSs, and lower levels of agreement
+with some reference groups to further impede deliberation offline. Where agreement
+was lower, we expected to find a spiral of silence in settings that are not dominated by
+close, trusting ties. We found such a relationship, but it was limited to frequent Facebook
+use, opinions of coworkers, and political discussion in the workplace. We might have
+expected to find a similar relationship for neighbors and deliberation at public meetings,
+but we did not. Perhaps, people view public meetings as a setting that is free form the gaze
+of the groups we studied, and thus not susceptible to a spiral of silence as a result of perceived opinions within these groups. Our findings may also speak to the unique nature of
+coworkers and the workplace. Like family, they are examples of social ties that are often
+maintained less out of voluntary association and more out of obligation that results
+from routine interaction. Unlike family, who are generally part of a dense, trusting network, the strength of workplace ties is more varied. The consequence of offense and disagreement may be more severe. Compared to family, and political conversations in the
+home, it is the relative lack of information about the political opinions of coworkers,
+and the perceived higher consequences of disagreement that may intensify the relationship
+to SNSs. The routine, physical presence of coworkers may also increase the social pressure
+to include them as contacts on some SNSs, which leads to awareness of political disagreement, and reduced willingness to have a political conversation in the workplace. SNSs may
+have the strongest indirect impact, inhibiting political conversation in settings where
+opinion awareness is low, where the perceived cost of disagreement is high, and where
+there is more obligation to include people as contacts on SNSs.
+
+There is room for cautious optimism in our findings. Exposure to information about a
+specific political issue through SNSs is associated with willingness to share opinions1104 K.N. HAMPTON ET AL.
+
+through SNSs. When Facebook was used to gather information about a specific political
+issue, users were more willing, directly, and indirectly as a result of higher levels of perceived agreement with contacts, to discuss that issue on Facebook. It is not clear if this
+is a feature of social media more generally, a consequence of Facebook’s size and ubiquity,
+or a specific outcome of their algorithms. From this evidence, one might be tempted to
+conclude that social media do offer new opportunities for discursive deliberation. However, as we have reported elsewhere (Hampton et al., 2014), only 0.3% of those who report
+being unwilling to have a discussion in one or more in-person settings, such as a community meeting or at home with family, were willing to have such a discussion on social
+media. Social media may primarily be another opportunity for discursive participation
+among those who were already likely to discuss political issues.
+
+We acknowledge that our study has a number of limitations. We do not know if our
+findings, from our one issue, can be generalized to other political issues. In reaction to revelations by Snowden and the government’s surveillance of technology, it is conceivable
+that participants in our sample had adjusted their use of social media and their willingness
+to discuss topics pertaining to surveillance. However, given the extent of information
+leaked by Snowden at the time of our survey, we do not believe that the general public
+had extensively altered their online discourse as a result of this specific issue, and this
+would not have affected our key findings of direct, negative relationships between the
+use of SNSs and deliberation in-person. Structural equation modeling, including path
+analysis, supports causal interpretation (Bollen & Pearl, 2013). However, cross-sectional
+data can rarely establish causation, and while our model lends itself to the interpretation
+of parameters as causal effects, the certainty of such an explanation is premature.
+
+This study explores the role of emerging technologies in a deliberative democracy. Our
+findings provide a tempered response to optimistic views about the discursive possibilities
+of social media. Social media increasingly make ties from offline contexts persistent online
+and make awareness of the opinions, interests, and activities of these ties pervasive
+(Hampton, 2016). We find consistent evidence that, with the exception of those with
+the strongest attitudes, SNSs are associated with lower willingness to discuss a political
+issue in-person, across a range of settings, from the private home, to public meetings.
+In some contexts, particularly the workplace, SNSs contribute to a spiral of silence that
+can further hinder political conversation. We find and expect variation based on how
+people use social media and the scale of the social media platform. Further research should
+explore in more detail how variation in the adoption of SNS affects audience composition
+and opportunities for offline engagement. A natural next step would be to examine in
+more detail the relationship between the use of social media and awareness of dissonant
+information within social networks, as well as those contexts and political issues that are
+most susceptible to lower levels of discursive deliberation.
+
+Note
+
+1. Participants were asked about their willingness to join in a conversation on Twitter, but the
+small number of Twitter users in the sample did not provide adequate variation for analysis.
+
+Disclosure statement
+
+No potential conflict of interest was reported by the authors.INFORMATION, COMMUNICATION & SOCIETY 1105
+
+Notes on contributors
+
+Keith N. Hampton is a Professor in the Department of Media and Information at Michigan State
+University. Additional papers can be found at www.mysocialnetwork.net. [email: keith hampton@
+mysocialnetwork.net].
+
+Inyoung Shin is a doctoral candidate in the Department of Communication at Rutgers University.
+Her research areas include social use of communication technology, social networks, and social
+engagement. [email: inyoung.shin@rutgers.edu].
+
+Weixu Lu is a doctoral candidate in Communication at Rutgers University. He previously studied
+sociology at East China Normal University. His research focuses on social media, social networks,
+mobile technologies, and urban studies. [email: weixulu.comm@rutgers.edu].
+
+References
+
+Bakshy, E., Messing, S., & Adamic, L. A. (2015). Exposure to ideologically diverse news and opinion
+on Facebook. Science, 348(6239), 1130-1132.
+
+Bollen, K., & Pearl, J. (2013). Eight myths about causality and structural equation models. In S.
+Morgan (Ed.), Handbook of causal analysis for social research (pp. 301-328). New York, NY:
+Springer.
+
+Boninger, D. S., Krosnick, J. A., Berent, M. K., & Fabrigar, L. R. (1995). The causes and consequences of attitude importance. In R. Petty & J. A. Krosnick (Eds.), Attitude strength (pp.
+159-189). New York, NY: Psychology Press.
+
+boyd, d. m., & Ellison, N. B. (2007). Social network sites: Definition, history, and scholarship.
+Journal of Computer-Mediated Communication, 13(1), 210-230.
+
+Chambers, S. (2003). Deliberative democratic theory. Annual Review of Political Science, 6(1), 307326.
+
+Coleman, J. (1988). Social capital in the creation of human capital. American Journal of Sociology,
+94(Suppl.), S95-S120.
+
+Delli Carpini, M. X., Cook, F. L., & Jacobs, L. R. (2004). Public deliberation, discursive participation,
+and citizen engagement: A review of the empirical literature. Annual Review of Political Science, 7
+(1), 315-344.
+
+Dewey, J. (1927). The public and its problems. New York, NY: Holt.
+
+Duggan, M., Ellison, N. B., Lampe, C., Lenhart, A., & Madden, M. (2015). Social media update 2014.
+Washington, DC: Pew Research Center.
+
+Fishkin, J. S. (1995). The voice of the people. New Haven, CT: Yale University Press.
+
+Goel, S., Mason, W., & Watts, D. (2010). Real and perceived attitude agreement in social networks.
+Journal of Personality and Social Psychology, 99(4), 611-621.
+
+Goulet, L. S. (2012). Friends in all the right places. Philadelphia: University of Pennsylvania.
+
+Granovetter, M. (1973). The strength of weak ties. American Journal of Sociology, 78(6), 1360-1380.
+
+Greenwald, G., & Ackerman, S. (2013, June 27). How the NSA is still harvesting your online data.
+The Guardian. Retrieved from http://www.theguardian.com/world/2013/jun/27/nsa-onlinemetadata-collection
+
+Habermas, J. (1989). The theory of communicative action (Vol. 2). Boston, MA: Beacon Press.
+
+Halpern, D., & Gibbs, J. (2013). Social media as a catalyst for online deliberation? Exploring the
+affordances of Facebook and YouTube for political expression. Computers in Human
+Behavior, 29(3), 1159-1168.
+
+Hamilton, K., Karahalios, K., Sandvig, C., & Eslami, M. (2014, April 26 to May 1). A path to understanding the effects of algorithm awareness. Paper presented at the CHI ‘14 Extended Abstracts on
+Human Factors in Computing Systems, Toronto, Ontario, Canada.
+
+Hampton, K. N. (2011). Comparing bonding and bridging ties for democratic engagement.
+Information, Communication & Society, 14(4), 510-528.
+
+Hampton, K. N. (2016). Persistent and pervasive community: New communication technologies
+and the future of community. American Behavioral Scientist, 60(1), 101-124.1106 K.N. HAMPTON ET AL.
+
+Hampton, K. N., Goulet, L. S., Marlow, C., & Rainie, L. (2012). Why most Facebook users get more
+than they give. Washington, DC: Pew Research Center.
+
+Hampton, K. N., Goulet, L. S., Rainie, L., & Purcell, K. (2011). Social networking sites and our lives.
+Washington, DC: Pew Research.
+
+Hampton, K. N., Lee, C. J., & Her, E. J. (2011). How new media affords network diversity: Direct
+and mediated access to social capital through participation in local social settings. New Media &
+Society, 13(7), 1031-1049.
+
+Hampton, K. N., Rainie, L., Lu, W., Dwyer, M., Shin, I., & Purcell, K. (2014). Social media and the
+‘spiral of silence’. Washington, DC: Pew Research Center.
+
+Hampton, K. N., Sessions, L., & Ja Her, E. (2011). Core networks, social isolation, and new media.
+Information, Communication & Society, 14(1), 130-155.
+
+Hampton, K. N., & Wellman, B. (2003). Neighboring in Netville: How the Internet supports community and social capital in a wired suburb. City and Community, 2(3), 277-311.
+
+Hayes, A. F., Shanahan, J., & Glynn, C. J. (2001). Willingness to express one’s opinion in a realistic
+situation as a function of perceived support for that opinion. International Journal of Public
+Opinion Research, 13(1), 45-58.
+
+Himelboim, I., McCreery, S., & Smith, M. (2013). Birds of a feather tweet together: Integrating network and content analyses to examine cross-ideology exposure on Twitter. Journal of ComputerMediated Communication, 18(2), 40-60.
+
+Holtz, R., & Miller, N. (1985). Assumed similarity and opinion certainty. Journal of Personality and
+Social Psychology, 48(4), 890-898.
+
+Jacobs, L. R., Cook, F. L., & Delli Carpini, M. X. (2009). Talking together. Chicago, IL: University of
+Chicago Press.
+
+Kaplan, A. M., & Haenlein, M. (2010). Users of the world, unite! The challenges and opportunities
+of social media. Business Horizons, 53(1), 59-68.
+
+Katz, E. (1981). Publicity and pluralistic ignorance. In H. Baier, M. Kepplinger, & K. Reumann
+(Eds.), Public opinion and social change (pp. 28-38). Wiesbaden: Verlag.
+
+Katz, E., & Lazarsfeld, P. (1955). Personal influence. Glencoe, IL: Free Press.
+
+Kim, J., Wyatt, R. O., & Katz, E. (1999). News, talk, opinion, participation: The part played by conversation in deliberative democracy. Political Communication, 16(4), 361-385.
+
+Klofstad, C. A., McClurg, S. D., & Rolfe, M. (2009). Measurement of political discussion networks:
+A comparison of two ‘name generator’ procedures. Public Opinion Quarterly, 73(3), 462-483.
+
+Lofland, L. (1998). The public realm. New York, NY: Aldine de Gruyter.
+
+Lu, W., & Hampton, K. N. (in press). Beyond the power of networks: Differentiating network structure from social media affordances for perceived social support. New Media & Society.
+
+Markus, M. L. (1987). Toward a ‘critical mass’ theory of interactive media: Universal access, interdependence and diffusion. Communication Research, 14(5), 491-511.
+
+Marwick, A. E., & boyd, d. (2010). I tweet honestly, I tweet passionately: Twitter users, context collapse, and the imagined audience. New Media & Society, 13(1), 114-133.
+
+Matthes, J., Rios Morrison, K., & Schemer, C. (2010). A spiral of silence for some: Attitude certainty
+and the expression of political minority opinions. Communication Research, 37(6), 774-800.
+Moy, P., Domke, D., & Stamm, K. (2001). The spiral of silence and public opinion on affirmative
+
+action. Journalism & Mass Communication Quarterly, 78(1), 7-25.
+
+Muthén, L. K., & Muthén, B. O. (2012). Mplus: Statistical analysis with latent variables (Version 7)
+[Computer software]. Los Angeles, CA: Muthén& Muthén.
+
+Noelle-Neumann, E. (1974). The spiral of silence a theory of public opinion. Journal of
+Communication, 24(2), 43-51.
+
+Noelle-Neumann, E. (1993). The spiral of silence: Public opinion, our social skin. Chicago, IL:
+University of Chicago Press.
+
+Oshagan, H. (1996). Reference group influence on public expression. International Journal of Public
+Opinion Research, 8(4), 335-354.
+
+Papacharissi, Z. (2002). The virtual sphere: The Internet as a public sphere. New Media Society, 4(1),
+9-27.INFORMATION, COMMUNICATION & SOCIETY 1107
+
+Papacharissi, Z. (2004). Democracy online: Civility, politeness, and the democratic potential of
+online political discussion groups. New Media & Society, 6(2), 259-283.
+
+Price, V. (2009). Citizens deliberating online: Theory and some evidence. In T. Davies & S. P.
+Gangadharan (Eds.), Online deliberation: Design, research, and practice (pp. 37-58). Chicago,
+IL: CSLI Publications.
+
+Price, V., & Cappella, J. N. (2002). Online deliberation and its influence. IT and Society, 1, 303-328.
+
+Qian, H., & Scott, C. R. (2007). Anonymity and self-disclosure on weblogs. Journal of ComputerMediated Communication, 12(4), 1428-1451.
+
+Rogers, E. (1983). Diffusion of innovations. New York, NY: Free Press.
+
+Scheufele, D. A., & Shah, D. V. (2000). Personality strength and social capital: The role of dispositional and informational variables in the production of civic participation. Communication
+Research, 27(2), 107-131.
+
+Schudson, M. (1997). Why conversation is not the soul of democracy. Critical Studies in Mass
+Communication, 14(4), 297-309.
+
+Smith, A. (2010). Government online. Washington, DC: Pew Internet & American Life Project.
+
+Sunstein, C. R. (2001). Republic.com. Princeton, NJ: Princeton University Press.
+
+Wellman, B. (1979). The community question: The intimate networks of East Yorkers. American
+Journal of Sociology, 84(5), 1201-1231.
+
+Wellman, B., & Hampton, K. N. (1999). Living networked on and offline. Contemporary Sociology,
+28(6), 648-654.
+
+Wesch, M. (2009). Youtube and you: Experiences of self-awareness in the context collapse of the
+recording webcam. Explorations in Media Ecology, 8(2), 19-34.
+
+Wojcieszak, M. E., & Mutz, D. C. (2009). Online groups and political discourse: Do online
+discussion spaces facilitate exposure to political disagreement? Journal of Communication,
+59(1), 40-56.

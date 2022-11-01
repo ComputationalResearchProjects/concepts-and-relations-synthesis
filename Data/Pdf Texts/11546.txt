@@ -1,0 +1,883 @@
+Computers in Human Behavior 39 (2014) 263-269
+
+ 
+
+   
+
+Wee
+
+LSEVIER
+
+Contents lists available at ScienceDirect
+Computers in Human Behavior
+
+journal homepage: www.elsevier.com/locate/comphumbeh
+
+ay Leo Ua aly
+HUMAN BEHAVIOR
+
+ 
+
+ 
+
+Revisiting the social enhancement hypothesis: Extroversion indirectly
+predicts number of Facebook friends operating through Facebook usage
+
+Gina Masullo Chen *
+
+® CrossMark
+
+The University of Texas at Austin, School of Journalism, 300 W. Dean Keeton St., Austin, TX 78712-0113, USA
+
+ 
+
+ARTICLE INFO ABSTRACT
+
+ 
+
+ 
+
+Article history:
+Available online 7 August 2014
+
+ 
+
+Keywords:
+
+Social media
+
+Personality theory
+
+Facebook
+
+Friending
+
+Extroversion
+
+Social enhancement hypothesis
+
+An online survey of college-age Facebook users (N = 209) found that extroversion, narcissism, openness,
+and agreeableness predicted friending more people on Facebook. However, only extroversion continued to
+exert an effect when these and other personality variables were examined together in one regression
+model, while controlling for frequency of Facebook usage and gender. Also, a path analysis model showed
+that extroversion directly predicted number of Facebook friends and the number of months people were
+active on Facebook. In addition, extroversion indirectly influenced number of Facebook friends, operating
+through months active on Facebook and hours per week spent on Facebook in a parallel mediation effect.
+Findings offer support for the social enhancement hypothesis, which argues that extroverted people benefit the most from social media.
+
+© 2014 Elsevier Ltd. All rights reserved.
+
+ 
+
+1. Introduction
+
+Researchers for decades have tried to understand how personality shapes social interactions among people. Social-networking
+sites, such as Facebook, offer an opportunity to study these interactions. Research has found that personality shapes how people communicate online, much as it does offline (e.g. Amichai-Hamburger &
+Vinitzky, 2010; Back et al., 2010). Based on this foundation, it is well
+established that personality has an effect in how people use socialnetworking sites. However, what has received less study is how this
+effect plays out - what path does this effect takes? This current
+study used a survey of college-age Facebook users (N= 209) to
+begin to fill this gap by exploring a mediation model that explains
+how personality and Facebook usage predict number of Facebook
+friends. To create this model, this study drew on personality theory
+and the social enhancement hypothesis, which argues that people
+who are popular offline complement this popularity online (Kraut
+et al., 2002; Tufekci, 2010; Zywica & Danowski, 2008). Previous
+research has examined similar variables (Amichai-Hamburger &
+Vinitzky, 2010; Ross et al., 2009; Schrammel, Koffel, & Tscheligi,
+2009). However, no earlier studies have directly tested a mediation
+model that examines the effect of personality on friending mediated
+by how frequently people use Facebook. Therefore, this study
+offered new knowledge about the role personality plays in human
+behavior by moving beyond merely describing the influence to
+explaining its path in the microcosm of a social-networking site.
+
+* Tel.: +1 228 229 2783.
+E-mail address: savethemedia@gmail.com
+
+http://dx.doi.org/10.1016/j.chb.2014.07.015
+0747-5632/© 2014 Elsevier Ltd. All rights reserved.
+
+First, I offer a brief history of the role of friending on Facebook.
+Then | review the literature on how personality theory and the
+social enhancement hypothesis have been applied to social
+media to show support for the hypotheses and research question
+in this study. Then I outline how the proposed model was tested
+and explain how the results fit existing literature and expand
+knowledge of how personality influences social media use.
+
+2. Literature review
+2.1. Facebook
+
+Social media have been around in some form since the early
+1990s, even before the Internet was called the World Wide Web
+(Rheingold, 2000). Their goal was to enable people to form online
+connections with other people, a goal that continued as these sites
+became more technologically sophisticated (Thelwall, 2008). Facebook started as a social medium for college students in 2004 (Boyd
+& Ellison, 2007) but two years later was opened to the general public and now has become the number one website in the world,
+according to the traffic-ranking site, Alexa.com.'! Facebook has
+1.06 billion monthly active users (Tam, 2013). Two-thirds of online
+American adults report using it, making it the predominant social
+medium in the United States (Rainie, Smith, & Duggan, 2013). As
+such, Facebook was deemed a suitable environment in which to
+understand online communication because of its widespread and
+frequent use. College-age people were the target of this study
+
+' According to figures at http://www.alexa.com accessed on June 30, 2013.264 G.M. Chen/Computers in Human Behavior 39 (2014) 263-269
+
+because younger people are more typical users of social media
+(Lenhart, Purcell, Smith, & Zickur, 2010), such as Facebook.
+
+2.1.1. Friending and Facebook usage
+
+This study focused specifically on friending” - the act of forming a relational connection (Ledbetter et al., 2011) with another
+person on Facebook. Friending was examined because it is a common activity on a variety of social media (Ellison, Steinfield, &
+Lampe, 2007). Social media friending differs from offline friendships
+because online friends are often based on very weak ties, and may
+be essentially strangers (Gilbert & Karahalios, 2009). Another
+important attribute of social media friending is its public nature.
+Most social media, including Facebook, display and update the
+number of friends for any users to see. In addition, people “display
+their connections” through pictures and observations about politics,
+books they have read, or musical taste on their profiles (Donath &
+Boyd, 2004, p. 72). This enables people to have more power to be
+selective in how they present themselves and manage their public
+impression on social media (Walther, 2007). In addition, the action
+of friending on Facebook requires that a request be made and
+accepted. As a result, the number of friends one has on Facebook
+may reflect in part how actively a person sends out friend requests
+and accepts them (Lee, Moore, Park, & Park, 2012). However, the
+public nature of friending is important as well, as people can see
+how many friends another person has. Lee et al. (2012) note that
+this public nature of the number of friends may lead people to strategically accept requests with little deliberation to make themselves look popular. Therefore, the number of friends may reflect
+how people control how others see them online (Lee et al., 2012).
+As a result the number of friends may be both a gauge of popularity
+and provide a means for people to articulate particular attributes of
+their personality.
+
+2.2. Theoretical framework
+
+2.2.1. Social enhancement hypothesis
+
+The social enhancement hypothesis posits that extroverted people are more motivated to expand online contacts in what has been
+dubbed the “rich get richer” effect (Kraut et al., 2002; Tufekci, 2010;
+and Zywica & Danowski, 2008). Kraut et al. (2002) found in their
+seminal longitudinal study that new Internet users derived benefits
+from using the web, particularly if they were extroverted or outgoing. Similarly, Zywica and Danowski (2008) found that extroverted
+people were more popular on Facebook but put less effort into trying
+to be popular than introverts, offering support for the social
+enhancement hypothesis. Based on this literature, extroversion
+was a key personality variable considered in this current study.
+
+2.2.2. Personality and social media
+
+For this study, four other personality variables in addition to
+extroversion were considered because they have been found to have
+an influence on how people use social media and other online communication (e.g. Amichai-Hamburger & Vinitzky, 2010; Correa,
+Hinsley, & Gil de Zuniga, 2010; Marcus, Machilek & Schutz, 2006).
+These were neuroticism, conscientiousness, agreeableness, and
+openness to change, which together with extroversion make up
+the big-five personality factors. Neurotics see the world as a
+threatening place; conscientious people are dependable and organized; agreeable people get along well with others, while open people find it easier to embrace change (Eysenck, 1998; Funder & Fast,
+2010).
+
+2 For the sake of clarity, friend or friending was italicized when it meant an online
+social-media connection. This was an attempt to differentiate between the common
+usage of the word friend and social media friends.
+
+A variety of relationships between personality and online communication have been found. For example, people with their own
+websites have been found to be less extroverted and more open
+to new experience than the general population (Marcus et al.,
+2006). Frequent social media users tend to be more extroverted
+and open to new experiences but also more neurotic (Correa
+et al., 2010). Highly extroverted people used Facebook more and
+made greater use of its communication tools, while people high
+in the trait openness shared more on Facebook and people high
+in the trait conscientiousness limited their online activities
+(Amichai-Hamburger & Vinitzky, 2010). Ross et al. (2009) also
+found that people high in openness used Facebook more than others. Personality also may play a role in what social medium people
+prefer. Hughes, Rowe, Batey, & Lee, 2012 found that extroverted
+and neurotic people preferred Facebook.
+
+2.2.3. Personality and friending
+
+When research that specifically addresses personality traits and
+the act of accumulating friends is considered, people high in openness spend more time online, so they end up accruing more friends
+(Schrammel et al., 2009). Highly extroverted people also have been
+found to have more Facebook friends (Amichai-Hamburger &
+Vinitzky, 2010; Schrammel et al., 2009). However, another study
+(Ross et al., 2009) found that extroverted people joined more
+online groups but did not have more friends.
+
+This current study also examined narcissism, which is
+characterized by high self-esteem, a sense of entitlement,
+defensiveness, and willing to manipulate others to get what one
+wants (Swann & Bosson, 2010). Narcissism was included because
+it correlates positively with wanting a lot of Facebook
+friends (Bergman, Fearrington, Davenport, & Bergman, 2011) and
+with being more active on social networks (Buffardi & Campbell,
+2008).
+
+Frequency of Facebook usage was controlled for because personality has been found to predict usage (eg. AmichaiHamburger & Vinitzky, 2010; Ross et al., 2009). In addition, gender
+was used as a covariate because men and women have been found
+to use social media differently (e.g. Brenner, 2012; Haferkamp,
+Eimler, Papadakis, & Kruck, 2012; Hampton, Goulet, Rainie, &
+Purcell, 2011; Walton & Rice, 2013).
+
+Therefore, based on the social enhancement hypothesis and literature on social media and personality, this current study proposed support for a rich gets richer scenario. Under this
+scenario, extroverts would be expected to accumulate more Facebook friends, deriving more benefit from their social media use. In
+addition, openness, neuroticism, and narcissism would be
+expected to correlate positively with a greater number of Facebook friends, as has been shown in earlier research (e.g.
+Bergman et al., 2011; Schrammel et al., 2009). Research is less
+conclusive regarding agreeableness and conscientiousness. Therefore, the following hypothesis and research question were put
+forth:
+
+H1. The personality traits of extroversion, openness, neuroticism,
+and narcissism will correlate positively with number of Facebook
+friends while controlling for gender and Facebook usage.
+
+RQ1. Will the personality traits of agreeableness and conscientiousness correlate with number of Facebook friends while controlling for gender and Facebook usage?
+
+Finally, a goal of this study was to go beyond the question of
+what personality traits influence friending on Facebook to the larger question of how this occurs. Therefore, a mediation model
+was proposed and tested that examined how personality traitsG.M. Chen/Computers in Human Behavior 39 (2014) 263-269 265
+
+and Facebook usage lead to friending more people on Facebook. The
+proposed model was based both on the literature and refined based
+on the results of H1 and RQ1.’ Facebook usage was considered a
+mediator because accruing many friends requires time spent
+sending out and accepting requests. So it stands to reason that time
+spent on Facebook both over the course of months and on a daily
+basis would be influential to the process of friending. Therefore, it
+was posed:
+
+H2. Extroversion will have a direct effect on Facebook usage and
+number of Facebook friends and an indirect effect on number of
+friends mediated through Facebook usage.
+
+3. Methods
+
+To test the hypotheses and answer the research question, a
+purposive online survey was conducted with college-age Facebook users as respondents. A 71-item questionnaire created on
+Survey Gizmo was distributed using links on the researcher’s
+Twitter and Facebook accounts and through emails to collegeage people. A total of 238 surveys were submitted, but 27 were
+removed from the sample because respondents had _ not
+answered a majority of the questions. Data from two additional
+respondents were removed because the respondents did not
+have their own Facebook account as required, reducing the N
+to 209. The majority of respondents were female (71.3%) and
+white (76.6%), and the mean age was 19.93 years (SD = 3.72).
+
+3.1. Independent variables
+
+3.1.1. Facebook usage
+
+This concept was operationalized in two ways. Respondents
+were asked to estimate how many months they had been actively
+using Facebook, with active use defined as reading other people’s
+status updates or posts or posting information on their own or
+other people’s Facebook pages using any type of device. The second
+way this concept was operationalized was by asking respondents
+how many days per week and how many minutes per day they
+accessed Facebook during a typical week. Minutes per day and
+days per week were combined into a multiplicative index and then
+divided by 60, to form hours per week on Facebook. These two
+variables were considered separately because prior research has
+found they may measure different dimensions of social media
+usage (G. Chen, 2011; G. Chen, 2012; G. Chen, 2013), and, therefore, only weakly correlate. For example, some people may have
+a Facebook account for years but use it only infrequently on a daily
+basis while others may have an account for a short time but use it
+for longer periods each day.
+
+On average, respondents had used Facebook for 49.46 months
+(SD = 21.29). Respondents spent on average 10.22 h per week on
+Facebook (SD = 10.39). Because of skewness, both variables were
+subjected to square root transformation (Tabachnick & Fidell,
+2007), and all future references are to the transformed variables.
+Pearson’s product-moment correlations (Table 1) showed a weak
+but statistically significant positive relationship between these
+variables (r=.18), supporting the need to view these two
+variables as separate dimensions of social media usage as
+shown in earlier studies (G. Chen, 2011; G. Chen, 2012; G.
+Chen, 2013).
+
+3 Initially, gender was used as a control based on prior research that has found
+differences in how men and women use social media (e.g. Haferkamp et al., 2012;
+Hampton et al. 2011; Brenner, 2012; Walton & Rice, 2013). However, as it showed no
+significant effect in either the regression model or PROCESS model, it was trimmed
+from the model in the interest of parsimony.
+
+3.1.2. Big-five personality traits
+
+A 5-item personality inventory adapted from Gosling, Rentfrow,
+and Swann (2003)* was used to measure the big-five personality
+traits, extroversion, agreeableness, conscientiousness, neuroticism,
+and openness to experiences. This measure offers a short questionnaire with test-retest reliability, a pattern of external correlates,
+convergence between observer and self-ratings, and convergence
+with longer big-five measures that are adequate for reliability but
+not quite as strong as with the longer measures (Gosling et al.,
+2003). This measure also was suitable because it has been used in
+previous Internet research regarding personality (Correa et al.,
+2010). Participants were asked to rate on a 1(strongly disagree) to 7
+(strongly agree) scale how well five characteristics that relate to each
+personality trait describes them. The characteristics, the traits they
+relate to, and descriptive statistics were: (1) extroversion: extroverted, enthusiastic, M=4.87, SD=1.77; (2) conscientiousness:
+dependable, self-disciplined, M = 5.88, SD = 1.23; (3) neuroticism:
+anxious, easily upset, M = 3.67, SD = 1.64; (5) openness to experiences: open to new experiences, complex, M = 5.84, SD = 1.02; agreeableness: sympathetic, warm, M = 5.65, SD = 1.23.
+
+3.1.3. Narcissism
+
+This was measured using an adaption of the Narcissistic Personality Inventory (NPI), which has internal and discriminant reliability similar to Raskin and Terry’s (1988) 40-item NPI, so it is useful
+when a longer questionnaire would be impractical (Ames, Rose, &
+Anderson, 2006). Subjects rated on a 1 (strongly disagree) to 7
+(strongly agree) how well the following statements described them:
+“T know that I am good because everybody keeps telling me so”, “I
+like to be the center of attention”, “I think | am a special person”,
+“T like having authority over people”, “I find it easy to manipulate
+other people”, “I insist upon getting the respect that is due me”, “I
+am apt to show off if I get the chance”, “I always know what I am
+doing”, “Everybody likes to hear my stories”, “I expect a great deal
+from other people”, “I really like to be at the center of attention”,
+“People always seem to recognize my authority”, “I am going to be
+a great person”, “I can make anybody believe anything I want them
+to”, “I am more capable than other people”, and “I am an extraordinary person”. Responses were averaged into an index with acceptable reliability, M = 4.51, SD = 0.72, Cronbach’s « = .82.
+
+3.2. Dependent variable
+
+3.2.1. Number of Facebook friends
+
+This was operationalized by asking respondents how many
+friends they had at that moment on Facebook. On average, respondents reported 769.91 friends (SD = 482.91). Because of positive
+skew, this variable was subjected to square root transformation
+(Tabachnick & Fidell, 2007), and the transformed variable was used
+in the analysis.
+
+4. Results
+
+H1 predicted the personality traits of extroversion, openness,
+neuroticism, and narcissism would positively predict number of
+Facebook friends. RQ1 asked whether agreeableness and conscientiousness would correlate with number of Facebook friends.
+
+4 The Gosling et al. (2003) scale includes two personality characteristics for each of
+the Big 5 Personality trait. However, in this study, each of the reverse-coded
+characteristics was dropped because of low reliability when formed into indices with
+the other measures.
+
+° The Narcissistic Personality Inventory includes eight non-narcissistic statements,
+but these were dropped because they did not have high enough reliability when
+formed into an index.G.M. Chen/Computers in Human Behavior 39 (2014) 263-269
+
+ 
+
+Variable 2 3
+
+4 5 6 7 8 9
+17° .18°° .06 —.03 .08 .09
+.06 12 .03 —.02 .07 11
+31° AT —.05 12 22° 16
+AS” —.10 23° 21° .08
+—.11 15° 31° 22°
+—.09 —.18° 10
+27 31°
+26°
+
+Agreeableness*
+
+266
+Table 1
+Pearson product-moment correlation coefficients for Facebook usage and personality variables, N = 209.
+1 Active Months on Facebook’ 18° 35°
+2 Hours Per Week on Facebook* 25
+3 Friends*
+4 Narcissism
+5 Extroversion
+6 Neuroticism
+7 Conscientiousness
+8 Openness
+9
+" p<.05;
+™“ p<.01.
+
+* Square root transformed variable.
+
+First, Pearson’s product-moment correlations were run to
+examine bivariate relationships (Table 1). Number of Facebook
+friends showed the strongest positive relationship with extroversion (.47, p < .001), followed by narcissism (.31, p < .001), openness
+(.22, p=001), and agreeableness (.16, p = .02), but conscientiousness and neuroticism showed no significant correlations. In addition, number of Facebook friends showed a moderate significant
+relationship with active months on Facebook (.35, p < .001) and a
+modest association with hours per week on Facebook, .25, p < .001.
+
+Hierarchical Ordinary Least Squares (OLS) regression was used
+to test H1. Gender was used as a control based on prior research
+that has found differences in how men and women use social
+media (e.g. Haferkamp et al., 2012; Hampton et al. 2011;
+Brenner, 2012; Walton & Rice, 2013). Facebook use was employed
+as a control under the premise that more frequent users might
+have more friends, regardless of personality. Underscoring the relevance of Facebook usage as a control was the finding from the earlier analyses that friends and Facebook usage positively correlated.
+Overall, with all variables entered, the model explained 33% of the
+variance in having more friends on Facebook. In model 1, the bigfive personality variables - extroversion, agreeableness, conscientiousness, neuroticism, and openness —- and narcissism were
+entered. The overall model was significant, R* = .23, F= 10.24,
+p <.001 (Table 2). Results showed a moderate positive relationship
+between extroversion and having more friends on Facebook,
+B = .38, p< .001, but no other personality variables demonstrated
+an effect. In model 2, active months on Facebook, hours per week
+on Facebook, and gender were entered as controls, and the overall
+model remained significant, R? = .33, F= 10.81, p <.001. Extroversion remained the strongest predictor (f= .34, p < .000), sharing
+variance with active months on Facebook (f=.25, p< .001) and
+hours per week on Facebook (f = .16, p = .01). Results showed that
+extroversion was driving force in how many friends one has on
+Facebook. Narcissism, openness, and agreeableness also showed
+smaller effects, but these effects dropped out once extroversion
+was taken into account. Therefore, H1 had partial support. Results
+showed a minimal positive correlation between agreeableness and
+number of friends, answering RQ1.
+
+H2 predicted extroversion would lead directly to Facebook
+usage and number of Facebook friends and indirectly to number
+of friends mediated through Facebook usage. Mediation takes place
+when one variable influences another variable through one or
+more intervening variables, called mediators (Hayes, 2012;
+Hayes, 2013; Lockwood & McKinnon, 1998). Earlier researchers
+(e.g. Baron & Kenny, 1986) suggested that mediation could only
+occur if an independent variable (X) affects some mediator (M) that
+then influences a dependent variable (Y) and that the strongest
+indication of mediation is when a partial influence of X on Y is
+reduced to being not significant when M is taken into account, as
+demonstrated by a Sobel test (Sobel, 1982). However, more recent
+
+Table 2
+Hierarchical OLS regression of personality, Facebook usage variables, and gender on
+number of Facebook friends, N = 209.
+
+ 
+
+ 
+
+Variables Model 1 Model 2
+b B B B
+Personality
+Narcissism 1.35 11 95 .08
+(.88) 83)
+Agreeableness 31 .04 .08 01
+(.48) 6)
+Conscientiousness .03 01 37 .04
+(.49) 96)
+Extroversion 1.91" 38 1.77° 34
+(.37) 35)
+Openness 4 .07 37 .05
+(.56) 55)
+Neuroticism .05 01 —.12 —.02
+(.35) 33)
+Facebook usage
+Active months on Facebook* 1.44°° 25
+35)
+Hours per week on Facebook* 1.04° 16
+40)
+Gender* .76 04
+1.18)
+Intercept 5.64 2.57
+F value 10.24°°° 10.81
+R? 0.23 0.33
+Adj. R? 0.21 0.30
+Standard errors are provided in parentheses.
+* p<.05.
+™ p< .01.
+“™ p<.001.
+
+* Female is the reference category.
+> Square root transformed variables.
+
+scholars (e.g. Lockwood & McKinnon, 1998; Hayes, 2009; Hayes,
+2012; Hayes, 2013; Zhao, Lynch, & Q. Chen, 2010) argue persuasively that testing mediation using bias-corrected bootstrapping
+confidence intervals provides a more reliable test of mediation.
+Bootstrapping is preferable to a Sobel test because a Sobel test
+assumes that the sampling distribution is normal, which is likely
+not the case (Hayes, 2009; Hayes, 2012; Hayes, 2013; Lockwood
+& McKinnon, 1998; Preacher & Hayes, 2004; Zhao et al., 2010).
+Therefore, bootstrapping provides greater statistical power
+because it makes no assumption about the sampling distribution
+and it can more accurately be applied to small-sample studies
+(Hayes, 2009; Hayes, 2012; Hayes, 2013; Lockwood & McKinnon,
+1998; Preacher & Hayes, 2004; Zhao et al., 2010).
+
+Bootstrapping entails resampling the original sample thousands
+of times and computing the indirect effect in each sample (Hayes,
+2009; Hayes, 2012; Hayes, 2013; Lockwood & McKinnon, 1998;
+Preacher & Hayes, 2004; Zhao et al., 2010) to create a sampling dis-G.M. Chen/Computers in Human Behavior 39 (2014) 263-269 267
+
+tribution. This distribution is used to construct a confidence interval for the mediation effect. If this confidence interval does not
+include zero that indicates that mediation has occurred (Hayes,
+2013; Preacher & Hayes, 2004). In this study, bias-corrected bootstrap confidence intervals based on 5,000 bootstrap samples were
+used to test indirect mediation effects, as recommended by Hayes
+(2013).
+
+PROCESS model 4 (Hayes, 2013), a mediation modeling tool that
+estimates direct and indirect effect using OLS path analysis, was
+used to test hypothesis 2. Extroversion was entered as the predictor, active months on Facebook and hours per week on Facebook
+were treated as parallel mediators, and number of Facebook friends
+was the outcome or dependent variable. Hours per week on Facebook and active months on Facebook were treated as parallel
+mediators because prior research (e.g. G. Chen, 2011; G. Chen,
+2012; G. Chen, 2013) suggests that they measure different dimensions of usage that may not highly correlate.
+
+As shown on Fig. 1 and Table 3, partial support was found for
+the model.
+
+People who were extroverted were more likely to spend more
+months actively on Facebook (.16, p = .01) and have more Facebook
+friends (2.00, p< .001) then less extroverted people. However,
+extroversion had no direct effect on hours per week spent on Facebook (.08, p = .10). Both active months on Facebook (1.46, p < .001)
+and hours per week on Facebook (1.10, p=.01) showed direct
+effects on number of Facebook friends. In addition, extroversion
+showed an indirect effect on number of Facebook friends through
+both active months on Facebook (.23) and hours per week on Facebook (.09), as the bias-corrected bootstrap confidence intervals for
+the indirect effects were entirely above zero, which constitutes statistically significant mediation effects.
+
+5. Discussion
+
+This study aimed to provide new insight into how personality
+and Facebook usage lead to likelihood to friend people on Facebook.
+As such, it built on earlier research that found relationships
+between personality and social media (e.g. Amichai-Hamburger &
+Vinitzky, 2010; Back et al., 2010; Haferkamp et al., 2012; Walton
+& Rice, 2013) by proposing and testing a mediation model of
+how personality and Facebook usage lead to friending more people.
+First, I will discuss the overall contribution to the study of social
+media that this research provides. Then I will address the theoretical implications before addressing limitations and suggesting
+future research.
+
+Number of
+Facebook
+friends (SR)
+
+Extroversion
+
+ 
+
+Fig. 1. OLS Path analysis model showing effects of extroversion and Facebook usage
+on number of Facebook friends, N = 209. Values shown are unstandardized OLS path
+analysis coefficients. SR = square root transformed variable. ‘p = .01; “p< .001.
+
+This current research confirmed earlier studies, which also
+found a link between extroversion (Amichai-Hamburger &
+Vinitzky, 2010; Correa et al., 2010; Hughes et al., 2012), narcissism
+(Bergman et al., 2011; Buffardi & Campbell, 2008), and openness
+(Ross et al., 2009; Schrammel et al., 2009) with how people use
+social media. As such, this study supported the social enhancement
+hypothesis - people who are rich in friends offline gain more
+online (Kraut et al., 2002; Tufekci, 2010; Zywica & Danowski,
+2008). Yet, findings of this current study go beyond merely confirming earlier research. This study showed that while extroversion, openness, narcissism, and agreeableness_ correlated
+positively with having more Facebook friends, only the effect of
+extroversion remained when all the personality variables were
+considered together. In addition, this study showed that extroversion along with how much people use Facebook were the driving
+forces in whether people accrued more Facebook friends. This contributed to our understanding of how personality shapes friending
+on Facebook.
+
+However, the main contribution of this study was to show that
+extroversion does not act alone. A proposed mediation model with
+partial support found that extroversion’s effect on friending is both
+direct and indirect. The indirect effects operated through active
+months on Facebook and hours per week spent on Facebook to
+influence number of Facebook friends. In other words, extroversion
+alone does not have the effect, but it is mediated by how many
+months one has been active on Facebook and how many hours
+per week one spends using the social medium. Earlier research
+has examined similar variables (e.g. Amichai-Hamburger &
+Vinitzky, 2010; Ross et al., 2009; Schrammel et al., 2009; Back
+et al., 2010). However, no earlier studies have directly tested a
+mediation model that examines the effect of personality traits on
+friending operating through how frequently people use Facebook,
+as this study did.
+
+These findings offer a notable contribution to our understanding by explaining in part how the social enhancement hypothesis
+occurs on social media. While much research has examined how
+personality traits relate to social media use, some recent findings
+(Ross et al., 2009) suggest that personality plays less of a role than
+previous studies have found. That study found that extroversion
+and openness were related to Facebook use, but other personality
+variables were not. The findings of this current study suggest that
+the role of personality in the social enhancement hypothesis is
+complicated. In essence, personality traits cannot be considered
+without taking into account how traits such extroversion may first
+influence how active one is on Facebook and then indirectly lead to
+an increase in friending. These findings suggest scholars should
+continue exploring social media use through the lens of personality
+theory, rather than abandon this practice because not all traits
+show an immediate direct effect. Based on this study, this line of
+research must take into account other variables such as frequency
+of use that may influence how personality has an effect.
+
+5.1. Limitations and future research
+
+Several limitations of this study should be acknowledged. The
+subject pool of this study was young by design - because young
+people are the most frequent users of social media (Lenhart
+et al., 2010). However, clearly results may differ if the pool of
+respondents had a wider age range. Also, convenience sampling
+was employed, so results are not generalizable. In addition, this
+study examined only one aspect of Facebook usage, friending, so
+the role of personality and Facebook usage were limited to that
+outcome in this study. This study examined only the big-five personality traits and narcissism. Clearly, other types of individual differences such as need for affiliation or self-disclosure have been
+found to have an effect on social media interactions (G. Chen,268 G.M. Chen/ Computers in Human Behavior 39 (2014) 263-269
+
+Table 3
+
+OLS Path analysis showing effects of Extroversion and Facebook usage, on number of Facebook friends, N = 209.
+
+ 
+
+Mediators
+
+Active months on Facebook"
+
+Coeff. SE
+Extroversion 0.16 0.06
+Facebook usage
+Active months on Facebook?
+Hours Per Week on Facebook*
+
+R? = 0.03
+
+F(1,206) = 7.07.
+
+Coeff. = unstandardized OLS path analysis coefficients.
+SE = standard error.
+
+“ p<.05.
+
+* p<.001.
+
+* Square root transformed variables.
+
+*
+
+2012; G. Chen, 2013; Ledbetter et al., 2011). Future research should
+consider how these variables fit into this study’s proposed model
+and other models to show direct or indirect effects on how people
+use social media.
+
+This study paved the way for several other areas of research.
+First, clearly this study suggested that scholars should continue
+to examine how potential mediators may impact relationships
+between personality and social media use. In this case, extroversion was mediated through active use of Facebook both over
+months and daily use to predict friending. Given this finding, direct
+effects between personality variables and social media activities
+should be tested for the mediating role of frequency of social media
+use. Furthermore, more mediation modeling should be done to
+understand the indirect effects of personality, as this may illuminate why some studies have found personality to have little or
+no effect. It may be that only direct effects were considered, offering limited understanding. Finally, this study suggested that other
+aspects of social media use - beyond the number of friends that this
+research examined - should be probed using mediation modeling.
+This will provide greater understanding of how personality, social
+media usage, and other variables predict behavior online.
+
+5.2. Conclusion
+
+In summary, this study offered early evidence that personality
+and time spent on social media usage were relevant to predicting
+friending on Facebook. Specifically, this study’s main contribution
+was to offer the beginnings of a mediation model that shows that
+extroversion leads indirectly to friending more people on Facebook
+operating through active months on Facebook and hours per week
+spent on Facebook. In essence, these findings began the process of
+explaining how the social enhancement hypothesis takes place
+rather than focusing solely on whether it has an effect or not.
+
+References
+
+Ames, D. R., Rose, P., & Anderson, C. P. (2006). The NPI-16 as a short measure of
+narcissism. Journal of Research in Personality, 40(4), 440-450.
+
+Amichai-Hamburger, Y., & Vinitzky, G. (2010). Social network use and personality.
+Computers in Human Behavior, 26, 1289-1295. http://dx.doi.org/10.1016/
+j.chb.2010.03.018.
+
+Back, M. D., Stopfer, J. M., Vazire, S., Gaddis, S., Schmukle, S. C., Egloff, B., &
+Gosling, S. D. (2010). Facebook profiles reflect actual personality, not selfidealization. Psychological Science, 21(3), 372-374.
+
+Baron, R. M., & Kenny, D. A. (1986). The moderator-mediator variable distinction in
+social psychological research: Conceptual, strategic, and __ statistical
+considerations. Journal of Personality and Social Psychology, 51(6), 1173-1182.
+
+Bergman, S. M., Fearrington, M. E., Davenport, S. W., & Bergman, J. Z. (2011).
+Millenials, narcissism, and social networking: What narcissists do on social
+
+Outcome variable
+
+Hours per week on Facebook" Number of Facebook friends*
+
+Coeff. SE Coeff. SE
+
+0.09 0.06 2.00” 0.30
+1.46°° 0.34
+1.07° 0.40
+
+R*=0.01 R? =0.32
+
+F(1,206) = 2.76 F(3,204) = 31.46—
+
+networking sites and why. Personality and Individual Differences, 50, 706-711.
+http://dx.doi.org/10.1016/j.paid.2010.12.022.
+
+Boyd, D., & Ellison, N.B. (2007). Social network sites: Definition, history, and
+scholarship. Journal of Computer-Mediated Communication, 13(1). Retrieved from
+<http://jcmc.indiana.edu/vol13/issue1/boyd.ellison.htmI>.
+
+Brenner, J. (2012, November 13). Pew Internet: Social networking (full detail). Pew
+Internet & American Life Project. Available at: <http://pewinternet.org/
+Commentary/2012/March/Pew-Internet-Social-Networking-full-detail.aspx>.
+
+Buffardi, L. E., & Campbell, W. K. (2008). Narcissism and social networking web
+sites. Personality and Social Psychology Bulletin, 34, 1303-1314.
+
+Chen, G. M. (2011). Tweet this: A uses and gratifications perspective on how active
+Twitter use gratifies a need to connect with others. Computers in Human
+Behavior, 27, 755-762.
+
+Chen, G. M. (2012). Why do women write personal blogs? Satisfying needs for selfdisclosure and affiliation tell part of the story, Computers in Human Behavior, 28,
+171-180.
+
+Chen, G. M. (2013). Why do women bloggers use social media? Recreation and
+information motivations outweigh engagement motivations. New Media &
+Society.
+
+Correa, T., Hinsley, A. W., & Gil de Zuniga, H. (2010). Who interacts on the Web? The
+intersection of users’ personality and social media use. Computers in Human
+Behavior, 26, 247-253. http://dx.doi.org/10.1016/j.chb.2009.09.003.
+
+Donath, J., & Boyd, D. (2004). Public displays of connection. BT Technology Journal,
+22(4), 71-82.
+
+Ellison, N. B., Steinfield, C., & Lampe, C. (2007). The benefits of Facebook ‘“‘friends”:
+Social capital and college students’ use of online social network sites. Journal of
+Computer-Mediated Communication, 12, 1143-1168.
+
+Eysenck, H. J. (1998). Dimensions of personality. New Brunswick, NJ: Transaction
+Publishers.
+
+Funder, D. C., & Fast, L. A. (2010). Personality in Social Psychology. In S. T. Fiske, D. T.
+Gilbert, & G. Lindzey (Eds.), Handbook of social psychology (vol. 1, 5th)
+(pp. 668-697). Hoboken, NJ: John Wiley & Sons.
+
+Gilbert, F., & Karahalios, K. (April, 2009). Predicting tie strength with social media.
+In: Proceedsing of the CHI 2009, Boston, MA.
+
+Gosling, S. D., Rentfrow, P. J., & Swann, W. B. Jr., (2003). A very brief measure of the
+big-five personality domains. Journal of Research in Personality, 37, 504-528.
+http://dx.doi.org/10.1016/S0092-6566(03 )000046-1.
+
+Haferkamp, N., Eimler, S. C., Papadakis, A., & Kruck, J. V. (2012). Men are from Mars,
+Women are from Venus? Examining gender differences in self-presentation on
+social networking sites. Cyberpsychology, Behavior, and Social Networking, 15(2),
+91-98. http://dx.doi.org/10.1089/cyber.2011.0151.
+
+Hampton, K.N., Goulet, L.S., Rainie, L, & Purcell, K. (2011, June 16). Social
+networking sites and our lives. Pew Internet & American Life Project. Available
+at: <http://pewinternet.org/Reports/201 1/Technology—and—social-networks.
+aspx>.
+
+Hayes, A. F. (2009). Beyond Baron and Kenny: Statistical mediation analysis in the
+new millennium. Communication Monographs, 76(4), 408-420.
+
+Hayes, A.F. (2012). PROCESS: A versatile computational tool for observed variable
+mediation, moderation, and conditional process modeling. [White paper].
+Retrieved from <http://www.afhayes.com/>.
+
+Hayes, A. F. (2013). Introduction to mediation, moderation, and conditional process
+analysis. New York: The Guilford Press.
+
+Hughes, D. J., Rowe, M., Batey, M., & Lee, A. (2012). A tale of two sites: Twitter vs.
+Facebook and the personality predictors of social media use. Computers in
+Human Behavior, 28, 561-569. http://dx.doi.org/10.1016/j/chb.2011.11.001.
+
+Kraut, R., Kiesler, S., Boneva, B., Cummings, J., Helgeson, V., & Crawford, A. (2002).
+Internet paradox revisited. Journal of Social Issues, 58(1), 49-74.
+
+Ledbetter, A. M., Mazer, J. P., DeGroot, J. M., Meyer, K. R., Mao, Y., & Swafford, B.
+(2011). Attitudes toward online social connection and self-disclosure as
+predictors of Facebook communication and_ relational closeness.G.M. Chen/Computers in Human Behavior 39 (2014) 263-269 269
+
+Communication Research, 27-53.
+0093650210365637.
+
+Lee, J. R., Moore, D. C., Park, E., & Park, S. (2012). Who wants to be “‘friend-rich”?
+Social compensatory friending on Facebook and the moderating role of public
+self-consciousness. Computers in Human Behavior, 28, 1036-1043.
+
+Lenhart, A., Purcell, K., Smith, A., & Zickur, K. (2010). Social Media & Mobile Internet
+Use Among Teens and Young Adults. Pew Research Center. Retrieved from
+<http://pewresearch.org/pubs/1484/social-media-mobile-internet-use-teensmillennials-fewer-blog>.
+
+Lockwood, C.M., & McKinnon, D.P. (1998). Bootstrapping the standard error of the
+mediated effect. In: Proceedings of the 23rd annual meeting of SAS Users Group
+International (pp. 997-1002). SAS Institute, Cary, NC.
+
+Marcus, B., Machilek, F., & Schutz, A. (2006). Personality in cyberspace: Personal
+web sites as media for personality expressions and impressions. Journal of
+Personality and Social Psychology, 90(6), 1014-1031. http://dx.doi.org/10.1037/
+0022-3514.90.6.1014.
+
+Preacher, K. J., & Hayes, A. F. (2004). SPSS and SAS procedures for estimating indirect
+effects in simple mediation models. Behavioral Research Methods, Instruments, &
+Computers, 36(4), 717-731.
+
+Rainie, L., Smith, A. Duggan, M. (2013, February 5). Coming and Going on
+Facebook. Pew Internet & American Life Project. Retrieved from <http://
+www.pewinternet.org/Reports/2013/Coming-and-going-on-facebook/KeyFindings.aspx>.
+
+Raskin, R., & Terry, H. (1988). A principal-components analysis of the narcissistic
+personality inventory and further evidence of its construct validity. Journal of
+Personality and Social Psychology, 54(5), 890-902.
+
+Rheingold, H. (2000). The virtual community: Homesteading on the electronic frontier.
+Cambridge, MA: The MIT Press.
+
+Ross, C., Orr, E. S., Sisic, M., Arseneault, J. M., Simmering, A. G., & Orr, R. (2009).
+Personality and motivations associated with Facebook use. Computers in Human
+Behavior, 25, 578-586. http://dx.doi.org/10.1016/j.chb.2008.12.024.
+
+Schrammel, J., Koffel, C., & Tscheligi, M. (2009). Personality traits, usage patterns
+and information disclosure in online communities. In: Proceedings of the 23rd
+
+28(1), http://dx.doi.org/10.1177/
+
+British HCI Group Annual Conference on People and Computers: Celebrating
+People and Technology, p. 169-174.
+
+Sobel, M. E. (1982). Asymptotic confidence intervals for indirect effects in structural
+equation models. Sociological Methodology, 13, 290-312.
+
+Swann, W.B., & Bosson, J.K. (2010). Self and identity. In: Fiske, S.T., Gilbert, D.T., &
+Lindzey, G. (Eds.), Handbook of social psychology (vol. 1, 5th ed.), John Wiley &
+Sons, pp. 589-628.
+
+Tabachnick, B. G., & Fidell, L. S. (2007). Using multivariate statistics (5th ed.). New
+York, NY: Pearson.
+
+Tam, D. (2013, January 30) Facebook by the numbers: 1.06 billion monthly active
+users. C/Net. Retrieved from <http://news.cnet.com/8301-1023_3-5756655093/facebook-by-the-numbers-1.06-billion-monthly-active-users/>.
+
+Thelwall, M. (2008). Social networks, gender, and friending: An analysis of MySpace
+member profiles. Journal of the Society for Information Science and Technology,
+59(8), 1321-1330.
+
+Tufekci, Z. (2010). Who acquires friends through social media and why? “Rich get
+richer” versus “seek and ye shall find”. Proceedings of the Fourth International
+AAAI Conference on Weblogs and Social Media, 170-177.
+
+Walton, S. C., & Rice, R. E. (2013). Mediated discourse on Twitter: The roles of gender
+and identity in boundary impermeability, valence, disclosure, and stage.
+Computers in Human Behavior, 29, 1465-1474.
+
+Walther, J. B. (2007). Selective self-presentation in computer-mediated
+communication: Hyperpersonal dimensions of technology, language, and
+cognition. Computers in Human Behavior, 23, 2538-2557.
+
+Zhao, X., Lynch, J. G., & Chen, Q. (2010). Reconsidering Baron and Kenny: Myths
+and truths about mediation analysis. Journal of Consumer Research, 37(2),
+197-206.
+
+Zywica, J.. & Danowski, J. (2008). The faces of Facebookers: Investigating social
+enhancement and social compensation hypotheses; predicting Facebook and
+offline popularity from sociability and self-esteem, and mapping the meanings
+of popular semantic networks. Journal of Computer-Mediated Communication, 14,
+1-34.

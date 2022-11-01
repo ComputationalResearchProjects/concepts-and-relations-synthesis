@@ -1,0 +1,1193 @@
+® Check for updates
+
+ 
+
+Article
+new media & society
+e e e , Vol. 21(1 1-12) 2648-2670
+Communicating without ree ve The Author(s) 2019
+e e Article reuse guidelines:
+non p rofit @) rgan izatio ns on sagepub.com/journals-permissions
+’ e e DOI: 10.1 177/14614448 19854806
+non p rofi ts SOC ial mM ed la: journals.sagepub.com/home/nms
+@SAGE
+
+Stakeholders’ autonomous
+networks and three types of
+organizational ties
+
+Jennifer Ihm®
+
+Kwangwoon University, Republic of Korea
+
+Abstract
+
+Research on nonprofit organizations’ (NPOs) social media strategies has focused on
+the dialogic features of social media to improve organization—stakeholder relationships
+and elicit stakeholder responses. However, NPOs may initiate different types of
+relationships with their stakeholders on social media (i.e. flow, representational, and
+affinity). Stakeholders may also create autonomous networks among themselves beyond
+simply responding to the NPOs. Based on observations of 100 NPOs’ and stakeholders’
+|-month-Twitter activities, this study captures varying types of NPOs’ ties embedded
+in social media and examines how each type correlates with stakeholders’ autonomous
+networks. The results suggest that each type of tie has a different role in autonomous
+networks. This study provides a nuanced understanding of diverse networks embedded
+in social media and sheds light on autonomous networks as distinctive virtual
+communities for NPOs during this era of transformation in collective action and social
+change, existing at the intersection of loose organizational coordination and individual
+autonomy.
+
+Keywords
+Autonomous networks, flow ties, nonprofit organization, online stakeholder
+engagement, representational ties, social media
+
+ 
+
+Corresponding author:
+
+Jennifer hm, School of Media and Communication, Kwangwoon University, 20 Kwangwoon-ro, Nowon-gu,
+Seoul 01897, Republic of Korea.
+
+Email: inmsy | 7@gmail.comlhm 2649
+
+ 
+
+Social media provide both opportunities and challenges for nonprofit organizations
+(NPOs). While dialogic communication through social media positions NPOs for effective stakeholder engagement (Guo and Saxton, 2018; Lovejoy and Saxton, 2012), social
+media may also limit NPOs’ roles in generating social changes, because individuals can
+take advantage of the medium to mobilize themselves for collective action without direct
+support from NPOs (Bennett and Segerberg, 2012; Bimber, Flanagin and Stohl, 2012).
+This dichotomy calls for a rethinking of how NPOs may take advantage of social media
+for stakeholder engagement while accounting for the individual stakeholders’ autonomy
+and potential to create social change.
+
+Most research on stakeholders’ engagement with NPOs’ social media pages has
+focused on stakeholders’ activities of responding to NPOs on their organizational social
+media pages, such as replying to or “liking” their posts (Cho et al., 2014; Guo and Saxton,
+2018; Saxton and Waters, 2014). But the relationships between stakeholders and NPOs
+on social media vary significantly, and stakeholders may form autonomous networks
+among themselves beyond simply responding to NPOs. Stakeholders may share information about focal NPOs’ campaigns or encourage each other to participate in them on
+NPOs’ social media pages without addressing themselves to the focal NPOs directly
+(hm, 2015). Such dense interactions among stakeholders may influence NPOs’ policies
+and strategies (Rowley, 1997).
+
+Stakeholders’ responses to NPOs and their interactions among themselves both
+indicate attention to NPOs (Guo and Saxton, 2018) and may encourage each other.
+Despite these close links between the two activities, the interactions among stakeholders on NPOs’ social media pages are based on network dynamics and relationships between NPOs and stakeholders distinguished from those of stakeholders’
+responses to NPOs, because NPOs do not hold the central position or role in stakeholders’ interaction networks. Capturing the different network dynamics and relationships may enrich scholarship on social media and online communication
+networks and offer comprehensive understandings on the changed roles of NPOs and
+individuals in generating social change (Bennett and Segerberg, 2012). Specifically,
+the interactions among stakeholders may represent an autonomous supportive community for NPOs and provide practical implications for NPOs to understand unconventional ways to generate and maintain such communities in the contemporary
+media environment.
+
+This study examines how NPOs form various types of relationships with their stakeholders through their social media activities and how stakeholders, in turn, communicate
+and build virtual networks among themselves. First, this article classifies different types
+of social media relationships NPOs develop with different stakeholders, based on a network typology. Second, this article investigates how stakeholders’ engagement networks
+may be related to each type of relationship. Finally, this article introduces a concept of
+stakeholders’ autonomous networks as a distinctive virtual community in the contemporary media environment. This study enriches new media and communication research by
+providing a nuanced understanding of a variety of networks embedded in social media
+and shedding light on the distinctive, autonomous characteristics of stakeholders’
+engagement networks.2650 new media & society 21 (1 1-12)
+
+ 
+
+Network typology of NPOs’ social media activities for
+stakeholder engagement
+
+Many studies have investigated NPOs use of social media for stakeholder engagement.
+Those that classify NPOs social media postings based on the degree of dialogic properties find that stakeholders are more likely to engage with more dialogic messages (Cho
+et al., 2014; Saxton and Waters, 2014). Those focused on NPOs’ adoption of varied
+social media features, such as generating original postings or reposting others’ postings,
+find that a greater number of social media activities increases stakeholders’ attention to
+the NPOs (Guo and Saxton, 2018). These studies described varied quality and quantity
+of NPOs’ social media activities for stakeholder engagement, as a way of improving twoway organization—stakeholder relationships (Broom et al., 1997; Grunig and Hunt, 1984;
+Kelleher, 2009; Kent and Taylor, 2002).
+
+However, questions remain about the nuances of organization—stakeholder relationships on social media. Organizational social media activities generate varying types of
+relationships with different stakeholders. For instance, an NPO’s original posting on
+social media initiates a tie from the NPO to a broad range of stakeholders, but when an
+NPO reposts another stakeholder’s posting, it additionally initiates a tie from the NPO to
+the original poster. In other words, NPOs’ different social media activities generate different types of ties and form different relationships with stakeholders. In turn, stakeholders may respond and engage with the organizational social media differently. In order to
+provide a comprehensive understanding of the relationship between NPOs’ social media
+activities and stakeholders’ engagement, this study classifies three types of NPOs’ ties
+embedded in the organizational social media pages according to network typology (i.e.
+flow, representational, and affinity). This study then examines how each type of NPOs’
+social media tie forms different relationships with stakeholders and takes a distinctive
+role in stakeholder engagement.
+
+Flow ties
+
+Flow ties occur when participants in a network send and receive messages, information,
+or data among themselves (O’Connor and Shumate, 2018; Shumate and Contractor,
+2013). They are usually directional, because they involve an actual “flow” of content
+going from one actor to another actor; they do not involve any third parties.
+
+Applying the network concept, this article uses the term to characterize NPOs’ directional relationships in which messages flow from the organizations to stakeholders on
+their organizational social media pages. NPOs initiate such ties when they (1) upload
+original postings or (2) reply to stakeholders’ postings on their organizational social
+media pages. These flow ties may represent the virtual presence of focal NPOs (Waters
+et al., 2009) and how NPOs declare official positions and deliver information to stakeholders (Lovejoy and Saxton, 2012). Research has regarded such ties as “the chief
+dynamic element” of social media for stakeholder engagement (Saxton and Waters,
+2014: 284).lhm 265 |
+
+ 
+
+First, a flow tie of an original posting initiates a relationship from the focal NPO to a
+broad range of stakeholders. This relationship includes providing information about and
+promoting the NPO, which can improve its social image to its stakeholders (Ihm, 2015).
+Generally, groups with a favorable social status receive more attention (Turner and
+Onorato, 1999), and their insiders communicate with each other actively to share norms
+and maintain connections within the groups (Hogg and Reid, 2006). Therefore, if an
+NPO generates more flow ties to a broad range of stakeholders, it can promote itself
+more actively, which may present a positive image to its stakeholders. Stakeholders, in
+turn, may become more likely to pay attention to the NPO with higher social status and
+engage with and communicate more on its social media page. Guo and Saxton (2018)
+also found that stakeholders paid more attention to and responded more to NPOs with
+more original postings because the frequency and volume of speech from the NPOs
+increased the probability that stakeholders would view the NPOs’ postings. Furthermore,
+NPOs’ frequent updates of original postings may generate more topics for extended
+engagement and interactions for stakeholders. Therefore, NPOs’ social media pages with
+more flow ties of original postings may induce more stakeholders to engage with the
+organizational social media pages.
+
+Second, a flow tie created by replying directly to a stakeholder’s posting initiates a
+relationship from the NPO to a specific stakeholder. Because this tie is targeted, it may
+give the stakeholder more personal and intimate feelings about the organizational social
+media page (Jang and Stefanone, 2011). As stakeholders can track NPOs’ past activities
+on social media (Raja-Yusof et al., 2016), they may see a preponderance of targeted
+statements to stakeholders as a signal that an NPO will not ignore their activities on its
+organizational social media page. This may create a comfortable environment for stakeholders to have conversations on the organizational social media pages, fulfilling individuals’ major motives of mutual recognition and responses in online communication
+(Shirky, 2008). Therefore, more flow ties of replies on NPOs’ social media pages may
+increase stakeholders to engage with the organizational social media pages.
+
+However, at a certain point, an increased number of flow ties may not continue to
+increase stakeholders’ engagement with the organizational social media pages. While
+many studies focus on the positive role of a greater number of social media activities on
+stakeholder engagement (Cho et al., 2014; Guo and Saxton, 2018; Saxton and Waters,
+2014), an excessive volume and frequency of original postings may wear out stakeholders (Pechmann and Stewart, 1988) or preclude stakeholders’ continuous discussion on a
+specific posting, as succeeding posts will bump the original post from the timeline, rendering it less visible to stakeholders. Too many replies from NPOs may also interfere in
+stakeholders’ interactions and diminish opportunities for stakeholders’ engagement.
+Therefore, this study hypothesizes an inverted U-shaped relationship between NPOs’
+flow ties and stakeholders’ engagement with NPOs’ social media pages.
+
+H1: When the number of flow ties from NPOs increases up to a moderate level, stakeholders’ engagement with the NPOs’ social media pages will increase, but it will
+decrease when the number of ties reaches extremely high values; NPOs’ flow ties and
+stakeholders’ engagement with NPOs’ social media pages have an inverted U-shaped
+relationship.2652 new media & society 21 (1 1-12)
+
+ 
+
+Representational ties
+
+Representational ties acknowledge an association among actors to a third party or to the
+public, such as hyperlink networks or bibliometric networks (Shumate et al., 2013).
+Applying the network concept, this article uses the term representational ties to characterize NPOs’ act of reposting postings from other social media pages to endorse the
+content creator to the public. Representational ties create a directional relationship of
+acknowledgment from the focal NPO to the specific content creator and directional relationships from the focal NPO to a broader public, who can see the acknowledgment
+message in the organizational social media pages.
+
+By endorsing another party, representational ties express the organization’s collective
+identity with another organization or stakeholder, which may enhance the visibility of the
+organizational goals to their stakeholders on social media (Pilny and Shumate, 2012;
+Shumate and Lipp, 2008). By acknowledging other stakeholders, representational ties
+also situate NPOs in broader narratives and topics and gain attention from more diverse
+stakeholders (Guo and Saxton, 2018). The broader narratives and topics perpetuated by
+representational ties may act as a common ground for more stakeholders to engage with
+and communicate on NPOs’ social media pages.
+
+However, too many representational ties may decrease stakeholders’ desire to engage
+on focal NPOs’ social media pages. Because of the preferential attachment of representational ties (Shumate et al., 2013), NPOs are more likely to form relationships of
+acknowledgment with well-known NPOs or stakeholders. As representational ties do not
+convey original or creative content by focal NPOs (Guo and Saxton, 2018), too-frequent
+acknowledgment of better-known parties may diminish the percentage of information
+that raises the uniqueness of the NPOs and decrease stakeholders’ perception of focal
+NPOs as salient, a key factor in individuals’ decision to pay attention to and identify with
+an organization (Ashforth and Mael, 1989). In addition, individuals communicate more
+actively about an organization with others with whom they share more common identities related to the organization (Scott et al., 1998). As such, the decreased perceived saliency of focal NPOs may weaken stakeholders’ connections with focal NPOs and their
+intention to engage with and communicate on focal NPOs’ social media pages. Therefore,
+this study hypothesizes an inverted U-shaped relationship between representational ties
+and stakeholders’ engagement with NPOs’ social media pages.
+
+H2: When the number of representational ties from NPOs increases up to a moderate
+level, stakeholders’ engagement with the NPOs’ social media pages will increase, but
+it will decrease when the number of ties reaches extremely high values; NPOs’ representational ties and stakeholders’ engagement with NPOs’ social media pages have an
+inverted U-shaped relationship.
+
+Affinity ties
+
+Affinity ties refer to socially constructed relationships, such as marriage relationships,
+friendships, or interorganizational alliances (Shumate and Contractor, 2013). This article
+classifies the relationships NPOs form with their stakeholders on their social media, suchIhm 2653
+
+ 
+
+as “following” and “follower” on Twitter, as affinity ties. While affinity ties may indicate
+both nondirectional (e.g. marriage relationships) and directional relationships (e.g.
+friendships reported differently by each party, Shumate and Contractor, 2013), some
+social media platforms allow users to form directional affinity ties. For instance, on
+Twitter, both “followers” and “followings” represent directional relationships of individuals initiating affinity ties to become “followers” of the counterparty and of the counterparty receiving “following” ties from the individuals. Most studies have focused on
+the number of affinity ties NPOs attract (e.g. “followers’’), but this study focuses on ties
+going out from the organizations directly to specific stakeholders as a type of NPOs’ tie
+formation with stakeholders (e.g. “followings’’).
+
+Social media make affinity ties between focal NPOs and stakeholders visible (Treem
+and Leonardi, 2013); which stakeholders an NPO follows is public on social media.
+Previous research suggests that individuals are more likely to focus on and support an
+organization than other organizations, even when they are randomly and spontaneously
+assigned to the organization for an experiment (Tajfel, 1978). In the same way, visible
+affinity ties may induce stakeholders to feel more intimate and officially connected with
+the NPO and to identify themselves more with the NPO. As a result, they may become
+more open to communicating with the NPO (Scott et al., 1998) or its other stakeholders.
+Therefore, a greater number of affinity ties may encourage more stakeholders’ engagement with the NPOs’ social media page.
+
+However, the signal of affinity ties may not be as apparent to stakeholders as other
+types of ties. While stakeholders receive an alert when a focal NPO follows them, they
+will not receive another signal that they are among the NPO’s affinity ties unless they
+click the tab “followers” on their own social media pages or visit the NPO’s social media
+page and click its “following” button to bring up a list. In comparison to flow or representational ties which appear every time an NPO generates them, the signal of the affinity ties is weak. Furthermore, stakeholders are aware that forming affinity ties on social
+media does not require as much effort and cost compared with other ties and that some
+NPOs use automatic algorithms to reciprocate affinity ties from them. As such, stakeholders may perceive NPOs’ affinity ties as “functionally interactive” (Sundar et al.,
+2003), but lacking “conversational human voice” and “relational commitment.” This
+may lessen stakeholders’ trust and commitment to the NPOs (Kelleher, 2009). Considering
+the inconsistent arguments from previous studies, this article investigates how affinity
+ties may be related to stakeholders’ engagement.
+
+RQ1: How will affinity ties from NPOs be related to stakeholders’ engagement with
+the NPOs’ social media pages?
+
+Stakeholders’ engagement networks on NPOs’ social
+
+media pages
+
+When NPOs initiate the three types of social media relationships with their stakeholders,
+stakeholders engage with the organizational social media pages, usually by liking, repost
+ing, or replying to the NPOs (Cho et al., 2014; Guo and Saxton, 2018; Saxton and Waters,
+2014). Such stakeholders’ responses to NPOs’ initial ties form virtual two-way networks2654 new media & society 21 (1 1-12)
+
+ 
+
+between the stakeholders and the NPOs, which this study refers to as stakeholders’
+“response networks” to NPOs. Scholars have focused on social media because of its
+potential for enabling such two-way, symmetrical networks between organizations and
+their stakeholders (Cho et al., 2014; Guo and Saxton, 2018; Lovejoy and Saxton, 2012).
+
+However, scholars have paid little attention to a new type of networks stakeholders
+may create on NPOs’ social media pages. Increased individual autonomy and loose
+organizational coordination in social changes (Bennett and Segerberg, 2012; Bimber
+et al., 2012) enables stakeholders to engage with the organizational social media pages
+more actively than simply responding to NPOs. For instance, when an NPO generates an
+original posting, initially a stakeholder can respond directly to the posting, forming a
+response network from the stakeholder to the NPO. Other stakeholders may respond to
+this stakeholder’s response to share opinions, which creates networks among them and
+the original commenter (Ihm, 2015). As the NPO provides a background platform (its
+social media page) and a topic (the original posting) for this discussion, the initial
+response networks may extend to autonomous networks—networks among stakeholders
+who engage with NPOs’ social media pages without directly communicating with the
+focal NPO.
+
+In comparison to attention to response networks on social media (Cho et al., 2014;
+Guo and Saxton, 2018; Lovejoy and Saxton, 2012), research on whether and when
+response networks extend beyond the virtual boundary and play meaningful roles for the
+organization or society remains underdeveloped. However, previous research and empirical examples suggest that autonomous networks may have important roles in supporting
+and sustaining stakeholders’ connection to focal NPOs. Interactions among individuals
+on social media may enhance their awareness of social causes through information sharing (Waters et al., 2009) and encourage them to donate online (Mano, 2014) or take
+voluntary action for the organization (Banaji and Buckingham, 2009). More frequent
+social media interactions among stakeholders also induce a stronger feeling of connection with focal NPOs and increase donations and volunteering for the NPOs (Farrow and
+Yuan, 2011). My own review of the social media pages of NPOs such as the Red Cross
+and Direct Relief during the 2017 recovery from Hurricane Harvey showed that stakeholders shared information about volunteer opportunities and donation procedures
+among themselves on these pages. Cancer patients and survivors also provide social
+support and encourage each other to participate in NPOs’ events on social media pages
+of cancer-related NPOs (Moorhead et al., 2013). In this way, autonomous networks distinguish themselves as meaningful communities for focal NPOs, especially when organizations cannot maintain strong ties with each individual stakeholder on social media
+(Farrow and Yuan, 2011).
+
+Autonomous networks may also play crucial roles for NPOs during organizational
+crises. For instance, upon the Boy Scouts of America’s decision to expand its membership to include girls in 2017, a heated debate between thousands of supporters and opponents of the decision enflamed the organization’s Twitter page, addressing each other
+instead of the NPO. Such interactions may draw public attention to NPOs and their social
+goals, which is critical for the NPOs’ survival and mission (Bryson, 2018), and provide
+useful information about public opinion of their policies and strategies (Ihm, 2015;
+Rowley, 1997). Furthermore, stakeholders may extend their autonomous networksIhm 2655
+
+ 
+
+beyond the organizational, virtual boundary and magnify social impact such as finding
+bone marrow matches, raising money for cancer research (Aaker and Smith, 2010), or
+participating in offline civic activities (Bennett and Segerberg, 2012; Valenzuela, 2013).
+Nonetheless, previous research has rarely identified autonomous networks or differentiated them from response networks. Although Ihm (2015) discussed concepts and measures of “communication among stakeholders on NPOs’ social media pages,” it has not
+distinguished its theoretical and practical meanings from response networks. Furthermore,
+the study did not address the relationship between NPOs’ social media ties and stakeholder engagement networks.
+
+On the contrary, this article differentiates autonomous networks from response networks as a distinctive form of stakeholders’ engagement with NPOs’ social media pages
+which may accomplish organizational and social impact. This attempt expands the conceptual and methodological discussions on Ihm (2015) and furthers the understanding of
+the new social roles of and relationships between individuals and NPOs in the contemporary media environment (Bimber et al., 2012). The unique nature of autonomous networks suggests that NPOs’ social media ties may play different roles in autonomous
+networks than in response networks. This article investigates how stakeholders’ autonomous networks are associated with NPOs’ three types of social media ties differently
+from stakeholders’ response networks:
+
+RQ2. How do NPOs’ ties take different roles in stakeholders’ autonomous networks
+from response networks?
+
+Method
+Sample
+
+This study’s data were drawn from the Twitter accounts of the 100 largest NPOs in the
+United States, based on the 2017 rankings in the Nonprofit Times according to revenue.
+Prior studies have used this source (Cho et al., 2014; Lovejoy and Saxton, 2012; Nah and
+Saxton, 2013). Twitter was chosen as the research context for this study because it has
+been considered a “proxy” for NPOs’ overall social media strategies and status (Guo and
+Saxton, 2018). The study period was 1-30 November 2017. Every activity organizations
+and stakeholders posted on organizations’ Twitter accounts during the time period comprised the research sample. Organizations’ and stakeholders’ activities on the organizational Twitter accounts were gathered from a data scraping website which accesses the
+public Twitter API (Netlytic, 2019).! For control variables, the data of organizational
+assets and age in the year of 2017 were gathered from Nonprofit Times; the data for
+industry type were gathered from the National Center for Charitable Statistics (2018).
+
+Measures
+
+Organizational ties. For flow ties, this study measured each NPO’s two directional relationships generated from sending actual messages to the stakeholders: tweets and replies
+to stakeholder. Tweets capture the NPO’s total number of original postings during the2656 new media & society 21 (1 1-12)
+
+ 
+
+month for data collection. Replies to stakeholders represent the NPO’s total number of
+replies to specific stakeholders, formed by adding “replying to @[stakeholder name]” in
+front of the Tweet. Twitter automatically indicates “replying to @[stakeholder name]” in
+front of messages when a tweet responds to the stakeholder’s posting.
+
+For representational ties, this study measured each NPO’s two directional relationships of acknowledging other stakeholders’ postings: retweets and likes (which Twitter
+once termed “favorites’”). While the original definition of representational ties includes
+the endorsement message (Shumate and Contractor, 2013), some social media platforms
+convey the actual content with the endorsement. For instance, retweets on Twitter endorse
+the content creator along with the content. Such ties possess the multiplex nature of both
+representational and flow ties. However, in order to distinguish these multiplex ties (e.g.
+those created through retweets) from other flow ties which do not include endorsement
+messages (e.g. tweet or reply), this article classifies and measures retweets and likes as
+representational ties, focusing on their distinctive natures among their multiplex natures.
+
+Retweets on Twitter represent the focal NPO’s total number of activities of reposting
+a tweet from another stakeholder while acknowledging the stakeholder by adding “RT @
+[stakeholder name]” at the beginning of the tweet. Likes indicate the NPO’s total number
+of activities of acknowledging the tweet from a stakeholder by showing a favorable view
+of it. When an NPO retweets or likes a posting created by a stakeholder, other stakeholders can see the activity and the posting the NPO acknowledged.
+
+For affinity ties, this study measured each NPO’s directional relationship of initiating
+affinity ties to stakeholders: followings. Following indicates the number of relationships
+that an NPO has initiated affinity ties with stakeholders by following the stakeholders’
+account, which also means they agree to see stakeholders’ account updates. The original
+definition of affinity ties does not indicate an explicit “flow” of actual messages among
+the network participants (Shumate and Contractor, 2013), but some social media platforms allow affinity ties to accompany flow ties. For instance, once an NPO follows
+another stakeholder’s account on Twitter (i.e. affinity ties), the stakeholder’s posts also
+become available to the NPO (i.e. flow ties). In other words, affinity ties may “suppress,
+facilitate, or trigger” other complex relationships (Shumate and Contractor, 2013: 464).
+Acknowledging the multiple natures of followings on Twitter, however, this article classifies and measures followings as affinity ties, focusing on its characteristic of constructed relationships in the online environment distinguished from other types of ties
+(Table 1).
+
+Stakeholders’ autonomous networks. This study examined stakeholders’ autonomous networks by using the degree centrality among stakeholders.* Degree centrality refers to the
+number of direct ties to other actors (Monge and Contractor, 2003). This was measured
+by counting the number of direct ties of sending and receiving messages among
+stakeholders.
+
+Stakeholders’ response networks. This study measured stakeholder response networks by
+using the degree centrality of ties initiated by stakeholders to the focal NPO. This was
+measured by counting the number of direct ties of messages sent from stakeholders to the
+focal NPO.lhm 2657
+
+ 
+
+Table |. Descriptive statistics and correlations of variables.
+
+(I) (2) (3) (4) (5) (6) (7)
+
+(1) Flow Tweet 
+(2) Reply 52* —
+
+(3) Rep. Retweet 54% 30* 
+(4) Like A9* 45% 2g*
+
+(5) Affinity Following 29 19 14* 295
+
+(6) Response network .06 07 01 02 16* 
+(7) Autonomous network .05 .05 .15* 15% .03 02 M 203.10 24.62 52.98 55.70 182,293.7 65.29 18.45
+SD 243.05 79.27 78.03 65.56 804,879.7 7480 24.89
+*b < 05.
+
+Analysis
+
+This study conducted hierarchical regression analyses to examine the relationships
+between stakeholder engagement networks and three types of organizational ties on
+social media by adding organizational ties and their squared terms successively in
+Models | and 2 and the Final Model. Model 1 was a baseline model with all control variables included. Model 2 examined the relationship between stakeholder engagement networks and three types of organizational ties. The final model examined the additional
+effect of the squared terms of organizational ties on stakeholder engagement networks.
+
+For every regression model, this study controlled for the organizations’ size and age by
+controlling their assets (/=1,150,000,000; standard deviation [SD]=2,000,000,000) and
+the number of years since they received official recognition as a tax-exempt organization
+(M=47.09, SD=23.87), respectively (Saxton and Waters, 2014). This study also controlled
+for the industry type to account for the differing relationship between specific industries
+and social media by using three dummy variables based on the National Taxonomy of
+Exempt Entities (National Center for Charitable Statistics, 2018), as in prior research (Nah
+and Saxton, 2013): Art (n=13), Health (1=27), and Human Services (n=21).
+
+This study used linear regression models as in previous research that included centrality measures for dependent variables (Xu and Saxton, 2018). I concluded that although
+our data are based on count data, analyzing them with Poisson or negative binomial
+models may not generate robustness, because the maximum likelihood estimation in
+these models requires large samples for consistent results (Wooldridge, 2010). Not qualifying for the key assumption in Poisson models (i.e. the equality of the mean and the
+variance, Winkelmann, 2008) and not showing negative binomial distribution also confirmed the decision of conducting linear regression models for robust results (Wooldridge,
+2010). Because the Twitter activities of the 100 organizations in the sample did not show
+a normal distribution, the variables were log-transformed. Robust regression was conducted to account for the heteroscedasticity, but the significant variables remained the
+same, so this article reports only the original regression results. Squared terms were
+centered to meet the variance inflation factor (VIF) criteria under 2.5.2658 new media & society 21 (1 1-12)
+
+ 
+
+Table 2. Relationship between NPOs’ social media tie and stakeholder autonomous networks.
+
+Model | Model 2 Final Model
+b (SE) b (SE) b (SE)
+Control NPO size -.03 (.03) -.05 (.04) -.05 (.03)
+NPO age -.00I1  (.001) -.00!1 (.001) -.00I1 (.001)
+Art NPO .06 (.06) .07 (.06) 12* — (.06)
+Health NPO .05 (.04) .06 (.04) .07 (.04)
+Human LTP (05) 10** ~— (05) 14 (05)
+service NPO
+Flow ties Tweet .06* = (.08) 14 (.10)
+(Tweet)? 31 (13)
+Reply .03* = (.02) .04* = (.02)
+(Reply)? 02* (01)
+Representational Retweet 09* ~—(.04) 04* ~—(.06)
+ties (Retweet)? -.15* — (.05)
+Like 09* = (.04) .06 (.04)
+(Like)? -.05 (.06)
+Affinity ties Following Ol (.02) .03 (.03)
+N 100 100 100
+R? Al 17 .26
+Adjusted R? .09 15 25
+R? Al .06 .09
+F 4.82°** 4.02* 5.29
+
+NPO: nonprofit organizations.
+* b<.05 and **p <.0I.
+
+Results
+
+The final model of stakeholder autonomous networks had a significant difference from
+Model 2, so this study used the final model to examine the stakeholder autonomous networks (see Table 2 and see Appendix 2(a) for the effect of each type of ties). The final
+model of stakeholder response networks did not significantly differ from Model 2 (F:
+1.87, R*=.01), meaning that the squared terms newly added to the model do not show a
+significant improvement from Model 2, and thus, the squared terms do not have a significant influence on stakeholder response networks. Therefore, I used Model 2 as the final
+model (see Table 3 and see Appendix 2(b) for the effect of each type of ties).
+
+H1 examined relationships between NPOs’ flow ties and stakeholder engagement networks. Regarding autonomous networks, the linear term of tweet was not related, but the
+linear term of reply was positively related (b=.04, p<.05). The squared terms of both
+tweet (b=.31, p<.01) and reply (b=.02, p< .05) were positively related, which was the
+opposite direction from the hypothesis. Regarding response networks, flow ties were
+positively related to response networks (tweet: b=.23, p<.05; reply: b=.05, p<.01),
+but their squared terms were not. Thus, H1 was not supported.lhm 2659
+
+ 
+
+Table 3. Relationship between NPOs’ social media tie and stakeholder response networks.
+
+Model | Model 2 Final Model
+b (SE) b (SE) b (SE)
+Control NPO size 05 = (.04) .07 (.04) 07 ~— (.04)
+NPO age 00! (.001) 00! = (.001) 00 = (.001)
+Art NPO 05 ~~ (.07) .07 (.07) 08 = (.07)
+Health NPO 08  (.05) .05 (.05) 05 = (.05)
+Human service -.04 = (.05) -.07 (.05) -.06 = (.06)
+NPO
+Flow ties Tweet .23* — (.10) 26* = (.12)
+(Tweet)? Al (.16)
+Reply 05** = (.02) 05* = (.02)
+(Reply)? -.01 (.01)
+Representational Retweet 09 (.05) 04 ~—(.07)
+ties (Retweet)? -.05  (.07)
+Like -.05 (.05) -.06 (.05)
+(Like)? -.02 = (.07)
+Affinity ties Following -.05* = (.02) -.04 = (.02)
+N 100 100 100
+R? .04 15 15 (R*=.01)
+Adjusted R? 02 13 13
+F 1.65 2.6 |** 1.82
+
+NPO: nonprofit organizations.
+* b<.05 and **p<.01.
+
+H2 examined relationships between NPOs’ representational ties and stakeholder
+engagement networks. Regarding autonomous networks, the linear term of retweets was
+positively related (b=.04, p <.05), and its squared term was negatively related (b=—.14,
+p<.05). Likes were not related. There was no correlation between NPOs’ representational ties and response networks. Therefore, H2 was partially supported.
+
+RQI investigated relationships between NPOs’ affinity ties and stakeholder engagement networks. There was no relationship between affinity ties and autonomous networks. There was a negative relationship between affinity ties and response networks
+(b=-.05, p<.05).
+
+Discussion
+
+This article examined how three types of NPOs’ social media ties were related to stakeholder engagement networks by focusing on the distinctive nature of stakeholder autonomous networks from stakeholder response networks. First, the results from H1 suggest
+interesting roles of flow ties in stakeholder autonomous networks. NPOs’ original tweets
+appear to contribute to stakeholders’ autonomous networks by providing more opportunities for NPOs to promote themselves and enhance the probability that stakeholders2660 new media & society 21 (1 1-12)
+
+ 
+
+become aware of NPOs (Guo and Saxton, 2018). NPOs’ frequent replies may also create
+a comfortable environment for stakeholders to have conversations among themselves
+with a lower risk that each will ignore the other. This result extends previous research
+showing that dialogic communication on social media may rely not only on the degree of
+dialogic qualities in postings (Cho et al., 2014; Lovejoy and Saxton, 2012; Saxton and
+Waters, 2014) but also on the format of initiating dialogues (e.g. calling the stakeholder’s
+name directly by “@[stakeholder name]”).
+
+In addition, flow ties had a positive relationship to stakeholder response networks. In
+fact, flow ties were the only type of tie associated with both autonomous and response
+networks, which extends previous research showing that flow ties undergird other ties as
+a basic form of communication ties, not only in the offline environment (McPhee and
+Zaug, 2000), but also in the online environment. Because flow ties include an actual flow
+of communication (Shumate and Contractor, 2013), they appear to act as the main vehicle that provides informational, relationship-building, and mobilizing messages for
+stakeholder engagement (Lovejoy and Saxton, 2012).
+
+The squared terms of flow ties were positively related to autonomous networks, which
+was the opposite direction of the hypothesis; they did not have any curvilinear relationship to response networks. These results have two implications. First, flow ties may not
+have a wearout effect (Pechmann and Stewart, 1988) on autonomous networks. Because
+of information overload on social media, flow ties may decay off the newsfeed rapidly.
+Greater frequency and volume of speech, represented by squared terms, may be necessary to reinforce exposure of NPOs to stakeholders (Farrow and Yuan, 2011) and to keep
+stakeholders’ attention on the NPOs (Guo and Saxton, 2018). Second, stakeholders may
+need to share common identities or issues related to the NPOs (Scott et al., 1998) and to
+remain connected to the NPOs in order to have interactions among themselves (i.e.
+autonomous networks), unlike response networks; stakeholders may need a moderate
+level of flow ties from NPOs as a basis to communicate among themselves about common issues and identities; once NPOs meet this prerequisite, stakeholders’ autonomous
+interactions may accelerate as they reinforce exposure related to NPOs among themselves (Farrow and Yuan, 2011). This result extends the understanding of flow ties not
+only as enhancing the focal NPOs’ virtual presence (Waters et al., 2009) but also as creating a virtual space to foster stakeholders’ autonomous community.
+
+The results from investigating H2 suggest that representational ties play an important
+role in autonomous networks. One type of NPOs’ representational tie (i.e. retweet) had
+an inverted U-shaped correlation with stakeholders’ autonomous networks. This result
+suggests that consistent with previous studies (Pilny and Shumate, 2012; Shumate and
+Lipp, 2008), representational ties may form relationships with other parties, introduce a
+broader range of issues created by other parties, and draw attention from more diverse
+stakeholders when the number of ties do not exceed a moderate level. However, representational ties do not direct attention to or increase the connection with the focal NPOs
+specifically, because they acknowledge other parties. As such, unlike flow ties, too many
+representational ties may not reinforce exposure of NPOs to stakeholders (Farrow and
+Yuan, 2011) or keep stakeholders’ attention on the NPOs (Guo and Saxton, 2018).
+Therefore, when NPOs generate too many representational ties, the ties may become
+outdated quickly, which may mean the percentage of information that raises thelhm 266 |
+
+ 
+
+uniqueness of the NPOs diminishes, stakeholders pay less attention to each tie, and that
+stakeholders have fewer opportunities to interact regarding each posting.
+
+The other type of representational tie (i.e. like) did not have any correlation with
+autonomous networks. This difference may be attributed to the difference between the
+two representational ties. A “retweet” appears on the main tab along with original postings on NPOs’ social media pages, as opposed to the appearance of a “like” in a separate
+tab on NPOs’ social media pages. As such, NPO’s retweets may affect stakeholders more
+than “likes” in providing broader topics and gaining more attention.
+
+In comparison to autonomous networks, representational ties did not have any role in
+response networks. Representational ties do not involve original content by NPOs and
+the main purpose of representational ties is not promoting the NPOs themselves to stakeholders (Lovejoy and Saxton, 2012). As such, stakeholders may not feel intimate with
+the NPOs or obligated to respond to representational ties, as opposed to flow ties (Guo
+and Saxton, 2018).
+
+The results from RQ1 suggest that NPOs’ affinity ties do not play any role in stakeholder autonomous networks. Because of the ease with which they can generate affinity
+ties on social media, many NPOs strategically form affinity ties with many stakeholders
+to draw more attention and create social capital (Guo and Saxton, 2018; Xu and Saxton,
+2018), even using automatic algorithms to generate such ties. Considering the large average number of affinity ties (W=182,293.7), the visible categorization of such many
+stakeholders in relation to the focal NPOs (Treem and Leonardi, 2013) seem to lessen the
+sense of uniqueness that stakeholders get from their connection with the NPO (Ellemers
+et al., 1999). Stakeholders may regard such affinity ties from NPOs as superficial and
+decrease their attention to the focal NPOs (Kelleher, 2009) and share opinions about the
+organizations with other stakeholders.
+
+Furthermore, many NPOs follow and form affinity ties with other organizational or
+authentic institutional accounts to see their updates (Kanter and Paine, 2012), but their
+updates only appear to the focal NPOs, not to the public when the public visits the focal
+NPOs’ social media pages. As such, the affinity ties may not provide opportunities for
+stakeholder engagement as other ties do by generating topics and engaging in broad narratives. In addition, these organizational or institutional accounts are unlikely to write
+responses to or communicate among themselves on NPOs’ social media pages. Individual
+stakeholders are the ones who usually respond to and communicate among themselves
+on NPOs’ social media pages. Therefore, whom NPOs follow (e.g. organizational or
+institutional accounts) differ from who respond to and communicate on NPOs’ social
+media pages (e.g. individual accounts). Thus, whom NPOs follow may not be correlated
+to stakeholder autonomous or response networks as other types of ties.
+
+Affinity ties had a negative influence on response networks, indicating that NPOs’ common strategies of forming many affinity ties may weaken the relationship between NPOs
+and stakeholders. Although many studies have interpreted affinity ties from stakeholders to
+NPOs (e.g. followers) as an important indicator of the NPOs’ resources and power on
+social media (Bortree and Seltzer, 2009; Guo and Saxton, 2018), affinity ties from NPOs to
+stakeholders may represent no more than “hit counts” (Larson and Watson, 2011). This
+result reinforces the idea that effective stakeholder engagement does not rely simply on2662 new media & society 21 (1 1-12)
+
+ 
+
+taking advantage of the functional interactivity of social media (Sundar et al., 2003), but on
+a conversational and dialogic voice that can inspire trust and commitment (Kelleher, 2009).
+
+The contrasting results between each type of tie suggest that different types of NPOs’
+ties on social media generate varied relationships with stakeholders and function differently for stakeholder engagement. In comparison to previous focus on the potential of
+social media for improving organization—stakeholder relationships, this study captures
+how social media encompass and initiate diverse types of networks beyond the organization—stakeholder relationships. Flow ties seem to play the most essential role in stakeholder engagement, but representational ties also play an interesting role in constructing
+stakeholders’ autonomous networks by generating ties with a broader range of stakeholders. Affinity ties did not play a positive role. These differences indicate that stakeholders
+may differentiate the costs of and NPOs’ commitment to generating each type of tie. For
+instance, flow ties, which had the greatest positive effect on stakeholder networks,
+employ a more conversational human voice and relational commitment (Kelleher, 2009)
+than other ties. In other words, greater commitment may convince more stakeholders on
+social media.
+
+The differences between each type of tie also enrich research on social media by
+offering empirical distinctions between the three types of social media activities and
+providing the meanings, functions, and consequences of each. Different kinds of offline
+interactions create diverse relationships and meanings; this study reveals how the online
+counterparts, which may seem like only different technological functions (e.g. tweet,
+retweet, and follow), in fact generate diverse relationships and meanings for individuals
+and organizations. In addition, this study reveals that a large number of ties (e.g. squared
+terms of representational ties and affinity ties) does not guarantee more stakeholder
+engagement, extending previous focus on the linear positive association between NPOs’
+social media activities and stakeholder responses (Cho et al., 2014; Guo and Saxton,
+2018; Saxton and Waters, 2014).
+
+The different results between the two stakeholders’ engagement networks (RQ2) shed
+light on autonomous networks. Few studies have captured autonomous networks.
+Although Ihm (2015) discussed concepts and measures of “interactions among stakeholders,” she found few of them from 2013 data. However, this study, based on 2017
+data, found apparent autonomous networks. This result adds an empirical example not
+found in Ihm (2015) and enriches the scholarship on the changed roles of individuals and
+NPOs in social change (Bimber et al., 2012). This study also theoretically extends the
+concept of autonomous networks from [hm (2015) by revealing how autonomous networks are related to NPOs’ varied social media ties.
+
+The results from this study suggest that autonomous networks represent an online
+community distinct from response networks. Many studies discussed how NPOs take
+advantage of social media for stakeholder engagement (Bortree and Seltzer, 2009;
+Lovejoy and Saxton, 2012; Nah and Saxton, 2013), but this study directs attention to
+how NPOs’ loose organizational coordination intersects with individual autonomy
+on social media, which corresponds with the current phenomenon of connective
+action (Bennett and Segerberg, 2012; Bimber et al., 2012). This study also suggests
+the role of social media in generating the new types of networks by allowingIhm 2663
+
+ 
+
+organizations to provide a background platform and individuals to interact actively
+among themselves.
+
+Conclusion
+
+This study is the first to capture autonomous networks among stakeholders in relation
+to NPOs’ social media strategies and to categorize the NPOs’ social media activities
+by the types of ties NPOs generate. This study makes three contributions to new
+media research. First, it reinterprets the meaning of individual activities on NPOs’
+social media pages. Stakeholders have communicated among themselves and with
+NPOs on NPOs’ social media pages (Ihm, 2015), but previous studies have focused
+only on stakeholder responses to NPOs (Cho et al., 2014; Guo and Saxton, 2018;
+Saxton and Waters, 2014). Stakeholder responses to NPOs may symbolize the outcome or success of NPOs’ social media strategies (Saxton and Waters, 2014).
+However, networks that are created and sustained by stakeholders without organizational intervention may be more meaningful, even creating ideal communities to support NPOs. Contributing to the debate on the changed role of individuals and NPOs
+in collective action and social changes (Bimber et al., 2012), this study conceptualizes
+a new form of stakeholder engagement that may stand on the intersection of loose
+organizational coordination and individual autonomy. In this way, this study provides
+a way to differentiate and operationalize two types of individuals’ networks on social
+media. These attempts also provide new theoretical directions to understand individual autonomy on social media.
+
+Second, this study enriches social media research by introducing a network typology
+to identify different types of relationships embedded in social media. Whereas previous
+studies have focused on organization—stakeholder relationships as a whole and distinguished NPOs’ original postings depending on the degree of dialogic features in the
+contents to improve the organization—stakeholder relationships (Cho et al., 2014; Guo
+and Saxton, 2018; Saxton and Waters, 2014), this study classifies various relationships
+each organizational activity may generate with different stakeholders and provides
+empirical distinctions of each type of tie. Furthermore, this study reveals how different
+types of ties generate different outcomes to network structure on social media and assigns
+different meanings to each activity. This typology opens up new directions for analyzing
+and evaluating organizational activities on social media and extends theoretical understandings of social media activities and formation of stakeholder networks.
+
+Finally, this study provides practical implications for social media practitioners and
+organizational strategists. The results of this study suggest that many social media activities do not guarantee better stakeholder engagement. For instance, many affinity ties may
+not be effective for, and may even discourage, stakeholders’ networks. The different correlates between the two types of stakeholder networks also imply that practitioners
+should better define their communication objectives and target audience. If the ultimate
+goal is to receive more stakeholder responses, practitioners should consider initiating
+flow ties as the main strategy; if they want to encourage autonomous networks, generating a moderate number of representational ties may be a cost-efficient option. Considering
+the side effects of the excessive number of social media activities (i.e. squared terms) and2664 new media & society 21 (1 1-12)
+
+ 
+
+the different outcomes from each type of tie, this study provides different implications
+from previous attention to the positive role of a greater number of social media activities
+on stakeholder engagement (Cho et al., 2014; Guo and Saxton, 2018; Saxton and Waters,
+2014). The analysis of autonomous networks also suggests ways practitioners can take
+advantage of social media in this era of transformation in collective action and social
+change (Bimber et al., 2012); in addition to taking advantage of social media for dialogic
+communication with stakeholders (Lovejoy and Saxton, 2012; Saxton and Waters, 2014),
+practitioners may encourage autonomous communities on social media to accomplish
+organizational and social outcomes.
+
+Limitations and future research
+
+This study has several limitations. First, it drew from only one social media platform,
+Twitter. It therefore cannot be generalized to all social media platforms. Second, the
+sample in this study consisted of the 100 largest NPOs in the United States. Sampling
+large organizations has been predominant in previous studies (e.g. Cho et al., 2014;
+Lovejoy and Saxton, 2012; Nah and Saxton, 2013; Saxton and Waters, 2014), and
+creating a manageable sample may be necessary to capture a substantial amount of
+organizational and stakeholder activity, but the results are not generalizable to midsize or small NPOs. Third, the data scraping website Netlytic uses the public API.
+Although the author and three undergraduate students compared the first and last 10
+gathered posts each week to the actual posts uploaded on the organization’s social
+media pages to confirm that the scraping website is gathering all of the activity correctly and not exceeding the 1,000 tweet limit, there is a possibility that tweets that
+are unindexed or unavailable to the search interface were not included. Finally, this
+study did not examine the valence of stakeholder postings, although different valences
+of stakeholder postings, even negative ones, may act as meaningful networks to affect
+the focal NPOs. These limitations can serve as directions for future research. Further
+research might examine other types of social media and NPOs. Capturing the fewer
+social media activities of midsize and small NPOs may require different methods,
+such as in-depth interviews. Future research may also examine the content (e.g.
+valence) of autonomous networks in relation to NPOs’ social media strategies.
+Investigating the relationship between NPOs’ social media activities and different
+valences in stakeholder postings may provide more appropriate strategies for NPOs in
+engendering supportive stakeholder communities; it may further enrich research on
+the online network dynamics among stakeholders, which have been underdeveloped
+in previous studies (e.g. Ihm, 2015).
+
+Other issues not addressed here that future research might explore include the following: First, research may examine the relationship between the findings from this study to
+the offline counterparts. Examining how NPOs’ offline strategies influence autonomous
+networks or how autonomous networks extend to offline engagement may broaden the
+theoretical implications of autonomous networks. Second, future research may explore
+stakeholders’ active uses and affordances of NPOs’ social media pages in addition to
+engagement networks examined in this study. Stakeholders’ affordances and uses of the
+platform (e.g. various algorithms) may determine their newsfeed and may even workIhm 2665
+
+ 
+
+against the information overload that is supposed in this article. More research on this
+effect is necessary to interpret the result from this study more clearly. Furthermore,
+stakeholders’ varied affordances and uses of the platform indicate their proactiveness in
+managing and controlling NPOs’ social media activities. Focusing on such proactiveness
+may reveal diverse aspects of stakeholders’ selective and strategic engagement with
+NPOs and provide a more nuanced understanding of stakeholders’ engagement in addition to engagement networks discussed in this study. Finally, unraveling the reasons for
+the different correlations of stakeholder activities within the same type of organizational
+tie (e.g. retweets and likes) may offer thorough understandings on mechanisms and
+impacts of organizational social media activities.
+
+This study examined how NPOs form various types of relationships with their stakeholders through their social media activities and how stakeholders, in turn, communicate
+and build networks among themselves. Social media both provide opportunities and pose
+challenges to NPOs in their pursuit of social goals. NPOs’ social media ties and their
+correlation to autonomous networks in this study suggest that the opportunities social
+media offer to NPOs may extend beyond creating dialogic communication (Lovejoy and
+Saxton, 2012) to providing virtual space for stakeholder interactions. The role of autonomous networks in supporting NPOs and magnifying social impact also suggests that the
+“challenges” of increased autonomy of individuals from NPOs’ social media pages may
+generate synergies for both individuals and NPOs during this transformation of collective action and social change topography.
+
+Acknowledgements
+
+The author gratefully acknowledges the feedback from Michelle Shumate, Andrew Pilny, Wooseok
+Jung and the anonymous reviewers. The author would also like to thank Jia Kang, Seong Ju Kim,
+and Eun Bin Choi for their assistance with the data collection.
+
+Funding
+
+The author(s) disclosed receipt of the following financial support for the research, authorship, and/
+or publication of this article: This has been conducted by the Research Grant of Kwangwoon
+University in 2019.
+
+ORCID iD
+Jennifer Ihm @® https://orcid.org/0000-0001-7039-4162
+
+Notes
+
+1. Nonprofit organization’s (NPOs) and stakeholders’ activities on the organizational Twitter
+accounts were gathered from a data scraping website (Netlytic, 2019). The author and three
+undergraduate students accessed the website weekly to download data and compared the first
+and last 10 gathered posts of each week to the actual posts uploaded on the organization’s
+social media pages to confirm that the scraping website is gathering every activity correctly.
+We used a function in the website (i.e. entering “from: organization name” on the website) to
+gather data that the 100 organizations generated on their social media pages (i.e. tweet, reply,
+and retweet). We also used a function in the website (i.e. entering “to: organization name” on
+the website) to gather data that stakeholders generated in response to the organizations (i.e.2666 new media & society 21 (1 1-12)
+
+ 
+
+response networks starting with “replying to @organization name’’). In addition, we visited
+each organizational Twitter account weekly to gather data for autonomous networks. Other
+organizational activities (e.g. the number of followings and likes) were also gathered by visiting each organizational Twitter account.
+
+2. I did not intend to focus on the variation in stakeholders’ centralities within the autonomous
+networks, so “centralization” did not seem appropriate, either (Monge and Contractor, 2003).
+Density, which measures the connectedness of the network, seemed appropriate to examine the active interaction among stakeholders, so I conducted regression analysis having the
+density of autonomous networks as the dependent variable and gained similar results with
+the same significant variables except for the control variables and one flow tie, tweet (see
+Appendix 1). However, I wanted to compare response networks and autonomous networks, so
+I chose the degree centrality, a practically commensurable measure, to examine stakeholders’
+autonomous networks.
+
+3. The purpose of measuring stakeholder response networks was to examine how much attention and engagement NPOs gain from their stakeholders. Theoretically, I thought that degree
+centrality, which measures the frequency of stakeholder replies to the focal NPO, was appropriate to examine the level of attention and engagement NPOs gain from their stakeholders. I
+did not intend to focus on the NPOs’ efficiency in reaching other stakeholders in the network
+(i.e. closeness centrality), NPOs’ role as brokers in controlling the network information flow
+(i.e. betweenness centrality), or NPOs’ links with prestigious stakeholders (i.e. eigenvector
+centrality, Monge and Contractor, 2003). Practically, I intended to examine stakeholders’
+engagement with the focal NPO, so I needed to examine the links between each stakeholder
+directed to the focal NPO. Other centrality measures or global network measures (1.e. density, transitivity, or centralization) could not provide meaningful information or description
+of the networks in this situation where there are only pairs of nodes between the same ego
+(i.e. focal NPO) and alters (i.e. each stakeholder). Therefore, I measured the degree centrality of ties initiated by stakeholders to the focal NPO to examine stakeholders’ response
+networks.
+
+References
+
+Aaker J and Smith A (2010) The Dragonfly Effect: Quick, Effective, and Powerful Ways to Use
+Social Media to Drive Change. San Francisco, CA: Jossey Bass.
+
+Ashforth BE and Mael F (1989) Social identity theory and the organization. Academy of
+Management Review 14(1): 20-39.
+
+Banaji S and Buckingham D (2009) The civic sell: young people, the Internet, and ethical consumption. Information, Communication & Society 12(8): 1197-1223.
+
+Bennett WL and Segerberg A (2012) The logic of connective action: digital media and the personalization of contentious politics. Information, Communication & Society 15(5): 739-768.
+
+Bimber B, Flanagin A and Stohl C (2012) Collective Action in Organizations: Interaction and
+Engagement in an Era of Technological Change. New York, NY: Cambridge University Press.
+
+Bortree DS and Seltzer T (2009) Dialogic strategies and outcomes: an analysis of environmental
+advocacy groups’ Facebook profiles. Public Relations Review 35(3): 317-319.
+
+Broom GM, Casey S and Ritchey J (1997) Toward a concept and theory of organization-public
+relationships. Journal of Public Relations Research 9: 83-98.
+
+Bryson JM (2018) Strategic Planning for Public and Nonprofit Organizations: A Guide to
+Strengthening and Sustaining Organizational Achievement. Hoboken, NJ: John Wiley &
+Sons.
+
+Cho M, Schweickart T and Haase A (2014) Public engagement with nonprofit organizations on
+Facebook. Public Relations Review 40(3): 565-567.lhm 2667
+
+ 
+
+Ellemers N, Kortekaas P and Ouwerkerk JW (1999) Self-categorisation, commitment to the group
+and group self-esteem as related but distinct aspects of social identity. European Journal of
+Social Psychology 29(2-3): 371-389.
+
+Farrow H and Yuan YC (2011) Building stronger ties with alumni through Facebook to increase
+volunteerism and charitable giving. Journal of Computer-Mediated Communication 16(3):
+445-464.
+
+Grunig JE and Hunt T (1984) Managing Public Relations. Fort Worth, TX: Harcourt Brace
+Jovanovich College Publishers.
+
+Guo C and Saxton GD (2018) Speaking and being heard: how nonprofit advocacy organizations
+gain attention on social media. Nonprofit and Voluntary Sector Quarterly 47(1): 5—26.
+
+Hogg MA and Reid SA (2006) Social identity, self-categorization, and the communication of
+group norms. Communication Theory 16(1): 7-30.
+
+Thm J (2015) Network measures to evaluate stakeholder engagement with nonprofit organizations
+on social networking sites. Public Relations Review 41(4): 501-503.
+
+Jang CY and Stefanone MA (2011) Non-directed self-disclosure in the blogosphere: exploring the
+persistence of interpersonal communication norms. Information, Communication & Society
+14(7): 1039-1059.
+
+Kanter B and Paine KD (2012) Measuring the Networked Nonprofit: Using Data to Change the
+World. San Francisco, CA: John Wiley & Sons.
+
+Kelleher T (2009) Conversational voice, communicated commitment, and public relations outcomes in interactive online communication. Journal of Communication 59(1): 172-188.
+Kent ML and Taylor M (2002) Toward a dialogic theory of public relations. Public Relations
+
+Review 28(1): 21-37.
+
+Larson K and Watson RT (2011) The value of social media: toward measuring social media strategies. In: Proceedings of international conference on information systems 10, Shanghai, China,
+pp. 1-18. Available at: https://aisel.aisnet.org/icis201 1/proceedings/onlinecommunity/10
+
+Lovejoy K and Saxton GD (2012) Information, community, and action: how nonprofit organizations use social media. Journal of Computer-mediated Communication 17(3): 337-353.
+
+McPhee RD and Zaug P (2000) The communicative constitution of organization: a framework for
+explanation. Electronic Journal of Communication/la Revue Electronique De Communication
+10(1/2): 1-16.
+
+Mano RS (2014) Social media, social causes, giving behavior and money contributions. Computers
+in Human Behavior 31: 287-293.
+
+Monge PR and Contractor NS (2003) Theories of Communication Networks. New York: Oxford
+University Press.
+
+Moorhead SA, Hazlett DE, Harrison L, et al. (2013) A new dimension of health care: systematic review of the uses, benefits, and limitations of social media for health communication.
+Journal of Medical Internet Research 15(4): 85.
+
+Nah S and Saxton GD (2013) Modeling the adoption and use of social media by nonprofit organizations. New Media & Society 15(2): 294-313.
+
+National Center for Charitable Statistics (2018) National taxonomy of exempt entities. Washington,
+DC: Urban Institute. Available at: https://nccs.urban.org/classification/national-taxonomyexempt-entities
+
+Netlytic (2019) Netlytic. Available at: https://netlytic.org/home/ (accessed November 2017).
+
+O’Connor A and Shumate M (2018) A multidimensional network approach to strategic communication. International Journal of Strategic Communication 12(4): 399-416.
+
+Pechmann C and Stewart DW (1988) Advertising repetition: a critical review of wearin and wearout. Current Issues and Research in Advertising 11(1—2): 285-329.2668 new media & society 21 (1 1-12)
+
+ 
+
+Pilny A and Shumate M (2012) Hyperlinks as extensions of offline instrumental collective action.
+Information, Communication & Society 15(2): 260-286.
+
+Raja-Yusof RJ, Norman AA, Abdul-Rahman SS, et al. (2016) Cyber-volunteering: social media
+affordances in fulfilling NGO social missions. Computers in Human Behavior 57: 388-397.
+
+Rowley TJ (1997) Moving beyond dyadic ties: a network theory of stakeholder influences.
+Academy of Management Review 22(4): 887-910.
+
+Saxton GD and Waters RD (2014) What do stakeholders like on Facebook? Examining public
+reactions to nonprofit organizations’ informational, promotional, and community-building
+messages. Journal of Public Relations Research 26(3): 280-299.
+
+Scott CR, Corman SR and Cheney G (1998) Development of a structurational model of identification in the organization. Communication Theory 8(3): 298-336.
+
+Shirky C (2008) Here Comes Everybody: The Power of Organizing without Organizations. New
+York, NY: Penguin.
+
+Shumate M and Contractor N (2013) The emergence of multidimensional social networks. In:
+Putnam LL and Mumby DK (eds) The SAGE Handbook of Organizational Communication.
+3rd ed. Thousand Oaks, CA: SAGE, pp. 449-474.
+
+Shumate M and Lipp J (2008) Connective collective action online: an examination of the hyperlink
+network structure of an NGO issue network. Journal of Computer-mediated Communication
+14(1): 178-201.
+
+Shumate M, Pilny A, Atouba Y, et al. (2013) A taxonomy of communication networks. Annals of
+the International Communication Association 37(1): 95-123.
+
+Sundar SS, Kalyanaraman S and Brown J (2003) Explicating web site interactivity impression
+formation effects in political campaign sites. Communication Research 30(1): 30-59.
+
+Tajfel H (1978) Social categorization, social identity and social comparison. In: Tajfel H (ed.)
+Differentiation between Social Groups: Studies in the Social Psychology of Intergroup
+Relations. Oxford: Academic Press, pp. 61—76.
+
+Treem JW and Leonardi PM (2013) Social media use in organizations: exploring the affordances of
+visibility, editability, persistence, and association. Annals of the International Communication
+Association 36(1): 143-189.
+
+Turner JC and Onorato RS (1999) Social identity, personality, and the self-concept: a self-categorization perspective. In: Tyler TR, Kramer RM and John OP (eds) The Psychology of the
+Social Self. Mahwah, NJ: Lawrence Erlbaum Association, pp. 11-46.
+
+Valenzuela S (2013) Unpacking the use of social media for protest behavior: the roles of information, opinion expression, and activism. American Behavioral Scientist 57(7): 920-942.
+Waters RD, Burnett E, Lamm A, et al. (2009) Engaging stakeholders through social networking:
+how nonprofit organizations are using Facebook. Public Relations Review 35: 102-106.
+
+Winkelmann R (2008) Econometric Analysis of Count Data. New York: Springer.
+
+Wooldridge JM (2010) Econometric Analysis of Cross Section and Panel Data. Cambridge, MA:
+MIT press.
+
+Xu W and Saxton GD (2018) Does stakeholder engagement pay off on social media? A social
+capital perspective. Nonprofit and Voluntary Sector Quarterly 48: 28-49.
+
+Author biography
+
+Jennifer Ihm (PhD, Northwestern University) uses a network approach to understand the relationship between organizations and stakeholders. She uniquely explores the nature of organization—
+stakeholder interdependencies and outcomes in the online environment. She has examined how
+stakeholders perceive interorganizational networks, how online networks develop into autonomous stakeholder communities, and how communicative networks influence stakeholders’ way of
+participating in nonprofit organizations online and offline.lhm
+
+2669
+
+ 
+
+Appendix |. Relationship between NPOs’ social media tie and density of stakeholder
+autonomous networks.
+
+Control
+
+Flow ties
+
+Representational ties
+
+Affinity ties
+
+NPO size
+NPO age
+Art NPO
+Health NPO
+
+Human service NPO
+
+Tweet
+(Tweet)?
+Reply
+(Reply)?
+Retweet
+(Retweet)?
+Like
+(Like)?
+Following
+(Following)?
+N
+
+R2
+
+100
+
+.03*
+.00
+.004
+.04**
+.08**
+12
+38
+.02°**
+.001*
+.04*
+.05**
+02
+02
+.06
+.03
+
+26
+
+(SE)
+
+(.01)
+(.00)
+(.02)
+(.01)
+(.02)
+(.03)
+(.05)
+(.01)
+(.00)
+(.02)
+(.02)
+(.02)
+(.02)
+(.01)
+(.01)
+
+ 
+
+NPO: nonprofit organizations.
+
+* pD<.05, *p <.0l.
+
+Appendix 2(a). Relationship between NPOs’ social media tie and stakeholder autonomous
+
+networks.
+
+Control
+
+Flow ties
+
+Representational
+
+ties
+
+Affinity ties
+
+b
+NPO size -.04
+NPO age .00
+Art NPO 09
+Health NPO 07
+Human service NPO 14*
+Tweet LOR
+(Tweet)? .28*
+Reply .03*
+(Reply)? .02*
+Retweet
+(Retweet)?
+Like
+(Like)?
+Following
+N 100
+R2 9
+Adjusted R? 16
+F 5.48**
+
+NPO: nonprofit organizations.
+*p» < .05, **p < 01, ***p < .10.
+
+(SE)
+
+(.03)
+(.00)
+(.05)
+(.04)
+(.04)
+(.05)
+(.10)
+(.01)
+(.01)
+
+b
+
+-.05
+.00
+07
+.04
+19
+
+.04*
+-.13*
+.04
+
+-.03
+
+100
+a)
+Al
+
+3.86**
+
+(SE)
+
+(.04)
+(.00)
+(.06)
+(.04)
+(.04)
+
+(.03)
+(.04)
+(.04)
+(.06)
+
+b
+
+—.06
+.00
+.08
+07
+21%
+
+02
+100
+
+12
+
+09
+4.76**
+
+(SE)
+
+(.04)
+(.00)
+(.06)
+(.04)
+(.05)
+
+(.02)2670 new media & society 21 (1 1-12)
+
+ 
+
+Appendix 2(b). Relationship between NPOs’ social media tie and stakeholder response
+networks.
+
+b (SE) b (SE) b (SE)
+Control NPO size 05 (.04) 06 = (.04) .06 (.04)
+NPO age .00 (.00) 00 = (.00) .00 (.00)
+Art NPO .07 (.06) 08 = (.07) .04 (.06)
+Health NPO .07 (.05) 08 = (.05) .07 (.04)
+Human Service NPO = -.04 (.05) -.03 (05) -.05 (.05)
+Flow ties Tweet .13* — (.07)
+(Tweet)? 10 (.12)
+Reply 04* = (.02)
+(Reply)? -.02 (.01)
+Representational Retweet 02 = (.04)
+ties (Retweet)? -.09 (.05)
+Like -.06 (.05)
+(Like)? 02 (.07)
+Affinity ties Following -.05** = (.02)
+N 100 100 100
+R2 .08 .06 .08
+Adjusted R? 05 02 05
+F 1.94% 1.45 2.57*
+
+NPO: nonprofit organizations.
+“p < .05, **p < 01

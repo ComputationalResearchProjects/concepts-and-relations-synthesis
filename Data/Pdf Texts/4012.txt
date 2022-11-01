@@ -1,0 +1,900 @@
+® Check for updates
+
+ 
+
+Article
+
+new media & society
+2018, Vol. 20(5) 1813-1831
+
+Norms of online expressions © The Author(s) 2017
+
+° e Reprints and permissions:
+of emotion: Comparing ™
+Faceboo k, Twitte r, Instagram, ccagspnits cll esurundlsPenrntssicins. ee
+
+DOI: 10.1 177/14614448 17707349
+and WhatsApp eee SAGE
+
+Sophie F Waterloo, Susanne E Baumgartner,
+Jochen Peter and Patti M Valkenburg
+
+University of Amsterdam, The Netherlands
+
+Abstract
+
+The main aim of this study was to examine the norms of expressing emotions on social
+media. Specifically, the perceived appropriateness (i.e. injunctive norms) of expressing
+six discrete emotions (i.e. sadness, anger, disappointment, worry, joy, and pride) was
+investigated across four different social media platforms. Drawing on data collected
+in March 2016 among 1201 young Dutch users (15—25years), we found that positive
+expressions were generally perceived as more appropriate than negative expressions
+across all platforms. In line with the objective of the study, some platform differences
+were found. The expression of negative emotions was rated as most appropriate for
+WhatsApp, followed by Facebook, Twitter, and Instagram. For positive emotion
+expression, perceived appropriateness was highest for WhatsApp, followed by Instagram,
+Facebook, and Twitter. Additionally, some gender differences were found, while age
+showed little variations. Overall, the results contribute to a more informed understanding
+of emotion expression online.
+
+Keywords
+Internet, positivity bias, self-disclosure, self-expression, social context, social network
+sites
+
+Social media allow individuals to easily share their thoughts and feelings with others. At
+the same time, users need to carefully weigh the appropriateness of doing so within the
+variety of social contexts that different platforms present. So far, research has pointed
+
+ 
+
+Corresponding author:
+
+Sophie F Waterloo, Department of Communication Science, University of Amsterdam, Nieuwe
+Achtergracht 166, 1018 WV Amsterdam, The Netherlands.
+
+Email: S.F.Waterloo@uva.nl1814 new media & society 20(5)
+
+ 
+
+toward an online “positivity bias,” referring to the majority of posted content being positively rather than negatively valenced (Reinecke and Trepte, 2014). This has been argued
+to be a result of prevailing positivity norms. To date, however, the perceived appropriateness (i.e. injunctive norms) of expressing emotions on social media has received little
+scholarly attention. Understanding which perceived norms of emotion expression prevail
+may provide insights not only into social media’s positivity bias but also into the extent
+to which online expressions of negative emotions are considered inappropriate.
+
+This study aims to examine the prevailing injunctive norms of emotion expression on
+four popular social media platforms (i.e. Facebook, Twitter, Instagram, and WhatsApp).
+Injunctive norms refer to the extent to which people perceive certain behaviors to be
+appropriate or inappropriate (e.g. Cialdini and Trost, 1998). To gain a nuanced understanding of normative patterns of emotion expression, this study focuses on the expression of discrete positive and negative emotions and aims to compare their perceived
+appropriateness on different social media platforms. The focus on discrete emotions,
+rather than taking a dimensional perspective, offers greater precision in determining how
+different self-expressions vary in their perceived appropriateness. In addition, while
+much research focuses on single platforms, each social media platform presents a vastly
+different social context due to its unique features (e.g. Marwick and boyd, 2011; Wilson
+et al., 2012). Understanding differences across platforms thus allows for a clearer view
+on the current prevailing norms.
+
+To further determine patterns of perceived norms in expressing emotions, differences
+in age and gender are also considered. Research has thus far generated mixed results in
+establishing differences for these demographic variables in expressive behaviors online
+(e.g. Taddicken, 2014). However, given the focus on the expression of emotions, men
+and women may come to display different perceptions of appropriateness when, for
+instance, seen from a socialization perspective (Thelwall et al., 2010). In addition, selfdisclosure marks an important role in adolescent development for which social media
+function as one of its primary tools (e.g. Valkenburg and Peter, 2011). To understand
+differences in perceived norms from a developmental perspective, both late adolescents
+(15-18 years) and emerging adults (19-25 years) were selected for this study.
+
+In sum, the overall goal of this work is to illuminate normative patterns of expressing
+emotions on social media by means of a survey. In doing so, we maintain three specific
+objectives. First, by investigating the perceived appropriateness of disclosing positive
+and negative emotions, this study provides a detailed picture of a potential positivity
+bias of online emotion expression. Second, this study aims to elucidate how perceived
+injunctive norms of specific emotion expressions differ across different social media
+settings. Third, we explore how these perceived injunctive norms vary according to age
+and gender.
+
+Norms, emotion expression, and social media
+
+Social norms, routinely conceptualized as injunctive and descriptive norms, are regarded
+as the explicit and implicit rules that inform individuals on what is deemed acceptable
+behavior in a given social context (Cialdini and Trost, 1998). In contrast to descriptive
+norms, which in the context of self-expression refer to the observation of what peopleWaterloo et al. 1815
+
+ 
+
+typically express, injunctive norms refer to the perception of what most people deem
+appropriate or inappropriate expressions in certain situations. Moreover, injunctive
+norms “motivate behavior by promising social rewards or punishments” (Cialdini and
+Trost, 1998: 157). The perceived risks of social punishment that are associated with
+injunctive norms are in particular relevant to expressions of emotion. According to the
+Disclosure Decision Model, the perceived social risks likely influence the depth of disclosures in terms of the sharing of emotionally intense or negative personal information
+(Omarzu, 2000). These risks include social rejection, disapproval, or betrayal by others
+(Greene et al., 2006), as well as a negative public-image (Leary and Kowalski, 1990).
+Studying injunctive norms is thus particularly important for understanding behaviors of
+self-expression.
+
+Many social media platforms encourage emotional self-expression, inviting users to
+regularly update on their thoughts, feelings, and experiences to their larger network (e.g.
+Derks et al., 2008). Qualitative insights have so far revealed that “overly emotional”
+expressions on Facebook are considered norms violations (Lambert, 2015; McLaughlin
+and Vitak, 2012). Research has further provided very little empirical insight into which
+perceived norms of self-expression prevail on social media. However, empirical studies
+have consistently found that individuals post both positive and negative emotional
+expressions online, albeit with a bias toward the positive (e.g. Lin et al., 2014). This
+“positivity bias” may be due to prevailing positivity norms that social media encourage
+(Reinecke and Trepte, 2014). Similarly, research has shown that the expression of positive emotions is perceived as considerably more appropriate than negative emotion
+expression for offline disclosures (Caltabiano and Smithson, 1983). The reason for this
+is that disclosures of negative emotion are seemingly more intimate and therefore perceived as maladjusted behavior when directed at strangers or acquaintances (Chaikin and
+Derlega, 1974; Howell and Conway, 1990).
+
+Several theories have attempted to explain online expressions based on the availability of communicative cues. Users are argued to rely more on verbal communication
+strategies (e.g. content and linguistics) to compensate for the lack of nonverbal cues
+online (Walther, 1992). In light of this, users might likely express negative emotions
+online to establish intimate social connections, as research on co-rumination indicates
+that sharing negative experiences could strengthen relational bonds (e.g. Rose, 2002). At
+the same time, the hyperpersonal perspective (Walther, 1996, 2007) suggests that due to
+the control that online settings provide over one’s self-presentation, individuals more
+typically present themselves in a social desirable way (i.e. positively). Conversely, the
+reduced nonverbal cues and controllability that online settings afford also facilitate disinhibition, depending on the impression one wants to achieve (Walther, 1996). This disinhibition can lead to more frequent expression of positive emotions, as well as negative
+emotions. The social identity model of deindividuation effects (SIDE), however, adds
+that social context becomes more important in such reduced-cue settings, where users
+more strongly rely on prevailing social norms in expressing themselves compared to
+face-to-face (Postmes et al., 2000).
+
+While the expression of negative emotions might not be absent on social media platforms, the available research still points toward a greater perceived appropriateness of
+expressing positive emotions relative to negative emotions. This study examines discrete1816 new media & society 20(5)
+
+ 
+
+emotions rather than taking a valence-based approach (positive vs negative emotions), as
+scholars have pointed out that different emotions are associated with different patterns of
+appraisal and action tendencies (e.g. Myrick, 2015). Hence, focusing on discrete emotions is more informative and avoids oversimplifying the patterns of injunctive norms
+across social media platforms. The first hypothesis reads as follows:
+
+H1. The expression of positive emotions (i.e. joy and pride) is considered more appropriate compared to the expression of negative emotions (i.e. sadness, anger, disappointment, worry) on social media platforms.
+
+Normative differences across social media platforms
+
+While seemingly similar, each online social media platform represents a unique social
+context in terms of its audience (e.g. Marwick and boyd, 2011). Theoretically, a change
+of social context should lead to a difference in prevailing norms as other social identities
+become salient (Postmes et al., 2000). However, social media are becoming increasingly
+complex in their multi-functionality and evolve at rapid pace, and no theoretical approach
+has yet been put forward in comparing specific platforms. However, to tease out platform
+differences and the variety of social behaviors that may be found across them, it is useful
+to look at the specific features that characterize a platform’s social context.
+
+For social media, three features can be used to characterize a platform’s social context, which include behavioral privacy settings, its following-mechanism, and modality.
+Behavioral privacy is defined as the extent to which a behavior is performed in a public
+or private context (Lapinski and Rimal, 2005). While most social media platforms allow
+users to adjust their privacy settings, the default settings often function as the standard
+(Debatin et al., 2009). Related to this is the following mechanism that a platform affords:
+reciprocal or nonreciprocal. Reciprocal following occurs when two users need to both
+accept each other in their network, while nonreciprocal following allows a user to follow
+another without that user having to follow in return (Davenport et al., 2014; Lup et al.,
+2015). Both these features help in informing the user about the perceived audience of a
+particular platform. Finally, the main modalities of content that a platform offers—text,
+visuals, or audiovisuals—characterize the type of content that is typically shared. The
+combination of these three features helps discern how normative patterns of emotion
+expression potentially differ among Facebook, Twitter, Instagram, and WhatsApp.
+
+In terms of behavioral privacy settings, the magnitude of normative influences varies
+according to the extent to which behavioral privacy is perceived (Lapinski and Rimal,
+2005). In private settings, the social risks related to a given behavior (e.g. emotion
+expression) are generally smaller because few people can impart judgment. In contrast,
+public settings heighten the perceived social risks because one’s behavior is available for
+public scrutiny. Indeed, a study by Bazarova (2012) found that public intimate disclosures were considered less acceptable compared to private intimate disclosures.
+
+In this study, WhatsApp provides the highest level of behavioral privacy. Considered
+one of the most popular mobile-based instant messenger applications, WhatsApp is generally used to communicate directly with one or a few friends and thus represents aWaterloo et al. 1817
+
+ 
+
+private channel of communication (e.g. Karapanos et al., 2016). In contrast, Twitter is a
+microblogging site where users can follow others without the need for approval or reciprocation (i.e. nonreciprocal following). Although users can adjust the privacy settings,
+the majority maintains the public default, which means that anyone online is able to view
+one’s content (Marwick and boyd, 2011). In this respect, the mobile-based social network site Instagram is largely similar (Lup et al., 2015). On the social network site
+Facebook, users typically post content visibly to an articulated list of friends (boyd,
+2011), which generates a more bounded semi-public space compared to Twitter and
+Instagram.
+
+The following-mechanism of a platform provides information about the diversity of
+tie strengths in one’s network. Consistent with the social penetration hypothesis, disclosures become more intimate and varied as the relationship between individuals evolves
+(Altman and Taylor, 1973), resulting in changing perceptions of appropriateness. Here,
+strong ties include close friends, regular friends, and family, while weak ties include
+acquaintances and casual contacts (Haythornthwaite, 2005). People are more likely to
+disclose personal information to strong ties rather than weak ties because a level of trust
+has been able to develop (e.g. Caltabiano and Smithson, 1983). Relatedly, the expression
+of negative emotions (i.e. more intimate information) 1s perceived as less acceptable in
+interactions with acquaintances and strangers (Chaikin and Derlega, 1974).
+
+As to the platforms investigated in this study, WhatsApp is used to primarily interact
+with close ties compared to more public platforms such as Facebook, Twitter, and
+Instagram, which revolve more around communication with weak ties (e.g. Karapanos
+et al., 2016). Generally, research confirms that strong ties are more likely to use private
+channels to interact than do weak ties (Haythornthwaite, 2005). Facebook is based on
+reciprocal following, which makes the proportion of both strong and weak ties in one’s
+audience more balanced (e.g. McLaughlin and Vitak, 2012). In contrast, Twitter and
+Instagram rely on nonreciprocal following, which is often associated with a larger proportion of weak ties and the inclusion of strangers in one’s network (Lin et al., 2014; Lup
+et al., 2015).
+
+Finally, the modalities of content that a platform encourages inform what types of content users generally share. Current social media platforms allow for multiple modalities of
+content, which is especially true for both Facebook and WhatsApp through which text,
+visual, and audiovisual content can be shared. However, for both Twitter and Instagram,
+the modality of content represents a defining feature. Twitter currently revolves around
+publishing short 140-character text messages. This feature has led Twitter to evolve
+toward a popular tool for short and immediate commentary on real-time happenings,
+including both personal and news events (Kaplan and Haenlein, 2011). Research has
+shown that on Twitter, in part due to these characteristics, content is mainly negatively
+valenced even when it concerns positive events (Naveed et al., 2011; Thelwall et al.,
+2011). Instagram, in contrast, is a platform focused on the sharing of pictures enhanced by
+filters. This emphasis on visuals and esthetics, as some scholars argue, leads users to focus
+on sharing positive and even self-promotional content (e.g. Lup et al., 2015; Sheldon and
+Bryant, 2016).
+
+In summary, Facebook presents a semi-public setting for which users’ networks
+are typically composed of both strong and weak ties. These characteristics make it1818 new media & society 20(5)
+
+ 
+
+seemingly acceptable to express both negative and positive emotions, which research on
+Facebook self-disclosures confirms (e.g. Moreno et al., 2011; Qiu et al., 2012). Twitter is
+in comparison more public and used primarily to publish information and commentary
+visible to weak ties. However, the short message feature appears to invite primarily negative commentary. Instagram is similar to Twitter in terms of its public setting and nonreciprocal following. Its focus on visuals and aesthetics, contrarily, appears to make the
+expression of positive emotions more conventional. WhatsApp can be characterized as a
+private platform that is mainly used to interact with close friends and family (1.e. strong
+ties), opening up the possibility for intimate conversation. The expression of emotion is
+therefore expected to be considered most appropriate on WhatsApp compared to the
+other social media platforms. Based on these characterizations, the following hypotheses
+were put forward:
+
+H2. The perceived appropriateness of expressing negative emotions (i.e. sadness,
+anger, disappointment, and worry) is higher for Facebook, followed by Twitter and
+last Instagram.
+
+H3. The perceived appropriateness of expressing positive emotions (i.e. joy and pride)
+is higher for Instagram, followed by Facebook, and last Twitter.
+
+H4. For WhatsApp, the perceived appropriateness of expressing both positive and
+negative emotions is highest compared to Facebook, Twitter, and Instagram.
+
+Differences for age and gender
+
+Gender and age may affect how one perceives the injunctive norms of emotion expression on social media platforms. Concerning age, younger people seem to disclose more
+to peers than older people in both offline (Parker and Parrot, 1995) and online settings
+(e.g. Christofides et al., 2012). In addition, younger users are more likely to post selfderogating messages than older users (Bareket-Bojmel et al., 2016). Social media have
+been argued to be especially suited for young people to practice self-disclosure
+(Livingstone, 2008; Valkenburg and Peter, 2011), although other studies have not found
+any age differences in self-expressions online (e.g. Taddicken, 2014). Due to inconclusive evidence on this topic, it is difficult to predict age differences. However, younger
+users may have different perceived norms compared to those that have been using online
+communication for longer. We asked the following question:
+
+RQ1. How do late adolescents and emerging adults vary in their perceived appropriateness of the six types of emotional self-expression across different social media
+platforms?
+
+For gender, differences in disclosure behaviors have traditionally been attributed to
+socialization processes. From an early age, girls are taught to be more expressive and
+sensitive, while boys are expected to restrain from affective behaviors (e.g. Mesch and
+Beker, 2010). Some studies have found that women use more affective words and express
+more emotional content on social media, while men more often portray assertiveness andWaterloo et al. 1819
+
+ 
+
+serious expressions in their self-presentations (e.g. Tifferet and Vilnai-Yavetz, 2014).
+However, other studies have failed to find gender differences in the context of disclosure
+(e.g. Cho, 2007; Thelwall et al., 2010). Given these inconsistent results, we examine the
+following research question:
+
+RQ2. How do males and females vary in their perceived appropriateness of the six
+types of emotional self-expression across different social media platforms?
+
+Method
+
+Sample and procedure
+
+Participants were recruited through email from a subject pool of a professional research
+company in March 2016. Institutional approval was granted prior to the collection of
+data. Based on predetermined sample quota in terms of age (50% late adolescents, 50%
+emerging adults) and gender (50% female, 50% male), 1201 individuals were surveyed.
+The company reached out to a large number of subject pool participants from different
+parts in the Netherlands that fit the quota and continued until the required number of
+participants was met. A multistage randomization was employed by the company, meaning that participants are first assigned to a series of profiling questions after which they
+are randomly assigned to a survey based on their answers. Approximately, half of the
+participants were between the ages of 15 and 18 years (n=591) and half between the ages
+of 19 and 25 years (n=610). In addition, 48.8% of the full sample was male, and 51.2%
+was female. Individuals were only allowed to participate after actively granting consent,
+which for the under-aged participants included parental consent as well. Participants
+received monetary compensation after completion, in line with the research company’s
+guidelines.
+
+Measures
+
+Platform use. Participants were presented with a list of 21 social media platforms, for
+which they could indicate active use. Active use was defined as being a registered user
+and having used the platform at least once in the past month, and primarily served as a
+filter question for further questions. Participants were presented with statements for each
+perceived norm of emotion expression separately for Facebook, Twitter, Instagram, and
+WhatsApp. To avoid question order effects, the order in which the blocks of questions
+for each platform were presented to participants was randomized.
+
+Perceived injunctive norms of positive emotion expression. Participants were asked to indicate, per platform, to what extent they agreed with the statements “The people who are
+important to me would be okay with me posting about something that made me joyous”
+and “The people who are important to me would be okay with me posting about something that made me proud.” These items are based on the operationalization of personal
+injunctive norms typically used in the literature on norms (e.g. Park and Smith, 2007). To
+effectively measure perceived injunctive norms, items should focus on how participants1820 new media & society 20(5)
+
+ 
+
+perceive important others’ approval (i.e. “people who are important to me”) and on the
+personal nature of the emotion expression of interest (i.e. “something that made me”).
+Responses were measured using a five-point Likert-type scale (1=completely disagree
+to 5=completely agree).
+
+Perceived injunctive norms of negative emotion expression. The perceived appropriateness of
+expressing negative emotions was measured in a similar manner to the perceived injunctive
+norms of positive emotion expression, again separately for each platform. Participants indicated on a five-point Likert-type scale (1 =completely disagree to 5=completely agree) the
+degree to which they agreed with the statement “The people who are important to me
+would be okay with me posting about something that made me ...,” which for the negative
+emotions ended with the adjectives “sad,” “angry,” “disappointed,” or “worried.”
+
+Age and gender. Participants were asked to indicate their age through an open-ended
+response format. This continuous variable was subsequently transformed into a dummy
+variable, reflecting the age category corresponding to the age ranges of late adolescents
+(15-18 years; coded as 0) and emerging adults (19-25 years; coded as 1). In addition,
+participants were asked whether they are male (coded as 0) or female (coded as 1).
+
+Covariates. To assess differences on a platform level, two covariates were included that
+reflect possible individual variations related to one’s network. All covariates were measured separately per platform. An overview of the descriptive statistics for the covariates
+and demographics are reported in Table 1.
+
+Perceived behavioral privacy. To understand how private (or public) participants perceived different social media platforms, participants were presented with the following
+situations: “Posting a message (status update) on your own Facebook Wall”; “Posting a
+tweet that is shared with your list of followers on Twitter’; “Posting an image (including
+a possible caption) on Instagram”; and “Sending a message to one other person through
+WhatsApp.” Participants indicated to what extent they rated these situations as public or
+private on a seven-point scale (1 =very public to 7=very private).
+
+Privacy settings. Participants were asked to indicate whether the settings of their profile
+and shared posts were either customized (i.e. visible only to a restricted set of accepted
+network members; coded as 0) or set to the public default (i.e. visible to anyone on or off
+the platform of concern; coded as 1).
+
+Analyses
+
+Factor analyses were used to test whether the perceived norms for negative emotions of
+sadness, anger, disappointment, and worry were statistically distinct from the positive
+emotions of joy and pride for each of the platforms. Principal component analyses using
+direct oblimin rotation generated two components for Facebook, Twitter, and Instagram:
+one for negative emotions and one for positive emotions (all primary loadings exceeded
+.80; Cronbach’s alpha for negative emotions was higher than .92; Pearson’s r for positiveWaterloo et al. 1821
+
+ 
+
+emotions was .85). For WhatsApp, only one component was extracted. However, when
+the extraction of two factors was enforced, a similar pattern emerged. The correlation
+between the two components for WhatsApp was relatively high (r=.69). Cronbach’s
+alpha was .95 for the perceived norms of negative emotions, and the correlation for the
+perceived norms of pride and joy was .87. Taking all perceived norms of negative emotion expression for all social media platforms together revealed a Cronbach’s alpha of
+.94, which for positive emotion expression was .88.
+
+To establish statistical differences between the means of perceived norms of emotion
+expression for each platform, repeated measures analyses with a linear mixed models
+approach were used. This approach accounts for the non-independence of residuals that
+are a result of the multiple observations for each participant. The data were transformed
+into long format in SPSS to allow for mixed modeling. The perceived norms were then,
+separately, included as dependent variables with platform (four levels) as the repeated
+factor. This approach is beneficial for analyzing data that includes missing data, since
+subjects with missing data points will not be removed from the analyses (e.g. Bagiella
+et al., 2000). In addition, the mixed models approach allows for fitting specific covariance structures to the data. For the purpose of this study, compound symmetry was
+selected, which treats all variances as approximately equal and all covariances as approximately equal (Bagiella et al., 2000). This structure is commonly used if there is no logical ordering to the observations, which applies to the current data. We further applied the
+Bonferroni adjustment within SPSS in comparing main effects to account for multiple
+testing (Westfall et al., 1997), with alpha levels adjusted to .008 (=.05/6) per test. All
+presented p-values are Bonferroni corrected.
+
+Results
+
+Descriptive statistics
+
+The majority of the sample (V=1201) indicated using WhatsApp (90.2%), followed by
+Facebook (88.3%), Instagram (54.5%), and Twitter (34.6%). As shown in Table 1, the distribution of gender and age was approximately equal across all four platforms. In total,
+participants indicated to use on average five platforms from the list of 21 social media
+platforms (M=4.88, standard deviation [SD]=2.23). This average was significantly higher
+
+Table I. Main properties of covariates, sex, and age.
+
+N Perceived Privacy settings Sex Age category
+privacy, (years)
+M (SD) TT
+Custom Public Male Female 1I5-I8 19-25
+Facebook 1060 3.56 (1.78) 81.9% 18.1% 47.1% 52.9% 47.3% 52.7%
+Twitter 416 3.38(1.82) 53.1% 46.9% 53.8% 46.2% 47.8% 52.2%
+
+Instagram 655 3.28(1.66) 60.0% 40.0% 42.3% 57.7% 55.7% 44.3%
+WhatsApp 1083 6.15(1.40) 55.4% 44.6% 47.5% 52.5% 50% 50%
+
+SD: standard deviation.1822 new media & society 20(5)
+
+ 
+
+Table 2. Correlations between perceived norms of emotion expression, covariates, age, and
+sex for all platforms combined.
+
+| 2 3 4 5 6 7 8 9 10
+|. Sadness 2. Anger BORK —
+3. Disappointment  .82*** .82*** —
+4. Worry THERE TBE BIER
+5. Joy AFERE BGFREE AZ RE 4g _
+6. Pride ABE ADrrR Agere ARR  gdpeck _
+7. Privacy settings  .07*** [2° (| PR PRK QB OTK —
+8. Perceived 20 20%" DPR DORK — 0] -.01 -.05** —
+privacy
+9. Age category -.01 Ol Ol .00 -.05* -.05** 02 -Ol —10. Sex 06** O5** 048 06% 6K 4K — QR — Q4 -O] 
+ 
+
+*b <.05; **p <.01; ***p<.001.
+
+for females (M=5.04, SD=2.25) compared to males (M@=4.70, SD=2.19), (.1199)=—2.66,
+p<.01. For age, this difference was not significant, (1199)=1.01, p=.272.
+
+The significant correlations (see Table 2) with some of the perceived norms of emotion expression across the four platforms show that privacy settings and perceived behavioral privacy of platform context may be confounding factors. As individual privacy
+settings may influence the extent to which one perceives a platform context to be public
+or private, independent t-tests were conducted. These revealed that, except for WhatsApp
+(t(1000)= 1.89, p=.059), privacy settings lead to differences in the perceived behavioral
+privacy of the platform context. That is, users with custom settings rated Facebook as
+significantly more private (W@=3.67, SD= 1.79) than users with public settings (W@=3.19,
+SD=1.64, 1(1058)=3.39, p=.001). This pattern also applied to Twitter (Monson = 3-98,
+SD custom = 1-87, Moupiic=2-96, SDoupiic= 1-70, (414)=5.76, p<.001), and Instagram
+(Meustom= 3-855 SD custom = 1-64, Mpuptic= 2-64, SD yupiie= 1-40, (615)= 10.14, p<.001). The
+perceived behavioral privacy of platform context thus appears to differ for each privacy
+setting, and is therefore included as a nested variable (i.e. within privacy setting) in the
+mixed modeling analyses as a covariate.
+
+Emotion expression norms and platform differences
+
+Hypothesis | stated that, overall, expressions of positive emotions would be perceived as
+more appropriate than expressions of negative emotions. The perceived appropriateness
+of positive emotion expression was overall rated as higher (W=3.91, SD=.87) than the
+perceived appropriateness of negative emotion expression (M=3.33, SD=.97). A paired
+samples t-test revealed that this difference was statistically significant, 3213)=35.13,
+p<.001, thereby supporting Hypothesis 1.
+
+Hypotheses 2, 3, and 4 focused on the differences in the perceived appropriateness of
+expressing emotions among Facebook, Twitter, Instagram, and WhatsApp. The analyses
+were performed for each individual emotion to gain a more thorough insight into theWaterloo et al. 1823
+Table 3. Estimated means and standard errors for the perceived norms of emotion
+expression.
+Perceived M (SE)
+norms
+
+Facebook Twitter Instagram WhatsApp
+Sadness 3.23 (.03)> 3.14 (.05)@ 3.09 (.04)? 3.66 (.04)°
+Anger 3.20 (.03)? 3.26 (.05)? 3.07 (.04)° 3.64 (.04)<
+Disappointment 3.24 (.03)? 3.25 (.05)? 3.08 (.04)> 3.69 (.04)<
+Worry 3.27 (.03)? 3.29 (.05)? 3.15 (.04) 3.74 (.04)<
+Joy 3.90 (.03)@ 3.78 (.04)> 3.93 (.03)? 4.05 (.03)<
+Pride 3.83 (.03)2> 3.74 (.04)? 3.89 (.04)° 4.02 (.03)<
+
+ 
+
+SE: standard error.
+Means with different superscripts differ significantly from each other within rows, with p at least <.01.
+
+patterns that possibly emerge. An overview of all the means and standard errors (SE) are
+provided in Table 3. For the expression of sadness, the test of fixed effects showed a
+significant influence of platform, F(3, 2420)=48.26, p<.001, as well as of perceived
+behavioral privacy, F(2, 3090)=21.09, p<.001. Pairwise comparisons showed that the
+expression of sadness was perceived as significantly more appropriate on WhatsApp
+(M=3.66, SE=.04) than on all other platforms. The perceived appropriateness of
+expressing sadness was lowest for Instagram (M=3.09, SE=.04) and Twitter (/=3.14,
+SE=.05), which was significantly lower than for WhatsApp and Facebook (M=3.23,
+SE=.03). For the expression of anger, the test of fixed effects also showed a significant
+influence of platform, F(3, 2417)=47.26, p<.001, and perceived behavioral privacy,
+F(2, 3098)=28.64, p<.001. Here, WhatsApp (WV=3.64, SE=.04) again showed the
+highest average rating of perceived appropriateness, and differed significantly from
+Facebook (M=3.20, SE=.03), Twitter (M=3.26, SE=.05) and Instagram (M/=3.07,
+SE=.04) which showed the lowest average rating. The difference between Facebook and
+Twitter, however, failed to reach significance.
+
+The perceived appropriateness of expressing disappointment was similarly affected
+by platform, F(3, 2447)=54.17, p<.001, as well as perceived behavioral privacy,
+F(2, 3123)=26.21, p<.001. The pairwise comparisons showed again that for
+WhatsApp (/=3.69, SE =.04) the expression of disappointment is perceived as most
+appropriate, and significantly different from perceived appropriateness ratings for
+Facebook (M=3.24, SE=.03), Twitter (M=3.25, SE=.05), and Instagram (M@/=3.08,
+SE=.04), again showing the lowest rating of perceived appropriateness. The difference in means between Facebook and Twitter was not significant. For the perceived
+norm of expressing worry, the effect of platform was again significant, F(3,
+2451)=53.05, p<.001, as was the perceived behavioral privacy covariate, F(2,
+3125)=21.90, p<.001. Much like the expression of disappointment, the perceived
+appropriateness of expressing worry was highest for WhatsApp (/=3.74, SE=.04),
+and significantly differed from Facebook (M=3.27, SE=.03), Twitter (W=3.29,
+SE=.05), and Instagram (M@=3.15, SE=.04). The difference between Facebook and
+Twitter did not reach significance.1824 new media & society 20(5)
+
+ 
+
+Taken together, a consistent pattern emerges for the perceived appropriateness across
+the different negative emotions. The ratings appeared highest for WhatsApp, followed by
+both Facebook and Twitter, and lowest for Instagram. Facebook and Twitter were hypothesized to significantly differ in means, which did not appear to be the case. However, the
+data did confirm the overall hypothesized pattern between platforms. Therefore,
+Hypothesis 2 was only partially supported.
+
+For the expression of positive emotions, the third Hypothesis predicted that Instagram
+would show higher ratings of perceived appropriateness compared to Facebook, with
+lowest ratings of perceived appropriateness for Twitter. The platform showed a significant fixed effect on the perceived appropriateness ratings of joyous expressions, F(3,
+2360)=10.89, p<.001, but not of the perceived behavioral privacy, F(2, 3022)=2.24,
+p=.107. The perceived appropriateness of expressing joy was highest for WhatsApp
+(M=4.05, SE=.03), followed by Instagram (W=3.93, SE=.03), Facebook (M@=3.90,
+SE=.03), and last Twitter (M@=3.78, SE=.04). However, the mean differences between
+Facebook and Instagram did not reach statistical significance. The perceived appropriateness of expressing pride, was again significantly influenced by platform, F(3,
+2405)=11.95, p<.001, as well as by the perceived behavioral privacy, F(2, 3078)=5.49,
+p<.0l. Ratings of perceived appropriateness were highest for WhatsApp (M@=4.02,
+SE=.03), followed by Instagram (M=3.89, SE=.04), Facebook (M=3.83, SE=.03), and
+last Twitter (M=3.74, SE=.04). The mean difference between Facebook and Twitter, as
+well as between Facebook and Instagram failed to reach significance.
+
+The perceived appropriateness of expressing positive emotions thus appeared higher for
+both Instagram and Facebook compared to Twitter, which showed the lowest ratings of
+perceived appropriateness. Again, the results did not support the hypothesized significant
+differences between Instagram and Facebook. Hypothesis 3 was therefore only partially
+supported. Finally, Hypothesis 4 posited that the expression of the positive as well as the
+negative emotions would be considered most appropriate on WhatsApp. The results confirm
+that WhatsApp, relative to Facebook, Twitter, and Instagram, had the highest ratings for all
+positive and negative emotion expressions. Therefore, Hypothesis 4 was supported.
+
+Differences for age and gender
+
+To identify variations in perceived appropriateness of emotion expressions for age (RQ1)
+and gender (RQ2), these variables were included in the repeated measures with mixed
+modeling approach along with the covariate of perceived privacy of platform context
+nested in privacy setting. The results revealed that there were no differences between late
+adolescents (15—18 years) and emerging adults (19—25 years) for the perceived appropriateness of sadness, anger, disappointment, or worry. For the positive emotions, differences emerged only for the expression of joy on Instagram. Late adolescents (@=4.00,
+SE=.05) considered the expression of joy more appropriate on Instagram than emerging
+adults (M=3.82, SE=.05, t(3089)=2.71, p<.01).
+
+For gender, differences were primarily found for the expression of positive emotions
+on Facebook, Twitter, and Instagram. This indicates that females rated these expressions
+as more appropriate than males (see Table 4). The expression of negative emotions on
+each of these three platforms was largely viewed as equally appropriate by males andWaterloo et al. 1825
+
+ 
+
+Table 4. Differences in sex for the perceived norms of emotion expression.
+
+Perceived norms Sex df t p
+Male M (SE) Female M (SE)
+
+Facebook
+Sadness 3.19 (.05) 3.27 (.05) 2672 —1.27 .204
+Anger 3.15 (.05) 3.24 (.05) 2684 -1.48 139
+Disappointment 3.21 (.05) 3.26 (.05) 274 | -0.71 476
+Worry 3.19 (.04) 3.32 (.04) 2752 —2.27 024
+Joy 3.74 (.04) 4.05 (.04) 2553 —5.74 <.001
+Pride 3.70 (.04) 3.95 (.04) 266 4.56 <.001
+
+Twitter
+Sadness 3.07 (.06) 3.17 (.07) 3204 —1.11 .268
+Anger 3.17 (.06) 3.31 (.07) 3202 — 1.54 125
+Disappointment 3.21 (.06) 3.23 (.07) 3200 -0.27 .787
+Worry 3.23 (.06) 3.30 (.07) 3199 -0.80 422
+Joy 3.66 (.05) 3.87 (.06) 3210 —2.62 .009
+Pride 3.61 (.06) 3.86 (.06) 3204 —3.06 .002
+
+Instagram
+Sadness 3.05 (.06) 3.10 (.05) 3142 -0.64 526
+Anger 3.02 (.06) 3.06 (.05) 3147 -0.58 559
+Disappointment 3.02 (.06) 3.07 (.05) 3161 -0.75 456
+Worry 3.09 (.06) 3.15 (.05) 3164 -0.85 394
+Joy 3.72 (.05) 4.08 (.04) 3105 -5.59 <.001
+Pride 3.69 (.05) 4.03 (.05) 3141 -5.12 <.001
+
+WhatsApp
+Sadness 3.53 (.05) 3.81 (.05) 2630 —4.48 <.001
+Anger 3.55 (.05) 3.76 (.05) 2642 —3.40 .001
+Disappointment 3.62 (.05) 3.79 (.05) 2701 =2.89 .004
+Worry 3.65 (.05) 3.84 (.05) 2712 —3.15 002
+Joy 3.94 (.04) 4.15 (.04) 2507 —4.02 <.001
+Pride 3.91 (.04) 4.13 (.04) 2618 -4.01 <.001
+
+SE: standard error.
+
+Significant mean differences are marked in bold.
+
+females, with the exception of expressing worry on Facebook. For WhatsApp, females
+rated the appropriateness of all expressions of emotion as more appropriate compared to
+males. Females thus perceive the expression of positive emotions across different platforms, as well as the expression of both positive and negative emotions in more private
+spaces (i.e. WhatsApp), as more acceptable than males.
+
+Discussion
+
+This study mapped out the prevailing injunctive norms of emotion expression for different
+platforms. More specifically, this study sought to identify the perceived appropriateness1826 new media & society 20(5)
+
+ 
+
+of six different expressions of emotions (i.e. sadness, anger, disappointment, worry, joy,
+and pride) on Facebook, Twitter, Instagram, and WhatsApp. In doing so, the present findings provide a snapshot of the possible variations in the prevailing perceived norms on
+expressive behaviors across online spaces and further advance our understanding of selfexpression on social media.
+
+The expressions of positive emotions were generally considered more appropriate
+than expressions of negative emotions across all platforms. This is in line with prior
+research on the appropriateness of self-disclosure in offline contexts (e.g. Caltabiano and
+Smithson, 1983), as well as the proportions of positively and negatively valenced messages found in online self-disclosure research so far (e.g. Lin et al., 2014). The expression of negative emotions may be perceived as less appropriate due to the intimacy it
+carries (Chaikin and Derlega, 1974). In addition, we found differences in perceived
+norms of emotion expression across platforms. The expression of all six emotions was
+found to be most appropriate for WhatsApp relative to the other three more public platforms. Our results thus correspond to theoretical and empirical work that has focused on
+behavioral privacy in relation to self-disclosure (e.g. Bazarova, 2012). In addition, our
+results also seem to be in line with studies on instant messaging that found intimate and
+emotional experiences to be shared more often through these more private forms of communication (e.g. Quan-Haase and Young, 2010).
+
+Concerning differences between the three more public platforms, our results only
+partially confirmed the hypothesized patterns. The expression of negative emotions was
+rated as more appropriate for Facebook and Twitter compared to Instagram. For positive
+emotion expression, perceived appropriateness was higher for Instagram and Facebook
+than for Twitter. This ties in with existing research that has pointed toward a focus on
+self-promotional content on Instagram due to its visual properties (Sheldon and Bryant,
+2016), and the popularity of negatively valenced content on Twitter (e.g. Naveed et al.,
+2011). The features that are distinct for a social media platform thus seem to invite certain types of expressions and beliefs on what may be considered appropriate, beyond
+differences in perceived behavioral privacy.
+
+To further understand normative patterns of online self-expression, age and gender
+differences were also explored. Some gender differences were found, partially confirming that males find it less acceptable to share their feelings, as they rated the overall
+expression of emotions as less appropriate on WhatsApp than females. Additionally,
+males rated the expression of positive emotions as less appropriate on the other three
+platforms relative to females, yet this was not the case for negative emotion expression.
+This lends partial support to the theoretical understandings of gender differences in the
+self-disclosure literature. While many studies on self-disclosure have failed to find gender differences (e.g. Cho, 2007; Thelwall et al., 2010), this study provides a more nuanced
+understanding by taking different platforms into consideration. Our findings suggest that
+gender differences do not seem to manifest themselves equally across all social media
+platforms, but particularly among private platforms that encourage more intimate emotion expressions.
+
+The current results show that late adolescents and emerging adults generally do not
+differ in their perceptions of appropriate emotional self-expression across the different
+social media platforms. It is possible that these developmental processes have alreadyWaterloo et al. 1827
+
+ 
+
+partly stabilized between the ages of 15 and 18 years, as young people nowadays engage
+with social media at the young age of 10 years (Lange, 2014). Additionally, parents now
+more frequently discuss appropriate and inappropriate online behaviors with their teenage kids (Anderson, 2016), which more likely eliminates differences in behaviors
+between adolescents and emerging adults through learned inhibitions. However, given
+that the current data may suffer from selection bias, future research could further explore
+whether these results hold in other samples of similar age ranges.
+
+Contributions and implications
+
+Ultimately, these findings show that users consider the expressions of both positive
+and negative emotions acceptable on social media. Overall, this seems to fit the idea of
+authentic self-presentation in online settings in that expressing negative emotions is
+acceptable, which is in line with presenting one’s “true self’ (e.g. Back et al., 2010;
+Bareket-Bojmel et al., 2016). The relative higher rating of positive expression appropriateness points toward a stronger presence of positivity norms, which corresponds
+with positive authenticity expectations on social media (Reinecke and Trepte, 2014).
+However, this finding should not be considered unique to online settings as positivity
+norms also persist in face-to-face interactions (Howell and Conway, 1990). Generally,
+the fact that people follow rules of interaction stems from the inherent need to avoid
+the risk of social sanctions and rejection (e.g. Cialdini and Trost, 1998; Lapinski and
+Rimal, 2005).
+
+The current findings also provide further information on platform differences. More
+private spaces in which one can communicate with a specific close friend allow for
+looser norms of emotion expression, as our findings on WhatsApp showed. This finding,
+along with the differences that emerged between the public platforms Twitter and
+Instagram, might further explain why people hold multiple social media accounts and
+shift between different platforms in expressing themselves. If users feel a need to express
+themselves emotionally, they will likely select a platform for which they feel such
+expressions will be deemed appropriate. Future research could further examine the perceived appropriateness of emotion expression among populations from different countries, as uses of social media platforms and perceptions of appropriateness might be
+country-specific or culturally dependent.
+
+Additionally, the expression of emotion in online settings remains a relatively
+understudied subject. Norms are argued to be a driver of many social behaviors
+(Lapinski and Rimal, 2005). The current results provide information on users’ perceptions of emotion expression on social media, thereby advancing theoretical knowledge
+on the online sharing of emotion. Understanding what expressions are considered
+appropriate and inappropriate could further be used to gain insight into what motivates
+antinormative behaviors more accurately and the potential adverse consequences this
+may have compared to normative behaviors of expression online. Research on problematic behaviors such as “flaming” has begun to explore the mechanisms that underlie these tendencies (Derks et al., 2008). However, not much is known about
+antinormative behaviors related to emotion expression in online spaces and the consequences thereof.1828 new media & society 20(5)
+
+ 
+
+Future considerations
+
+The current findings need to be seen in light of the study’s limitations. First, we did not
+study descriptive norms of emotion expression. Future research could consider this, as
+the addition of descriptive norms may paint a more detailed picture of the current prevailing norms of expression (Lapinski and Rimal, 2005). This study focused on the perceived social punishments or rewards that may be imposed upon by important others,
+who in the context of emotion expression would likely be most influential in guiding
+such sensitive behavior. However, assessing which emotions participants perceive other
+people to typically express, or whether participants would approve of important others’
+emotion expressions on social media, is also relevant. Second, based on the current
+results, it is not possible to single out exactly what features or affordances contributed to
+the differences in perceived appropriateness across the four platforms studied. However,
+we believe that the findings nevertheless provide new insights into differences in social
+context between social media platforms which, given the dearth of comparative social
+media research, marks a meaningful step toward a more informed perspective on platform differences.
+
+Funding
+
+The author(s) received no financial support for the research, authorship, and/or publication of this
+article.
+
+References
+
+Altman I and Taylor DA (1973) Social Penetration: The Development of Interpersonal
+Relationships. Oxford: Holt, Rinehart & Winston.
+
+Anderson M (2016) Parents, teens and digital monitoring. Report, Pew Research Center, January.
+Retrieved from: http://www.pewinternet.org/2016/01/07/parents-teens-and-digital-monitoring/
+
+Back MD, Stopfer JM, Vazire S, et al. (2010) Facebook profiles reflect actual personality, not selfidealization. Psychological Science 21(3): 372-374.
+
+Bagiella E, Sloan RP and Heitjan DF (2000) Mixed-effects models in psychophysiology.
+Psychophysiology 37(1): 13-20.
+
+Bareket-Bojmel L, Moran S and Shahar G (2016) Strategic self-presentation on Facebook: personal motives and audience response to online behavior. Computers in Human Behavior
+55(B): 788-795.
+
+Bazarova NN (2012) Public intimacy: disclosure interpretation and social judgments on Facebook.
+Journal of Communication 62(5): 815-832.
+
+boyd d (2011) Social network sites as networked publics: affordances, dynamics, and implications. In: Papacharissi Z (ed.) A Networked Self: Identity, Community, and Culture on Social
+Network Sites. New York: Routledge, pp. 39-58.
+
+Caltabiano ML and Smithson M (1983) Variables affecting the perception of self-disclosure
+appropriateness. The Journal of Social Psychology 120(1): 119-128.
+
+Chaikin AL and Derlega VJ (1974) Variables affecting the appropriateness of self-disclosure.
+Journal of Consulting and Clinical Psychology 42(4): 588-593.
+
+Cho SH (2007) Effects of motivations and gender on adolescents’ self-disclosure in online chatting. CyberPsychology and Behavior 10(3): 339-345.Waterloo et al. 1829
+
+ 
+
+Christofides E, Muise A and Desmarais S (2012) Hey mom, what’s on your Facebook? Comparing
+Facebook disclosure and privacy in adolescents and adults. Social Psychological and
+Personality Science 3(1): 48-54.
+
+Cialdini R and Trost M (1998) Social influence: social norms, conformity and compliance. In:
+Fiske ST, Gilbert DT and Lindzey G (eds) The Handbook of Social Psychology, Volume 2.
+New York: McGraw-Hill, pp. 151-192.
+
+Davenport SW, Bergman SM, Bergman JZ, et al. (2014) Twitter versus Facebook: exploring the
+role of narcissism in the motives and usage of different social media platforms. Computers in
+Human Behavior 32(1): 212-220.
+
+Debatin B, Lovejoy JP, Horn A, et al. (2009) Facebook and online privacy: attitudes, behaviors, and unintended consequences. Journal of Computer-Mediated Communication 15(1):
+83-108.
+
+Derks D, Fischer AH and Bos AER (2008) The role of emotion in computer-mediated communication: a review. Computers in Human Behavior 24(3): 766-785.
+
+Greene K, Derlega VJ and Mathews A (2006) Self-disclosure in personal relationships. In:
+Vangelisti AL and Pearlman D (eds) The Cambridge Handbook of Personal Relationships.
+New York: Cambridge University Press, pp. 409-427.
+
+Haythornthwaite C (2005) Social networks and Internet connectivity effects. Information,
+Communication & Society 8(2): 125-147.
+
+Howell A and Conway M (1990) Perceived intimacy of expressed emotion. The Journal of Social
+Psychology 130(4): 467-476.
+
+Kaplan AM and Haenlein M (2011) The early bird catches the news: nine things you should know
+about micro-blogging. Business Horizons 54(2): 105-113.
+
+Karapanos E, Teixeira P and Gouveia R (2016) Need fulfillment and experiences on social media:
+a case on Facebook and WhatsApp. Computers in Human Behavior 55(1): 888-897.
+
+Lambert A (2015) Intimacy and social capital on Facebook: beyond the psychological perspective.
+New Media & Society 18(11): 1-17.
+
+Lange M (2014) 59percent of tiny children use social media. Available at: http://nymag.com/
+thecut/2014/02/over-half-kids-social-media-before-age-ten. html
+
+Lapinski MK and Rimal RN (2005) An explication of social norms. Communication Theory 15(2):
+127-147.
+
+Leary MR and Kowalski RM (1990) Impression management: a literature review and two-component model. Psychological Bulletin 107(1): 34-47.
+
+Lin H, Tov W and Qiu L (2014) Emotional disclosure on social networking sites: the role of
+network structure and psychological needs. Computers in Human Behavior 41(1): 342-350.
+
+Livingstone S (2008) Taking risky opportunities in youthful content creation: teenagers’ use of
+social networking sites for intimacy, privacy and self-expression. New Media & Society
+10(3): 393-411.
+
+Lup K, Trub L and Rosenthal L (2015) Instagram #Instasad?: Exploring associations among
+Instagram use, depressive symptoms, negative social comparison, and strangers followed.
+Cyberpsychology, Behavior, and Social Networking 18(5): 247-252.
+
+Marwick AE and boyd d (2011) I tweet honestly, I tweet passionately: twitter users, context collapse, and the imagined audience. New Media & Society 13(1): 114-133.
+
+McLaughlin C and Vitak J (2012) Norm evolution and violation on Facebook. New Media &
+Society 14(2): 299-315.
+
+Mesch GS and Beker G (2010) Are norms of disclosure of online and offline personal information associated with the disclosure of personal information online? Human Communication
+Research 36(4): 570-592.1830 new media & society 20(5)
+
+ 
+
+Moreno MA, Jelenchick LA, Egan KG, et al. (2011) Feeling bad on Facebook: depression disclosures by college students on a social networking site. Depression and Anxiety 28(6): 447-455.
+
+Myrick JG (2015) The Role of Emotions in Preventative Health Communication. Lanham, MD:
+Lexington Books.
+
+Naveed N, Gottron T, Kunegis J, et al. (2011) Bad news travel fast: a content-based analysis of
+interestingness on Twitter. In: Proceedings of the 3rd international web science conference,
+Koblenz, 15—17 June, pp. 1-7. New York: ACM.
+
+Omarzu J (2000) A disclosure decision model: determining how and when individuals will selfdisclose. Personality and Social Psychology Review 4(2): 174-185.
+
+Park HS and Smith SW (2007) Distinctiveness and influence of subjective norms, personal
+descriptive and injunctive norms, and societal descriptive and injunctive norms on behavioral
+intent: a case of two behaviors critical to organ donation. Human Communication Research
+33(2): 194-218.
+
+Parker RG and Parrot R (1995) Patterns of self-disclosure across social support networks: elderly,
+middle-aged, and young adults. The International Journal of Aging and Human Development
+41(4): 281-297.
+
+Postmes T, Spears R and Lea M (2000) The formation of group norms in computer-mediated communication. Human Communication Research 26(3): 341-371.
+
+Qiu L, Lin H, Leung AK, et al. (2012) Putting their best foot forward: emotional disclosure on
+Facebook. Cyberpsychology, Behavior, and Social Networking 15(10): 569-572.
+
+Quan-Haase A and Young AL (2010) Uses and gratifications of social media: a comparison of
+Facebook and instant messaging. Bulletin of Science, Technology & Society 30(5): 350-361.
+
+Reinecke L and Trepte S (2014) Authenticity and well-being on social network sites: a two-wave
+longitudinal study on the effects of online authenticity and the positivity bias in SNS communication. Computers in Human Behavior 30(1): 95-102.
+
+Rose AJ (2002) Co-rumination in the friendships of girls and boys. Child Development 73(6):
+1830-1843.
+
+Sheldon P and Bryant K (2016) Instagram: motives for its use and relationship to narcissism and
+contextual age. Computers in Human Behavior 58(1): 89-97.
+
+Taddicken M (2014) The “privacy paradox” in the social web: the impact of privacy concerns,
+individual characteristics, and the perceived social relevance on different forms of self-disclosure. Journal of Computer-Mediated Communication 19(2): 248-273.
+
+Thelwall M, Buckley K and Paltoglou G (2011) Sentiment in Twitter events. Journal of the
+American Society for Information Science and Technology 62: 406-418.
+
+Thelwall M, Wilkinson D and Uppal S (2010) Data mining emotion in social network communication: gender differences in MySpace. Journal of the American Society for Information
+Science and Technology 61(1): 190-199.
+
+Tifferet S and Vilnai-Yavetz I (2014) Gender differences in Facebook self-presentation: an international randomized study. Computers in Human Behavior 35(1): 388-399.
+
+Valkenburg PM and Peter J (2011) Online communication among adolescents: an integrated
+model of its attraction, opportunities, and risks. Journal of Adolescent Health 48(2):
+121-127.
+
+Walther JB (1992) Interpersonal effects in computer-mediated interaction: a relational perspective.
+Communication Research 19(1): 52-90.
+
+Walther JB (1996) Computer-mediated communication: impersonal, interpersonal, and hyperpersonal interaction. Communication Research 23(1): 3-43.
+
+Walther JB (2007) Selective self-presentation in computer-mediated communication: hyperpersonal dimensions of technology, language, and cognition. Computers in Human Behavior
+23(5): 2538-2557.Waterloo et al. 183]
+
+ 
+
+Westfall P, Johnson W and Utts J (1997) A Bayesian perspective on the Bonferroni adjustment.
+Biometrika 84(2): 419-427.
+
+Wilson RE, Gosling SD and Graham LT (2012) A review of Facebook research in the social sciences. Perspectives on Psychological Science 7(3): 203-220.
+
+Author biographies
+
+Sophie F Waterloo (MSc, MA University of Amsterdam) is a PhD student in the Department of
+Communication Science at the University of Amsterdam. Her research focuses on the antecedents
+and consequences of self-expression and selective self-presentation on social media platforms and
+other online environments.
+
+Susanne E Baumgartner (PhD, University of Amsterdam) is an assistant professor in the Department
+of Communication Science at the University of Amsterdam. Her main research interests include
+the role of the internet and new media in adolescent development, as well as the consequences of
+media multitasking.
+
+Jochen Peter (PhD, University of Amsterdam) is a professor of Media Entertainment in the
+Department of Communication Science at the University of Amsterdam. He investigates effects of
+adolescents’ media use on socialization and psycho-social development, and currently focuses on
+developing an integrative framework of child-robot interactions.
+
+Patti M Valkenburg (PhD, Leiden University) is a university distinguished professor of Media,
+Youth and Society at the University of Amsterdam. Her research involves the cognitive, emotional, and social consequences of media and technologies on children and adolescents.

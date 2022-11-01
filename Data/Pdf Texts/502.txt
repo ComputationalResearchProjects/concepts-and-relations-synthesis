@@ -1,0 +1,1132 @@
+® Check for updates
+
+Article
+. Journal of Educational Computing
+
+Examining User esearch
+Participation and Arte roue outleines
+Network Structure DOL 10.1177107356331 18791262
+
+e e journals.sagepub.com/home/jec
+via an Analysis of a ®SAGE
+Twitter-Supported
+Conference
+Backchannel
+
+Quan Xie! and Tian Luo?
+
+Abstract
+
+This study aimed to examine the scholarly community’s authentic use of Twitter at a
+professional conference, #ICIS2016, and to investigate how Twitter supports the
+conference learning community by examining users’ levels of participation in
+Twitter-enabled conference backchannels and the overall structure of this communication network. We also explored how individuals can better engage in the Twitterbased conference community via revealing the primary characteristics of the central
+users within the network and studying the significant factors that impact the central
+status of users. Through an in-depth social network analysis and statistical path
+analysis, our data revealed users’ varying levels of participation and a relatively low
+network density, which may suggest participants’ novelty of using Twitter as a
+conference backchannel. The data further indicated three types of central users:
+interaction initiator, opinion leader, and conversation bridge, as well as unveiling
+the relationships among several key variables impacting the central status of a
+user. Discussion and practical implications are provided.
+
+ 
+
+'Department of Communication, Slane College of Communications and Fine Arts, Bradley University,
+Peoria, IL, USA
+
+*Department of STEM Education & Professional Studies, Darden College of Education, Old Dominion
+University, Norfolk, VA, USA
+
+Corresponding Author:
+
+Quan Xie, Department of Communication, Slane College of Communications and Fine Arts, Bradley
+University, 1501 W Bradley Ave, Peoria, IL 61625, USA.
+
+Email: qxie@bradley.edu2 Journal of Educational Computing Research 0(0)
+
+Keywords
+Twitter, conference backchannel, community of practice, social network analysis,
+social constructivism
+
+Introduction
+
+In recent years, education researchers have perceived social media as evolutionary tools that support interaction and collaboration among scholars to shape
+their learning practices and professional development (Ebner, 2009; Kimmerle,
+Moskaliuk, Oeberst, & Cress, 2015; Li & Greenhow, 2015; Veletsianos &
+Kimmons, 2012). There is a growing scholarly interest in investigating the
+usage of social media to support professional learning. In particular, scholars’
+increasing usage of Twitter during professional conferences as a communication
+backchannel has been recognized as a critical trend of social scholarship, which
+was defined as a means to disseminate scholarship outputs and to engage online
+communities around critical scholarly issues (Greenhow & Gleason, 2014).
+
+Twitter has been found as an effective backchannel to facilitate scholarly
+communication among conference attendees via disseminating research ideas
+rapidly (Ebner, 2009; Java, Song, Finin, & Tseng, 2007), engaging audiences
+during live events and presentations (Ross, Terras, Warwick, & Welsh, 2011),
+allowing participants to exchange contacts in a low-stake manner (Mahrt,
+Weller, & Peters, 2014), as well as diversifying the scope of audiences reached
+within and beyond the conference community (Bombaci et al., 2016). Despite
+that researchers have demonstrated the effectiveness of Twitter as a conference
+backchannel, the nature of this Twitter-based communication network (e.g.,
+users’ participation levels, network structure) has not yet been fully explored.
+
+Previous educational research has also examined how different user groups
+such as professors, students, and professionals adopted Twitter during conferences (Bombaci et al., 2016; Kimmons & Veletsianos, 2016; Li & Greenhow,
+2015). However, little empirical research focuses on the central users within
+the Twitter-enabled communication network during conference. It remains
+unknown who the central users are, what predominant characteristics the central
+users have manifested, and what factors contribute to the central status of the
+users.
+
+In response to these issues, this study explores the scholarly community’s
+authentic use of social media as a communication backchannel during academic
+conference, via examining the Twitter-enabled communication network of the
+2016 International Conference on Information Systems (ICIS). Particularly, we
+investigated the flow of information among conference participation in online
+discussions revolving around the official hashtag, #icis2016, over the course of
+the 10-day conference duration, via a social network analysis (SNA) and pathXie and Luo 3
+
+analysis. Two research goals are pursued. Our first aim is to investigate how
+Twitter supports and facilitates the conference learning community by examining users’ levels of participation in Twitter-enabled conference backchannels and
+the overall structure of this communication network. The second goal is to
+explore how individuals can better engage in a Twitter-based conference learning
+community via revealing the primary characteristics of the central users within
+the network and studying the significant factors that impact the central status of
+users.
+
+Literature Review
+Usage of Twitter as a Conference Backchannel
+
+The use of Twitter as a conference backchannel has received mounting attention among scholars and practitioners. Twitter, as one of the most influential
+social media networks in the United States, has been viewed as an indispensable tool to receive real-time information. In 2017, 74% of American Twitter
+users reported that they used it as a news channel (Shearer & Gottfried, 2017).
+This suggests Twitter’s significant news distribution value that offers “‘as-ithappens coverage and commentary on live events” (Barthel et al., 2015).
+Research also pointed out that Twitter as a lightweight, microblogging tool
+facilitates collaborative learning and community building due to its strength in
+information sharing, information seeking, and relationship building (Ebner,
+2009; Java et al., 2007).
+
+Intuitively, many conference organizers and attendees take great advantage of
+such attributes of Twitter and appropriate it during live events to engage participants and audiences. This methodology of channeling conversation at the
+backend became a Twitter-enabled conference backchannel, which is an “‘irregular or unofficial means of communication which can extend beyond the lecture
+room to engage with scholars across the community” (Ross et al., 2011, p. 215).
+Scholars contend that a conference backchannel operates differently from a news
+channel where information disseminates from a single distributed channel;
+instead, it constitutes a multidirectional and multipurpose arena where individuals and groups engage in a variety of events and actions, including notetaking,
+resource sharing, relationship building, professional networking, and individuals
+displaying their own online presence, among many others (Li & Greenhow,
+2015; Ross et al., 2011).
+
+The use of a Twitter-enabled conference backchannel yields two major benefits. First, the backchannel broadens immediate participation by breaking off the
+single speaker paradigm via living tweeting (Ross et al., 2011). Second, varying
+user types and diverse online discourse often occur on Twitter, revealing unique
+dynamics, different conversation patterns, and differing network structures
+during professional conferences (Chen, 2011). This allows conference4 Journal of Educational Computing Research 0(0)
+
+participants to share contacts informally, which facilitates the exchange of social
+networks through a low-stake fashion (Mahrt et al., 2014). Meanwhile, research
+also showed that ineffective tweeting might lack quality and substance and possibly lead to distraction (Bombaci et al., 2016; Mahrt et al., 2014).
+
+Analyzing different social networks across various Twitter-enabled conference backchannels, scholars stated that use of Twitter at professional conferences appear to vary by academic disciplines and fields (Chen, 2011; Kimmons &
+Veletsianos, 2016; Parra et al., 2016). Examining education conferences such as
+the American Educational Research Association annual conferences, researchers
+argued that considerable variation exists regarding how education scholars and
+students participate on Twitter (Kimmons & Veletsianos, 2016; Li & Greenhow,
+2015). Researchers in other fields such as humanities, computer science, and
+conservation science all found unique characteristics of communication patterns
+and user attributes distinctive to those particular conferences (Bombaci et al.,
+2016; Parra et al., 2016; Ross et al., 2011). Findings from one disciplinary
+conference might not be transferrable to conferences in another field of study
+(Ross et al., 2011), which presents an exceptional opportunity to conduct a study
+on Twitter-enabled conference backchannels in a disciplinary domain that was
+not analyzed previously.
+
+Twitter-Based Communication Network as a Community of Practice
+
+This study is grounded in the framework of social constructivism. Social-constructive theory postulates that learning occurs in interdependent contexts and
+relationships situated in communities of practice (Wenger, 1998a). Lave and
+Wenger (1991) defined a community of practice (CoP) as ‘‘a set of relations
+among persons, activity, and world, over time and in relation with other tangential and overlapping communities of practice” (p. 98). Wenger (1998b) further commented that learning is collective and social in nature, which results in
+communities of practices that reflect “the pursuit of our enterprises and the
+attendant social relations” (p. 45). In a sense, CoP is a context where learners
+engage in the pursuit of various enterprises, such as at work, study, and dayto-day life; and where they collectively and actively create knowledge with other
+participants in those enterprises.
+
+Notably, a plethora of researchers contended that practices on social media,
+especially social networks such as Twitter, can foster new forms of collaborative
+knowledge construction and facilitate building online communities of practice
+(Cress & Kimmerle, 2008; Gao & Li, 2016; Greenhow & Li, 2013; Kimmerle
+et al., 2013, 2015; Li & Greenhow, 2015). In such communities of practice
+afforded by social media, participants are involved in mutual engagement and
+shared activities where members formulate collaborative relationship and further develop the relationship as they continue to engage and _ interact
+(Kimmerle et al., 2015). Wenger (1998b) pointed out that a primaryXie and Luo 5
+
+characteristic of a CoP is the shared practice among members. In this shared
+practice, members must “‘create and contribute to a knowledge base built on
+time and sustained interaction” (Wesely, 2013, p. 307). In the context of the
+Twitter-enabled conference communication network, little research has
+examined the shared practices within the community, which can be reflected
+in members’ authentic participation on Twitter because such participation generates collaborative conversations and sustained interactions such as tweets,
+replies, retweets, and mentions. Therefore, it becomes meaningful to examine
+participants’ authentic participation on the Twitter-enabled backchannel.
+
+In addition, Twitter as a social media channel can support interaction and
+collaboration among large groups of users that are not institutionally predetermined like students in a class. Instead, the users form themselves autonomously
+in terms of networks of people or communities (Kimmerle et al., 2015).
+According to the social learning theory, “‘learning and knowledge in networked
+spaces are situated activities that are facilitated, negotiated, and co-constructed
+individually and socially’ (Kimmons & Veletsianos, 2016, p. 449). It is thus
+necessary to investigate the network structure of Twitter-based interactions
+during conferences because the structure presenting characteristics of the communication network provides insight into the transactional nature of such online
+communities, thus illustrating the progressing relationship among members of
+the community. Gao and Li (2016) analyzed the network structure of a l-hour
+synchronous chat in a microblogging-based professional development community and found that the levels of participation in the chat were largely uneven,
+resulting in a sparse and weakly connected network structure. However, considering the different natures of the online professional development community
+and the academic conference, it remains unknown what characteristics a
+Twitter-enabled conference communication network manifests.
+
+Moreover, it should be noted that communities of practices are often complex, self-organized social systems functioned by voluntary individuals and
+groups with shared interest (Lave & Wenger, 1991). Since the community as a
+whole develops and grows in its knowledge building and capacity, individual
+members advance on a personal level and exert a relatively considerable influence on one another. The principle of self-organization (Kimmerle et al., 2015)
+indicates that individuals starting as newcomers contributing legitimate peripheral participation (Lave & Wenger, 1991) may later become knowledgeable and
+influential members central to the community. Therefore, examining central and
+influential users of the conference online community help to reveal the underlying patterns indicating relationship formulation among members within the
+network.
+
+Also, the development of CoP depends on internal leadership—recognized
+experts need to be involved in order to legitimize the community as a place for
+sharing and creating knowledge (Wenger, 1998a). In the context of Twitterenabled conference communication network, the central users play the informal6 Journal of Educational Computing Research 0(0)
+
+role of internal leadership of the conference online community, and thus have a
+deep impact on the nurturing of the community. However, it remains unknown
+what to make a user central in the Twitter-based network, especially in terms of
+the user’s activities and connections with other community members on Twitter.
+It then becomes critical to understand what factors influence a user’s central
+Status.
+
+In an attempt to address gaps and recommendations from prior research, we
+selected the ICIS 2016 conference and investigated its Twitter-enabled communication network because its participants are on a global scale and its research
+topics are more varied in scope. We employed SNA via NodeXL and path
+analysis via IBM AMOS 22 and raised the following four research questions:
+
+Research Question 1 (RQ1): What did users’ authentic participation in Twitterenabled conference backchannels look like during the ICIS 2016 conference?
+
+Research Question 2 (RQ2): What did the overall communication network structure of Twitter-based interactions look like during the ICIS 2016 conference?
+
+Research Question 3 (RQ3): What are the primary characteristics of central users in
+the Twitter-based communication network of ICIS 2016 conference?
+
+Research Question 4 (RQ4): What are the factors that impact users’ central status in
+the Twitter-based communication network of ICIS 2016 conference?
+
+Understanding Social Network Metrics in Twitter-Mediated Events
+
+In reviewing literature investigating the communication network on Twitter, it is
+evident that scholars used basic metrics provided by Twitter API. Many Twitter
+analytics programs provide metrics such as the number of people a user follows
+(Followed), the number of followers a user has (Followers), and the number of
+tweets a user posts (Tweets). Based on the fundamental metrics, SNA programs
+also use algorithms to provide advanced metrics such as in-degree and outdegree links, as well as more sophisticated centrality metrics (e.g., betweenness
+centrality and eigenvector centrality) that investigate social structures and the
+relationships among individuals in a network (Otte & Rousseau, 2002). We used
+the definitions of these network metrics and findings from prior literature to
+propose our hypotheses.
+
+In SNA, nodes and edges are the two basic concepts in defining a social
+network structure—the former (node) refers to an individual user in the network, and the latter (edge) indicates the relationships connecting the nodes
+together (Hansen, Schneiderman, & Smith, 2011). Researchers also developed
+network measures to measure influence, which is defined as how important
+a node is within a network on an individual level (Kellogg, Booth, & Oliver,
+2014). Nodes with more connections are considered to be more important
+(Zafarani, Abbasi, & Liu, 2014). Particularly, in-degree measures the numberXie and Luo 7
+
+of unique links that point toward a user or node in a Twitter-based communication network, and out-degree measures the number of unique links from a user
+or node. For example, if a user retweets another user’s post, this indicates one
+edge between the two users, and the former develops an out-degree link and the
+latter receives an in-degree link (Hansen et al., 2011).
+
+Betweenness and eigenvector centrality are two more inclusive measures that
+account for a broader picture in a generalized network (Zafarani et al., 2014).
+These centrality measures are commonly utilized to examine user roles in social
+networks (Hansen et al., 2011; Ni, Sugimoto, & Jiang, 2011). Betweenness
+centrality indicates where a user is positioned in relation to the links connecting
+all other users (Yun et al., 2016) and therefore can represent how central or
+influential a user is as a necessary communication conduit in the network
+(Feng, 2016). A high betweenness centrality indicates a node is involved in a
+great number of the shortest paths between other users. If a user has a between
+centrality of zero, when removing this user from the network, the shortest communication paths between everyone else would not be altered.
+
+Eigenvector centrality implies to what extent a user is connected to popular
+individuals instead of loners within the network (Hansen et al., 2011).
+Eigenvector centrality measures centrality of a user by taking into account the
+importance of his or her neighbors (Zafarani et al., 2014). A person with few
+connections may have a very high eigenvector centrality if these few connections
+were among the most popular users. Compared with betweenness centrality,
+eigenvector centrality can better take into account the entire pattern in the
+network as it is a weighted sum of direct and indirect connections of every
+length (Bonacich, 2007). Bonacich (2007) suggested that eigenvector centrality
+measure is especially appropriate when centrality is ultimately driven by differences in degree, which refers to a situation in which a high degree position is
+connected to many low degree positions or vice versa. A Twitter-enabled conference communication network includes both high degree positions (central or
+active users) and low degree positions (marginal or inactive users). Therefore,
+eigenvector centrality is particularly suitable to measure the central status of
+users 1n the Twitter context.
+
+Research Hypotheses Related to Factors Impacting Users’
+Central Status
+
+Based on the earlier discussion, we examined five factors that might affect a
+user’s central status in the Twitter-based conference communication network,
+including (a) the number of people a user follows (Followed), (b) the number of
+tweets a user posts (Tweets), (c) the number of followers a user has (Followers),
+(d) in-degree links, and (e) out-degree links. We further proposed 11 hypotheses
+to explore the relationships among these factors and the two centrality measures
+(betweenness and eigenvector centrality) for the purpose of exploring the factors8 Journal of Educational Computing Research 0(0)
+
+impacting users’ central status in the Twitter-based communication
+network (RQ4). A detailed explanation of the proposed relationships is
+provided later.
+
+Factors predicting in-degree and out-degree links. Feng (2016) studied the Twitter
+conversation on a branded campaign and found that the number of people a
+user follows was positively associated with the in-degree links the user received
+in the network. Similarly, in a Twitter-based conference communication network, a user who follows more people on Twitter is likely to receive more
+information relating to the conference topics, thus creating more beneficial
+tweets to be mentioned or retweeted by others in the network. This indicates a
+possible positive relationship between the number of people a user follows and
+his or her in-degree measures. Second, the more tweets a user creates in general,
+the more irrelevant tweets the user might send out during the conference period,
+which can become a distraction for others within the conference network
+(Bombaci et al., 2016; Mahrt et al., 2014). This indicates a possible negative
+relationship between the number of tweets a user posts and his or her in-degree
+measures. Third, the more followers a user has in general, he or she may be more
+hesitant to mention other conference participants in the specific conference network or retweet their posts as some of the conference-related content might be
+conceived as irrelevant and meaningless to the general followers of this user.
+This implies a possible negative relationship between the number of followers a
+user has and his or her out-degree links in the conference network. Thus, we
+proposed H1 to H3 as:
+
+Hypothesis 1 (H1): The number of people a user follows has a positive effect on the
+in-degree links the user has in the Twitter-enabled conference communication
+network.
+
+Hypothesis 2 (H2): The number of tweets a user posts has a negative effect on the
+in-degree links the user has in the Twitter-enabled conference communication
+network.
+
+Hypothesis 3 (H3): The number of followers a user has a negative effect on the outdegree links the user has in the Twitter-enabled conference communication
+network.
+
+Relationships among followed, tweets, and followers. Veletsianos and Kimmons
+(2016) examined education scholars’ use of Twitter with a large data set and
+found that scholars who follow more users have tweeted more and have more
+followers. Also, Huberman, Romero, and Wu (2009) investigated the social
+connections within Twitter and indicated that an increase of the number of
+followers that a general Twitter user has leads to the increase of his or herXie and Luo 9
+
+total number of posts. Therefore, we expect that information system scholars
+and professionals showcase the similar pattern of Twitter usage and propose
+three hypotheses as follows:
+
+Hypothesis 4 (H4): The number of people a user follows (Followed) is positively
+correlated with the number of tweets a user posts (Tweets).
+
+Hypothesis 5 (H5): The number of people a user follows (Followed) is positively
+correlated with the number of followers a user has (Followers).
+
+Hypothesis 6 (H6): The number of tweets a user posts (Tweets) is positively correlated with the number of followers a user has (Followers).
+
+Factors predicting a user’s central status. Based on the previous literature on a user’s
+central influence within a social network (Bonacich, 2007; Feng, 2016; Hansen
+et al., 2011), we operationalized central status as a user’s betweenness centrality
+and eigenvector centrality scores. In this vein, a user with a high level of connectivity (betweenness centrality) and connections to more influential users
+(eigenvector centrality) is likely to maintain a central status in the Twitterenabled conference communication network. Particularly, the more incoming
+and outgoing connections a user develops, the more likely he or she will dwell
+in a centralized location in the network. We then proposed the following
+hypotheses:
+
+Hypothesis 7 (H7): A users’ number of in-degree links has a positive effect on the
+user’s betweenness centrality value.
+Hypothesis 8 (H8): A users’ number of out-degree links has a positive effect on the
+user’s betweenness centrality value.
+Hypothesis 9 (H9): A users’ number of in-degree links has a positive effect on the
+user’s eigenvector centrality value.
+
+Hypothesis 10 (H10): A users’ number of out-degree links has a positive effect on
+the user’s eigenvector centrality value.
+
+We also proposed that the number of people a user follows can negatively
+impact a user’s central influence, especially one’s eigenvector centrality value
+in a Twitter-enabled conference network. This is because a user who has a
+large number followers is likely to connect to more inactive and marginal
+users in the conference network (Zafarani et al., 2014), which in turn leads to
+a low eigenvector centrality score. We thus raised a hypothesis as follows:
+
+Hypothesis 11 (H 11): The number of people a user follows has a negative effect on
+the user’s eigenvector centrality value.10 Journal of Educational Computing Research 0(0)
+
+Methods
+Research Context: The ICIS 2016 Conference
+
+We studied the domain in information systems (ISs) and its scholars’ conference
+Twitter usage, because IS is an area of study concerned with the analysis, collection, storage, dissemination, and protection of information (Stock & Stock,
+2013). As scholars within this field primarily study the interaction among people,
+organizations, and IS, it is presumed that they well understand the importance
+of social media in information seeking and dissemination and potentially are
+well rounded in adopting Twitter to facilitate their communication activities
+during professional conferences.
+
+ICIS 2016 was held in Dublin, Ireland from December 11 to 14, 2016. As the
+annual meeting of the Association for IS, ICIS has over 4,000 members from
+more than 95 countries worldwide and is the most influential gathering of academics and practitioners in the IS discipline (ICIS, 2016b), providing us a
+desired good platform to explore the conference Twitter usage by IS scholars
+and practitioners internationally. We chose ICIS because it was never studied as
+a particular instance of conference venue. ICIS represents a distinct disciplinary
+domain, Informational Systems, unlike anything that has been examined in the
+literature previously found in education conferences (e.g., Kimmons &
+Veletsianos, 2016; Li & Greenhow, 2015). Also, as previous research mainly
+studied the conferences located within the United States, ICIS 2016 is a conference located outside the United States and represents a unique geographical
+focus and thus deserving scholarly attention.
+
+Research Design
+
+We adopted SNA to examine the conference Twitter-stream during the ICIS
+2016 annual meeting via an open-source SNA program, NodeXL. SNA conceptualizes social structure as ‘‘a network with ties connecting members and channeling resources” (Wetherell, Plakans, & Wellman, 1994, p. 645) and thus
+focuses on the examination of relationships among members as well as how
+structural regularities impact members’ behaviors (Otte & Rousseau, 2002).
+
+NodeXL can facilitate SNA across multiple social media platforms, such as
+Twitter, Facebook, and YouTube, with network visualization as a primary component (Hansen et al., 2011). NodeXL captures the characteristics of a user’s
+connection pattern within the communication network via degree metrics (i.e.,
+in-degree and out-degree) and centrality metrics (1.e., betweenness and eigenvector centrality; Hansen et al., 2011). NodeXL can also decompose a communication network into smaller subgroups or clusters based on differences in the
+ways groups of users connect to one another, using the Clauset-Newman-Moore
+clustering algorithm (Pew Research Center, 2014). This approach divides a network into several densely interconnected but separate subgroups.Xie and Luo II
+
+Data Collection
+
+This study was based on an archive of 1,810 tweets, replies, and mentions posted
+between December 6 and December 15, 2016, with the official conference hashtag, #icis2016. We focused on these 10 days because we were interested in the
+Twitter-based communication pattern during the entire conference schedule.
+The official dates of ICIS 2016 annual conference lasted between December 11
+and December 14, and its preconference programs started on December 7
+(ICIS, 2016a). We also covered one extra day before and after the conference
+program as conference attendees might arrive earlier and leave later, still actively
+engaging in the conference Twitter conversations on December 6 and December
+15. We used the NodeXL Twitter Search Network data import feature to
+retrieve #icis2016 tweets during this time period and requested NodeXL API
+to collect data once per day. In NodeXL, an edge represents a connection
+between two Twitter users when they tweet, reply, or mention one another. In
+total, our search generated 1,810 edges (tweets, mentions, and replies) composing 443 Twitter users.
+
+Data Analysis
+
+To answer RQI, we coded all tweets according to the Jevels of participation
+indicated by a built-in classification mechanism in Twitter. Based on the differences in Twitter functions, participants’ posts were coded into a single tweet,
+mentioned, and replies to. These different functions represent varying levels of
+interaction (Hansen et al., 2011). A (single) tweet reflects no interaction with
+others, mentioned reflects a lower level of interaction, while replies to suggest a
+higher level of interaction with other conference attendees.
+
+To answer RQ2, we requested that NodeXL spawn a graph based on the
+Fruchterman-Reingold algorithm, which plots the overall connection pattern of
+the conference tweets. We also requested NodeXL to compute the network density; that is, the ratio of the number of connections or edges in the network over
+the total number of possible connections (Getchell & Sellnow, 2016) in order to
+measure how well connected the network is.
+
+To answer RQ3, we sorted the lists of nodes or users in NodeXL using both
+betweenness and eigenvector centrality measures. The users with high betweenness centrality and eigenvector centrality scores are the ones who are not only
+included in many of the shortest paths between other users but also are connected to the most popular users in the network. From the lists of top 20 users
+generated by both measures, respectively, we selected the overlapping top 10 that
+appeared in both lists. For each identified users, we analyzed his or her connections with other users, in-degree links, and out-degree links. Moreover, we
+requested NodeXL to decompose the communication network into clusters
+and analyzed how each identified central user connected to other users both in
+his or her own group (intragroup) and outside his or her group (intergroup).12 Journal of Educational Computing Research 0(0)
+
+ 
+
+  
+ 
+
+H11
+
+    
+    
+
+Eigenvector centrality
+
+  
+ 
+
+Followed
+==
+
+Betweenness centrality
+Followers
+
+ 
+
+ 
+
+Figure I. The hypothesized model.
+
+To answer RQ4 and test H1 to H11, which comprised a hypothesized integrated model (see Figure 1), a path analysis was performed using IBM AMOS
+22. Path analysis is a method used to determine if a multivariate set of nonexperimental data fits well with a priori causal model. It enables a simultaneous
+estimation of all parameters in the model (Meyers, Gamst, & Guarino, 2006). In
+the path analysis, we followed Feng’s (2016) method to adopt the relative order
+of users’ ranks for four key metrics (in-degree, out-degree, betweenness centrality, and eigenvector centrality) as a measure, ‘“‘for the consideration that one
+person’s metric scores may not be independent of another person’s metric
+scores” (p. 46). In this way, the lower rank value a user receives, the higher
+rank he or she has for a metric.
+
+Results
+Levels of Participation
+
+The 443 Twitter users together with the 1,810 edges constituted the Twitterbased social network for the ICIS 2016 conference (see Figure 2). Particularly,
+mentions (n= 1,370) are the dominant form of interaction, followed by single
+tweets (n= 386) and replies (n= 54). Such a pattern indicates that conference
+participants tended to interact with others via creating a tweet or retweet that
+contains the name of another user rather than to simply post a single tweet or
+directly reply to others’ tweets. In addition, retweets (n= 1,146) account for a
+majority part of the mentions, implying that participants favored sharing others’
+content instead of creating their original postings. The average number of tweetsXie and Luo 13
+
+Histogram
+
+Mean = 2.53
+Std. Dev. = 3.56
+N = 443
+
+z
+S
+:
+2
+E
+z
+
+“
+o
+
+10 20
+Number of Tweets
+
+ 
+
+Figure 2. Histogram of the participation.
+
+generated by each participant is 2.52 with a standard deviation of 3.56. Of all the
+443 participants, 143 participants had only one tweet. Figure 3 presents the
+histogram of the participation. Notably, there is a total of 851 unique edges
+within the network, indicating 851 unique relations were created among all the
+443 Twitter users of the conference. In addition, 386 self-loops were identified in
+the network, meaning that conference participants sent out 386 unique tweets
+that did not mention or reply to anybody else during the 10-day period.
+
+Network Structure
+
+Figure 3 is a visualization of the network structure. The overall structure of the
+network is relatively intense and modestly connected, and the majority of the
+users have multiple links to other users. At the center of the network, a group of
+participants are intensely connected to one another. At the peripheral of the
+network, users are shown in Figure 3 as isolated self-loops because they have no
+connection with other users.14 Journal of Educational Computing Research 0(0)
+
+See ER
+‘ Tae
+
+Created with NodeXL Pro (http://nodexl.codeplex.com) from the Social Media Research Foundation (http://www.smrfoundation.org)
+
+ 
+
+Figure 3. The structure of the #icis2016 Twitter communication network comprising
+1,810 edges and 443 Twitter users.
+
+To gain a clear picture of the network structure, we requested NodeXL to
+compute the network density. A perfectly connected network has a density of 1,
+which assumes that “‘every time an account posts a Tweet, every other account in
+the network will see it and thus the information will be quickly and efficiently
+distributed to the entire network with just a few quick keystrokes” (Getchell &
+Sellnow, 2016, p. 600). In this research, the network density is .005. This low
+number indicates that the sharing of the information was not particularly effective in the ICIS 2016 network. In other words, if a conference participant sent out
+a new tweet, this message hardly penetrated the entire network to reach a large
+proportion of other participants. On the other hand, since a network with a high
+density is usually highly redundant in terms of the content shared within the
+network (Getchell & Sellnow, 2016), a low density score may also suggest that a
+relatively large volume of new content was created and shared by participants.
+
+Central Users
+
+SNA revealed 10 dominant users with numerous coming-out or going-in links,
+forming the pool of central users analyzed in our study. They have an average in-degree of 21 (SD=11.08); they also have an average out-degree ofXie and Luo 15
+
+17.40 (SD =8.53). Table 1 shows all the top 10 users’ Twitter handles and the
+results of their in-degree, out-degree, betweenness, and eigenvector centrality
+measures. We avoided using the full user name of individual tweeters for privacy
+concerns. According to the description and location information supplied by
+NodeXL as metadata, we found that all central users are either scholars from
+Europe, media outlets, or organizational Twitter accounts located predominantly in Ireland, where the ICIS 2016 conference was located.
+
+Of particular interest is that the majority of the top 10 central users tend to be
+high on both in-degree and out-degree centrality measures. This indicates that
+they not only wrote effective tweets themselves receiving tremendous numbers of
+retweets, they also retweeted others’ tweets and mentioned other users in the
+network. This main characteristic of the central users echoes with what Chen
+(2011) proposed as “engine participants” in academic conference networks
+(p. 10). Engine participants show an extraordinary influence on other users in
+the network, located at central positions, and serving as hubs and connectors
+within said network. Corroborating with information obtained from each user’s
+Twitter account, we identified that many of the central users are experts in the
+disciplinary knowledge domain, while others belong to other organizations and
+media outlets associated with the conference. For example, the user,
+“theo****”? is a well-rounded expert in the field of IS, who serves multiple
+roles as a scholar, professor, administrator, as well as an entrepreneur. These
+types of experts possess a vast amount of influence in both online and offline
+conference discourse (Chen, 2011; Li & Greenhow, 2015).
+
+Among the top 10 users, we identified three types of central users depending
+on the difference between in-degree and out-degree values. First, the individual
+
+Table I. The Top 10 Central Users in the #icis2016 Twitter Communication Network.
+
+Betweenness Eigenvector
+
+Rank User In-degree Out-degree centrality centrality
+
+| theo**** 23 32 42,204.639 0.025
+
+2 aisconnect 42 25 38,384.840 0.026
+
+3 social*"* 27 12 26,763.175 0.016
+
+4 clarke*** 12 24 20,090.121 0.012
+
+5 noisey*"*** II 2\ 15,853.789 0.020
+
+6 lectur*"* 6 15 13,968.377 0.011
+
+7 lero_nuigalway 31 14 11,271.192 0.023
+
+8 c_he**** 22 15 6,912.219 0.015
+
+9 open_sou***"** II 15 6,463.030 0.014
+10 leronews 25 | 5,320.217 0.01716 Journal of Educational Computing Research 0(0)
+
+users whose out-degree values are significantly larger than their in-degree values
+can be grouped in one category as interaction initiators. An analysis of user
+profiles of user ‘‘theo****” (a senior professor: outdegree = 32, indegree = 23),
+“clarke***” (a senior professor: outdegree = 24, indegree = 12), ““noisey******”
+(a digital transformation coping analyst: outdegree=21, indegree=11), and
+“lectur****” (a department head: outdegree = 15, indegree = 6) illustrated this
+group. All of them are established scholars or industry experts in the field of IS
+and thus were mentioned or retweeted by a good number of unique users in the
+Twitter-based conference network. Meanwhile, they were highly inclined to
+mention others while composing their own tweets which implicates a frequent
+and substantive interaction with other users.
+
+The second type of central users are the scholars who have higher in-degree
+value than out-degree value, such as “‘social****” and “‘c_he****.”” For example, “social****” is an active member in the ICIS 2016 community. As indicated
+by the conference program, this user was involved in nearly 30 conference
+events, and thus become an opinion leader in the network, with 27 unique
+users reweeting social****’s tweets or mentioning “‘social****” in their tweets
+(in-degree = 27). In contrast, “‘social****”’ only retweeted 12 other users’ tweets
+or mentioned other users in the tweets (out-degree=12). Similar to
+“social****,” “c_he****” (a university lecturer: out-degree = 15, in-degree = 22)
+also played the role as an opinion leader in the network, with a relatively large
+number of users retweeting his tweets or mentioning him in the tweets. The
+subgraphs of the above users classified as opinion leader showed a pattern that
+the user node attracts more arrows in, and they tended to act as an influencer in
+the network who were frequently mentioned or retweeted by other users.
+
+The third type of central users refers to the organization, business, and media
+outlet accounts whose in-degree value tends to be higher than out-degree value.
+For instance, “‘aisconnect”’ (outdegree = 25, indegree = 42) denotes the conference hosting organization, association for IS; “‘leronews” (outdegree = 1,
+indegree = 25) is an Irish software research center dedicated to cluster and
+team up prominent software research groups from academia and industry;
+and “‘lero_nuigalway”’ (outdegree = 14, indegree = 31) is a branch of the Irish
+Software Research Center at NUI Galway. This type of user serves the role of
+conversation bridge. They are very well known in the network; without intentionally initiating conversations and forming one-on-one relationships, they
+locate themselves at strategic positions that help other influential users connect.
+
+Drawing from visualization graphs generated by performing cluster analysis
+in NodeXL, we also found that central users tend to connect to users, especially
+other central users, both in their own groups (intragroup) and outside their
+group (intergroup). Cluster analysis groups all users in a network into cluster
+that are of similar attributes and propensities (Hanneman & Riddle, 2005). For
+instance, as what we see in Figure 4, NodeXL generated 27 groups (in 27 gray
+square or rectangular cells) by Clauset-Newman-Moore cluster analysis.Xie and Luo 17
+
+ERS
+
+«)
+Wo
+NWA
+
+UN
+
+l
+
+EE |
+
+41
+
+p
+
+il
+(7
+
+VJ
+VN
+YX
+
+ 
+
+Created with NodeXL Basic (http //nodexd codeplex com) from the Social Media Research Foundaton (http /Awew smrioundation org)
+
+ 
+
+Figure 4. Clusters in the #icis2016 Twitter communication network and the connection
+pattern for “theo****” jn the network.
+
+The connections between “theo****” and other users are primarily located in
+the upper, second cell from the right, but many other edges (connections) exist
+beyond his own group, extending across seven discrete groups in the network.
+The visualization of “aisconnect’” appears to be immensely different from
+“theo****”? but the common characteristic is that connections also occur
+far beyond its own group (see Figure 5). The connections between “‘aisconnect”’
+and other users are partially located in the bottom first cell from the left,
+and a majority of the connections extend beyond its own group and across
+eight different groups in the network. In addition, both “‘theo****” and
+““aisconnect”’ connect to the most influential users (the central nodes in a cluster)
+in other groups, which may explain why they had high eigenvector centrality
+values.
+
+Each group may represent interactions that take place at a concurrent event
+such as a keynote speech, special interest group meeting, or panel discussion.
+Despite the fact that we cannot identify the exact nature of what each particular
+group specifically represents, our data illustrate that central users have a propensity to foster both inter- and intragroup dynamics in a desired and effective
+manner. Figure 6 further presents the highly interactive communication arising
+from different groups when combining all the intergroup connections.18 Journal of Educational Computing Research 0(0)
+
+Lf Sea
+Le Py. zee
+: As EB \
+
+\
+
+= { Wed
+LZ}
+= SL ps4
+< x 4 4 Fj
+) I Zs
+
+Vee
+
+SS
+SS
+SES
+
+Ss
+
+EN le SIR
+SI ERR
+ff WSS VORSNZEG
+LOE ZO SY SZ
+ry LAS, Os () SBN ZS |
+1730_1 Z- Z\ TX
+
+ 
+
+ 
+
+Figure 5. The connection pattern for “aisconnect” in the #icis2016 Twitter communication network.
+
+Factors Impacting Users’ Central Status in the Network
+
+To explore the factors impacting users’ central status in the Twitter-enabled
+conference network (RQ4) and to test the hypotheses, we conducted a path
+analysis. We first conducted a Cook’s distance analysis to identify the outliers
+in the 443 users and found one case exhibiting abnormal Cook’s distance. We
+opted to remove it, leaving 442 cases in the data set. Therefore, the data of the
+442 Twitter users were entered into the hypothesized model (see Figure 7). The
+model provided a good fit to the data, x°=8.548, df=9, p=.480,
+RMSEA = .000, CFI=1.00, NFI=.994, GFI=.995 (Meyers et al., 2006).
+This model accounted for 66% of the variance in the betweenness centrality
+score, 77% of the variance in the eigenvector centrality score, 2% of one’s indegree links, and 2% of out-degree links in the Twitter-based conference communication network.
+
+Our results supported H1, which proposed a positive relationship between the
+number of people a user follows and the user’s in-degree links (B=-—.10,
+p=.031). This finding suggests that the more people a user follows on
+Twitter, the higher rank for in-degree links one received in the conference network. H2 was also supported (B= .12, p= .005). It proposed that the number of
+tweets a user posts negatively influenced the in-degree links. In other words,Xie and Luo
+
+ 
+
+Created wath NodeXL Basic (hitp /Inodexd codeplex com) from the Social Media Research Foundaton (hitp Jiwew smrfoundaton org)
+
+ 
+
+Figure 6. The connection pattern among groups in the #icis2016 Twitter communication
+
+network.
+
+ 
+
+Followed
+12%
+
+       
+
+Eigenvector centrality
+(rank) (.77)
+
+  
+  
+ 
+ 
+
+  
+ 
+ 
+
+ 
+  
+    
+ 
+
+In-degree (rank) (.02)
+
+50***
+
+ 
+
+Betweenness
+centrality (rank) (.66)
+
+  
+
+Out-degree (rank) (.02)
+
+ 
+
+Figure 7. Path analysis for the hypothesized model.20 Journal of Educational Computing Research 0(0)
+
+the more tweets a user sends, the higher rank number for in-degree links he or
+she receives, which means the lower rank for in-degree links in the Twitterenabled conference communication network. H3 proposed a negative relationship between the number of followers and one’s out-degree links in the network.
+H3 was supported (B= .15, p < .001), suggesting that the more followers a user
+has on Twitter, the lower rank for out-degree links this user has.
+
+In addition, the path analysis revealed a positive correlation between the
+number of people one follows and the number of followers he or she has,
+between the number of people one follows and the number of tweets one
+sends, as well as between the number of tweets one sends and the number of
+followers he or she has. H4 (r=.20, p <.001), H5 (r=.36, p <.001), and H6
+(r= .12, p=.013) were thus supported.
+
+In terms of H7 and H8, we found that the user’s rank for in-degree links
+positively influenced his or her rank for betweenness centrality score in the network. Hence, H7 was supported (B= .50, p < .001). Also, H8, which posited that
+one’s number of out-degree links positively influenced the betweenness centrality
+value, was supported (B=.44, p <.001). This finding implies that the higher
+rank for out-degree links a user has in the network, the higher rank for betweenness centrality score the user yields.
+
+Moreover, we found that a user’s ranks for in-degree (H9) and out-degree
+(H10) links are both positively associated with his or her rank for eigenvector
+centrality score in the Twitter-enabled conference communication network, suggesting that in-degree and out-degree links are significant factors to explain a
+participant’s central status in the network especially when taking into account
+the importance of his or her neighbors. Therefore, both H9 (B=.62, p < .001)
+and H10 (B=.40, p < .001) were supported.
+
+Other than in-degree and out-degree links, path analysis results also indicated
+that the number of people a user follows had a significant relationship with the
+user’s central location in terms of if one connects to the most popular users in
+the network. In particular, the more people a user follows on Twitter, the lower
+rank for eigenvector centrality score the use has, indicating that with following
+more people on Twitter, a user will be more likely to connect to the inactive and
+marginal nodes in the Twitter-based conference network. Therefore, H11, which
+predicted the number of people a user follows has a negative effect on the user’s
+eigenvector centrality value, was supported (B= .05, p=.03).
+
+Discussion
+
+Guided by social constructive theory, this study investigates the Twitter-based
+communication network of the online discussion on the #icis2016 hashtag.
+Through a SNA, this study extended our understanding of the CoP in the
+context of a Twitter-enabled conference community via revealing the authentic
+participation of members and the unique characteristics of its communicationXie and Luo 2|
+
+network. Our findings confirmed the effectiveness of adopting Twitter as a communication backchannel to facilitate the development of an online CoP, as
+Twitter allows for the exchange of information and retainment of knowledge
+in living ways (Barthel et al., 2015; Ebner, 2009; Java et al., 2007; Wenger,
+1998a). Theoretically, our findings also shed a light on how the internal leadership informally contributes to the nurturing of a Twitter-based CoP by first
+categorizing the central users into three types and exploring what to make a
+user influential in a conference-based setting. The detailed discussion of findings
+is as follows:
+
+First, our results suggest that participants were engaged in different levels of
+participation in the Twitter-enabled conference backchannel. They connected to
+one another primarily through retweeting others’ posts (63.3%) and occasionally replied to others’ tweets (3.0%). Users also created original tweets (33.7%)
+less frequently in the network. Such usage pattern may be explained by participants’ perceived ease in retweeting. Due to Twitter’s 140-character limit, users
+may have found composing an original tweet challenging as they were forced to
+be concise and to-the-point. On the other hand, although retweets do not substantively contribute to the online discussion, they add value to the conversation
+by enhancing the visibility and impact of the event. In addition, the act of
+retweeting enables a real-time online information flow that rapidly disseminates
+scholarly discussion, extends the scope of audiences reached, and potentially
+triggers the offline relationship among participants (Gao & Li, 2016).
+
+Second, the ICIS 2016 network structure is modestly connected and unbalanced, including a group of highly active and productive central members at the
+hub of the network, as well as a loosely connected majority at the peripheral
+without making many connections to others. This finding confirms Gao and Li’s
+(2016) result that the participation in a Twitter-based synchronous chat was
+uneven and “exhibited a power-law distribution of contribution, with a small
+minority contributing most of the content” (p. 11). The conference manifested a
+relatively low level of network density, indicating that the information flow was
+not particularly effective in the network. This might suggest participants’ novelty
+and unfamiliarity of using Twitter as a conference backchannel and therefore
+they tended to infrequently connect to one another. Also, conference attendees
+might share different goals of adopting Twitter as a conference communication
+tool so that they selectively retweeted others’ posts or mentioned others in the
+network. For instance, Li and Greenhow (2015) found that graduate students
+considered Twitter as a tool to gain access to conference-related content and
+other users, while faculty members primarily utilize it to disseminate scholarship
+and manage online professional identities.
+
+Third, our findings reveal three types of central users in the ICIS 2016 network: (a) interaction initiator (out-degree links > in-degree links), established
+scholars or industry experts in the field of IS who tended to mention others
+and initiated substantive interactions in the network; (b) opinion leader22 Journal of Educational Computing Research 0(0)
+
+(in-degree links > out-degree links), active community members who were frequently retweeted or mentioned and thus could stir up massive repercussions in
+the conference community; and the (3) conversation bridge, organizations and
+media outlets associated with the conference that were predominantly well
+known in the network and thus located at strategic positions to help other
+users connect and congregate. This result corresponds to Chen’s (2011) categorization of users of the Twitter-enabled backchannel in an education conference
+aS engine participants, pop stars, lonely twitters, and peripheral plays. We
+extended Chen’s (2011) finding by focusing primarily on the most influential
+users and adopted in-degree and out-degree measures to determine the user
+types in the network.
+
+Fourth, we unveil the relationships among several key variables to further
+explore the factors impacting a user’s central status in the ICIS 2016 network.
+Path analysis results suggested that the number of people a user follows
+(Followed) could help improve the user’s in-degree connections within the
+network, indicating that this particular factor (Followed) helps a user to be
+mentioned or retweeted in the network. Interestingly, there was a weak negative
+relationship between the number of people a user follows and a user’s eigenvector centrality value, suggesting that the more people a user follows on Twitter,
+the less likely that this user will maintain a central status in the conference
+network. This might be because a user following more users on Twitter is
+likely to connect to more inactive users in the conference network, which
+decreased his or her eigenvector centrality score.
+
+Path analysis also indicated that the number of tweets a user posts (Tweets)
+could decrease the user’s rank for in-degree links, and the number of followers a
+user has (Followers) could decrease one’s rank for out-degree links. These results
+suggested that the more tweets a user created in general, the less likely he or she
+would be mentioned or retweeted by others in the conference network. Also, a
+user with more followers on Twitter would be less likely to mention or retweet
+others in the conference network when composing tweets during the conference
+period. Noticeably, a user’s in-degree connections, together with his out-degree
+connections, drives the user to become an influential figure in the conference
+network who not only maintains a high level of connectivity (betweenness
+centrality) but also connects to more central users (eigenvector centrality), as
+‘the number of links, regardless of direction, indicates how well one is connected
+in the network” (Feng, 2016, p. 52).
+
+Practical Implementations
+
+We identified primary characteristics of central users and offered three practical
+suggestions with regard to increasing user centrality and engagement in a
+Twitter-based conference network. First, to maintain central status in the network, a user needs to not only enhance in-degree and out-degree connectionsXie and Luo 23
+
+with others but also foster effective inter- and intragroup interactions. For
+example, a presenter aiming to be an influential leader at the conference
+should send out tweets mentioning audiences in his or her own presentation
+session, while also participating in the Twitter conversation during other panel
+discussions or poster sessions. Second, to cultivate a vibrant online CoP and
+mobilize active conversations within the community, conference organizers
+using Twitter as a backchannel can identify the three types of central users
+(interaction initiator, opinion leader, and conversation bridge) and initiate interactions with them, as they are the critical players who effectively facilitate information flow in the network. Third, to identify the central users in a network, one
+might not naively look at the three Twitter indicators (Followed, Tweets,
+Followers), but most importantly, one should access the in-degree and outdegree connections a user receives and generates. In other words, a user who
+follows a large number of people, posts many tweets, and has a large number of
+followers on Twitter does not necessarily equate to an influential user. It would
+be more critical for users to compose high-quality and conference-related tweets
+that can attract retweets or mentions, as well as proactively interact with other
+participants by retweeting or mentioning them in the conference network.
+
+Conclusion
+
+Findings of the present study add to the educational technology literature base
+by investigating user participation patterns and network structure of a Twitterenabled international academic conference. The study proffers insights into
+the characteristics of central users and impactful factors contributing to users’
+central status in the conference network on Twitter.
+
+Meanwhile, we are cognizant of the limitations of this study. First, the conversation and dialog captured by a single conference-designated hashtag may
+only be an incomplete representation of all manner of communication occurring
+in the conference network on Twitter. Those tweets posted during the conference
+period but not tagged were inevitably neglected in the data set. Second, we
+believe additional factors may exist contributing to a user’s central status of
+the network outside of what the present study included. Therefore, alternative
+methods such as surveys or other learning analytics capturing tools representing
+multiple dimensions of learner characteristics may be used. Third, our results
+may only apply to academic conferences of similar traits as data were only
+attained from one single international conference. We recommend that future
+researchers continue to invest in advanced research methodologies, diverse conference representations, as well as alternative research directions that further
+construct an integrated and holistic picture of Twitter-enabled communication
+network. Last, this study mainly focused on the central users in the network, and
+future research can explore the less active users in the Twitter-enabled conference community.24 Journal of Educational Computing Research 0(0)
+
+Declaration of Conflicting Interests
+
+The authors declared no potential conflicts of interest with respect to the research,
+authorship, and/or publication of this article.
+
+Funding
+
+The authors received no financial support for the research, authorship, and/or publication
+of this article.
+
+References
+
+Barthel, M., Shearer, E., Goettfried, J., & Mitchell, A. (2015). The evolving role of
+news on Twitter and Facebook. Pew Research Centre. Retrieved from http://www.
+journalism.org/2015/07/14/theevolving-role-of-news-on-twitter-and-facebook/
+
+Bombaci, S. P., Farr, C. M., Gallo, H. T., Mangan, A. M., Stinson, L. T., Kaushik, M., &
+Pejchar, L. (2016). Using Twitter to communicate conservation science from a professional conference. Conservation Biology, 30(1), 216-225.
+
+Bonacich, P. (2007). Some unique properties of eigenvector centrality. Social Networks,
+29(4), 555-564.
+
+Chen, B. (2011). Zs the backchannel enabled? Using Twitter in academic conferences. Paper
+presented at the 2011 Annual Meeting of the American Educational Research
+Association (AERA), New Orleans, Louisiana.
+
+Cress, U., & Kimmerle, J. (2008). A systemic and cognitive view on collaborative knowledge building with wikis. International Journal of Computer-Supported Collaborative
+Learning, 3(2), 105-122.
+
+Ebner, M. (2009). Introducing live microblogging: How single presentations can be
+enhanced by the mass. Journal of Research in Innovative Teaching, 2(1), 91-100.
+
+Feng, Y. (2016). Are you connected? Evaluating information cascades in online discussion about the #RaceTogether campaign. Computers in Human Behavior, 54, 43-53.
+
+Gao, F., & Li, L. (2016). Examining a one-hour synchronous chat in a microbloggingbased professional development community. British Journal of Educational
+Technology, 48(2), 332-347.
+
+Getchell, M., & Sellnow, T. (2016). A network analysis of official Twitter accounts during
+the West Virginia water crisis. Computers in Human Behavior, 54, 597-606.
+
+Greenhow, C., & Gleason, B. (2014). Social scholarship: Reconsidering scholarly practices in the age of social media. British Journal of Educational Technology, 45(3),
+392-402.
+
+Greenhow, C., & Li, J. (2013). Like, comment, share: Collaboration and civic engagement
+within social network sites. In Mouza, C. & Lavigne, N. (Eds.), Emerging technologies
+for the classroom (pp. 127-141). New York, NY: Springer.
+
+Hanneman, R. A., & Riddle, M. (2005). Introduction to social network methods. Retrieved
+from http://faculty.ucr.edu/~hanneman/nettext/C8_Embedding.html
+
+Hansen, D. L., Schneiderman, B., & Smith, M. A. (2011). Analyzing social media networks
+with NodeXL: Insights from a connected world. Burlington, MA: Morgan Kaufmann.
+
+Huberman, B., Romero, D., & Wu, F. (2009). Social networks that matter: Twitter under
+the microscope. First Monday, 14, \—5.Xie and Luo 25
+
+International Conference on Information Systems. (2016a). Schedule of events. Retrieved
+from http://icis2016.aisnet.org/schedule-of events/
+
+International Conference on Information Systems. (2016b). Welcome to ICIS 2016!
+Retrieved from https://icis2016.aisnet.org/
+
+Java, A., Song, X., Finin, T., & Tseng, B. (2007). Why we Twitter: Understanding microblogging usage and communities. Proceedings of the 9th WebKDD and Ist SNA-KDD
+2007 workshop on Web mining and social network analysis (pp. 56-65). New York, NY:
+ACM.
+
+Kellogg, S., Booth, S., & Oliver, K. (2014). A social network perspective on peer supported learning in MOOCs for educators. The International Review of Research in
+Open and Distributed Learning, 15(5), 205-224.
+
+Kimmerle, J., Thiel, A., Gerbing, K. K., Bientzle, M., Halatchliyski, I., & Cress, U.
+(2013). Knowledge construction in an outsider community: Extending the communities of practice concept. Computers in Human Behavior, 29(3), 1078-1090.
+
+Kimmerle, J., Moskaliuk, J., Oeberst, A., & Cress, U. (2015). Learning and collective
+knowledge construction with social media: A process-oriented perspective. Educational
+Psychologist, 50(2), 120-137.
+
+Kimmons, R., & Veletsianos, G. (2016). Education scholars’ evolving uses of Twitter as a
+conference backchannel and social commentary platform. British Journal of
+Educational Technology, 47(3), 445-464.
+
+Lave, J., & Wenger, E. (1991). Situated learning: Legitimate peripheral participation.
+Cambridge, England: Cambridge University Press.
+
+Li, J., & Greenhow, C. (2015). Scholars and social media: Tweeting in the conference backchannel for professional learning. Educational Media International,
+52(1), 1-14.
+
+Mahrt, M., Weller, K., & Peters, I. (2014). Twitter in scholarly communication. In Weller,
+K., Bruns, A., Burgess, J.. Mahrt, M. & Puschmann, C. (Eds.), Twitter and society
+(pp. 399-410). New York, NY: Peter Lang.
+
+Meyers, L. S., Gamst, G., & Guarino, A. J. (2006). Applied multivariate research: Design
+and interpretation. Thousand Oaks, CA: Sage.
+
+Ni, C., Sugimoto, C., & Jiang, J. (2011). Degree, closeness, and betweenness: Application
+of group centrality measurements to explore macro-disciplinary evolution diachronically. In Proceedings of ISSI (pp. 1-13). Durban, South Africa.
+
+Otte, E., & Rousseau, R. (2002). Social network analysis: A powerful strategy, also for
+the information sciences. Journal of Information Science, 28(6), 441-453.
+
+Parra, D., Trattner, C., Gomez, D., Hurtado, M., Wen, X., & Lin, Y. R. (2016). Twitter
+in academic events: A study of temporal usage, communication, sentimental and topical patterns in 16 computer science conferences. Computer Communications, 73,
+301-314.
+
+Pew Research Center. (2014). How we analyzed Twitter social media networks with
+NodeXL. Retrieved from _http://www.pewinternet.org/files/2014/02/How-we-analyzed-Twitter-social-media-networks.pdf
+
+Ross, C., Terras, M., Warwick, C., & Welsh, A. (2011). Enabled backchannel:
+Conference Twitter use by digital humanists. Journal of Documentation, 67(2),
+214-237. doi:10.1108/0022041111110944926 Journal of Educational Computing Research 0(0)
+
+Shearer, E., & Gottfried, J. (2017). News use across social media platforms 2017. Pew
+Research Center. Retrieved from http://www.journalism.org/2017/09/07/news-useacross-social-media-platforms-2017/
+
+Stock, W. G., & Stock, M. (2013). Handbook of information science. Berlin, Germany/
+Boston, MA: De Gruyter Saur.
+
+Veletsianos, G., & Kimmons, R. (2012). Assumptions and challenges of open scholarship.
+The International Review of Research in Open and Distance Learning, 13, 166-189.
+Wesely, P. M. (2013). Investigating the community of practice of world language educa
+tors on Twitter. Journal of Teacher Education, 64(4), 305-318.
+
+Wenger, E. (1998a). Communities of practice: Learning, meaning, and identity. Cambridge,
+England: Cambridge University Press.
+
+Wenger, E. (1998b). Communities of practice: Learning as a social system. Systems
+Thinker, 9(5), 2-3.
+
+Wetherell, C., Plakans, A., & Wellman, B. (1994). Social networks, kinship, and community in Eastern Europe. Journal of Interdisciplinary History, 24, 639-663.
+
+Yun, G. W., Morin, D., Park, S., Joa, C. Y., Labbe, B., Lim, J.,... Hyun, D. (2016).
+Social media and flu: Media Twitter accounts as agenda setters. International Journal
+of Medical Informatics, 91, 67-73.
+
+Zafarani, R., Abbasi, M. A., & Liu, H. (2014). Social media mining: An introduction.
+Cambridge, England: Cambridge University Press.
+
+Author Biographies
+
+Quan Xie is an assistant professor of strategic communication in the Slane
+College of Communications and Fine Arts at Bradley University. She earned
+her PhD in Mass Communication from Ohio University. Her research interests
+center on new emerging media technologies and strategic communication. She is
+one of the grant recipients of the 2017 American Academy of Advertising
+Research Fellowship Grants. She has published scholarly articles in peerreviewed journals, such as Journal of Current Issues and Research in
+Advertising and International Journal of Strategic Communication.
+
+Tian Luo is an assistant professor of instructional design and technology in the
+College of Education at Old Dominion University. Formerly, she had worked as
+an instructional design professional in both higher education and corporate
+settings. She currently serves as one of the coeditors for Journal of
+Information Technology Education: Research and Journal of Information
+Technology Education: Innovations in Practice. Her research interests center on
+using social media to facilitate student learning in both formal and informal
+contexts and designing collaborative and authentic learning environments supported and enhanced by emerging technologies. Her work has been published in
+peer-reviewed journals, such as British Journal of Educational Technology and
+Journal of Computing in Higher Education.
